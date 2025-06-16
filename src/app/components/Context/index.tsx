@@ -1,6 +1,6 @@
 import React, { ChangeEvent, useCallback, useEffect, useState } from "react";
 import { urls } from "./urls";
-import UrlButton from "./UrlButton";
+import UrlButton, { IUrlEntry } from "./UrlButton";
 import { Card, ICard } from "./Card";
 import { clearIndex, crawlDocument } from "./utils";
 
@@ -11,7 +11,7 @@ interface ContextProps {
 }
 
 export const Context: React.FC<ContextProps> = ({ className, selected }) => {
-  const [entries, setEntries] = useState(urls);
+  const [entries, setEntries] = useState<IUrlEntry[]>(urls);
   const [cards, setCards] = useState<ICard[]>([]);
 
   const [splittingMethod, setSplittingMethod] = useState("markdown");
