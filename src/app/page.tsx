@@ -4,16 +4,21 @@ import React, { useEffect, useRef, useState, FormEvent } from "react";
 import { Context } from "@/components/Context";
 import Header from "@/components/Header";
 import Chat from "@/components/Chat";
+import ChatHistory from "@/components/ChatHistory";
 import { useChat } from "ai/react";
 import InstructionModal from "./components/InstructionModal";
-import { AiFillGithub, AiOutlineInfoCircle } from "react-icons/ai";
+import { AiFillGithub, AiOutlineInfoCircle, AiOutlineHistory } from "react-icons/ai";
+import { ChatSession, saveChatSession, generateChatTitle, generateSessionId } from "@/utils/chatStorage";
+import { Message } from "ai";
 
 const Page: React.FC = () => {
   const [gotMessages, setGotMessages] = useState(false);
   const [context, setContext] = useState<string[] | null>(null);
   const [isModalOpen, setModalOpen] = useState(false);
+  const [currentSessionId, setCurrentSessionId] = useState<string | undefined>();
+  const [showChatHistory, setShowChatHistory] = useState(false);
 
-  const { messages, input, handleInputChange, handleSubmit } = useChat({
+  const { messages, input, handleInputChange, handleSubmit, setMessages } = useChat({
     onFinish: async () => {
       setGotMessages(true);
     },
@@ -80,7 +85,12 @@ const Page: React.FC = () => {
         onClose={() => setModalOpen(false)}
       />
       <div className="flex w-full flex-grow overflow-hidden relative">
-        <Chat/>
+        <Chat
+          input={input}
+          handleInputChange={handleInputChange}
+          handleMessageSubmit={handleMessageSubmit}
+          messages={messages}
+        />
         <div className="absolute transform translate-x-full transition-transform duration-500 ease-in-out right-0 w-2/3 h-full bg-gray-700 overflow-y-auto lg:static lg:translate-x-0 lg:w-2/5 lg:mx-2 rounded-lg">
           <Context className="" selected={context} />
         </div>
