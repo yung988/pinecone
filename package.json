@@ -34,7 +34,9 @@
     "tailwindcss": "3.4.11",
     "typescript": "5.6.2",
     "unified": "^11.0.5",
-    "vue": "^3.5.6"
+    "vercel": "^43.1.0",
+    "vue": "^3.5.6",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@playwright/test": "^1.47.1",

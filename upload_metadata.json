@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-06-16T05:18:43.698Z",
+  "total_documents": 3457,
+  "uploaded_vectors": 2757,
+  "sources": {
+    "arxiv": 1000,
+    "inspire": 2400,
+    "educational": 15,
+    "qct_theory": 42
+  }
+}

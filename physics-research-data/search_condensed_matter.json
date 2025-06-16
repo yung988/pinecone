@@ -1,0 +1,1686 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2102.06179v1",
+    "title": "Axion/Hidden-Photon Dark Matter Conversion into Condensed Matter Axion",
+    "summary": "The QCD axion or axion-like particles are candidates of dark matter of the universe. On the other hand, axion-like excitations exist in certain condensed matter systems, which implies that there can be interactions of dark matter particles with condensed matter axions. We discuss the relationship between the condensed matter axion and a collective spin-wave excitation in an anti-ferromagnetic insulator at the quantum level. The conversion rate of the light dark matter, such as the elementary particle axion or hidden photon, into the condensed matter axion is estimated for the discovery of the dark matter signals.",
+    "authors": [
+      "So Chigusa",
+      "Takeo Moroi",
+      "Kazunori Nakayama"
+    ],
+    "published": "2021-02-11T18:43:55Z",
+    "updated": "2021-02-11T18:43:55Z",
+    "categories": [
+      "hep-ph",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2102.06179v1",
+    "arxivUrl": "http://arxiv.org/abs/2102.06179v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0302518v1",
+    "title": "Resource Letter BEC-1: Bose-Einstein Condensates in Trapped Dilute Gases",
+    "summary": "This Resource Letter provides a guide to the literature on Bose-Einstein condensation in trapped dilute gases. Journal articles and books are cited for the following topics: history, technological advances, condensates as quantum fluids, effects of interatomic interactions, condensates as matter waves, condensate optics, multiple condensates, lower dimensions, spectroscopy and precision measurement, entanglement, and cosmology.",
+    "authors": [
+      "David S. Hall"
+    ],
+    "published": "2003-02-25T15:46:31Z",
+    "updated": "2003-02-25T15:46:31Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0302518v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0302518v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0001274v1",
+    "title": "The Onset of Phase Transitions in Condensed Matter and Relativistic QFT",
+    "summary": "Kibble and Zurek have provided a unifying causal picture for the appearance of topological defects like cosmic strings or vortices at the onset of phase transitions in relativistic QFT and condensed matter systems respectively. There is no direct experimental evidence in QFT, but in condensed matter the predictions are largely, but not wholly, supported in superfluid experiments on liquid helium. We provide an alternative picture for the initial appearance of strings/vortices that is commensurate with all the experimental evidence from condensed matter and consider some of its implications for QFT.",
+    "authors": [
+      "R. J. Rivers",
+      "E. Kavoussanaki",
+      "G. Karra"
+    ],
+    "published": "2000-01-19T16:29:37Z",
+    "updated": "2000-01-19T16:29:37Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0001274v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0001274v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0502247v1",
+    "title": "Laser cooling all the way down to molecular condensate",
+    "summary": "Numerical simulations show that laser cooling of fermions on the repulsive side of the Feshbach resonance can sympathetically cool molecules well below their condensation temperature.",
+    "authors": [
+      "Jacek Dziarmaga",
+      "Maciej Lewenstein"
+    ],
+    "published": "2005-02-09T17:55:37Z",
+    "updated": "2005-02-09T17:55:37Z",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0502247v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0502247v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9408101v2",
+    "title": "Integrble Models in Condensed Matter Physics",
+    "summary": "This is an expanded version of the lectures given at the Trieste Summer School 1992 on Low-dimensional Quantum Field Theories for Condensed Matter Physicists.",
+    "authors": [
+      "Natan Andrei"
+    ],
+    "published": "1994-08-31T19:28:54Z",
+    "updated": "1994-09-01T14:56:16Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9408101v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9408101v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0302355v1",
+    "title": "Condensate Heating by Atomic Losses",
+    "summary": "Atomic Bose-Einstein condensate is heated by atomic losses. Predicted depletion ranges from 1% for a uniform 3D condensate to around 10% for a quasi-1D condensate in a harmonic trap.",
+    "authors": [
+      "Jacek Dziarmaga",
+      "Krzysztof Sacha"
+    ],
+    "published": "2003-02-18T08:56:36Z",
+    "updated": "2003-02-18T08:56:36Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0302355v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0302355v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1107.5289v2",
+    "title": "Planetary Atmospheres as Non-Equilibrium Condensed Matter",
+    "summary": "Planetary atmospheres, and models of them, are discussed from the viewpoint of condensed matter physics. Atmospheres are a form of condensed matter, and many interesting phenomena of condensed matter systems are realized by them. The essential physics of the general circulation is illustrated with idealized 2-layer and 1-layer models of the atmosphere. Equilibrium and non-equilibrium statistical mechanics are used to directly ascertain the statistics of these models.",
+    "authors": [
+      "J. B. Marston"
+    ],
+    "published": "2011-07-26T18:30:10Z",
+    "updated": "2011-12-24T00:09:23Z",
+    "categories": [
+      "cond-mat.stat-mech",
+      "physics.ao-ph",
+      "physics.flu-dyn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1107.5289v2",
+    "arxivUrl": "http://arxiv.org/abs/1107.5289v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1502.03103v1",
+    "title": "Of Matters Condensed",
+    "summary": "The American Physical Society (APS) March Meeting of condensed matter physics has grown to nearly 10,000 participants, comprises 23 individual APS groups, and even warrants its own hashtag (#apsmarch). Here we analyze the text and data from March Meeting abstracts of the past nine years and discuss trends in condensed matter physics over this time period. We find that in comparison to atomic, molecular, and optical physics, condensed matter changes rapidly, and that condensed matter appears to be moving increasingly toward subject matter that is traditionally in materials science and engineering.",
+    "authors": [
+      "Michael Shulman",
+      "Marc Warner"
+    ],
+    "published": "2015-02-10T21:00:15Z",
+    "updated": "2015-02-10T21:00:15Z",
+    "categories": [
+      "physics.soc-ph",
+      "cs.DL"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1502.03103v1",
+    "arxivUrl": "http://arxiv.org/abs/1502.03103v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9609033v1",
+    "title": "Bose Condensate in External Potential: A Thomas-Fermi Approach",
+    "summary": "The Bose condensate in an external potential is treated in the Thomas-Fermi approximation.",
+    "authors": [
+      "K. Huang"
+    ],
+    "published": "1996-09-03T19:18:43Z",
+    "updated": "1996-09-03T19:18:43Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9609033v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9609033v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0504401v1",
+    "title": "Quasi-crystal structures of Bose-Einstein condensates",
+    "summary": "Quasi-crystal structures of Bose-Einstein condensates which correspond to a Penrose tiling of the plane are discussed.",
+    "authors": [
+      "Mario Salerno"
+    ],
+    "published": "2005-04-18T19:49:47Z",
+    "updated": "2005-04-18T19:49:47Z",
+    "categories": [
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0504401v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0504401v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1105.5115v1",
+    "title": "Strong-Coupling Bose-Einstein Condensation",
+    "summary": "We extend the theory of Bose-Einstein condensation from Bogoliubov's weak-coupling regime to arbirarily strong couplings.",
+    "authors": [
+      "Hagen Kleinert"
+    ],
+    "published": "2011-05-25T18:46:32Z",
+    "updated": "2011-05-25T18:46:32Z",
+    "categories": [
+      "cond-mat.quant-gas",
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1105.5115v1",
+    "arxivUrl": "http://arxiv.org/abs/1105.5115v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/nlin/0511036v1",
+    "title": "Matter-wave solitons supported by dissipation",
+    "summary": "We show how novel types of long-lived self-localized matter waves can be constructed with Bose-Einstein condensates. The ingredients leading to such structures are a spatial phase generating a flux of atoms towards the condensate center and the dissipative mechanism provided by the inelastic three-body collisions in atomic Bose-Einstein condensates. The outcome is an striking example of nonlinear structure supported by dissipation.",
+    "authors": [
+      "Adrian Alexandrescu",
+      "Victor M. Perez-Garcia"
+    ],
+    "published": "2005-11-18T09:31:02Z",
+    "updated": "2005-11-18T09:31:02Z",
+    "categories": [
+      "nlin.PS",
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/nlin/0511036v1",
+    "arxivUrl": "http://arxiv.org/abs/nlin/0511036v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0211464v1",
+    "title": "Bogoliubov theory of the Hawking effect in Bose-Einstein condensates",
+    "summary": "Artificial black holes may demonstrate some of the elusive quantum properties of the event horizon, in particular Hawking radiation. One promising candidate is a sonic hole in a Bose-Einstein condensate. We clarify why Hawking radiation emerges from the condensate and how this condensed-matter analog reflects some of the intriguing aspects of quantum black holes.",
+    "authors": [
+      "U. Leonhardt",
+      "T. Kiss",
+      "P. Ohberg"
+    ],
+    "published": "2002-11-21T09:14:36Z",
+    "updated": "2002-11-21T09:14:36Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0211464v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0211464v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0209627v1",
+    "title": "Thermodynamic QED Coherence in Condensed Matter: Microscopic Basis of   Thermal Superradiance",
+    "summary": "Electromagnetic superradiant field coherence exists in a condensed matter system if the electromagnetic field oscillators undergo a mean displacement. Transitions into thermal states with ordered superradiant phases have been shown to theoretically exist in Dicke-Preparata models. The theoretical validity of these models for condensed matter has been called into question due to non-relativistic diamagnetic terms in the electronic Hamiltonian. The microscopic bases of Dicke-Preparata thermal superradiance for realistic macroscopic systems are explored in this work. The impossibility of diaelectric correlations in condensed matter systems (via the Landau-Lifshitz theorem) provides a strong theoretical basis for understanding the physical reality of condensed matter thermodynamic superradiant phases.",
+    "authors": [
+      "S. Sivasubramanian",
+      "A. Widom",
+      "Y. N. Srivastava"
+    ],
+    "published": "2002-09-26T22:15:36Z",
+    "updated": "2002-09-26T22:15:36Z",
+    "categories": [
+      "cond-mat.stat-mech"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0209627v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0209627v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9511100v1",
+    "title": "Bosonization and Duality in Condensed Matter Systems",
+    "summary": "We show that abelian bosonization of 1+1 dimensional fermion systems can be interpreted as duality transformation and, as a conseguence, it can be generalized to arbitrary dimensions in terms of gauge forms of rank $d-1$, where $d$ is the dimension of the space. This permit to treat condensed matter systems in $d>1$ as gauge theories. Furthermore we show that in the ``scaling\" limit the bosonized action is quadratic in a wide class of condensed matter systems. (Talk given at ``Common trends in Condensed Matter and High Energy Physics\", September 3--10, 1995 -- Chia).",
+    "authors": [
+      "P. A. Marchetti"
+    ],
+    "published": "1995-11-14T15:14:41Z",
+    "updated": "1995-11-14T15:14:41Z",
+    "categories": [
+      "hep-th",
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9511100v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9511100v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2010.08108v1",
+    "title": "Abelian and Non-Abelian Monopole Configuration in Condensed Matters",
+    "summary": "We discuss the Abelian and non-Abelian monopoles which could exist in condensed matters. We show how the Dirac monopole can be regularized by the charge screening, and argue that the Dirac monopole of mass of hundred meVs could exist in dielectric condensed matters. Moreover, we generalize this result to non-Abelian condensed matters to show the existence of the non-Abelian monopole configuration in two-gap condensed matters, and present explicit monopole solutions.",
+    "authors": [
+      "Yunkyu Bang",
+      "Y. M. Cho",
+      "Tieyan Si",
+      "Li-Ping Zou"
+    ],
+    "published": "2020-10-12T02:23:50Z",
+    "updated": "2020-10-12T02:23:50Z",
+    "categories": [
+      "hep-th",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2010.08108v1",
+    "arxivUrl": "http://arxiv.org/abs/2010.08108v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2301.13234v2",
+    "title": "Field Theoretic Aspects of Condensed Matter Physics: An Overview",
+    "summary": "In this chapter I discuss the impact of concepts of Quantum Field Theory in modern Condensed Physics. Although the interplay between these two areas is certainly not new, the impact and mutual cross-fertilization has certainly grown enormously with time, and Quantum Field Theory has become a central conceptual tool in Condensed Matter Physics. In this chapter I cover how these ideas and tools have influenced our understanding of phase transitions, both classical and quantum, as well as topological phases of matter, and dualities.",
+    "authors": [
+      "Eduardo Fradkin"
+    ],
+    "published": "2023-01-30T19:03:00Z",
+    "updated": "2023-03-28T21:56:54Z",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2301.13234v2",
+    "arxivUrl": "http://arxiv.org/abs/2301.13234v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1912.02126v2",
+    "title": "Qualitative methods in condensed matter physics",
+    "summary": "Expanding on our former hypothesis that, in the current information age, teaching physics should become more intuition-based and aiming at pattern recognition skills, we present multiple examples of qualitative methods in condensed matter physics. They include the subjects of phonons, thermal and electronic properties of matter, electron-phonon interactions and some properties of semiconductors.",
+    "authors": [
+      "Maria Patmiou",
+      "V. G. Karpov"
+    ],
+    "published": "2019-12-04T17:20:17Z",
+    "updated": "2019-12-18T20:34:42Z",
+    "categories": [
+      "physics.ed-ph",
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1912.02126v2",
+    "arxivUrl": "http://arxiv.org/abs/1912.02126v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0306008v1",
+    "title": "Kinetic effects of multi-component nucleation",
+    "summary": "The process of multicomponent condensation is considered. The theory taking into account several channels of nucleation is constructed. The analytical approximate description of the whole condensation process is given. The specific phenomena of the secondary nucleation is described analytically. The possibility of the partial reverse condensation is discussed.",
+    "authors": [
+      "Victor Kurasov"
+    ],
+    "published": "2003-05-31T19:02:05Z",
+    "updated": "2003-05-31T19:02:05Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0306008v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0306008v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/9408211v1",
+    "title": "Supersymmetry Breaking by Hidden Matter Condensation in Superstrings",
+    "summary": "We show that supersymmetry can be broken mainly by hidden matter condensates in the observable matter direction in generic superstring models. This happens only when the fields whose VEVs give masses to hidden matter do not decouple at the condensation scale. We find how the parameters of the string model and the vacuum determine whether supersymmetry is broken mainly by hidden matter or gaugino condensates and in the matter or moduli directions.",
+    "authors": [
+      "Edi Halyo"
+    ],
+    "published": "1994-08-02T13:36:29Z",
+    "updated": "1994-08-02T13:36:29Z",
+    "categories": [
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/9408211v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/9408211v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9709301v2",
+    "title": "Phase separation of Bose-Einstein condensates",
+    "summary": "The zero-temperature system of two dilute overlapping Bose-Einstein condensates is unstable against long wavelength excitations if the interaction strength between the distinguishable bosons exceeds the geometric mean of the like-boson interaction strengths. If the condensates attract each other, the instability is similar to the instability of the negative scattering length condensates. If the condensates repel, they separate spatially into condensates of equal pressure. We estimate the boundary size, surface tension and energy of the phase separated condensate system and we discuss the implications for double condensates in atomic traps.",
+    "authors": [
+      "Eddy Timmermans"
+    ],
+    "published": "1997-09-26T20:40:42Z",
+    "updated": "1997-10-21T18:04:39Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9709301v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9709301v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0301489v1",
+    "title": "Comment on ``Ramsey Fringes in a Bose-Einstein Condensate between Atoms   and Molecules''",
+    "summary": "In Phys. Rev. Lett. 89, 180401 (2002) [cond-mat/0204504], Kokkelmans and Holland interpret the results of a recent experiment at JILA that demonstrated atom-molecule coherence in a Bose-Einstein condensate. Using a mean-field approximation to a resonance field theory involving an atom condensate and a molecular condensate, they find that the molecular condensate is tiny compared to the atom condensate. We show that if the probability for the molecular field to create a diatomic molecule is correctly included, the numbers of atoms in the atom condensate and in the condensate of diatomic molecules are comparable.",
+    "authors": [
+      "Eric Braaten",
+      "H. -W. Hammer",
+      "M. Kusunoki"
+    ],
+    "published": "2003-01-24T17:40:24Z",
+    "updated": "2003-01-24T17:40:24Z",
+    "categories": [
+      "cond-mat",
+      "hep-ph",
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0301489v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0301489v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0006455v1",
+    "title": "Amplification of light and atoms in a Bose--Einstein condensate",
+    "summary": "A Bose-Einstein condensate illuminated by a single off-resonant laser beam (``dressed condensate'') shows a high gain for matter waves and light. We have characterized the optical and atom-optical properties of the dressed condensate by injecting light or atoms, illuminating the key role of long-lived matter wave gratings produced by the condensate at rest and recoiling atoms. The narrow bandwidth for optical gain gave rise to an extremely slow group velocity of an amplified light pulse (1 m/s).",
+    "authors": [
+      "S. Inouye",
+      "R. F. Loew",
+      "S. Gupta",
+      "T. Pfau",
+      "A. Gorlitz",
+      "T. L. Gustavson",
+      "D. E. Pritchard",
+      "W. Ketterle"
+    ],
+    "published": "2000-06-28T19:40:32Z",
+    "updated": "2000-06-28T19:40:32Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0006455v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0006455v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/0501030v1",
+    "title": "The $K^0$ condensed phase of color-flavor locked quark matter : its   formation as a stable state reexamined",
+    "summary": "Taking the vector kaon-quark interaction into account, we reexamine in detail the neutral kaon condensation in color-flavor locked quark matter. It is found that the pairing phenomena in the quark matter are somewhat influenced by $K^0$ condensation. Different from the previous predictions, we find that the $K^0$ condensed phase might no longer be more stable than the normal phase even if $K^0$ condensation can occur in the color-flavor locked matter.",
+    "authors": [
+      "Xiao-Bing Zhang",
+      "Xue-Qian Li"
+    ],
+    "published": "2005-01-06T08:31:56Z",
+    "updated": "2005-01-06T08:31:56Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/0501030v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/0501030v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0005001v1",
+    "title": "Spinor condensates and light scattering from Bose-Einstein condensates",
+    "summary": "These notes discuss two aspects of the physics of atomic Bose-Einstein condensates: optical properties and spinor condensates. The first topic includes light scattering experiments which probe the excitations of a condensate in both the free-particle and phonon regime. At higher light intensity, a new form of superradiance and phase-coherent matter wave amplification were observed. We also discuss properties of spinor condensates and describe studies of ground--state spin domain structures and dynamical studies which revealed metastable excited states and quantum tunneling.",
+    "authors": [
+      "Dan M. Stamper-Kurn",
+      "Wolfgang Ketterle"
+    ],
+    "published": "2000-04-29T00:14:27Z",
+    "updated": "2000-04-29T00:14:27Z",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0005001v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0005001v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0306305v2",
+    "title": "Atom interferometry with Bose-Einstein condensates in a double-well   potential",
+    "summary": "A trapped-atom interferometer was demonstrated using gaseous Bose-Einstein condensates coherently split by deforming an optical single-well potential into a double-well potential. The relative phase between the two condensates was determined from the spatial phase of the matter wave interference pattern formed upon releasing the condensates from the separated potential wells. Coherent phase evolution was observed for condensates held separated by 13 $\\mu$m for up to 5 ms and was controlled by applying ac Stark shift potentials to either of the two separated condensates.",
+    "authors": [
+      "Y. Shin",
+      "M. Saba",
+      "T. A. Pasquini",
+      "W. Ketterle",
+      "D. E. Pritchard",
+      "A. E. Leanhardt"
+    ],
+    "published": "2003-06-11T23:06:31Z",
+    "updated": "2003-07-17T18:36:42Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0306305v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0306305v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2408.06156v1",
+    "title": "Graph-based Descriptors for Condensed Matter",
+    "summary": "Computational scientists have long been developing a diverse portfolio of methodologies to characterise condensed matter systems. Most of the descriptors resulting from these efforts are ultimately based on the spatial configurations of particles, atoms, or molecules within these systems. Noteworthy examples include symmetry functions and the smooth overlap of atomic positions (SOAP) descriptors, which have significantly advanced the performance of predictive machine learning models for both condensed matter and small molecules. However, while graph-based descriptors are frequently employed in machine learning models to predict the functional properties of small molecules, their application in the context of condensed matter has been limited. In this paper, we put forward a number of graph-based descriptors (such as node centrality and clustering coefficients) traditionally utilised in network science, as alternative representations for condensed matter systems. We apply this graph-based formalism to investigate the dynamical properties and phase transitions of the prototypical Lennard-Jones system. We find that our graph-based formalism outperforms symmetry function descriptors in predicting the dynamical properties and phase transitions of this system. These results demonstrate the broad applicability of graph-based features in representing condensed matter systems, paving the way for exciting advancements in the field of condensed matter through the integration of network science concepts.",
+    "authors": [
+      "An Wang",
+      "Gabriele C. Sosso"
+    ],
+    "published": "2024-08-12T13:50:23Z",
+    "updated": "2024-08-12T13:50:23Z",
+    "categories": [
+      "physics.comp-ph",
+      "cond-mat.dis-nn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2408.06156v1",
+    "arxivUrl": "http://arxiv.org/abs/2408.06156v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0403128v1",
+    "title": "Physics with Coherent Matter Waves",
+    "summary": "This review discusses progress in the new field of coherent matter waves, in particular with respect to Bose-Einstein condensates. We give a short introduction to Bose-Einstein condensation and the theoretical description of the condensate wavefunction. We concentrate on the coherence properties of this new type of matter wave as a basis for fundamental physics and applications. The main part of this review treats various measurements and concepts in the physics with coherent matter waves. In particular we present phase manipulation methods, atom lasers, nonlinear atom optics, optical elements, interferometry and physics in optical lattices. We give an overview of the state of the art in the respective fields and discuss achievements and challenges for the future.",
+    "authors": [
+      "K. Bongs",
+      "K. Sengstock"
+    ],
+    "published": "2004-03-03T17:03:54Z",
+    "updated": "2004-03-03T17:03:54Z",
+    "categories": [
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0403128v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0403128v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/nucl-th/0310006v1",
+    "title": "Quark Condensates in Nuclear Matter in the Global Color Symmetry Model   of QCD",
+    "summary": "With the global color symmetry model being extended to finite chemical potential, we study the density dependence of the local and nonlocal scalar quark condensates in nuclear matter. The calculated results indicate that the quark condensates increase smoothly with the increasing of nuclear matter density before the critical value (about 12$\\rho_0$) is reached. It also manifests that the chiral symmetry is restored suddenly as the density of nuclear matter reaches its critical value. Meanwhile, the nonlocal quark condensate in nuclear matter changes nonmonotonously against the space-time distance among the quarks.",
+    "authors": [
+      "Yu-xin Liu",
+      "Dong-feng Gao",
+      "Hua Guo"
+    ],
+    "published": "2003-10-02T00:37:28Z",
+    "updated": "2003-10-02T00:37:28Z",
+    "categories": [
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/nucl-th/0310006v1",
+    "arxivUrl": "http://arxiv.org/abs/nucl-th/0310006v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0804.1736v1",
+    "title": "The Color Glass Condensate and Glasma",
+    "summary": "These two lectures concern the Color Glass Condensate and the Glasma. These are forms of matter which might be studied in high energy hadronic collisions. The Color Glass Condensate is high energy density gluonic matter. It constitutes the part of a hadron wavefunction important for high energy processes. The Glasma is matter produced from the collision of two high energy hadrons. Both types of matter are associated with coherent fields. The Color Glass Condensate is static and related to a hadron wavefunction where the glasma is transient and evolves quickly after a collision. I present the properties of such matter, and some aspects of what is known of their properties.",
+    "authors": [
+      "Larry McLerran"
+    ],
+    "published": "2008-04-10T15:40:54Z",
+    "updated": "2008-04-10T15:40:54Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0804.1736v1",
+    "arxivUrl": "http://arxiv.org/abs/0804.1736v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1108.1892v1",
+    "title": "Nucleation of antikaon condensed matter in proto neutron stars",
+    "summary": "A first order phase transition from nuclear matter to antikaon condensed matter may proceed through thermal nucleation of a critical droplet of antikaon condensed matter during the early evolution of proto neutron stars (PNS). Droplets of new phase having radii larger than a critical radius would survive and grow, if the latent heat is transported from the droplet surface to the metastable phase. We investigate the effect of shear viscosity on the thermal nucleation time of the droplets of antikaon condensed matter. In this connection we particularly study the contribution of neutrinos in the shear viscosity and nucleation in PNS.",
+    "authors": [
+      "Sarmistha Banik",
+      "Rana Nandi"
+    ],
+    "published": "2011-08-09T09:47:05Z",
+    "updated": "2011-08-09T09:47:05Z",
+    "categories": [
+      "astro-ph.HE",
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1108.1892v1",
+    "arxivUrl": "http://arxiv.org/abs/1108.1892v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0812.1518v1",
+    "title": "Strongly Interacting Matter at High Energy Density",
+    "summary": "This lecture concerns the properties of strongly interacting matter (which is described by Quantum Chromodynamics) at very high energy density. I review the properties of matter at high temperature, discussing the deconfinement phase transition . At high baryon density and low temperature, large $N_c$ arguments are developed which suggest that high baryonic density matter is a third form of matter, Quarkyonic Matter, that is distinct from confined hadronic matter and deconfined matter. I finally discuss the Color Glass Condensate which controls the high energy limit of QCD, and forms the low x part of a hadron wavefunction. The Glasma is introduced as matter formed by the Color Glass Condensate which eventually thermalizes into a Quark Gluon Plasma.",
+    "authors": [
+      "Larry McLerran"
+    ],
+    "published": "2008-12-08T16:38:47Z",
+    "updated": "2008-12-08T16:38:47Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0812.1518v1",
+    "arxivUrl": "http://arxiv.org/abs/0812.1518v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9606061v1",
+    "title": "Neutron Compton Scattering",
+    "summary": "Neutron Compton scattering measurements have the potential to provide direct information about atomic momentum distributions and adiabatic energy surfaces in condensed matter. First applied to measuring the condensate fraction in superfluid helium, the technique has recently been extended to study a variety of classical and quantum liquids and solids. This article reviews the theoretical background for the interpretation of neutron Compton scattering, with emphasis on studies of solids.",
+    "authors": [
+      "Greg Watson"
+    ],
+    "published": "1996-06-10T17:02:48Z",
+    "updated": "1996-06-10T17:02:48Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9606061v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9606061v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9703210v2",
+    "title": "Effective Field Theory in Condensed Matter Physics",
+    "summary": "Some personal reminiscences are followed by a brief illustration of how effective field theories are used in condensed matter physics. Examples include Landau's Fermi liquid, sigma models with topological terms, Dirac fermions and the Gross Neveu model.",
+    "authors": [
+      "R. Shankar"
+    ],
+    "published": "1997-03-24T22:56:07Z",
+    "updated": "1997-03-25T17:28:07Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9703210v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9703210v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0308127v1",
+    "title": "Mesoscopic Phase Fluctuations: General Phenomenon in Condensed Matter",
+    "summary": "General conditions for the occurrence of mesoscopic phase fluctuations in condensed matter are considered. The description of different thermodynamic phases, which coexist as a mixture of mesoscopically separated regions, is based on the {\\it theory of heterophase fluctuations}. The spaces of states, typical of the related phases, are characterized by {\\it weighted Hilbert spaces}. Several models illustrate the main features of heterophase condensed matter.",
+    "authors": [
+      "V. I. Yukalov"
+    ],
+    "published": "2003-08-07T08:33:14Z",
+    "updated": "2003-08-07T08:33:14Z",
+    "categories": [
+      "cond-mat.stat-mech"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0308127v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0308127v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0901.1360v1",
+    "title": "Matter Wave Interference Pattern in the collision of bright solitons   (Bose Einstein condensates) in a time dependent trap",
+    "summary": "We show that it is possible to observe matter wave interference patterns in the collision of bright solitons (Bose Einstein condensates) without free ballistic expansion for suitable choices of scattering length and time dependent trap.",
+    "authors": [
+      "V. Ramesh Kumar",
+      "R. Radha",
+      "Prasanta K. Panigrahi"
+    ],
+    "published": "2009-01-10T08:39:17Z",
+    "updated": "2009-01-10T08:39:17Z",
+    "categories": [
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0901.1360v1",
+    "arxivUrl": "http://arxiv.org/abs/0901.1360v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1010.2784v1",
+    "title": "Surprising Connections Between General Relativity and Condensed Matter",
+    "summary": "This brief review is intended to introduce gravitational physicists to recent developments in which general relativity is being used to describe certain aspects of condensed matter systems, e.g., superconductivity.",
+    "authors": [
+      "Gary T. Horowitz"
+    ],
+    "published": "2010-10-13T21:58:17Z",
+    "updated": "2010-10-13T21:58:17Z",
+    "categories": [
+      "gr-qc",
+      "cond-mat.other",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1010.2784v1",
+    "arxivUrl": "http://arxiv.org/abs/1010.2784v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1102.2482v1",
+    "title": "Strong field physics in condensed matter",
+    "summary": "There are deep similarities between non-linear QFT studied in high-energy and non-equilibrium physics in condensed matter. Ideas such as the Schwinger mechanism and the Volkov state are deeply related to non-linear transport and photovoltaic Hall effect in condensed matter. Here, we give a review on these relations.",
+    "authors": [
+      "Takashi Oka"
+    ],
+    "published": "2011-02-12T06:21:25Z",
+    "updated": "2011-02-12T06:21:25Z",
+    "categories": [
+      "cond-mat.stat-mech",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1102.2482v1",
+    "arxivUrl": "http://arxiv.org/abs/1102.2482v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1105.5189v1",
+    "title": "Cosmological dynamics of dark matter Bose-Einstein Condensation",
+    "summary": "Once the critical temperature of a cosmological boson gas is less than the critical temperature, a Bose-Einstein Condensation process can always take place during the cosmic history of the universe. In the Bose-Einstein Condensation model, dark matter can be described as a non-relativistic, Newtonian gravitational condensate, whose density and pressure are related by a barotropic equation of state, with barotropic index equal to one. In the present work, we study the Bose-Einstein Condensation process in a cosmological context, by assuming that this process can be described (at least approximately) as a first order phase transition. We analyze the evolution of the physical quantities relevant for the physical description of the early universe, namely, the energy density, temperature and scale factor, before, during and after the Bose-Einstein Condensation (phase transition). We also consider in detail the epoch when the universe evolved through a mixed condensate - normal dark matter phase, with a monotonically growing Bose-Einstein dark matter component. An important parameter characterizing the Bose-Einstein Condensation is the condensate dark matter fraction, whose time evolution describes the time dynamics of the conversion process. The behavior of this parameter during the cosmological condensation process is also analyzed in detail. To study the cosmological dynamics and evolution we use both analytical and numerical methods. The presence of the condensate dark matter and of the Bose-Einstein phase transition could have modified drastically the cosmological evolution of the early universe, as well as the large scale structure formation process.",
+    "authors": [
+      "T. Harko"
+    ],
+    "published": "2011-05-26T01:53:08Z",
+    "updated": "2011-05-26T01:53:08Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1105.5189v1",
+    "arxivUrl": "http://arxiv.org/abs/1105.5189v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1110.2829v2",
+    "title": "Finite temperature effects in Bose-Einstein Condensed dark matter halos",
+    "summary": "Once the critical temperature of a cosmological boson gas is less than the critical temperature, a Bose-Einstein Condensation process can always take place during the cosmic history of the universe. Zero temperature condensed dark matter can be described as a non-relativistic, Newtonian gravitational condensate, whose density and pressure are related by a barotropic equation of state, with barotropic index equal to one. In the present paper we analyze the effects of the finite dark matter temperature on the properties of the Bose-Einstein Condensed dark matter halos. We formulate the basic equations describing the finite temperature condensate, representing a generalized Gross-Pitaevskii equation that takes into account the presence of the thermal cloud. The static condensate and thermal cloud in thermodynamic equilibrium is analyzed in detail, by using the Hartree-Fock-Bogoliubov and Thomas-Fermi approximations. The condensed dark matter and thermal cloud density and mass profiles at finite temperatures are explicitly obtained. Our results show that when the temperature of the condensate and of the thermal cloud are much smaller than the critical Bose-Einstein transition temperature, the zero temperature density and mass profiles give an excellent description of the dark matter halos. However, finite temperature effects may play an important role in the early stages of the cosmological evolution of the dark matter condensates.",
+    "authors": [
+      "Tiberiu Harko",
+      "Eniko J. M. Madarassy"
+    ],
+    "published": "2011-10-13T02:41:09Z",
+    "updated": "2011-12-10T00:32:54Z",
+    "categories": [
+      "astro-ph.GA",
+      "cond-mat.quant-gas",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1110.2829v2",
+    "arxivUrl": "http://arxiv.org/abs/1110.2829v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1403.3358v2",
+    "title": "Gravitational collapse of Bose-Einstein condensate dark matter halos",
+    "summary": "We study the mechanisms of the gravitational collapse of the Bose-Einstein condensate dark matter halos, described by the zero temperature time-dependent nonlinear Schr\\\"odinger equation (the Gross-Pitaevskii equation), with repulsive inter-particle interactions. By using a variational approach, and by choosing an appropriate trial wave function, we reformulate the Gross-Pitaevskii equation with spherical symmetry as Newton's equation of motion for a particle in an effective potential, which is determined by the zero point kinetic energy, the gravitational energy, and the particles interaction energy, respectively. The velocity of the condensate is proportional to the radial distance, with a time dependent proportionality function. The equation of motion of the collapsing dark matter condensate is studied by using both analytical and numerical methods. The collapse of the condensate ends with the formation of a stable configuration, corresponding to the minimum of the effective potential. The radius and the mass of the resulting dark matter object are obtained, as well as the collapse time of the condensate. The numerical values of these global astrophysical quantities, characterizing condensed dark matter systems, strongly depend on the two parameters describing the condensate, the mass of the dark matter particle, and of the scattering length, respectively. The stability of the condensate under small perturbations is also studied, and the oscillations frequency of the halo is obtained. Hence these results show that the gravitational collapse of the condensed dark matter halos can lead to the formation of stable astrophysical systems with both galactic and stellar sizes.",
+    "authors": [
+      "Tiberiu Harko"
+    ],
+    "published": "2014-03-13T18:36:57Z",
+    "updated": "2014-04-05T07:50:45Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1403.3358v2",
+    "arxivUrl": "http://arxiv.org/abs/1403.3358v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0207196v1",
+    "title": "Collapse and Revival of the Matter Wave Field of a Bose-Einstein   Condensate",
+    "summary": "At the heart of a Bose-Einstein condensate lies its description as a single giant matter wave. Such a Bose-Einstein condensate represents the most \"classical\" form of a matter wave, just as an optical laser emits the most classical form of an electromagnetic wave. Beneath this giant matter wave, however, the discrete atoms represent a crucial granularity, i.e. a quantization of this matter wave field. Here we show experimentally that this quantization together with the cold collisions between atoms lead to a series of collapses and revivals of the coherent matter wave field of a Bose-Einstein condensate. We observe such collapses and revivals directly in the dynamical evolution of a multiple matter wave interference pattern, and thereby demonstrate a striking new behaviour of macroscopic quantum matter.",
+    "authors": [
+      "Markus Greiner",
+      "Olaf Mandel",
+      "Theodor W. Haensch",
+      "Immanuel Bloch"
+    ],
+    "published": "2002-07-08T10:24:58Z",
+    "updated": "2002-07-08T10:24:58Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0207196v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0207196v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/0304251v1",
+    "title": "Chiral Condensates in Quark and nuclear Matter",
+    "summary": "We present a novel treatment for calculating the in-medium quark condensates. The advantage of this approach is that one does not need to make further assumptions on the derivatives of model parameters with respect to the quark current mass. The normally accepted model-independent result in nuclear matter is naturally reproduced. The change of the quark condensate induced by interactions depends on the incompressibility of nuclear matter. When it is greater than 260 MeV, the density at which the condensate vanishes is higher than that from the linear extrapolation. For the chiral condensate in quark matter, a similar model-independent linear behavior is found at lower densities, which means that the decreasing speed of the condensate in quark matter is merely half of that in nuclear matter if the pion-nucleon sigma commutator is six times the average current mass of u and d quarks. The modification due to QCD-like interactions is found to slow the decreasing speed of the condensate, compared with the linear extrapolation.",
+    "authors": [
+      "G. X. Peng",
+      "U. Lombardo",
+      "M. Loewe",
+      "H. C. Chiang",
+      "P. Z. Ning"
+    ],
+    "published": "2003-04-27T04:05:27Z",
+    "updated": "2003-04-27T04:05:27Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/0304251v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/0304251v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1101.3655v2",
+    "title": "Evolution of cosmological perturbations in Bose-Einstein condensate dark   matter",
+    "summary": "We consider the global cosmological evolution and the evolution of the density contrast in the Bose-Einstein condensate dark matter model, in the framework of a Post-Newtonian cosmological approach. In the Bose-Einstein model, dark matter can be described as a non-relativistic, Newtonian gravitational condensate, whose density and pressure are related by a barotropic equation of state. For a condensate with quartic non-linearity, the equation of state is polytropic with index $n=1$. The basic equation describing the evolution of the perturbations of the Bose-Einstein condensate is obtained, and its solution is studied by using both analytical and numerical methods. The global cosmological evolution as well as the evolution of the perturbations of the condensate dark matter shows significant differences with respect to the pressureless dark matter model, considered in the framework of standard cosmology. Therefore the presence of condensate dark matter could have modified drastically the cosmological evolution of the early universe, as well as the large scale structure formation process.",
+    "authors": [
+      "T. Harko"
+    ],
+    "published": "2011-01-19T10:36:11Z",
+    "updated": "2011-02-10T04:20:49Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1101.3655v2",
+    "arxivUrl": "http://arxiv.org/abs/1101.3655v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1203.2984v1",
+    "title": "Cosmological evolution of finite temperature Bose-Einstein Condensate   dark matter",
+    "summary": "Once the temperature of a bosonic gas is smaller than the critical, density dependent, transition temperature, a Bose - Einstein Condensation process can take place during the cosmological evolution of the Universe. Bose - Einstein Condensates are very strong candidates for dark matter, since they can solve some major issues in observational astrophysics, like, for example, the galactic core/cusp problem. The presence of the dark matter condensates also drastically affects the cosmic history of the Universe. In the present paper we analyze the effects of the finite dark matter temperature on the cosmological evolution of the Bose-Einstein Condensate dark matter systems. We formulate the basic equations describing the finite temperature condensate, representing a generalized Gross-Pitaevskii equation that takes into account the presence of the thermal cloud in thermodynamic equilibrium with the condensate. The temperature dependent equations of state of the thermal cloud and of the condensate are explicitly obtained in an analytical form. By assuming a flat Friedmann-Robertson-Walker (FRW) geometry, the cosmological evolution of the finite temperature dark matter filled Universe is considered in detail in the framework of a two interacting fluid dark matter model, describing the transition from the initial thermal cloud to the low temperature condensate state. The dynamics of the cosmological parameters during the finite temperature dominated phase of the dark matter evolution are investigated in detail, and it is shown that the presence of the thermal excitations leads to an overall increase in the expansion rate of the Universe.",
+    "authors": [
+      "Tiberiu Harko",
+      "Gabriela Mocanu"
+    ],
+    "published": "2012-03-14T01:55:51Z",
+    "updated": "2012-03-14T01:55:51Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "cond-mat.quant-gas",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1203.2984v1",
+    "arxivUrl": "http://arxiv.org/abs/1203.2984v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9807258v1",
+    "title": "Quantum spins mixing in spinor Bose-Einstein condensates",
+    "summary": "We examine the internal structure of the ground states of a trapped Bose-Einstein condensate in which atoms have three internal hyperfine spins. We determine a set of collective spin states which minimize the interaction energy between condensate atoms. We also examine the internal dynamics of an initially spin polarized condensate. The time scale of spin-mixing is predicted.",
+    "authors": [
+      "C. K. Law",
+      "H. Pu",
+      "N. P. Bigelow"
+    ],
+    "published": "1998-07-17T15:52:58Z",
+    "updated": "1998-07-17T15:52:58Z",
+    "categories": [
+      "cond-mat.soft",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9807258v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9807258v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0205478v2",
+    "title": "Stirring Bose-Einstein condensate",
+    "summary": "By shining a tightly focused laser light on the condensate and moving the center of the beam along the spiral line one may stir the condensate and create vortices. It is shown that one can induce rotation of the condensate in the direction opposite to the direction of the stirring.",
+    "authors": [
+      "Bogdan Damski",
+      "Krzysztof Sacha",
+      "Jakub Zakrzewski"
+    ],
+    "published": "2002-05-23T12:30:31Z",
+    "updated": "2002-09-18T14:09:56Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0205478v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0205478v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0207029v1",
+    "title": "Scattering of atoms on a Bose-Einstein condensate",
+    "summary": "We study the scattering properties of a Bose-Einstein condensate held in a finite depth well when the incoming particles are identical to the ones in the condensate. We calculate phase shifts and corresponding transmission and reflection coefficients, and we show that the transmission times can be negative, i.e., the atomic wavepacket seemingly leaves the condensate before it arrives.",
+    "authors": [
+      "Uffe V. Poulsen",
+      "Klaus Molmer"
+    ],
+    "published": "2002-07-01T11:18:05Z",
+    "updated": "2002-07-01T11:18:05Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0207029v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0207029v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0208312v1",
+    "title": "Collapse of Bose-Einstein condensate with dipole-dipole interactions",
+    "summary": "A dynamics of Bose-Einstein condensate of a gas of bosonic particles with long-range dipole-dipole interactions in a harmonic trap is studied. Sufficient analytical criteria are found both for catastrophic collapse of Bose-Einstein condensate and for long-time condensate existence. Analytical criteria are compared with variational analysis.",
+    "authors": [
+      "Pavel M. Lushnikov"
+    ],
+    "published": "2002-08-15T22:36:17Z",
+    "updated": "2002-08-15T22:36:17Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0208312v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0208312v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0301474v1",
+    "title": "Roton-maxon spectrum and stability of trapped dipolar condensates",
+    "summary": "We find that pancake dipolar condensates can exhibit a roton-maxon character of the excitation spectrum, so far only observed in superfluid helium. We also obtain a condition for the dynamical stability of these condensates. The spectrum and the border of instability are tunable by varying the particle density and/or the confining potential. This opens wide possibilities for manipulating the superfluid properties of dipolar condensates.",
+    "authors": [
+      "L. Santos",
+      "G. V. Shlyapnikov",
+      "M. Lewenstein"
+    ],
+    "published": "2003-01-24T10:45:31Z",
+    "updated": "2003-01-24T10:45:31Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0301474v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0301474v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0307253v2",
+    "title": "One-dimensional behavior of elongated Bose-Einstein condensates",
+    "summary": "We study the properties of elongated Bose-Einstein condensates. First, we show that the dimensions of the condensate after expansion differs from the 3D Thomas-Fermi regime. We also study the coherence length of such elongated condensates.",
+    "authors": [
+      "P. Bouyer",
+      "J. H. Thywissen",
+      "F. Gerbier",
+      "M. Hugbart",
+      "S. Richard",
+      "J. Retter",
+      "A. Aspect"
+    ],
+    "published": "2003-07-10T17:35:30Z",
+    "updated": "2003-07-10T21:26:21Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0307253v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0307253v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0402003v1",
+    "title": "Bose-Einstein condensation at constant temperature",
+    "summary": "We present a novel experimental approach to Bose-Einstein condensation by increasing the particle number of the system at almost constant temperature. In particular the emergence of a new condensate is observed in multi-component F=1 spinor condensates of 87-Rb. Furthermore we develop a simple rate-equation model for multi-component BEC thermodynamics at finite temperature which well reproduces the measured effects.",
+    "authors": [
+      "M. Erhard",
+      "H. Schmaljohann",
+      "J. Kronjäger",
+      "K. Bongs",
+      "K. Sengstock"
+    ],
+    "published": "2004-01-31T00:18:50Z",
+    "updated": "2004-01-31T00:18:50Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0402003v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0402003v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0408401v1",
+    "title": "Rapidly rotating Bose condensates",
+    "summary": "How does a rapidly rotating condensed Bose gas carry extreme amounts of angular momentum? The energetically favored state of a not-too-rapidly rotating Bose condensed gas is, as observed, a triangular lattice of singly quantized vortices. This paper describes the fates of the vortex lattice in both harmonic and anharmonic traps when condensates are rotated extremely rapidly.",
+    "authors": [
+      "Gordon Baym"
+    ],
+    "published": "2004-08-18T15:25:21Z",
+    "updated": "2004-08-18T15:25:21Z",
+    "categories": [
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0408401v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0408401v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0510023v1",
+    "title": "Random phases in Bose-Einstein condensates with higher order   nonlinearities",
+    "summary": "We present a statistical description of Bose-Einstein condensates with general higher order nonlinearities. In particular, we investigate the case of cubic-quintic nonlinearities, of particular interest for dilute condensates. The implication of decoherence for the stability properties of the condensate is discussed.",
+    "authors": [
+      "M. Marklund",
+      "P. K. Shukla"
+    ],
+    "published": "2005-10-02T13:49:22Z",
+    "updated": "2005-10-02T13:49:22Z",
+    "categories": [
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0510023v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0510023v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0709.3068v1",
+    "title": "Bose-Einstein Condensation of an Ytterbium Isotope",
+    "summary": "We report the observation of a Bose Einstein condensate in a bosonic isotope of ytterbium (170Yb). More than 10^6 atoms are trapped in a crossed optical dipole trap and cooled by evaporation. Condensates of approximately 10^4 atoms have been obtained. From an expansion of the condensate, we have extracted the scattering length a=3.6(9) nm.",
+    "authors": [
+      "Takeshi Fukuhara",
+      "Seiji Sugawa",
+      "Yoshiro Takahashi"
+    ],
+    "published": "2007-09-19T16:53:22Z",
+    "updated": "2007-09-19T16:53:22Z",
+    "categories": [
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0709.3068v1",
+    "arxivUrl": "http://arxiv.org/abs/0709.3068v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9707323v1",
+    "title": "Superfluidity in sympathetic cooling with atomic Bose condensates",
+    "summary": "The dynamical structure of an atomic Bose-Einstein condensate limits the efficiency of the condensate in cooling slow impurity atoms. To illustrate the point, we show that an impurity atom moving in a homogeneous zero-temperature condensate is not scattered incoherently if its velocity is lower than the condensate sound velocity $c$, limiting cooling to velocities $v \\geq c$. This striking effect is an expression of superfluidity and provides a direct means to detect the fundamental property of superfluidity in atomic condensates. Furthermore, we show that the fermionic lithium-isotope, $^{6}$Li, is a reasonable candidate for sympathetic cooling by a $^{23}$Na-condensate.",
+    "authors": [
+      "E. Timmermans",
+      "R. Cote"
+    ],
+    "published": "1997-07-30T21:15:35Z",
+    "updated": "1997-07-30T21:15:35Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9707323v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9707323v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9803216v1",
+    "title": "Analytical description of a trapped semi-ideal Bose gas at finite   temperature",
+    "summary": "Present experiments with Bose condensed gases can be largely described by a semi-ideal two-gas model. In this model, the condensate is influenced only by the mean-field repulsion among condensed atoms, while the thermal cloud is considered an ideal gas confined by an effective potential that consists of the external trap and the mean-field repulsion by the condensate. This simple, intuitive model provides explicit analytical expressions for the density distributions of the condensate and the thermal component. It describes the reduction of the condensate fraction relative to that of an ideal gas as a consequence of the positive chemical potential due to interactions in the condensate.",
+    "authors": [
+      "M. Naraschewski",
+      "D. M. Stamper-Kurn"
+    ],
+    "published": "1998-03-18T04:58:52Z",
+    "updated": "1998-03-18T04:58:52Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9803216v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9803216v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9805323v1",
+    "title": "Inter-Condensate Tunneling in Bose-Einstein Condensates with Feshbach   Resonances",
+    "summary": "Recently, effects of Feshbach resonances in atom-atom interactions were observed by varying the external magnetic field of an atomic Bose-Einstein condensate (BEC). We point out that the quasi-bound molecules created in the intermediate state of the resonance can form a second, molecular condensate. The many-body state of the system is then a hybrid atomic/molecular condensate with inter-condensate tunneling of atom pairs. A sudden variation of the magnetic field results in oscillations of the number of atoms and molecules in their respective condensates, providing a signature of this novel type of quantum tunneling.",
+    "authors": [
+      "Eddy Timmermans",
+      "Paolo Tommasini",
+      "Robin Cote",
+      "Mahir Hussein",
+      "Arthur Kerman"
+    ],
+    "published": "1998-05-25T16:04:34Z",
+    "updated": "1998-05-25T16:04:34Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9805323v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9805323v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9906357v2",
+    "title": "Coherent dynamics of Bose-Einstein condensates in high-finesse optical   cavities",
+    "summary": "We study the mutual interaction of a Bose-Einstein condensed gas with a single mode of a high-finesse optical cavity. We show how the cavity transmission reflects condensate properties and calculate the self-consistent intra-cavity light field and condensate evolution. Solving the coupled condensate-cavity equations we find that while falling through the cavity, the condensate is adiabatically transfered into the ground state of the periodic optical potential. This allows time dependent non-destructive measurements on Bose-Einstein condensates with intriguing prospects for subsequent controlled manipulation.",
+    "authors": [
+      "Peter Horak",
+      "Stephen M. Barnett",
+      "Helmut Ritsch"
+    ],
+    "published": "1999-06-24T09:17:14Z",
+    "updated": "1999-07-07T10:19:14Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9906357v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9906357v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.03109v2",
+    "title": "Active Loop Extrusion guides DNA-Protein Condensation",
+    "summary": "The spatial organization of DNA involves DNA loop extrusion and the formation of protein-DNA condensates. While the significance of each process is increasingly recognized, their interplay remains unexplored. Using molecular dynamics simulation and theory we investigate this interplay. Our findings reveal that loop extrusion can enhance the dynamics of condensation and promotes coalescence and ripening of condensates. Further, the DNA loop enables condensate formation under DNA tension and position condensates. The concurrent presence of loop extrusion and condensate formation results in the formation of distinct domains similar to TADs, an outcome not achieved by either process alone.",
+    "authors": [
+      "Ryota Takaki",
+      "Yahor Savich",
+      "Jan Brugués",
+      "Frank Jülicher"
+    ],
+    "published": "2024-07-03T13:49:05Z",
+    "updated": "2025-01-30T09:00:47Z",
+    "categories": [
+      "physics.bio-ph",
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2407.03109v2",
+    "arxivUrl": "http://arxiv.org/abs/2407.03109v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/0009113v1",
+    "title": "Antikaon condensation and the metastability of protoneutron stars",
+    "summary": "We investigate the condensation of $\\bar K^0$ meson along with $K^-$ condensation in the neutrino trapped matter with and without hyperons. Calculations are performed in the relativistic mean field models in which both the baryon-baryon and (anti)kaon-baryon interactions are mediated by meson exchange. In the neutrino trapped matter relevant to protoneutron stars, the critical density of $K^-$ condensation is shifted considerably to higher density whereas that of $\\bar K^0$ condensation is shifted slightly to higher density with respect to that of the neutrino free case. The onset of $K^-$ condensation always occurs earlier than that of $\\bar K^0$ condensation. A significant region of maximum mass protoneutron stars is found to contain $\\bar K^0$ condensate for larger values of the antikaon potential. With the appearance of $\\bar K^0$ condensation, there is a region of symmetric nuclear matter in the inner core of a protoneutron star. It is found that the maximum mass of a protoneutron star containing $K^-$ and $\\bar K^0$ condensate is greater than that of the corresponding neutron star. We revisit the implication of this scenario in the context of the metastability of protoneutron stars and their evolution to low mass black holes.",
+    "authors": [
+      "Sarmistha Banik",
+      "Debades Bandyopadhyay"
+    ],
+    "published": "2000-09-07T12:54:56Z",
+    "updated": "2000-09-07T12:54:56Z",
+    "categories": [
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/0009113v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/0009113v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/nucl-th/9710058v1",
+    "title": "Properties of Pairing Correlations in Infinite Nuclear Matter",
+    "summary": "We discuss various properties of singlet S pairing in neutron and nuclear matter in terms of the bare nuclon-nucleon interaction. Relations to the NN phase shifts are discussed, as well as various properties of the BCS wave function and the coherence length for fermion superfluids in infinite matter.",
+    "authors": [
+      "O. Elgaroy",
+      "M. Hjorth-Jensen"
+    ],
+    "published": "1997-10-26T14:25:15Z",
+    "updated": "1997-10-26T14:25:15Z",
+    "categories": [
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/nucl-th/9710058v1",
+    "arxivUrl": "http://arxiv.org/abs/nucl-th/9710058v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1612.05406v2",
+    "title": "Stimulated Emission of Dark Matter Axion from Condensed Matter   Excitations",
+    "summary": "We discuss a possible principle for detecting dark matter axions in galactic halos. If axions constitute a condensate in the Milky Way, stimulated emissions of the axions from a type of excitation in condensed matter can be detectable. We provide general mechanism for the dark matter emission, and, as a concrete example, an emission of dark matter axions from magnetic vortex strings in a type II superconductor are investigated along with possible experimental signatures.",
+    "authors": [
+      "Naoto Yokoi",
+      "Eiji Saitoh"
+    ],
+    "published": "2016-12-16T09:53:34Z",
+    "updated": "2017-01-27T08:37:36Z",
+    "categories": [
+      "hep-ph",
+      "astro-ph.CO",
+      "cond-mat.mes-hall",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1612.05406v2",
+    "arxivUrl": "http://arxiv.org/abs/1612.05406v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/0201433v1",
+    "title": "Bose-Einstein condensation in dense matter and the third family of   compact stars",
+    "summary": "We investigate antikaon condensation in compact star matter using a relativistic mean field model. Antikaon condensates make the equation of state softer resulting in a smaller maximum mass star compared to the case without condensate. It is found that the equation of state including antikaon condensates gives rise to a stable sequence of compact stars called the third family beyond the neutron star branch.",
+    "authors": [
+      "Sarmistha Banik",
+      "Debades Bandyopadhyay"
+    ],
+    "published": "2002-01-26T11:30:49Z",
+    "updated": "2002-01-26T11:30:49Z",
+    "categories": [
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/0201433v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/0201433v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0406740v2",
+    "title": "Symmetry Breaking and Enhanced Condensate Fraction in a Matter-Wave   Bright Soliton",
+    "summary": "An exact diagonalization study reveals that a matter-wave bright soliton and the Goldstone mode are simultaneously created in a quasi-one-dimensional attractive Bose-Einstein condensate by superpositions of quasi-degenerate low-lying many-body states. Upon formation of the soliton the maximum eigenvalue of the single-particle density matrix increases dramatically, indicating that a fragmented condensate converts into a single condensate as a consequence of the breaking of translation symmetry.",
+    "authors": [
+      "Rina Kanamoto",
+      "Hiroki Saito",
+      "Masahito Ueda"
+    ],
+    "published": "2004-06-30T01:32:14Z",
+    "updated": "2005-03-11T03:46:42Z",
+    "categories": [
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0406740v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0406740v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/nucl-th/0312115v1",
+    "title": "Meson Condensations in High-Density Matter",
+    "summary": "Recent studies on meson condensations (pions and kaons) in high-density hadronic matter are reviewed. After summarizing onset mechanisms of pion and kaon condensations, we discuss implications for neutron star phenomena such as rapid cooling through neutrino emission, static and dynamic properties of neutron stars. Recent studies on coexistence problem of pion and kaon condensations are briefly introduced. Finally, relevance of meson condensations in hadronic matter to those in color superconductivity are briefly mentioned.",
+    "authors": [
+      "Takumi Muto"
+    ],
+    "published": "2003-12-26T10:05:36Z",
+    "updated": "2003-12-26T10:05:36Z",
+    "categories": [
+      "nucl-th",
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/nucl-th/0312115v1",
+    "arxivUrl": "http://arxiv.org/abs/nucl-th/0312115v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0904.4810v1",
+    "title": "Instabilities of a matter wave in a matter grating",
+    "summary": "We investigate the stability of Bloch waves for a Bose-Einstein condensate moving through a periodic lattice created by another condensate modulated by an optical lattice. We show that the coupling of phonon-antiphonon modes of the two species give rise to a very rich structure of the regimes for dynamical instability, with significant differences with respect to the case of a single condensate in an optical lattice. We characterize the relative weight of each condensate in the mixing and discuss an analytic limit that accounts for the bare structure of the instability diagrams.",
+    "authors": [
+      "Giovanni Barontini",
+      "Michele Modugno"
+    ],
+    "published": "2009-04-30T12:44:07Z",
+    "updated": "2009-04-30T12:44:07Z",
+    "categories": [
+      "cond-mat.quant-gas",
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0904.4810v1",
+    "arxivUrl": "http://arxiv.org/abs/0904.4810v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1312.0176v1",
+    "title": "Infinite Statistics Condensate as a Model of Dark Matter",
+    "summary": "In some models, dark matter is considered as a condensate bosonic system. In this paper, we prove that condensation is also possible for particles that obey infinite statistics and derive the critical condensation temperature. We argue that a condensed state of a gas of very weakly interacting particles obeying infinite statistics could be considered as a consistent model of dark matter.",
+    "authors": [
+      "Zahra Ebadi",
+      "Behrouz Mirza",
+      "Hosein Mohammadzadeh"
+    ],
+    "published": "2013-12-01T03:16:56Z",
+    "updated": "2013-12-01T03:16:56Z",
+    "categories": [
+      "hep-th",
+      "cond-mat.quant-gas"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1312.0176v1",
+    "arxivUrl": "http://arxiv.org/abs/1312.0176v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1705.09007v1",
+    "title": "Prediction of ultra-narrow Higgs resonance in magnon Bose-condensates",
+    "summary": "Higgs resonance modes in condensed matter systems are generally broad; meaning large decay widths or short relaxation times. This common feature has obscured and limited their observation to a select few systems. Contrary to this, the present work predicts that Higgs resonances in magnetic field induced, three-dimensional magnon Bose-condensates have vanishingly small decay widths. Specifically for parameters relating to TlCuCl$_3$, we find an energy ($\\Delta_H$) to width ($\\Gamma_H$) ratio $\\Delta_H/\\Gamma_H\\sim500$, making this the narrowest predicted Higgs mode in a condensed matter system, some two orders of magnitude `narrower' than the sharpest condensed matter Higgs observed so far.",
+    "authors": [
+      "H. D. Scammell",
+      "O. P. Sushkov"
+    ],
+    "published": "2017-05-25T00:31:19Z",
+    "updated": "2017-05-25T00:31:19Z",
+    "categories": [
+      "cond-mat.str-el",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1705.09007v1",
+    "arxivUrl": "http://arxiv.org/abs/1705.09007v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2005.05488v1",
+    "title": "Electrical neutrality and $β$-equilibrium conditions in dense quark   matter: generation of charged pion condensation by chiral imbalance",
+    "summary": "The phase diagram of dense quark matter with chiral imbalance is considered with the conditions of electric neutrality and $\\beta$-equilibrium. It has been shown recently that chiral imbalance can generate charged pion condensation in dense quark matter, so it was interesting to verify that this phenomenon takes place in realistic physical scenarios such as electrically neutral matter in $\\beta$-equilibrium, because a window of pion condensation at dense quark matter phase diagram (without chiral imbalance) predicted earlier was closed by the consideration of these conditions at the physical current quark mass. In this paper it has been shown that the charged pion condensation is generated by chiral imbalance in the dense electric neutral quark/baryonic matter in $\\beta$-equilibrium, i. e. matter in neutron stars. It has been also demonstrated that pion condensation is inevitable phenomenon in dense quark matter with chiral imbalance if there is non-zero chiral imbalance in two forms, chiral and chiral isospin one. It seems that in this case pion condensation phase can be hardly avoided by any physical constraint on isopin imbalance and that this conclusion can be probably generalized from neutron star matter to the matter produced in heavy ion collisions or in neutron star mergers. The chiral limit and the physical piont (physical pion mass) has been considered and it was shown that the appearance of pion condensation is not much affected by the consideration of non-zero current quark mass.",
+    "authors": [
+      "T. G. Khunjua",
+      "K. G. Klimenko",
+      "R. N. Zhokhov"
+    ],
+    "published": "2020-05-11T23:45:18Z",
+    "updated": "2020-05-11T23:45:18Z",
+    "categories": [
+      "hep-ph",
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2005.05488v1",
+    "arxivUrl": "http://arxiv.org/abs/2005.05488v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9811147v1",
+    "title": "Instabilities of wave function monopoles in Bose-Einstein condensates",
+    "summary": "We present analytic and numerical results for a class of monopole solutions to the two-component Gross-Pitaevski equation for a two-species Bose condensate in an effectively two-dimensional trap. We exhibit dynamical instabilities involving vortex production as one species pours through another, from which we conclude that the sub-optical sharpness of potentials exerted by matter waves makes condensates ideal tools for manipulating condensates. We also show that there are two equally valid but drastically different hydrodynamic descriptions of a two-component condensate, and illustrate how different phenomena may appear simpler in each.",
+    "authors": [
+      "Th. Busch",
+      "J. R. Anglin"
+    ],
+    "published": "1998-11-11T05:06:52Z",
+    "updated": "1998-11-11T05:06:52Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9811147v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9811147v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0409479v1",
+    "title": "Symmetry breaking induced by random fluctuations for Bose-Einstein   condensates in a double-well trap",
+    "summary": "This paper is devoted to the study of the dynamics of two weakly-coupled Bose-Einstein condensates confined in a double-well trap and perturbed by random external forces. Energy diffusion due to random forcing allows the system to visit symmetry-breaking states when the number of atoms exceeds a threshold value. The energy distribution evolves to a stationary distribution which depends on the initial state of the condensate only through the total number of atoms. This loss of memory of the initial conditions allows a simple and complete description of the stationary dynamics of the condensate which randomly visits symmetric and symmetry-breaking states.",
+    "authors": [
+      "J. Garnier",
+      "F. Kh. Abdullaev"
+    ],
+    "published": "2004-09-18T04:46:45Z",
+    "updated": "2004-09-18T04:46:45Z",
+    "categories": [
+      "cond-mat.other",
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0409479v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0409479v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0812.0237v2",
+    "title": "Quark and Gluon Condensates in Isospin Matter",
+    "summary": "Applying the Hellmann-Feynman theorem to a charged pion gas, the quark and gluon condensates at low isospin density are determined by precise pion properties. At intermediate density around $ f_\\pi^2m_\\pi$, from both the estimation for the dilute pion gas and the calculation with Nambu--Jona-Lasinio model, the quark condensate is strongly and monotonously suppressed, while the gluon condensate is enhanced and can be larger than its vacuum value. This unusual behavior of the gluon condensate is universal for Bose condensed matter of mesons. Our results can be tested by lattice calculations at finite isospin density.",
+    "authors": [
+      "Lianyi He",
+      "Yin Jiang",
+      "Pengfei Zhuang"
+    ],
+    "published": "2008-12-01T07:27:51Z",
+    "updated": "2009-05-03T11:03:16Z",
+    "categories": [
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0812.0237v2",
+    "arxivUrl": "http://arxiv.org/abs/0812.0237v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1411.3216v1",
+    "title": "Antiferromagnetic Order in a Spin-Orbit Coupled Bose-Einstein Condensate",
+    "summary": "Spin-orbit coupling related new physics and quantum magnetism are two branches of great interest both in condensed matter physics and in cold atomic physics. With the introduction of a Rashba-like SOC into a Bose-Einstein condensate (BEC) loaded in a two-dimensional bipartite optical square lattice, we find that the ground state of the BEC always favors a coherent condensate than a fragmented condensate and always exhibits very large degeneracy, and most importantly, an antiferromagnetic order of quantum nature emerges when parameters satisfy certain condition. This provides an ideal platform to study the interplay of antiferromagnetic phase and superfluid phase.",
+    "authors": [
+      "Zhongbo Yan",
+      "Shaolong Wan"
+    ],
+    "published": "2014-11-12T15:54:16Z",
+    "updated": "2014-11-12T15:54:16Z",
+    "categories": [
+      "cond-mat.quant-gas",
+      "cond-mat.other",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1411.3216v1",
+    "arxivUrl": "http://arxiv.org/abs/1411.3216v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9609215v1",
+    "title": "Soft Condensed Matter Physics",
+    "summary": "Soft condensed matter physics is the study of materials, such as fluids, liquid crystals, polymers, colloids, and emulsions, that are ``soft\" to the touch. This article will review some properties, such as the dominance of entropy, that are unique to soft materials and some properties such as the interplay between broken-symmetry, dynamic mode structure, and topological defects that are common to all condensed matter systems but which are most easily studied in soft systems.",
+    "authors": [
+      "T. C. Lubensky"
+    ],
+    "published": "1996-09-20T21:08:20Z",
+    "updated": "1996-09-20T21:08:20Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9609215v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9609215v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9611082v1",
+    "title": "Lorentz Group in Condensed Matter Physics",
+    "summary": "It is shown that the Lorentz group plays prominent roles in at least two areas in condensed matter physics, namely in the Bogoliubov transformation and optical filters. It is pointed out that the underlying symmetry of the Bogoliubov transformation is that of two coupled oscillators, and that the underlying symmetry of two coupled oscillators in that of the group $O(3,3)$. The Lorentz group is also shown to be the underlying symmetry group for the Jones matrix formalism which is standard language for optical filters.",
+    "authors": [
+      "Y. S. Kim"
+    ],
+    "published": "1996-11-11T20:15:15Z",
+    "updated": "1996-11-11T20:15:15Z",
+    "categories": [
+      "cond-mat",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9611082v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9611082v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9809200v1",
+    "title": "Phase Transitions in Condensed Matter and Relativistic QFT",
+    "summary": "Kibble and Zurek have provided a unifying picture for the onset of phase transitions in relativistic QFT and condensed matter systems respectively, strongly supported by agreement with condensed matter experiments in He3. The failure of a recent experiment on He4 to agree with the predictions has prompted a reappraisal of this picture. We provide an alternative picture that explains the experimental evidence.",
+    "authors": [
+      "R. J. Rivers"
+    ],
+    "published": "1998-09-14T16:27:23Z",
+    "updated": "1998-09-14T16:27:23Z",
+    "categories": [
+      "cond-mat",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9809200v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9809200v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0001006v1",
+    "title": "Condensed Matter Physics - Biology Resonance",
+    "summary": "The field of condensed matter physics had its genesis this century and it has had a remarkable evolution. A closer look at its growth reveals a hidden aim in the collective consciousness of the field - a part of the development this century is a kind of warm up exercise to understand the nature of living condensed matter, namely the field of biology, by a growing new breed of scientists in the coming century. Through some examples the vitality of this interaction will be pointed out.",
+    "authors": [
+      "G. Baskaran"
+    ],
+    "published": "2000-01-03T00:41:21Z",
+    "updated": "2000-01-03T00:41:21Z",
+    "categories": [
+      "cond-mat",
+      "q-bio"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0001006v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0001006v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0303353v1",
+    "title": "Topology from the Bottom Up",
+    "summary": "Perspective on cond-mat/0303289",
+    "authors": [
+      "Randall D. Kamien"
+    ],
+    "published": "2003-03-18T17:57:47Z",
+    "updated": "2003-03-18T17:57:47Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0303353v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0303353v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0405222v2",
+    "title": "High sensitivity phonon spectroscopy of Bose-Einstein condensates using   matter-wave interference",
+    "summary": "We study low momentum excitations of a Bose-Einstein condensate using a novel matter-wave interference technique. In time-of-flight expansion images we observe strong matter-wave fringe patterns. The fringe contrast is a sensitive spectroscopic probe of in-trap phonons and is explained by use of a Bogoliubov excitation projection method applied to the rescaled order parameter of the expanding condensate. Gross-Pitaevskii simulations agree with the experimental data and confirm the validity of the theoretical interpretation. We show that the high sensitivity of this detection scheme gives access to the quantized quasiparticle regime.",
+    "authors": [
+      "N. Katz",
+      "R. Ozeri",
+      "J. Steinhauer",
+      "N. Davidson",
+      "C. Tozzo",
+      "F. Dalfovo"
+    ],
+    "published": "2004-05-11T11:53:18Z",
+    "updated": "2004-06-24T15:56:43Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0405222v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0405222v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/0706.4381v2",
+    "title": "Neutrino Emission From Direct Urca Processes in Pion Condensed Quark   Matter",
+    "summary": "We study neutrino emission from direct Urca processes in pion condensed quark matter. In compact stars with high baryon density, the emission is dominated by the gapless modes of the pion condensation which leads to an enhanced emissivity. While for massless quarks the enhancement is not remarkable, the emissivity is significantly larger and the cooling of the condensed matter is considerably faster than that in normal quark matter when the mass difference between $u$- and $d$-quarks is sizable.",
+    "authors": [
+      "Xuguang Huang",
+      "Qun Wang",
+      "Pengfei Zhuang"
+    ],
+    "published": "2007-06-29T10:10:47Z",
+    "updated": "2007-11-19T10:12:02Z",
+    "categories": [
+      "hep-ph",
+      "astro-ph",
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0706.4381v2",
+    "arxivUrl": "http://arxiv.org/abs/0706.4381v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0312166v2",
+    "title": "Transition radiation by matter-wave solitons in optical lattices",
+    "summary": "We demonstrate that matter-wave solitary pulses formed from Bose condensed atoms moving inside optical lattices continuously radiate dispersive matter waves with prescribed momentum. Our analytical results for the radiation parameters and the soliton decay rate are found to be in excellent agreement with numerical modelling performed for experimentally relevant parameters.",
+    "authors": [
+      "A. V. Yulin",
+      "D. V. Skryabin",
+      "P. St. J. Russell"
+    ],
+    "published": "2003-12-05T16:44:57Z",
+    "updated": "2003-12-09T10:42:50Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0312166v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0312166v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0404020v2",
+    "title": "The Perfectly Matched Layer for nonlinear and matter waves",
+    "summary": "We discuss how the Perfectly Matched Layer (PML) can be adapted to numerical simulations of nonlinear and matter wave systems, such as Bose-Einstein condensates. We also present some examples which illustrate the benefits of using the PML in the simulation of nonlinear and matter waves.",
+    "authors": [
+      "C. Farrell",
+      "U. Leonhardt"
+    ],
+    "published": "2004-04-01T14:12:32Z",
+    "updated": "2004-08-13T14:18:08Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0404020v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0404020v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0610114v1",
+    "title": "Dynamical localization of matter wave solitons in managed barrier   potentials",
+    "summary": "The bright matter wave soliton propagation through a barrier with a rapidly oscillating position is investigated. The averaged over rapid oscillations Gross-Pitaevskii (GP) equation is derived. It is shown that the soliton is dynamically trapped by the effective double-barrier.   The analytical predictions for the soliton effective dynamics is confirmed by the numerical simulations of the full GP equation.",
+    "authors": [
+      "Fatkhulla Kh. Abdullaev",
+      "Josselin Garnier"
+    ],
+    "published": "2006-10-04T12:49:48Z",
+    "updated": "2006-10-04T12:49:48Z",
+    "categories": [
+      "cond-mat.other",
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0610114v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0610114v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/nucl-th/9305006v1",
+    "title": "Composition, Structure and Evolution of Neutron Stars with Kaon   Condensates",
+    "summary": "We investigate the possibility of kaon condensation in the dense interior of neutron stars through the s--wave interaction of kaons with nucleons. We include nucleon--nucleon interactions by using simple parametrizations of realistic forces, and include electrons and muons in $\\beta$--equilibrium. The conditions under which kaon condensed cores undergo a transition to quark matter containing strange quarks are also established. The critical density for kaon condensation lies in the range (2.3--5.0)$~\\rho_0$, where $\\rho_0=0.16$~fm$^{-3}$ is the equilibrium density of nuclear matter. For too large a value of the strangeness content of the proton, matter with a kaon condensate is not sufficiently stiff to support the lower limit of $1.44 M_\\odot$ for a neutron star. Kaon condensation dramatically increases the proton abundance of matter and even allows positrons to exist inside the core. We also consider the case when neutrinos are trapped in the matter. Neutrino trapping shifts both kaon condensation and the quark matter transition to higher densities than in the case of cold, catalyzed matter. A newly--formed neutron star is expected to have a rather low central density, the density rising only after mass accretion onto the star ends after a few seconds. Thus, it is likely that if kaon condensation and/or the quark--hadron phase transition occur, they do so only during or after the mass accretion and neutrino trapping stages. We suggest that neutrino observations from a galactic supernova may provide direct evidence for or against a condensate and/or a quark--hadron transition.",
+    "authors": [
+      "V. Thorsson",
+      "M. Prakash",
+      "J. M. Lattimer"
+    ],
+    "published": "1993-05-11T16:55:19Z",
+    "updated": "1993-05-11T16:55:19Z",
+    "categories": [
+      "nucl-th",
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/nucl-th/9305006v1",
+    "arxivUrl": "http://arxiv.org/abs/nucl-th/9305006v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1210.1748v1",
+    "title": "Gravitational effects of condensate dark matter on compact stellar   objects",
+    "summary": "We study the gravitational effect of non-self-annihilating dark matter on compact stellar objects. The self-interaction of condensate dark matter can give high accretion rate of dark matter onto stars. Phase transition to condensation state takes place when the dark matter density exceeds the critical value. A compact degenerate dark matter core is developed and alter the structure and stability of the stellar objects. Condensate dark matter admixed neutron stars is studied through the two-fuid TOV equation. The existence of condensate dark matter deforms the mass-radius relation of neutron stars and lower their maximum baryonic masses and radii. The possible effects on the Gamma-ray Burst rate in high redshift are discussed.",
+    "authors": [
+      "Xinyu Li",
+      "Fayin Wang",
+      "K. S. Cheng"
+    ],
+    "published": "2012-10-05T13:15:16Z",
+    "updated": "2012-10-05T13:15:16Z",
+    "categories": [
+      "astro-ph.CO"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1210.1748v1",
+    "arxivUrl": "http://arxiv.org/abs/1210.1748v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0306561v1",
+    "title": "Detecting mirror matter on Earth via its thermal imprint on ordinary   matter",
+    "summary": "Mirror matter type dark matter can exist on the Earth's surface, potentially in enhanced concentrations at various anomalous impact sites. Mirror matter fragments can draw in heat from the ordinary matter environment, radiate mirror photons and thereby cool the surrounding ordinary matter. We quantify this effect and suggest that it could be used to help locate mirror matter deposits. This method, together with the centrifuge technique, seems to provide the most promising means to experimentally detect mirror matter type dark matter in the Earth.",
+    "authors": [
+      "R. Foot",
+      "S. Mitra"
+    ],
+    "published": "2003-06-23T10:24:21Z",
+    "updated": "2003-06-23T10:24:21Z",
+    "categories": [
+      "cond-mat",
+      "astro-ph",
+      "physics.geo-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0306561v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0306561v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0007221v1",
+    "title": "A novel method for the extraction of the condensate fraction of liquid   ^4He",
+    "summary": "We present a new, semi-phenomenologocal method to extract the condensate fraction n_0(T) from two sets of measured responses of ^4He with identical kinematis at T<T_c and T>T_c.",
+    "authors": [
+      "A. S. Rinat",
+      "M. F. Taragin"
+    ],
+    "published": "2000-07-13T09:06:40Z",
+    "updated": "2000-07-13T09:06:40Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0007221v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0007221v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0112410v1",
+    "title": "Collapse dynamics of trapped Bose-Einstein condensates",
+    "summary": "We analyze the implosion and subsequent explosion of a trapped condensate after the scattering length is switched to a negative value. Our results compare very well qualitatively and fairly well quantitatively with the results of recent experiments at JILA.",
+    "authors": [
+      "L. Santos",
+      "G. V. Shlyapnikov"
+    ],
+    "published": "2001-12-21T11:39:09Z",
+    "updated": "2001-12-21T11:39:09Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0112410v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0112410v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0208555v1",
+    "title": "Half-quantum vortices in strongly correlated Bose liquids",
+    "summary": "We discuss the structure of a vortex in a superfluid Bose liquid with a suppressed Bose-Einstein condensate and an intensive pair correlated condensate. The vortex represents the pair of half-quantum vortices topologically confined by the soliton.",
+    "authors": [
+      "G. E. Volovik"
+    ],
+    "published": "2002-08-28T13:06:59Z",
+    "updated": "2002-08-28T13:06:59Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0208555v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0208555v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0703737v1",
+    "title": "Explanation of the Stern-Gerlach splitting of spinor condensates based   on symmetry",
+    "summary": "The Stern-Gerlach splitting of spinor condensates is explained based on the total spin-states with specified SU(2) and permutation symmetries.",
+    "authors": [
+      "Zhibing Li",
+      "Chengguang Bao"
+    ],
+    "published": "2007-03-28T04:29:40Z",
+    "updated": "2007-03-28T04:29:40Z",
+    "categories": [
+      "cond-mat.other",
+      "cond-mat.stat-mech"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0703737v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0703737v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0612614v3",
+    "title": "Magnetic Monopole and Charged Particle",
+    "summary": "This paper has been withdrawn by the author due to the paper does not belong to Condensed Matter field.",
+    "authors": [
+      "Shengguo Liu"
+    ],
+    "published": "2006-12-24T11:06:53Z",
+    "updated": "2009-01-08T08:19:41Z",
+    "categories": [
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0612614v3",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0612614v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0702503v1",
+    "title": "Comment on 'Path Summation Formulation of the Master Equation'",
+    "summary": "Comment on 'Path Summation Formulation of the Master Equation'",
+    "authors": [
+      "Ophir Flomenbom",
+      "Joseph Klafter",
+      "Robert J. Silbey"
+    ],
+    "published": "2007-02-21T19:30:57Z",
+    "updated": "2007-02-21T19:30:57Z",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0702503v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0702503v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0705.0571v1",
+    "title": "Supersolidity of glasses",
+    "summary": "Supersolidity of glasses is explained as a property of an unusual state of condensed matter. This state is essentially different from both normal and superfluid solid states. The mechanism of the phenomenon is the transfer of mass by tunneling two level systems.",
+    "authors": [
+      "A. F. Andreev"
+    ],
+    "published": "2007-05-04T08:04:04Z",
+    "updated": "2007-05-04T08:04:04Z",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0705.0571v1",
+    "arxivUrl": "http://arxiv.org/abs/0705.0571v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0708.0110v2",
+    "title": "Metropolis simulations of the manipulation of DNA strands in solution",
+    "summary": "This paper has been withdrawn by the authors.",
+    "authors": [
+      "Chris J. Lee",
+      "Tim Molteno",
+      "Peter J. Manson"
+    ],
+    "published": "2007-08-01T10:39:37Z",
+    "updated": "2007-08-24T08:05:42Z",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.other"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0708.0110v2",
+    "arxivUrl": "http://arxiv.org/abs/0708.0110v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/0710.4449v1",
+    "title": "Characterization of researchers in condensed matter physics using simple   quantity based on h-index",
+    "summary": "Analysis of citation records of 52 active and productive condensed matter physicists shows that the ratio of h-index to the mean age of h most highly cited publications is a reliable quantity that allows meaningful comparison of scientists of different age.",
+    "authors": [
+      "M. A. Pustovoit"
+    ],
+    "published": "2007-10-24T12:25:58Z",
+    "updated": "2007-10-24T12:25:58Z",
+    "categories": [
+      "physics.soc-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0710.4449v1",
+    "arxivUrl": "http://arxiv.org/abs/0710.4449v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1001.1631v1",
+    "title": "Quantum Condensates in Nuclear Matter: Problems",
+    "summary": "In connection with the contribution \"Quantum Condensates in Nuclear Matter\" some problems are given to become more familiar with the techniques of many-particle physics.",
+    "authors": [
+      "G. Ropke",
+      "D. Zablocki"
+    ],
+    "published": "2010-01-11T15:17:49Z",
+    "updated": "2010-01-11T15:17:49Z",
+    "categories": [
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1001.1631v1",
+    "arxivUrl": "http://arxiv.org/abs/1001.1631v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1606.03610v2",
+    "title": "On the Concept of Static Structure Factor",
+    "summary": "We clarify the confusion in the expression of the static structure factor S(k) in the study of condensed matters and discuss its explicit form that can be directly used in calculations and computer simulations.",
+    "authors": [
+      "Kai Zhang"
+    ],
+    "published": "2016-06-11T16:14:49Z",
+    "updated": "2016-06-20T17:23:00Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1606.03610v2",
+    "arxivUrl": "http://arxiv.org/abs/1606.03610v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2402.04666v1",
+    "title": "Obituary for Stefan U. Egelhaaf",
+    "summary": "This is a tribute to honor Stefan U. Egelhaaf (1963-2023), a pioneer in experimental soft condensed matter physics.",
+    "authors": [
+      "M. A. Escobedo-Sánchez",
+      "M. Laurati",
+      "H. Löwen",
+      "W. C. K. Poon",
+      "P. N. Pusey",
+      "P. Schurtenberger"
+    ],
+    "published": "2024-02-07T08:53:04Z",
+    "updated": "2024-02-07T08:53:04Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2402.04666v1",
+    "arxivUrl": "http://arxiv.org/abs/2402.04666v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1601.07516v3",
+    "title": "Dark matter as the Bose-Einstein condensation in loop quantum cosmology",
+    "summary": "We consider the FLRW universe in a loop quantum cosmological model filled with the radiation, baryonic matter (with negligible pressure), dark energy and dark matter. The dark matter sector is supposed to be of Bose-Einstein condensate type. The Bose-Einstein condensation process in a cosmological context by supposing it as an approximate first order phase transition, has been already studied in the literature. Here, we study the evolution of the physical quantities related to the early universe description such as the energy density, temperature and scale factor of the universe, before, during and after the condensation process. We also consider in detail the evolution era of the universe in a mixed normal-condensate dark matter phase. The behavior and time evolution of the condensate dark matter fraction is also analyzed.",
+    "authors": [
+      "K. Atazadeh",
+      "F. Darabi",
+      "M. Mousavi"
+    ],
+    "published": "2016-01-27T19:35:28Z",
+    "updated": "2016-06-19T14:19:45Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1601.07516v3",
+    "arxivUrl": "http://arxiv.org/abs/1601.07516v3"
+  }
+]

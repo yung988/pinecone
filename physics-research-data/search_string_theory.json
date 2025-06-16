@@ -1,0 +1,1628 @@
+[
+  {
+    "id": "http://arxiv.org/abs/hep-th/0609182v1",
+    "title": "Towards open-closed string duality: Closed Strings as Open String Fields",
+    "summary": "We establish a translation dictionary between open and closed strings, starting from open string field theory. Under this correspondence, (off-shell) level-matched closed string states are represented by star algebra projectors in open string field theory. Particular attention is paid to the zero mode sector, which is indispensable in order to generate closed string states with momentum. As an outcome of our identification, we show that boundary states, which in closed string theory represent D-branes, correspond to the identity string field in the open string side. It is to be remarked that closed string theory D-branes are thus given by an infinite superposition of star algebra projectors.",
+    "authors": [
+      "L. Bonora",
+      "N. Bouatta",
+      "C. Maccaferri"
+    ],
+    "published": "2006-09-26T15:08:07Z",
+    "updated": "2006-09-26T15:08:07Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0609182v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0609182v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1801.10521v1",
+    "title": "Conformal geometric method study open strings and closed strings   relationships on Dirichlet branes",
+    "summary": "The compactness of the closed string in the classical Type II string theory reveals the duality, whereas the compactness of the open string reveals that the end of the string is on the hypersurface which satisfies the Dirichlet boundary condition.",
+    "authors": [
+      "Hanze Li",
+      "Maolin Bo"
+    ],
+    "published": "2018-01-31T16:06:09Z",
+    "updated": "2018-01-31T16:06:09Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1801.10521v1",
+    "arxivUrl": "http://arxiv.org/abs/1801.10521v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/0302332v1",
+    "title": "Open and Closed String field theory interpreted in classical Algebraic   Topology",
+    "summary": "There is an interpretation of open string field theory in algebraic topology. An interpretation of closed string field theory can be deduced from this open string theory to obtain as well the interpretation of open and closed string field theory combined.",
+    "authors": [
+      "Dennis Sullivan"
+    ],
+    "published": "2003-02-26T18:35:18Z",
+    "updated": "2003-02-26T18:35:18Z",
+    "categories": [
+      "math.QA",
+      "math.GT"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math/0302332v1",
+    "arxivUrl": "http://arxiv.org/abs/math/0302332v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2201.09632v1",
+    "title": "Cubic Closed String Field Theory on a Double Layer",
+    "summary": "Various studies have attempted to extend the Witten's cubic open string field theory to the cubic closed string field theory, which may describe Einstein gravity in the low energy sector consistently. In the present study we propose a cubic closed string field theory, introducing a double layer to describe the closed string world-sheet as an extension of the open string world-sheet of the Witten's cubic open string. We mapped the closed string world-sheet onto the complex plane, of which the lower half plane is completely covered by the extended part of the string world-sheet. Using the Green's function on the complex plane, evaluated the Polyakov string path integral, from which we extracted the Neumann functions and the vertex operators. We obtained the one and two string vertices (identities) following this procedure and finally the cubic string vertex operator. It is notable that the obtained cubic string scattering amplitude coincide with the cubic graviton interaction of the Einstein gravity. Thus, the resultant cubic closed string field theory consistently describes the Einstein gravity. We also show that the Kawai-Lewellen-Tye (KLT) relations of the first quantized string theory may be manifested in the cubic closed string field theory.",
+    "authors": [
+      "Taejin Lee"
+    ],
+    "published": "2022-01-24T12:26:50Z",
+    "updated": "2022-01-24T12:26:50Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2201.09632v1",
+    "arxivUrl": "http://arxiv.org/abs/2201.09632v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0105076v2",
+    "title": "On Field Theory of Open Strings, Tachyon Condensation and Closed Strings",
+    "summary": "I review the physical properties of different vacua in the background independent open string field theory. Talk presented at Strings 2001, Mumbai, India, http://theory.theory.tifr.res.in/strings/Proceedings/#sha-s.",
+    "authors": [
+      "Samson L. Shatashvili"
+    ],
+    "published": "2001-05-08T18:22:10Z",
+    "updated": "2001-05-09T02:01:21Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0105076v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0105076v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0302228v1",
+    "title": "Advances in String Theory in Curved Backgrounds: A Synthesis Report",
+    "summary": "A synthetic report of the advances in the study of classical and quantum string dynamics in curved backgrounds is provided, namely: the new feature of multistring solutions; the effect of a cosmological constant and of spacial curvature on classical and quantum strings; classical splitting of fundamental strings;the general string evolution in constant curvature spacetimes;the conformal invariant effects;strings on plane waves, shock waves and spacetime singularities and its spectrum. New developments in string gravity and string cosmology are reported: string driven cosmology and its predictions;the primordial gravitation wave background; non-singular string cosmologies from exact conformal field theories;QFT, string temperature and the string phase of de Sitter space; the string phase of black holes;new dual relation between QFT regimes and string regimes and the 'QFT/String Tango'; new coherent string states and minimal uncertainty principle in string theory",
+    "authors": [
+      "Norma G. Sanchez"
+    ],
+    "published": "2003-02-28T15:47:30Z",
+    "updated": "2003-02-28T15:47:30Z",
+    "categories": [
+      "hep-th",
+      "astro-ph",
+      "gr-qc",
+      "hep-ph",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0302228v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0302228v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9403086v4",
+    "title": "A Universal w String Theory",
+    "summary": "It has been shown that there is a sequential embedding structure in a $w_N$\\ string theory based on a linearized $W_N$\\ algebra. The $w_N$\\ string theory is obtained as a special realization of the $w_{N+1}$\\ string. The $w_{\\infty}$\\ string theory is a universal string theory in this sense. We have also shown that there is a similar sequence for $N=1$\\ string theory. The $N=1\\ w_N$\\ string can be given as a special case of the $N=1\\ w_{N+1}$\\ string. In addition, we show that the $w_3$\\ string theory is obtained as a special realization of the $N=1\\ w_3$\\ string. We conjecture that the $w_N$\\ string can be obtained as a special $N=1\\ w_N$\\ string for general $w_N$. If this is the case, $N=1\\ w_{\\infty}$\\ string theory is more universal since it includes both $N=0$\\ and $N=1$\\ $w_N$\\ string theories.",
+    "authors": [
+      "Hiroshi Kunitomo",
+      "Makoto Sakaguchi",
+      "Akira Tokura"
+    ],
+    "published": "1994-03-16T11:05:28Z",
+    "updated": "1994-03-22T17:05:38Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9403086v4",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9403086v4"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9412212v1",
+    "title": "Temporal-gauge String Field with Open Strings",
+    "summary": "A string field theory including open string fields is constructed in the temporal gauge. It consists of string interaction vertices similar to the light-cone gauge string field theory. A slight modification of the definition of the time coordinate is needed because of the existence of the open string end points.",
+    "authors": [
+      "T. Mogami"
+    ],
+    "published": "1994-12-24T03:20:54Z",
+    "updated": "1994-12-24T03:20:54Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9412212v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9412212v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9503134v1",
+    "title": "A Background Independent Formulation of Noncritical String Theory",
+    "summary": "Using the string field theory recently proposed by the authors and collaborators, we give a background independent formulation of rational noncritical string theories with $c\\leq 1$. With a little modification of the string field Hamiltonians previously constructed, we obtain string field theories which include various rational noncritical string theories as classical backgrounds.",
+    "authors": [
+      "Nobuyuki Ishibashi",
+      "Hikaru Kawai"
+    ],
+    "published": "1995-03-22T05:01:41Z",
+    "updated": "1995-03-22T05:01:41Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9503134v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9503134v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9609005v1",
+    "title": "A Note on Tensionless Strings in M-Theory",
+    "summary": "In this article we examine the appearance of tensionless strings in M-Theory. We subsequently interpret these tensionless strings in a String Theory context. In particular, we examine tensionless strings appearing in M-Theory on $S^{1}$, M-Theory on $S^{1} / {\\bf Z}_{2}$, and M-Theory on $T^{2}$; we then interpret the appearance of such strings in a String Theory context. Then we reverse this process and examine the appearance of some tensionless strings in String Theory. Subsequently we interpret these tensionless strings in a M-Theory context.",
+    "authors": [
+      "K. Davis"
+    ],
+    "published": "1996-08-30T11:51:51Z",
+    "updated": "1996-08-30T11:51:51Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9609005v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9609005v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0207266v2",
+    "title": "Closed String Amplitudes from Gauge Fixed String Field Theory",
+    "summary": "Closed string diagrams are derived from cubic open string field theory using a gauge fixed kinetic operator. The basic idea is to use a string propagator that does not generate a boundary to the world sheet. Using this propagator and the closed string vertex, the moduli space of closed string surfaces is covered, so closed string scattering amplitudes should be reproduced. This kinetic operator could be a gauge fixed form of the string field theory action around the closed string vacuum.",
+    "authors": [
+      "Nadav Drukker"
+    ],
+    "published": "2002-07-30T09:19:52Z",
+    "updated": "2003-06-10T10:10:50Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0207266v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0207266v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0410103v2",
+    "title": "Tachyon Dynamics in Open String Theory",
+    "summary": "In this review we describe our current understanding of the properties of open string tachyons on an unstable D-brane or brane-antibrane system in string theory. The various string theoretic methods used for this study include techniques of two dimensional conformal field theory, open string field theory, boundary string field theory, non-commutative solitons etc. We also describe various attempts to understand these results using field theoretic methods. These field theory models include toy models like singular potential models and p-adic string theory, as well as more realistic version of the tachyon effective action based on Dirac-Born-Infeld type action. Finally we study closed string background produced by the `decaying' unstable D-branes, both in the critical string theory and in the two dimensional string theory, and describe the open string completeness conjecture that emerges out of this study. According to this conjecture the quantum dynamics of an unstable D-brane system is described by an internally consistent quantum open string field theory without any need to couple the system to closed strings. Each such system can be regarded as a part of the `hologram' describing the full string theory.",
+    "authors": [
+      "Ashoke Sen"
+    ],
+    "published": "2004-10-11T08:41:31Z",
+    "updated": "2004-11-02T06:02:17Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0410103v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0410103v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2003.12487v3",
+    "title": "String Backgrounds in String Geometry",
+    "summary": "String geometry theory is a candidate of the non-perturbative formulation of string theory. In order to determine the string vacuum, we need to clarify how string backgrounds are described in string geometry theory. In this paper, we show that the string backgrounds are embedded in configurations of the fields of a string geometry model. Especially, we show that the configurations satisfy the equations of motion of the string geometry model if and only if the embedded string backgrounds satisfy their equations of motion. This means that classical dynamics of the string backgrounds are described as a part of classical dynamics in string geometry theory. Furthermore, we define an energy of the configurations in the string geometry model because they do not depend on the string geometry time. A string background can be determined by minimizing the energy.",
+    "authors": [
+      "Masaki Honda",
+      "Matsuo Sato"
+    ],
+    "published": "2020-03-27T15:40:27Z",
+    "updated": "2021-02-25T14:13:34Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2003.12487v3",
+    "arxivUrl": "http://arxiv.org/abs/2003.12487v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2309.10394v3",
+    "title": "The potential for string backgrounds from string geometry theory",
+    "summary": "String geometry theory is one of the candidates of the non-perturbative formulation of string theory. In this paper, in the bosonic closed sector of string geometry theory, we identify string background configurations, which include general string backgrounds in bosonic closed string theory. From fluctuations around these configurations, we derive the path-integrals of perturbative strings on the string backgrounds up to any order. Furthermore, the identification of the string background configurations enables us to obtain differential equations that determine a potential for string backgrounds. We obtain a potential for perturbative vacua in string theory by substituting the string background configurations into the classical potential in string geometry theory and imposing the differential equations by the method of Lagrange multipliers. We also solve these differential equations and obtain a potential explicitly up to the second order without Lagrange multipliers.",
+    "authors": [
+      "Koichi Nagasaki",
+      "Matsuo Sato"
+    ],
+    "published": "2023-09-19T07:48:19Z",
+    "updated": "2025-03-01T07:18:03Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "hep-ph",
+      "math.DG",
+      "math.SG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2309.10394v3",
+    "arxivUrl": "http://arxiv.org/abs/2309.10394v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0411099v1",
+    "title": "Exactly Soluble Dynamics of (p,q) String Near Macroscopic Fundamental   Strings",
+    "summary": "We study dynamics of Type IIB bound-state of a Dirichlet string and n fundamental strings in the background of N fundamental strings. Because of supergravity potential, the bound-state string is pulled to the background fundamental strings, whose motion is described by open string rolling radion field. The string coupling can be made controllably weak and, in the limit $1 << g^2_{\\rm st} n << g^2_{\\rm st} N$, the bound-state energy involved is small compared to the string scale. We thus propose rolling dynamics of open string radion in this system as an exactly solvable analog for rolling dynamics of open string tachyon in decaying D-brane. The dynamics bears a novel feature that the worldsheet electric field increases monotonically to the critical value as the bound-state string falls into the background string. Close to the background string, D string constituent inside the bound-state string decouples from fundamental string constituents.",
+    "authors": [
+      "Dongsu Bak",
+      "Soo-Jong Rey",
+      "Ho-Ung Yee"
+    ],
+    "published": "2004-11-09T23:59:47Z",
+    "updated": "2004-11-09T23:59:47Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0411099v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0411099v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2002.01774v2",
+    "title": "Perturbative string theory from Newtonian limit of string geometry   theory",
+    "summary": "String geometry theory is one of the candidates of the non-perturbative formulation of string theory. In arXiv:1709.03506, the perturbative string theory is reproduced from a string geometry model coupled with a $u(1)$ gauge field on string manifolds. In this paper, we generalize this result and we show that the perturbative string theory is reproduced from any string geometry model by taking a Newtonian limit.",
+    "authors": [
+      "Matsuo Sato",
+      "Yuji Sugimoto"
+    ],
+    "published": "2020-02-05T13:15:37Z",
+    "updated": "2020-10-15T07:22:17Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2002.01774v2",
+    "arxivUrl": "http://arxiv.org/abs/2002.01774v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9504027v1",
+    "title": "STRING STRING DUALITY CONJECTURE IN SIX DIMENSIONS AND CHARGED SOLITONIC   STRINGS",
+    "summary": "It has recently been conjectured that the type IIA string theory compactified on K3 and the heterotic string theory compactified on a four dimensional torus describe identical string theories. The fundamental heterotic string can be regarded as a non-singular soliton solution of the type IIA string theory with a semi-infinite throat. We show that this solution admits 24 parameter non-singular deformation describing a fundamental heterotic string carrying electric charge and current. The charge is generated due to the coupling of the gauge fields to the anti-symmetric tensor field, and not to an explicit source term. This clarifies how soliton solutions carrying charge under the Ramond-Ramond fields can be constructed in the type IIA theory, and provides further support to the string string duality conjecture. Similarly, the fundamental type IIA string can be regarded as a non-singular solution of the heterotic string theory with a semi-infinite throat, but this solution does not admit any deformation representing charged string. This is also consistent with the expectation that a fundamental type IIA string does not carry any charge that couples to the fields originating in the Ramond-Ramond sector.",
+    "authors": [
+      "Ashoke Sen"
+    ],
+    "published": "1995-04-06T14:42:07Z",
+    "updated": "1995-04-06T14:42:07Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9504027v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9504027v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0510033v2",
+    "title": "Open Heterotic Strings",
+    "summary": "We classify potential cosmic strings according to the topological charge measurable outside the string core. We conjecture that in string theory it is this charge that governs the stability of long strings. This would imply that the SO(32) heterotic string can have endpoints, but not the E_8 x E_8 heterotic string. We give various arguments in support of this conclusion.",
+    "authors": [
+      "Joseph Polchinski"
+    ],
+    "published": "2005-10-04T19:10:11Z",
+    "updated": "2005-10-07T21:55:45Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0510033v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0510033v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9607148v1",
+    "title": "Cosmological Quantum String Vacua and String-String Duality",
+    "summary": "Implications of string-string dualities to cosmological string vacua are discussed. Cosmological vacua of classical string theories comprise of disjoint classses mapped one another by scale-factor T-duality. Each classes are, however, afflicted with initial/final cosmological singularities. It is argued that quantum string theories and string-string dualities dramatically resolve these cosmological singularities out so that disjoint classical cosmological vacua are continuously connected in a unified manner. A natural inflationary cosmology follows from this.",
+    "authors": [
+      "Soo-Jong Rey"
+    ],
+    "published": "1996-07-18T06:01:38Z",
+    "updated": "1996-07-18T06:01:38Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9607148v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9607148v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0612004v1",
+    "title": "String Theory: A Theory of Unification",
+    "summary": "These notes on string theory are based on a series of talks I gave during my graduate studies. As the talks, this introductory essay is intended for young students and non-string theory physicists.",
+    "authors": [
+      "Oswaldo Zapata"
+    ],
+    "published": "2006-12-01T05:09:42Z",
+    "updated": "2006-12-01T05:09:42Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0612004v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0612004v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0603068v2",
+    "title": "Twist Field as Three String Interaction Vertex in Light Cone String   Field Theory",
+    "summary": "It has been suggested that matrix string theory and light-cone string field theory are closely related. In this paper, we investigate the relation between the twist field, which represents string interactions in matrix string theory, and the three-string interaction vertex in light-cone string field theory carefully. We find that the three-string interaction vertex can reproduce some of the most important OPEs satisfied by the twist field.",
+    "authors": [
+      "Isao Kishimoto",
+      "Sanefumi Moriyama",
+      "Shunsuke Teraguchi"
+    ],
+    "published": "2006-03-09T00:33:04Z",
+    "updated": "2007-03-22T02:19:08Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0603068v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0603068v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2203.16304v2",
+    "title": "Path integrals of perturbative strings on curved backgrounds from string   geometry theory",
+    "summary": "String geometry theory is one of the candidates of the non-perturbative formulation of string theory. In this paper, from the closed bosonic sector of string geometry theory, we derive path integrals of all order perturbative strings on all the string backgrounds, $G_{\\mu\\nu}(x)$, $B_{\\mu\\nu}(x)$, and $\\Phi (x)$, by considering fluctuations around the string background configurations, which are parametrized by the string backgrounds.",
+    "authors": [
+      "Matsuo Sato",
+      "Yuji Sugimoto",
+      "Kunihito Uzawa"
+    ],
+    "published": "2022-03-30T13:47:53Z",
+    "updated": "2022-12-01T13:06:30Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "hep-ph",
+      "math.DG",
+      "math.SG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2203.16304v2",
+    "arxivUrl": "http://arxiv.org/abs/2203.16304v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9305166v1",
+    "title": "Half-String Approach to Closed String Field Theory",
+    "summary": "In this letter we present an operator formalism for Closed String Field Theory based on closed half-strings. Our results indicate that the restricted polyhedra of the classical non-polynomial string field theory, can be represented as traces of infinite matrices, with operator insertions that reparametrise the half-strings.",
+    "authors": [
+      "F. Anton",
+      "A. Abdurrahman",
+      "J. Bordes"
+    ],
+    "published": "1993-05-28T20:28:57Z",
+    "updated": "1993-05-28T20:28:57Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9305166v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9305166v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9510080v1",
+    "title": "String duality and massless string states",
+    "summary": "We are discussing the $S$ \\& $T$ duality for special class of heterotic string configurations. This class of solutions includes various types of black hole solutions and Taub-NUT geometries. It allows a self-dual point for both dualities which corresponds to massless configurations. As string state this point corresponds to $N_R=1/2$ and $N_L=0$. The string/string duality is shortly discussed.",
+    "authors": [
+      "K. Behrndt"
+    ],
+    "published": "1995-10-12T12:35:21Z",
+    "updated": "1995-10-12T12:35:21Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9510080v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9510080v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1010.4125v1",
+    "title": "Closed String Cohomology in Open String Field Theory",
+    "summary": "We show that closed string states in bosonic string field theory are encoded in the cyclic cohomology of cubic open string field theory (OSFT) which, in turn, classifies the deformations of OSFT. This cohomology is then shown to be independent of the open string background. Exact elements correspond to closed string gauge transformations, generic boundary deformations of Witten's 3-vertex and infinitesimal shifts of the open string background. Finally it is argued that the closed string cohomology and the cyclic cohomology of OSFT are isomorphic to each other.",
+    "authors": [
+      "Nicolas Moeller",
+      "Ivo Sachs"
+    ],
+    "published": "2010-10-20T08:38:26Z",
+    "updated": "2010-10-20T08:38:26Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1010.4125v1",
+    "arxivUrl": "http://arxiv.org/abs/1010.4125v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9110041v1",
+    "title": "Some Properties of (Non) Critical Strings",
+    "summary": "We review some recent developments in string theory, emphasizing the importance of vacuum instabilities, their relation to the density of states, and the role of space-time fermions in non-critical string theory. We also discuss the classical dynamics of two dimensional string theory.",
+    "authors": [
+      "D. Kutasov"
+    ],
+    "published": "1991-10-15T12:24:24Z",
+    "updated": "1991-10-15T12:24:24Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9110041v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9110041v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2008.05493v2",
+    "title": "T-Duality in Nonrelativistic Open String Theory",
+    "summary": "Nonrelativistic open string theory is defined by a worldsheet theory that produces a Galilean invariant string spectrum and is described at low energies by a nonrelativistic Yang-Mills theory. We study T-duality transformations in the path integral for the sigma model that describes nonrelativistic open string theory coupled to an arbitrary closed string background, described by a string Newton-Cartan geometry, Kalb-Ramond, and dilaton field. We prove that T-duality transformations map nonrelativistic open string theory to relativistic and noncommutative open string theory in the discrete light cone quantization (DLCQ), a quantization scheme relevant for Matrix string theory. We also show how the worldvolume dynamics of nonrelativistic open string theory described by the Dirac-Born-Infeld type action maps to the Dirac-Born-Infeld actions describing the worldvolume theories of the DLCQ of open string theory and noncommutative open string theory.",
+    "authors": [
+      "Jaume Gomis",
+      "Ziqi Yan",
+      "Matthew Yu"
+    ],
+    "published": "2020-08-12T18:00:18Z",
+    "updated": "2021-02-09T18:13:12Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2008.05493v2",
+    "arxivUrl": "http://arxiv.org/abs/2008.05493v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9607183v2",
+    "title": "Bits of String and Bits of Branes",
+    "summary": "String-bit models are both an efficient way of organizing string perturbation theory, and a possible non-perturbative composite description of string theory. This is a summary of ideas and results of string-bit and superstring-bit models, as presented in the Strings '96 conference.",
+    "authors": [
+      "Oren Bergman"
+    ],
+    "published": "1996-07-23T17:30:24Z",
+    "updated": "1996-07-24T14:47:06Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9607183v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9607183v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0307173v1",
+    "title": "Closed String Amplitudes in Open String Field Theory",
+    "summary": "We investigate gauge invariant operators corresponding to on-shell closed string states in open string field theory. Using both oscillator representation and conformal mapping techniques, we calculate a two closed string tachyon amplitude that connects two gauge invariant operators by an open string propagator.We find that this amplitude is in a complete agreement with the usual disc amplitude.",
+    "authors": [
+      "Tomohiko Takahashi",
+      "Syoji Zeze"
+    ],
+    "published": "2003-07-18T06:34:19Z",
+    "updated": "2003-07-18T06:34:19Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0307173v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0307173v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1807.07661v2",
+    "title": "Field theory actions for ambitwistor string and superstring",
+    "summary": "We analyze the free ambitwistor string field theory action for the bosonic string, heterotic string and both GSO sectors of the Type II string. The spectrum contains non-unitary states and provides an interesting consistency test for one-loop ambitwistor string computations.",
+    "authors": [
+      "Nathan Berkovits",
+      "Matheus Lize"
+    ],
+    "published": "2018-07-19T23:21:58Z",
+    "updated": "2018-08-14T15:12:22Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1807.07661v2",
+    "arxivUrl": "http://arxiv.org/abs/1807.07661v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0010084v2",
+    "title": "Monodromic strings",
+    "summary": "We argue that apart from the standard closed and open strings one may consider a third possibility that we call monodromic strings. The monodromic string propagating on a target looks like an ordinary open string (a mapping from a segment to the target) but its space of states is isomorphic to that of a closed string.   It is shown that the monodromic strings naturally appear in T-dualizing closed strings moving on simply connected targets. As a nontrivial topology changing example we show that the monodromic strings on a compact Poisson-Lie group are T-dual to the standard closed strings propagating on the noncompact dual PL group.",
+    "authors": [
+      "C. Klimcik",
+      "S. Parkhomenko"
+    ],
+    "published": "2000-10-11T15:35:52Z",
+    "updated": "2001-06-18T09:15:10Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0010084v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0010084v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2103.05013v2",
+    "title": "KLT Factorization of Winding String Amplitudes",
+    "summary": "We uncover a Kawai-Lewellen-Tye (KLT)-type factorization of closed string amplitudes into open string amplitudes for closed string states carrying winding and momentum in toroidal compactifications. The winding and momentum closed string quantum numbers map respectively to the integer and fractional winding quantum numbers of open strings ending on a D-brane array localized in the compactified directions. The closed string amplitudes factorize into products of open string scattering amplitudes with the open strings ending on a D-brane configuration determined by closed string data.",
+    "authors": [
+      "Jaume Gomis",
+      "Ziqi Yan",
+      "Matthew Yu"
+    ],
+    "published": "2021-03-08T19:00:04Z",
+    "updated": "2021-07-25T19:42:21Z",
+    "categories": [
+      "hep-th",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2103.05013v2",
+    "arxivUrl": "http://arxiv.org/abs/2103.05013v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1902.05706v1",
+    "title": "Open-string singlet interaction as pomeron in elastic $pp, p\\bar{p}$   scattering",
+    "summary": "We consider contributions of the open-string singlet~(OSS) interaction to the proton-proton scattering. Modelling baryon and meson as instanton and open string in the effective QCD string model, the typical pomeron is identified with a massive spin-2 closed string. According to the open-closed string duality, the massive spin-2 closed string is accompanied by the open-string singlet interaction with universal coupling. The flat space 4-point open-string singlet amplitudes and cross sections are computed in the Regge limit. Including both the open and closed string pomerons, we fit the differential cross-section with experimental data of the proton-proton and proton-antiproton scattering from the CDF, E-710, D0, LHC-ATLAS and LHC-TOTEM collaborations. The fitting results show the universality of the string mass scale~(or string tension) and consistency of the string model between the open and closed string parameters in describing the $pp$ and $p\\bar{p}$ scattering in the Regge limit. The fitting of the string model to experimental data gives the string scale $M_{S}\\simeq 1.7-1.8$ GeV and the corresponding glueball pole mass $m_{g}\\simeq 1.6-1.7$ GeV. This lies within experimental values of the observed $2^{++}, I=0$ \"meson\" masses.",
+    "authors": [
+      "Piyabut Burikham",
+      "Daris Samart"
+    ],
+    "published": "2019-02-15T07:06:25Z",
+    "updated": "2019-02-15T07:06:25Z",
+    "categories": [
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1902.05706v1",
+    "arxivUrl": "http://arxiv.org/abs/1902.05706v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/0609062v1",
+    "title": "String Theory and Einstein's Dream",
+    "summary": "This article contains a short review of the current status of string theory.",
+    "authors": [
+      "Ashoke Sen"
+    ],
+    "published": "2006-09-08T05:54:56Z",
+    "updated": "2006-09-08T05:54:56Z",
+    "categories": [
+      "physics.pop-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/0609062v1",
+    "arxivUrl": "http://arxiv.org/abs/physics/0609062v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0808.2957v1",
+    "title": "Introduction to String Theory",
+    "summary": "The aim of these notes is to give recent developments in string theory. In particular, we discuss the string spectrums, compactifications, brane physics and dualities.",
+    "authors": [
+      "Adil Belhaj"
+    ],
+    "published": "2008-08-21T17:17:57Z",
+    "updated": "2008-08-21T17:17:57Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0808.2957v1",
+    "arxivUrl": "http://arxiv.org/abs/0808.2957v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9205108v1",
+    "title": "Exact Solutions in Bosonic and Heterotic String Theory",
+    "summary": "We review some exact solitonic solutions of string theory with higher-membrane structure. These include an axionic instanton solution of bosonic string theory as well as multi-instanton and multimonopole solutions of heterotic string theory. The heterotic solutions reveal some interesting aspects of string theory as a theory of quantum gravity.",
+    "authors": [
+      "Ramzi R. Khuri"
+    ],
+    "published": "1992-05-29T00:13:34Z",
+    "updated": "1992-05-29T00:13:34Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9205108v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9205108v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9206023v1",
+    "title": "On String Field Theory and Effective Actions",
+    "summary": "A truncation of string field theory is compared with the duality invariant effective action of $D=4, N=4$ heterotic strings to cubic order. The three string vertex must satisfy a set of compatibility conditions. Any cyclic three string vertex is compatible with the $D=4, N=4$ effective field theory. The effective actions may be useful in understanding the non--polynomial structure and the underlying symmetry of covariant closed string field theory, and in addressing issues of background independence. We also discuss the effective action and string field theory of the $N=2$ string.",
+    "authors": [
+      "Amit Giveon"
+    ],
+    "published": "1992-06-04T22:30:00Z",
+    "updated": "1992-06-04T22:30:00Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9206023v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9206023v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9802034v2",
+    "title": "Matrix string interactions",
+    "summary": "String configurations have been identified in compactified Matrix theory at vanishing string coupling. We show how the interactions of these strings are determined by the Yang-Mills gauge field on the worldsheet. At finite string coupling, this suggests the underlying dynamics is not well-approximated as a theory of strings. This may explain why string perturbation theory diverges badly, while Matrix string perturbation theory presumably has a perturbative expansion with properties similar to the strong coupling expansion of 2d Yang-Mills theory.",
+    "authors": [
+      "Vipul Periwal",
+      "Oyvind Tafjord"
+    ],
+    "published": "1998-02-05T21:22:14Z",
+    "updated": "1998-03-04T22:47:24Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9802034v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9802034v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1204.6722v2",
+    "title": "On open-closed extension of boundary string field theory",
+    "summary": "We investigate a classical open-closed string field theory whose open string sector is given by boundary string field theory. The open-closed interaction is introduced by the overlap of a boundary state with a closed string field. With the help of the Batalin-Vilkovisky formalism, the closed string sector is determined to be the HIKKO closed string field theory. We also discuss the gauge invariance of this theory in both open and closed string sides.",
+    "authors": [
+      "Akira Ishida",
+      "Shunsuke Teraguchi"
+    ],
+    "published": "2012-04-30T18:41:32Z",
+    "updated": "2012-07-11T05:11:44Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1204.6722v2",
+    "arxivUrl": "http://arxiv.org/abs/1204.6722v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1606.05636v1",
+    "title": "On the null origin of the ambitwistor string",
+    "summary": "In this paper we present the null string origin of the ambitwistor string. Classically, the null string is the tensionless limit of string theory, and so too is the Ambitwistor string. Both have as constraint algebra the Galilean Conformal Algebra in two dimensions. But something interesting happens in the quantum theory since there is an ambiguity in quantizing the null string. We show that, given a particular choice of quantization scheme and a particular gauge, the null string coincides with the ambitwistor string both classically and quantum mechanically. We also show that the same holds for the spinning versions of the null string and Ambitwistor string. With these results we clarify the relationship between the Ambitwistor string, the null string, the usual string and the Hohm-Siegel-Zwiebach theory.",
+    "authors": [
+      "Eduardo Casali",
+      "Piotr Tourkine"
+    ],
+    "published": "2016-06-17T19:45:25Z",
+    "updated": "2016-06-17T19:45:25Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1606.05636v1",
+    "arxivUrl": "http://arxiv.org/abs/1606.05636v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2012.11535v1",
+    "title": "$p$-adic fractal strings of arbitrary rational dimensions and Cantor   strings",
+    "summary": "The local theory of complex dimensions for real and $p$-adic fractal strings describes oscillations that are intrinsic to the geometry, dynamics and spectrum of archimedean and nonarchimedean fractal strings. We aim to develop a global theory of complex dimensions for ad\\`elic fractal strings in order to reveal the oscillatory nature of ad\\`elic fractal strings and to understand the Riemann hypothesis in terms of the vibrations and resonances of fractal strings.   We present a simple and natural construction of self-similar $p$-adic fractal strings of any rational dimension in the closed unit interval $[0,1]$. Moreover, as a first step towards a global theory of complex dimensions for ad\\`elic fractal strings, we construct an ad\\`elic Cantor string in the set of finite ad\\`eles $\\mathbb{A}_0$ as an infinite Cartesian product of every $p$-adic Cantor string, as well as an ad\\`elic Cantor-Smith string in the ring of ad\\`eles $\\mathbb{A}$ as a Cartesian product of the general Cantor string and the ad\\`elic Cantor string.",
+    "authors": [
+      "Michel L. Lapidus",
+      "Hùng Lũ'",
+      "Machiel van Frankenhuijsen"
+    ],
+    "published": "2020-12-21T17:55:08Z",
+    "updated": "2020-12-21T17:55:08Z",
+    "categories": [
+      "math.NT",
+      "11S85"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2012.11535v1",
+    "arxivUrl": "http://arxiv.org/abs/2012.11535v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9403122v1",
+    "title": "Recent Developments in D=2 String Field Theory",
+    "summary": "In this review article, we review the recent developments in constructing string field theories that have been proposed, all of which correctly reproduce the correlation functions of two-dimensional string theory. These include: (a) free fermion field theory (b) collective string field theory (c) temporal gauge string field theory (d) non-polynomial string field theory. We analyze discrete states, the $w(\\infty)$ symmetry, and correlation functions in terms of these different string field theories. We will also comment on the relationship between these various field theories. (To appear in Int. J. of Mod. Phys. Written in LATEX.)",
+    "authors": [
+      "Michio Kaku"
+    ],
+    "published": "1994-03-21T18:41:27Z",
+    "updated": "1994-03-21T18:41:27Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9403122v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9403122v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1708.05215v1",
+    "title": "Gravitational Scattering Amplitudes and Closed String Field Theory in   the Proper-Time Gauge",
+    "summary": "We construct a covariant closed string field theory by extending recent works on the covariant open string field theory in the proper-time gauge. Rewriting the string scattering amplitudes generated by the closed string field theory in terms of the Polyakov string path integrals, we identify the Fock space representations of the closed string vertices. We show that the Fock space representations of the closed string field theory may be completely factorized into those of the open string field theory. It implies that the well known Kawai-Lewellen-Tye (KLT) relations of the first quantized string theory may be promoted to the second quantized closed string theory. We explicitly calculate the scattering amplitudes of three gravitons by using the closed string field theory in the proper-time gauge.",
+    "authors": [
+      "Taejin Lee"
+    ],
+    "published": "2017-08-17T11:58:12Z",
+    "updated": "2017-08-17T11:58:12Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1708.05215v1",
+    "arxivUrl": "http://arxiv.org/abs/1708.05215v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201052v1",
+    "title": "Gauge Transformations in String Field Theory and canonical   Transformation in String Theory",
+    "summary": "We study how canonical transfomations in first quantized string theory can be understood as gauge transformations in string field theory. We establish this fact by working out some examples. As a by product, we could identify some of the fields appearing in string field theory with their counterparts in the $\\sigma$-model.",
+    "authors": [
+      "J. Maharana",
+      "S. mukherji"
+    ],
+    "published": "1992-01-24T19:53:00Z",
+    "updated": "1992-01-24T19:53:00Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9201052v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9201052v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9803191v1",
+    "title": "DLCQ-M(atrix) Description of String Theory, and Supergravity",
+    "summary": "We discuss the connection between Matrix string theory and the DLCQ of string theory. Using this connection we describe the sense in which perturbative string amplitudes are reproduced in the Matrix string theory. Using recent realization of the connection between SYM and Supergravity, we suggest how to describe Matrix theory with non-flat backgrounds.",
+    "authors": [
+      "Gilad Lifschytz"
+    ],
+    "published": "1998-03-23T22:04:30Z",
+    "updated": "1998-03-23T22:04:30Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9803191v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9803191v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9302108v1",
+    "title": "Instantons, Monopoles, Strings and Fivebranes",
+    "summary": "We discuss three classes of solitonic solutions in string theory: instantons, monopoles and string-like solitons. Instantons may provide a nonperturbative understanding of the vacuum structure of string theory, while monopoles may appear in string predictions for grand unification. The particular monopole solution shown has finite action as the result of the cancellation of gauge and gravitational singularities, a feature, which if it survives quantization, may yield insight into the structure of string theory as a finite theory of quantum gravity. In $D=10$, both monopoles and instantons possess fivebrane structure. The string-like solitons represent extended states of fundamental strings.( Talk given at INFN Eloisatron Project: 26th Workshop: ``From Superstrings to Supergravity'', Erice, Italy, Dec. 5-12, 1992.)",
+    "authors": [
+      "Ramzi R. Khuri"
+    ],
+    "published": "1993-02-22T22:13:48Z",
+    "updated": "1993-02-22T22:13:48Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9302108v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9302108v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0201249v2",
+    "title": "Gauge Invariant Operators and Closed String Scattering in Open String   Field Theory",
+    "summary": "Using the recent proposal for the observables in open string field theory, we explicitly compute the coupling of closed string tachyon and massless states with the open string states up to level two. Using these couplings, we then calculate the tree level S-matrix elements of two closed string tachyons or two massless states in the open string field theory. Up to some contact terms, the results reproduce exactly the corresponding amplitudes in the bosonic string theory.",
+    "authors": [
+      "Mohsen Alishahiha",
+      "Mohammad R. Garousi"
+    ],
+    "published": "2002-01-30T15:11:37Z",
+    "updated": "2002-05-06T07:29:05Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0201249v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0201249v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9302038v1",
+    "title": "SL(2, Z) Duality and Magnetically Charged Strings",
+    "summary": "Postulate of SL(2,\\Z) invariance of toroidally compactified heterotic string theory in four dimensions implies the existence of new string (dual string) states carrying both, electric and magnetic charges. In this paper we study the interaction between these dual strings. In particular, we consider scattering of two such strings in the limit where one string passes through the other string without touching it, and show that such a scattering leads to the exchange of a fixed amount of electric and magnetic charges between the two strings.",
+    "authors": [
+      "Ashoke Sen"
+    ],
+    "published": "1993-02-10T09:27:00Z",
+    "updated": "1993-02-10T09:27:00Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9302038v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9302038v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1305.4881v1",
+    "title": "The Static String",
+    "summary": "In this article the quantum fluctuation of a rigid and static string is reported to be identical to a free quantum particle. Solutions similar to this static string have already been found in the semi-classical quantizaton of pulsating strings, and our results show that the semi-classical quantization of pulsating strings is, in some cases, a perturbation of static strings. We also interpret the energy of the static string as a lower bound for the pulsating string and speculate about a description of quantum mechanics in terms of semi-classical string theory.",
+    "authors": [
+      "Sergio Giardino"
+    ],
+    "published": "2013-05-21T16:50:39Z",
+    "updated": "2013-05-21T16:50:39Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1305.4881v1",
+    "arxivUrl": "http://arxiv.org/abs/1305.4881v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0903.3889v1",
+    "title": "On generating independent random strings",
+    "summary": "It is shown that from two strings that are partially random and independent (in the sense of Kolmogorov complexity) it is possible to effectively construct polynomially many strings that are random and pairwise independent. If the two initial strings are random, then the above task can be performed in polynomial time. It is also possible to construct in polynomial time a random string, from two strings that have constant randomness rate.",
+    "authors": [
+      "Marius Zimand"
+    ],
+    "published": "2009-03-23T16:03:08Z",
+    "updated": "2009-03-23T16:03:08Z",
+    "categories": [
+      "cs.IT",
+      "cs.CC",
+      "math.IT"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0903.3889v1",
+    "arxivUrl": "http://arxiv.org/abs/0903.3889v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1609.01473v3",
+    "title": "Covariant open bosonic string field theory on multiple D-branes in the   proper-time gauge",
+    "summary": "We construct a covariant open bosonic string field theory on multiple D-branes, which reduces to a non-Abelian group Yang-Mills gauge theory in the zero-slope limit. Making use of the first quantized open bosonic string in the proper time gauge, we convert the string amplitudes given by the Polyakov path integrals on string world sheets into those of the second quantized theory. The world sheet diagrams generated by the constructed open string field theory are planar in contrast to those of the Witten's cubic string field theory. However, the constructed string field theory is yet equivalent to the Witten's cubic string field theory. Having obtained planar diagrams, we may adopt the light-cone string field theory technique to calculate the multi-string scattering amplitudes with an arbitrary number of external strings. We examine in detail the three-string vertex diagram and the effective four-string vertex diagrams generated perturbatively by the three-string vertex at tree level. In the zero-slope limit, the string scattering amplitudes are identified precisely as those of non-Abelian Yang-Mills gauge theory if the external states are chosen to be massless vector particles.",
+    "authors": [
+      "Taejin Lee"
+    ],
+    "published": "2016-09-06T10:14:52Z",
+    "updated": "2017-03-19T08:40:11Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1609.01473v3",
+    "arxivUrl": "http://arxiv.org/abs/1609.01473v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0702219v2",
+    "title": "String Theory: Progress and Problems",
+    "summary": "String theory builds on the great legacy of Yukawa and Tomonaga: New degrees of freedom and control of the UV are two important themes. This talk will give an overview of some of the progress and some of the unsolved problems that characterize string theory today. It is divided into two parts: (1) Connecting String Theory to the Real World; (2) Gauge Theory/String Theory Duality. Two other major subjects, which I will omit, are Black Holes in String Theory and The Impact of String Theory on Mathematics.",
+    "authors": [
+      "John H. Schwarz"
+    ],
+    "published": "2007-02-27T22:32:36Z",
+    "updated": "2007-03-05T23:45:54Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0702219v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0702219v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0002189v2",
+    "title": "Free Large N Supersymmetric Yang-Mills Theory as a String Theory",
+    "summary": "The strong version of Maldacena's AdS/CFT conjecture implies that the large N expansion of free N=4 super-YM theory describes an interacting string theory in the extreme limit of high spacetime curvature relative to the string length. String states may then be understood as composed of SYM string bits. We investigate part of the low-lying spectrum of the tensionless (zero-coupling) limit and find a large number of states that are not present in the infinite tension (strong-coupling) limit, notably several massless spin two particles. We observe that all conformal dimensions are N-independent in the free SYM theory, implying that masses in the corresponding string theory are unchanged by string interactions. Degenerate string states do however mix in the interacting string theory because of the complicated N-dependence of general CFT two-point functions. Finally we verify the CFT crossing symmetry, which corresponds to the dual properties of string scattering amplitudes. This means that the SYM operator correlation functions define AdS dual models analogous to the Minkowski dual models that gave rise to string theory.",
+    "authors": [
+      "Parviz Haggi-Mani",
+      "Bo Sundborg"
+    ],
+    "published": "2000-02-22T22:42:05Z",
+    "updated": "2000-05-22T11:50:35Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0002189v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0002189v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2112.00025v4",
+    "title": "KLT Factorization of Nonrelativistic String Amplitudes",
+    "summary": "We continue our study of the Kawai-Lewellen-Tye (KLT) factorization of winding string amplitudes. In a toroidal compactification, amplitudes for winding closed string states factorize into products of amplitudes for open strings ending on an array of D-branes localized in the compactified directions; the specific D-brane configuration is determined by the closed string data. In this paper, we study a zero Regge slope limit of the KLT relations between winding string amplitudes. Such a limit of string theory requires a critically tuned Kalb-Ramond field in a compact direction, and leads to a self-contained corner called nonrelativistic string theory. This theory is unitary, ultraviolet complete, and its string spectrum and spacetime S-matrix satisfy nonrelativistic symmetry. Moreover, the asymptotic closed string states in nonrelativistic string theory necessarily carry nonzero windings. First, starting with relativistic string theory, we construct a KLT factorization of amplitudes for winding closed strings in the presence of a critical Kalb-Ramond field. Then, in the zero Regge limit, we uncover a KLT relation for amplitudes in nonrelativistic string theory. Finally, we show how such a relation can be reproduced from first principles in a purely nonrelativistic string theory setting. We will also discuss connections to the amplitudes of string theory in the discrete light cone quantization (DLCQ), a method that is relevant for Matrix theory.",
+    "authors": [
+      "Ziqi Yan",
+      "Matthew Yu"
+    ],
+    "published": "2021-11-30T19:00:03Z",
+    "updated": "2022-04-15T18:43:23Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2112.00025v4",
+    "arxivUrl": "http://arxiv.org/abs/2112.00025v4"
+  },
+  {
+    "id": "http://arxiv.org/abs/1806.06071v3",
+    "title": "Nonrelativistic String Theory and T-Duality",
+    "summary": "Nonrelativistic string theory in flat spacetime is described by a two-dimensional quantum field theory with a nonrelativistic global symmetry acting on the worldsheet fields. Nonrelativistic string theory is unitary, ultraviolet complete and has a string spectrum and spacetime S-matrix enjoying nonrelativistic symmetry. The worldsheet theory of nonrelativistic string theory is coupled to a curved spacetime background and to a Kalb-Ramond two-form and dilaton field. The appropriate spacetime geometry for nonrelativistic string theory is dubbed string Newton-Cartan geometry, which is distinct from Riemannian geometry. This defines the sigma model of nonrelativistic string theory describing strings propagating and interacting in curved background fields. We also implement T-duality transformations in the path integral of this sigma model and uncover the spacetime interpretation of T-duality. We show that T-duality along the longitudinal direction of the string Newton-Cartan geometry describes relativistic string theory on a Lorentzian geometry with a compact lightlike isometry, which is otherwise only defined by a subtle infinite boost limit. This relation provides a first principles definition of string theory in the discrete light cone quantization (DLCQ) in an arbitrary background, a quantization that appears in nonperturbative approaches to quantum field theory and string/M-theory, such as in Matrix theory. T-duality along a transverse direction of the string Newton-Cartan geometry equates nonrelativistic string theory in two distinct, T-dual backgrounds.",
+    "authors": [
+      "Eric Bergshoeff",
+      "Jaume Gomis",
+      "Ziqi Yan"
+    ],
+    "published": "2018-06-15T18:00:05Z",
+    "updated": "2018-11-21T00:19:07Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1806.06071v3",
+    "arxivUrl": "http://arxiv.org/abs/1806.06071v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0209016v1",
+    "title": "New Developments in String Gravity and String Cosmology.A Summary Report",
+    "summary": "New Developments in String Gravity and String Cosmology are reported: 1-String driven cosmology and its Predictions. 2-The primordial gravitational wave background in string cosmology. 3-Non-singular string cosmologies from Exact Conformal Field Theories. 4-Quantum Field Theory, String Temperature and the String Phase of de Sitter space-time, 5-Hawking Radiation in String Theory and the String Phase of Black Holes. 6-New Dual Relation between Quantum Field Theory regimes and String regimes in Curved Backgrounds, and the 'QFT/String Tango'. 7- New Coherent String States and Minimal Uncertainty Principle in WZWN models",
+    "authors": [
+      "Norma G. Sanchez"
+    ],
+    "published": "2002-09-02T12:21:50Z",
+    "updated": "2002-09-02T12:21:50Z",
+    "categories": [
+      "hep-th",
+      "astro-ph",
+      "gr-qc",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0209016v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0209016v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2102.12779v2",
+    "title": "Superstring Backgrounds in String Geometry",
+    "summary": "String geometry theory is a candidate of the non-perturbative formulation of string theory. In order to determine the string vacuum, we need to clarify how superstring backgrounds are described in string geometry theory. In this paper, we show that all the type IIA, IIB, SO(32) type I, and SO(32) and $E_8 \\times E_8$ heterotic superstring backgrounds are embedded in configurations of the fields of a single string geometry model. Especially, we show that the configurations satisfy the equations of motion of the string geometry model in $\\alpha' \\to 0$ if and only if the embedded string backgrounds satisfy the equations of motion of the supergravities, respectively. This means that classical dynamics of the string backgrounds are described as a part of classical dynamics in string geometry theory. Furthermore, we define an energy of the configurations in the string geometry model because they do not depend on the string geometry time. A string background can be determined by minimizing the energy.",
+    "authors": [
+      "Masaki Honda",
+      "Matsuo Sato",
+      "Taiki Tohshima"
+    ],
+    "published": "2021-02-25T10:54:20Z",
+    "updated": "2021-06-22T10:16:50Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2102.12779v2",
+    "arxivUrl": "http://arxiv.org/abs/2102.12779v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/0812.2361v1",
+    "title": "On the Correspondence of Open and Closed Strings",
+    "summary": "This thesis investigates correspondences between open and closed strings. This is done on the level of coupled open-closed moduli spaces and from a string field theoretic point of view. The construction of boundary string field theory on Wess-Zumino-Witten models leads to a conjecture on closed string backgrounds appearing as non-local operators in open string field theory. Sample computations for tachyon condensation leading to curved branes support this conjecture. Additional steps are taken to study supersymmetric string theories on Calabi-Yau manifolds in the presence of bulk and boundary moduli. For the topological B-model effective bulk-induced superpotentials for D5-branes are computed to all orders in the open string couplings.",
+    "authors": [
+      "Marco Baumgartl"
+    ],
+    "published": "2008-12-12T12:01:08Z",
+    "updated": "2008-12-12T12:01:08Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0812.2361v1",
+    "arxivUrl": "http://arxiv.org/abs/0812.2361v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0908.2989v1",
+    "title": "Bosonic String and String Field Theory: a solution using the holomorphic   representation",
+    "summary": "In this paper we show that the holomorphic representation is appropriate for description in a consistent way string and string field theories, when the considered number of component fields of the string field is finite. A new Lagrangian for the closed string is obtained and shown to be equivalent to Nambu-Goto's Lagrangian. We give the notion of anti-string, evaluate the propagator for the string field, and calculate the convolution of two of them.",
+    "authors": [
+      "C. G. Bollini",
+      "M. C. Rocca"
+    ],
+    "published": "2009-08-20T19:59:58Z",
+    "updated": "2009-08-20T19:59:58Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0908.2989v1",
+    "arxivUrl": "http://arxiv.org/abs/0908.2989v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9705241v1",
+    "title": "Oriented Open-Closed String Theory Revisited",
+    "summary": "String theory on D-brane backgrounds is open-closed string theory. Given the relevance of this fact, we give details and elaborate upon our earlier construction of oriented open-closed string field theory. In order to incorporate explicitly closed strings, the classical sector of this theory is open strings with a homotopy associative A_\\infty algebraic structure. We build a suitable Batalin-Vilkovisky algebra on moduli spaces of bordered Riemann surfaces, the construction of which involves a few subtleties arising from the open string punctures and cyclicity conditions. All vertices coupling open and closed strings through disks are described explicitly. Subalgebras of the algebra of surfaces with boundaries are used to discuss symmetries of classical open string theory induced by the closed string sector, and to write classical open string field theory on general closed string backgrounds. We give a preliminary analysis of the ghost-dilaton theorem.",
+    "authors": [
+      "Barton Zwiebach"
+    ],
+    "published": "1997-05-30T16:08:21Z",
+    "updated": "1997-05-30T16:08:21Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9705241v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9705241v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2201.12007v1",
+    "title": "Note About String with Deformed Dispersion Relation",
+    "summary": "We study string theory with global momentum living on de Sitter space. We also show that this presumption leads to the string with deformed dispersion relation.",
+    "authors": [
+      "J. Kluson"
+    ],
+    "published": "2022-01-28T09:36:17Z",
+    "updated": "2022-01-28T09:36:17Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2201.12007v1",
+    "arxivUrl": "http://arxiv.org/abs/2201.12007v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2209.15312v1",
+    "title": "Strings And Colorings Of Topological Coding Towards Asymmetric Topology   Cryptography",
+    "summary": "We, for anti-quantum computing, will discuss various number-based strings, such as number-based super-strings, parameterized strings, set-based strings, graph-based strings, integer-partitioned and integer-decomposed strings, Hanzi-based strings, as well as algebraic operations based on number-based strings. Moreover, we introduce number-based string-colorings, magic-constraint colorings, and vector-colorings and set-colorings related with strings. For the technique of encrypting the entire network at once, we propose graphic lattices related with number-based strings, Hanzi-graphic lattices, string groups, all-tree-graphic lattices. We study some topics of asymmetric topology cryptography, such as topological signatures, Key-pair graphs, Key-pair strings, one-encryption one-time and self-certification algorithms. Part of topological techniques and algorithms introduced here are closely related with NP-complete problems or NP-hard problems.",
+    "authors": [
+      "Bing Yao",
+      "Chao Yang",
+      "Xia Liu",
+      "Fei Ma",
+      "Jing Su",
+      "Hui Sun",
+      "Xiaohui Zhang",
+      "Yarong Mu"
+    ],
+    "published": "2022-09-30T08:41:44Z",
+    "updated": "2022-09-30T08:41:44Z",
+    "categories": [
+      "cs.IT",
+      "math.IT"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2209.15312v1",
+    "arxivUrl": "http://arxiv.org/abs/2209.15312v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9310069v1",
+    "title": "Strings and Singularities",
+    "summary": "We review aspects of spacetime singularities from the view point of string theory. Examples considered include cosmological, cosmic string and black-hole singularities. We also discuss the consistency of viewing black-holes as excited states of fundamental strings (based on talk presented at Salamfest, March 1993, Trieste).",
+    "authors": [
+      "Cumrun Vafa"
+    ],
+    "published": "1993-10-13T14:39:14Z",
+    "updated": "1993-10-13T14:39:14Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9310069v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9310069v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9909152v1",
+    "title": "Dynamical truncation of the string spectrum at finite N",
+    "summary": "We exhibit a nonperturbative background independent dynamical truncation of the string spectrum and a quantization of the string coupling constant directly from the Hamiltonian governing the dynamics of strings constructed from Yang-Mills theories.",
+    "authors": [
+      "Gilad Lifschytz",
+      "Vipul Periwal"
+    ],
+    "published": "1999-09-21T21:01:52Z",
+    "updated": "1999-09-21T21:01:52Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9909152v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9909152v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0812.0183v1",
+    "title": "From Quarks to Strings",
+    "summary": "In this article, prepared for the book \"The birth of string theory\", I recall the sequence of ideas which led to non-critical strings and gauge/strings duality. I also comment on some promising future directions.",
+    "authors": [
+      "A. M. Polyakov"
+    ],
+    "published": "2008-11-30T22:53:51Z",
+    "updated": "2008-11-30T22:53:51Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0812.0183v1",
+    "arxivUrl": "http://arxiv.org/abs/0812.0183v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1706.08025v2",
+    "title": "String Scattering Amplitudes and Deformed Cubic String Field Theory",
+    "summary": "We study string scattering amplitudes by using the deformed cubic string field theory which is equivalent to the string field theory in the proper-time gauge. The four-string scattering amplitudes with three tachyons and an arbitrary string state are calculated. The string field theory yields the string scattering amplitudes evaluated on the world sheet of string scattering whereas the coventional method, based on the first quantized theory brings us the string scattering amplitudes defined on the upper half plane. For the highest spin states, generated by the primary operators, both calculations are in perfect agreement. In this case, the string scattering amplitudes are invariant under the conformal transformation, which maps the string world sheet onto the upper half plane. If the external string states are general massive states, generated by non-primary field operators, we need to take into account carefully the conformal transformation between the world sheet and the upper half plane. We show by an explicit calculation that the string scattering amplitudes calculated by using the deformed cubic string field theory transform into those of the first quantized theory on the upper half plane by the conformal transformation, generated by the Schwarz-Christoffel mapping.",
+    "authors": [
+      "Sheng-Hong Lai",
+      "Jen-Chi Lee",
+      "Yi Yang",
+      "Taejin Lee"
+    ],
+    "published": "2017-06-25T02:45:15Z",
+    "updated": "2017-11-11T05:51:22Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1706.08025v2",
+    "arxivUrl": "http://arxiv.org/abs/1706.08025v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2211.17162v1",
+    "title": "High energy scattering and string/black hole transition",
+    "summary": "We give a short review of high energy scattering in string theory, thermal properties of strings, explain the connection between the two and how they all tie together with the string/black hole transition.",
+    "authors": [
+      "Alek Bedroya"
+    ],
+    "published": "2022-11-30T16:55:33Z",
+    "updated": "2022-11-30T16:55:33Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2211.17162v1",
+    "arxivUrl": "http://arxiv.org/abs/2211.17162v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1303.3444v2",
+    "title": "On Homotopy Algebras and Quantum String Field Theory",
+    "summary": "We revisit the existence, background independence and uniqueness of closed, open and open-closed bosonic- and topological string field theory, using the machinery of homotopy algebra. In a theory of classical open- and closed strings, the space of inequivalent open string field theories is isomorphic to the space of classical closed string backgrounds. We then discuss obstructions of these moduli spaces at the quantum level. For the quantum theory of closed strings, uniqueness on a given background follows from the decomposition theorem for loop homotopy algebras. We also address the question of background independence of closed string field theory.",
+    "authors": [
+      "Korbinian Muenster",
+      "Ivo Sachs"
+    ],
+    "published": "2013-03-14T13:43:30Z",
+    "updated": "2013-09-11T11:08:05Z",
+    "categories": [
+      "math.QA",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1303.3444v2",
+    "arxivUrl": "http://arxiv.org/abs/1303.3444v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1805.07084v2",
+    "title": "Classical Open String Amplitudes and Boundary String Field Theory",
+    "summary": "Abstract: We show that boundary string field theory realizes the minimal model of open string field theory. More precisely, we observe that the expansion of the (co)homological vector field, $Q$ of boundary string field theory in the cohomology of its linear part reproduces the S-matrices of perturbative string theory. In mathematical terms, boundary string field theory realizes the minimal model map of the cohomological perturbation lemma.",
+    "authors": [
+      "Christoph Chiaffrino",
+      "Ivo Sachs"
+    ],
+    "published": "2018-05-18T07:57:40Z",
+    "updated": "2019-06-09T16:06:16Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1805.07084v2",
+    "arxivUrl": "http://arxiv.org/abs/1805.07084v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2003.12076v1",
+    "title": "Divergent to Complex Amplitudes in Two Dimensional String Theory",
+    "summary": "In a recent paper, Balthazar, Rodriguez and Yin found remarkable agreement between the one instanton contribution to the scattering amplitudes of two dimensional string theory and those in the matrix model to the first subleading order. The comparison was carried out numerically by analytically continuing the external energies to imaginary values, since for real energies the string theory result diverges. We use insights from string field theory to give finite expressions for the string theory amplitudes for real energies. We also show analytically that the imaginary parts of the string theory amplitudes computed this way reproduce the full matrix model results for general scattering amplitudes involving multiple closed strings.",
+    "authors": [
+      "Ashoke Sen"
+    ],
+    "published": "2020-03-26T18:00:09Z",
+    "updated": "2020-03-26T18:00:09Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2003.12076v1",
+    "arxivUrl": "http://arxiv.org/abs/2003.12076v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0008101v1",
+    "title": "Codimension two lump solutions in string field theory and tachyonic   theories",
+    "summary": "We present some solutions for lumps in two dimensions in level-expanded string field theory, as well as in two tachyonic theories: pure tachyonic string field theory and pure $\\phi^3$ theory. Much easier to handle, these theories might be used to help understanding solitonic features of string field theory. We compare lump solutions between these theories and we discuss some convergence issues.",
+    "authors": [
+      "Nicolas Moeller"
+    ],
+    "published": "2000-08-11T22:16:32Z",
+    "updated": "2000-08-11T22:16:32Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0008101v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0008101v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0106209v1",
+    "title": "(A)dS Backgrounds from Asymmetric Orientifolds",
+    "summary": "I present asymmetric orientifold models which, with the addition of RR fluxes, fix all the NS NS moduli including the dilaton. In critical string theory, this gives new AdS backgrounds with (discretely tunably) weak string coupling. Extrapolating to super-critical string theory, this construction leads to a promising candidate for a metastable de Sitter background with string coupling of order 1/10 and dS radius of order 100 times the string scale. Extrapolating further to larger and larger super-critical dimension suggests the possibility of finding de Sitter backgrounds with weaker and weaker string coupling. This note is an updated version of the last part of my Strings 2001 talk.",
+    "authors": [
+      "Eva Silverstein"
+    ],
+    "published": "2001-06-22T16:46:47Z",
+    "updated": "2001-06-22T16:46:47Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0106209v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0106209v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2402.05775v1",
+    "title": "Relations between closed string amplitudes and mixed string amplitudes   at tree-level",
+    "summary": "This paper investigates the relationships between closed and mixed string amplitudes at the tree level in string theory. Through the analytic continuation of complex variables, we establish a factorization of closed string amplitudes into those involving ($n-2$) open strings and a single closed string. Expressions for four-, five-, and six-point amplitudes are provided, along with systematic formulations for $n$ strings. The paper addresses possible correction terms arising from integration along infinite tubes during the Wick rotation process. In the field theory limit, the correction terms become negligible due to being of subleading order.",
+    "authors": [
+      "Aphiwat Yuenyong",
+      "Pongwit Srisangyingcharoen"
+    ],
+    "published": "2024-02-08T16:02:31Z",
+    "updated": "2024-02-08T16:02:31Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2402.05775v1",
+    "arxivUrl": "http://arxiv.org/abs/2402.05775v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9603120v1",
+    "title": "String Equation From Field Equation",
+    "summary": "It is shown that the string equation can be obtain from field equations. Such work is performed to scalar field. The equation obtained in nonrelativistic limit describes the nonlinear string. Such string has the effective elasticity connencted with the local string curvature. Some examples of the movement such nonlinear elastic string are considered.",
+    "authors": [
+      "V. Ts. Gurovich",
+      "V. D. Dzhunushaliev"
+    ],
+    "published": "1996-03-18T07:58:07Z",
+    "updated": "1996-03-18T07:58:07Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9603120v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9603120v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0308023v1",
+    "title": "The Schrodinger Wave Functional and Closed String Rolling Tachyon",
+    "summary": "In this short note we apply Schrodinger picture description of the minisuperspace approach to the closed string tachyon condensation. We will calculate the rate of produced closed string and we will show that the density of high massive closed string modes reaches the string density in time of order one in string units.",
+    "authors": [
+      "J. Kluson"
+    ],
+    "published": "2003-08-04T10:58:50Z",
+    "updated": "2003-08-04T10:58:50Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0308023v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0308023v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0703008v1",
+    "title": "Zeta Strings",
+    "summary": "We introduce nonlinear scalar field models for open and open-closed strings with spacetime derivatives encoded in the operator valued Riemann zeta function. The corresponding two Lagrangians are derived in an adelic approach starting from the exact Lagrangians for effective fields of $p$-adic tachyon strings. As a result tachyons are absent in these models. These new strings we propose to call zeta strings. Some basic classical properties of the zeta strings are obtained and presented in this paper.",
+    "authors": [
+      "Branko Dragovich"
+    ],
+    "published": "2007-03-01T13:56:36Z",
+    "updated": "2007-03-01T13:56:36Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0703008v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0703008v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0707.3610v1",
+    "title": "P-term Strings and Semi-local Strings",
+    "summary": "P-term potentials can give rise to Nielsen-Olesen or semi-local cosmic strings. We present a general analysis of these cosmic strings where we derive the Bogomol'nyi equations and field profiles for both types of string and discuss their stability. We give an analysis of the fermionic zero modes that could live on the strings and a brief discussion of the inflationary period preceding their formation.",
+    "authors": [
+      "C. Burrage",
+      "A. C. Davis"
+    ],
+    "published": "2007-07-24T17:16:17Z",
+    "updated": "2007-07-24T17:16:17Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0707.3610v1",
+    "arxivUrl": "http://arxiv.org/abs/0707.3610v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1902.09008v1",
+    "title": "Classification of virtual string links up to cobordism",
+    "summary": "Cobordism of virtual string links on $n$ strands is a combinatorial generalization of link cobordism. There exists a bijection between virtual string links up to cobordisms and elements of the group $\\mathbb{Z}^{n(n-1)}$. This paper also shows that virtual string links up to unwelded equivalence are classified by those groups. Finally, the related theory of welded string link cobordism is defined herein and shown to be trivial for string links with one component.",
+    "authors": [
+      "Robin Gaudreau"
+    ],
+    "published": "2019-02-24T20:09:55Z",
+    "updated": "2019-02-24T20:09:55Z",
+    "categories": [
+      "math.GT"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1902.09008v1",
+    "arxivUrl": "http://arxiv.org/abs/1902.09008v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0306137v1",
+    "title": "Open-Closed Duality at Tree Level",
+    "summary": "We study decay of unstable D-branes in string theory in the presence of electric field, and show that the classical open string theory results for various properties of the final state agree with the properties of closed string states into which the system is expected to decay. This suggests a duality between tree level open string theory on unstable D-branes and closed strings at high density.",
+    "authors": [
+      "Ashoke Sen"
+    ],
+    "published": "2003-06-14T18:27:14Z",
+    "updated": "2003-06-14T18:27:14Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0306137v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0306137v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0704.2960v2",
+    "title": "An Exact Bosonization Rule for c=1 Noncritical String Theory",
+    "summary": "We construct a string field theory for c=1 noncritical strings using the loop variables as the string field. We show how one can express the nonrelativistic free fermions which describes the theory, in terms of these string fields.",
+    "authors": [
+      "N. Ishibashi",
+      "A. Yamaguchi"
+    ],
+    "published": "2007-04-23T09:48:35Z",
+    "updated": "2007-08-28T15:32:32Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0704.2960v2",
+    "arxivUrl": "http://arxiv.org/abs/0704.2960v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/0708.3656v1",
+    "title": "Memoirs of an Early String Theorist",
+    "summary": "I worked on String Theory over a period of five years during the First String Era, the most intellectually satisfying years of my scientific life. One of the early prospectors in the String Theory Mine, I was fortunate enough to contribute to the birth of this subject, which retains after these many years, its magical hold on our imaginations and expectations.",
+    "authors": [
+      "Pierre Ramond"
+    ],
+    "published": "2007-08-27T17:51:07Z",
+    "updated": "2007-08-27T17:51:07Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0708.3656v1",
+    "arxivUrl": "http://arxiv.org/abs/0708.3656v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0711.3448v2",
+    "title": "Reminiscence on the Birth of String Theory",
+    "summary": "These are my personal impressions of the environment in which string theory was born, and what the important developments affecting my work were during the hadronic string era, 1968-1974. I discuss my motivations and concerns at the time, particularly in my work on loop amplitudes and on closed strings.",
+    "authors": [
+      "Joel A. Shapiro"
+    ],
+    "published": "2007-11-21T20:57:45Z",
+    "updated": "2007-12-19T18:15:56Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0711.3448v2",
+    "arxivUrl": "http://arxiv.org/abs/0711.3448v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0311017v3",
+    "title": "D-Branes, Tachyons, and String Field Theory",
+    "summary": "In these notes we provide a pedagogical introduction to the subject of tachyon condensation in Witten's cubic bosonic open string field theory. We use both the low-energy Yang-Mills description and the language of string field theory to explain the problem of tachyon condensation on unstable D-branes. We give a self-contained introduction to open string field theory using both conformal field theory and overlap integrals. Our main subjects are the Sen conjectures on tachyon condensation in open string field theory and the evidence that supports these conjectures. We conclude with a discussion of vacuum string field theory and projectors of the star-algebra of open string fields. We comment on the possible role of string field theory in the construction of a nonperturbative formulation of string theory that captures all possible string backgrounds.",
+    "authors": [
+      "Washington Taylor",
+      "Barton Zwiebach"
+    ],
+    "published": "2003-11-03T23:17:13Z",
+    "updated": "2004-03-29T20:38:53Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0311017v3",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0311017v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/1905.07315v3",
+    "title": "Nonrelativistic String Theory in Background Fields",
+    "summary": "Nonrelativistic string theory is a unitary, ultraviolet finite quantum gravity theory with a nonrelativistic string spectrum. The vertex operators of the worldsheet theory determine the spacetime geometry of nonrelativistic string theory, known as the string Newton-Cartan geometry. We compute the Weyl anomaly of the nonrelativistic string worldsheet sigma model describing strings propagating in a string Newton-Cartan geometry, Kalb-Ramond and dilaton background. We derive the equations of motion that dictate the backgrounds on which nonrelativistic string theory can be consistently defined quantum mechanically. The equations of motion we find from our study of the conformal anomaly of the worldsheet theory are to nonrelativistic string theory what the (super)gravity equations of motion are to relativistic string theory.",
+    "authors": [
+      "Jaume Gomis",
+      "Jihwan Oh",
+      "Ziqi Yan"
+    ],
+    "published": "2019-05-17T15:10:27Z",
+    "updated": "2019-10-21T19:08:33Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1905.07315v3",
+    "arxivUrl": "http://arxiv.org/abs/1905.07315v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/0808.0458v3",
+    "title": "Subcritical String and Large N QCD",
+    "summary": "We pursue the possibility of using subcritical string theory in 4 space-time dimensions to establish a string dual for large N QCD. In particular we study the even G-parity sector of the 4 dimensional Neveu-Schwarz dual resonance model as the natural candidate for this string theory. Our point of view is that the open string dynamics given by this model will {\\it determine} the appropriate subcritical closed string theory, a tree level background of which should describe the sum of planar multi-loop open string diagrams. We examine the one loop open string diagram, which contains information about the closed string spectrum at weak coupling. Higher loop open string diagrams will be needed to determine closed string interactions. We also analyze the field theory limit of the one loop open string diagram and recover the correct running coupling behavior of the limiting gauge theory.",
+    "authors": [
+      "Charles B. Thorn"
+    ],
+    "published": "2008-08-04T16:30:51Z",
+    "updated": "2010-06-29T19:53:04Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0808.0458v3",
+    "arxivUrl": "http://arxiv.org/abs/0808.0458v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/1903.05775v3",
+    "title": "Topological String Geometry",
+    "summary": "Perturbative string amplitudes are correctly derived from the string geometry theory, which is one of the candidates of a non-perturbative formulation of string theory. In order to derive non-perturbative effects rather easily, we formulate topological string geometry theory. We derive the perturbative partition function of the topological string theory from fluctuations around a classical solution in the topological string geometry theory.",
+    "authors": [
+      "Matsuo Sato",
+      "Yuji Sugimoto"
+    ],
+    "published": "2019-03-14T00:42:49Z",
+    "updated": "2020-10-14T00:18:25Z",
+    "categories": [
+      "hep-th",
+      "hep-ph",
+      "math.AG",
+      "math.DG",
+      "math.FA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1903.05775v3",
+    "arxivUrl": "http://arxiv.org/abs/1903.05775v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/1710.07475v1",
+    "title": "Y-junction intercommutations of current carrying strings",
+    "summary": "Under certain conditions the collision and intercommutation of two cosmic strings can result in the formation of a third string, with the three strings then remaining connected at Y-junctions. The kinematics and dynamics of collisions of this type have been the subject of analytical and numerical analyses in the special case in which the strings are Nambu-Goto. Cosmic strings, however, may well carry currents, in which case their dynamics is not given by the Nambu-Goto action. Our aim is to extend the kinematic analysis to more general kinds of string model. We focus in particular on the collision of strings described by conservative elastic string models, characteristic of current carrying strings, and which are expected to form in a cosmological context. As opposed to Nambu-Goto strings collisions, we show that in this case the collision cannot lead to the formation of a third elastic string: if dynamically such a string forms then the joining string must be described by a more general equation of state. This process will be studied numerically in a forthcoming publication.",
+    "authors": [
+      "D. A. Steer",
+      "Marc Lilley",
+      "Daisuke Yamauchi",
+      "Takashi Hiramatsu"
+    ],
+    "published": "2017-10-20T10:34:56Z",
+    "updated": "2017-10-20T10:34:56Z",
+    "categories": [
+      "astro-ph.CO",
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1710.07475v1",
+    "arxivUrl": "http://arxiv.org/abs/1710.07475v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2212.05564v2",
+    "title": "Electrodynamics under Action of Null Cosmic Strings",
+    "summary": "A method to study electromagnetic (EM) effects generated by a straight null cosmic string moving in classical EM fields is suggested. The string is shown to induce an additional EM field which can be described as a solution to homogeneous Maxwell equations with initial data set on a null surface, the string event horizon, where the string world-sheet belongs to. The initial data ensure the required holonomy of the string space-time caused by the gravity of the string. This characteristic initial value problem is used to study interaction of plane waves with null strings and perturbations by the strings of the Coulomb fields of electric charges. It is shown that parts of an incoming EM wave crossing the string horizon from different sides of the string are refracted with respect to each other and leave behind the string a wedge-like region of interference. A null string moving near an electric charge results in two effects: it creates a self-force of the charge and induces a pulse of EM radiation traveling away from the charge in the direction close to trajectory of the string.",
+    "authors": [
+      "D. V. Fursaev",
+      "I. G. Pirozhenko"
+    ],
+    "published": "2022-12-11T18:11:51Z",
+    "updated": "2022-12-17T18:30:29Z",
+    "categories": [
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2212.05564v2",
+    "arxivUrl": "http://arxiv.org/abs/2212.05564v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1208.5626v1",
+    "title": "Homotopy Classification of Bosonic String Field Theory",
+    "summary": "We prove the decomposition theorem for the loop homotopy algebra of quantum closed string field theory and use it to show that closed string field theory is unique up to gauge transformations on a given string background and given S-matrix. For the theory of open and closed strings we use results in open-closed homotopy algebra to show that the space of inequivalent open string field theories is isomorphic to the space of classical closed string backgrounds. As a further application of the open-closed homotopy algebra we show that string field theory is background independent and locally unique in a very precise sense. Finally we discuss topological string theory in the framework of homotopy algebras and find a generalized correspondence between closed strings and open string field theories.",
+    "authors": [
+      "Korbinian Muenster",
+      "Ivo Sachs"
+    ],
+    "published": "2012-08-28T11:16:02Z",
+    "updated": "2012-08-28T11:16:02Z",
+    "categories": [
+      "hep-th",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1208.5626v1",
+    "arxivUrl": "http://arxiv.org/abs/1208.5626v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1909.08516v2",
+    "title": "Graviton and Massive Symmetric Rank-Two Tensor in String Theory",
+    "summary": "Spin-two particles appear in the spectra of both open and closed string theories. We studied a graviton and massive symmetric rank-two tensor in string theory, both of which carry spin two. A graviton is a massless spin-two particle in closed string theory while a symmetric rank-two tensor is a massive particle with spin two in open string theory. Using Polyakov's string path integral formulation of string scattering amplitudes, we calculated cubic interactions of both spin-two particles explicitly, including $\\ap$-corrections (string corrections). We observed that the cubic interactions of the massive spin-two particle differed from those of the graviton. The massive symmetric rank-two tensor in open string theory becomes massless in the high energy limit where $\\ap \\rightarrow \\infty$ and $\\ap$-correction terms, containing higher derivatives, dominate: In this limit the local cubic action of the symmetric rank-two tensor of open string theory coincides with that of the graviton in closed string theory.",
+    "authors": [
+      "Taejin Lee",
+      "Hayun Park"
+    ],
+    "published": "2019-09-18T15:48:14Z",
+    "updated": "2019-11-16T07:25:04Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1909.08516v2",
+    "arxivUrl": "http://arxiv.org/abs/1909.08516v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9705126v1",
+    "title": "Matrix String Theory As A Generalized Quantum Theory",
+    "summary": "Matrix String Theory of Banks, Fischler, Shenker and Susskind can be understood as a generalized quantum theory (provisionally named \"quansical\" theory) which differs from Adler's generalized trace quantum dynamics. The effective Matrix String Theory Hamiltonian is constructed in a particular fermionic realization of Matrix String Theory treated as an example of \"quansical\" theory.",
+    "authors": [
+      "Djordje Minic"
+    ],
+    "published": "1997-05-16T20:57:48Z",
+    "updated": "1997-05-16T20:57:48Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9705126v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9705126v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2502.06647v1",
+    "title": "Twists of Supersymmetric Yang-Mills Theory in Topological String Theory",
+    "summary": "We show that every twist of pure supersymmetric Yang-Mills theory with gauge group GL(N) can be realized as an open-string field theory in topological string theory. Our approach reinterprets twists of supersymmetric Yang-Mills theory as generalized Chern-Simons theories, and identifies topological string backgrounds that produce the corresponding Chern-Simons theories.",
+    "authors": [
+      "Philsang Yoo"
+    ],
+    "published": "2025-02-10T16:36:20Z",
+    "updated": "2025-02-10T16:36:20Z",
+    "categories": [
+      "hep-th",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2502.06647v1",
+    "arxivUrl": "http://arxiv.org/abs/2502.06647v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2202.12698v2",
+    "title": "Aspects of Nonrelativistic Strings",
+    "summary": "We review recent developments on nonrelativistic string theory. In flat spacetime, the theory is defined by a two-dimensional relativistic quantum field theory with nonrelativistic global symmetries acting on the worldsheet fields. This theory arises as a self-contained corner of relativistic string theory. It has a string spectrum with a Galilean dispersion relation, and a spacetime S-matrix with nonrelativistic symmetry. This string theory also gives a unitary and ultraviolet complete framework that connects different corners of string theory, including matrix string theory and noncommutative open strings. In recent years, there has been a resurgence of interest in the non-Lorentzian geometries and quantum field theories that arise from nonrelativistic string theory in background fields. In this review, we start with an introduction to the foundations of nonrelativistic string theory in flat spacetime. We then give an overview of recent progress, including the appropriate target-space geometry that nonrelativistic strings couple to. This is known as (torsional) string Newton-Cartan geometry, which is neither Lorentzian nor Riemannian. We also give a review of nonrelativistic open strings and effective field theories living on D-branes. Finally, we discuss applications of nonrelativistic strings to decoupling limits in the context of the AdS/CFT correspondence.",
+    "authors": [
+      "Gerben Oling",
+      "Ziqi Yan"
+    ],
+    "published": "2022-02-25T13:54:56Z",
+    "updated": "2022-06-07T15:14:22Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2202.12698v2",
+    "arxivUrl": "http://arxiv.org/abs/2202.12698v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2204.04089v1",
+    "title": "The Supersymmetric Neveu-Schwarz Branes of Non-Relativistic String   Theory",
+    "summary": "We construct the basic Neveu-Schwarz (NS) brane solutions of non-relativistic string theory using longitudinal T-duality as a solution generating technique. Extending the NS background fields to a supergravity multiplet, we verify that all solutions we find are half-supersymmetric. The two perturbative solutions we find both have an interpretation as the background geometry outside a string-like object. Correspondingly, we refer to these non-Lorentzian backgrounds as winding string and unwound string solution. Whereas the winding string is part of the on-shell spectrum of non-relativistic string theory, the unwound string only makes sense off-shell where it mediates the instantaneous gravitational force. Seen from the nine-dimensional point of view, we find that the winding string solution is sourced by a non-relativistic massive particle and that the unwound string solution is sourced by a massless Galilean particle of zero colour and spin. We explain how these two string solutions fit into a discrete lightcone quantization of string theory. We shortly discuss the basic NS five-brane and Kaluza-Klein monopole solutions and show that they are both half-supersymmetric.",
+    "authors": [
+      "Eric Bergshoeff",
+      "Johannes Lahnsteiner",
+      "Luca Romano",
+      "Jan Rosseel"
+    ],
+    "published": "2022-04-08T14:17:23Z",
+    "updated": "2022-04-08T14:17:23Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2204.04089v1",
+    "arxivUrl": "http://arxiv.org/abs/2204.04089v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0605202v2",
+    "title": "String Field Theory",
+    "summary": "This elementary introduction to string field theory highlights the features and the limitations of this approach to quantum gravity as it is currently understood. String field theory is a formulation of string theory as a field theory in space-time with an infinite number of massive fields. Although existing constructions of string field theory require expanding around a fixed choice of space-time background, the theory is in principle background-independent, in the sense that different backgrounds can be realized as different field configurations in the theory. String field theory is the only string formalism developed so far which, in principle, has the potential to systematically address questions involving multiple asymptotically distinct string backgrounds. Thus, although it is not yet well defined as a quantum theory, string field theory may eventually be helpful for understanding questions related to cosmology in string theory.",
+    "authors": [
+      "Washington Taylor"
+    ],
+    "published": "2006-05-19T20:33:19Z",
+    "updated": "2006-06-28T10:10:48Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0605202v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0605202v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1907.10668v2",
+    "title": "String Theory and String Newton-Cartan Geometry",
+    "summary": "Nonrelativistic string theory is described by a sigma model with a relativistic worldsheet and a nonrelativistic target spacetime geometry, that is called string Newton-Cartan geometry. In this paper we obtain string Newton-Cartan geometry as a limit of the Riemannian geometry of General Relativity with a fluxless two-form field. We then apply the same limit to relativistic string theory in curved background fields and show that it leads to nonrelativistic string theory in a string Newton-Cartan geometry coupled to a Kalb-Ramond and dilaton field background. Finally, we use our limiting procedure to study the spacetime equations of motion and the T-duality transformations of nonrelativistic string theory. Our results reproduce the recent studies of beta-functions and T-duality of nonrelativistic string theory obtained from the microscopic worldsheet definition of nonrelativistic string theory.",
+    "authors": [
+      "Eric Bergshoeff",
+      "Jaume Gomis",
+      "Jan Rosseel",
+      "Ceyda Simsek",
+      "Ziqi Yan"
+    ],
+    "published": "2019-07-24T19:14:14Z",
+    "updated": "2019-12-06T18:46:50Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1907.10668v2",
+    "arxivUrl": "http://arxiv.org/abs/1907.10668v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0301046v1",
+    "title": "$Δ-$string - a hybrid between wormhole and string",
+    "summary": "The flux tube solutions in 5D Kaluza-Klein theory can be considered as a string-like object - $\\Delta-$string. The initial 5D metric can be reduced to some inner degrees of freedom living on the $\\Delta-$string. The propagation of electromagnetic waves through the $\\Delta-$string is considered. It is shown that the difference between $\\Delta$ and ordinary strings are connected with the fact that for the $\\Delta-$string such limitations as critical dimensions are missing.",
+    "authors": [
+      "V. Dzhunushaliev"
+    ],
+    "published": "2003-01-14T04:19:13Z",
+    "updated": "2003-01-14T04:19:13Z",
+    "categories": [
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0301046v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0301046v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9408134v2",
+    "title": "Hot String Soup",
+    "summary": "Above the Hagedorn energy density closed fundamental strings form a long string phase. The dynamics of weakly interacting long strings is described by a simple Boltzmann equation which can be solved explicitly for equilibrium distributions. The average total number of long strings grows logarithmically with total energy in the microcanonical ensemble. This is consistent with calculations of the free single string density of states provided the thermodynamic limit is carefully defined. If the theory contains open strings the long string phase is suppressed.",
+    "authors": [
+      "D. A. Lowe",
+      "L. Thorlacius"
+    ],
+    "published": "1994-08-24T23:08:56Z",
+    "updated": "1994-09-02T23:57:00Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9408134v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9408134v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9709013v2",
+    "title": "Exceptional groups from open strings",
+    "summary": "We consider type IIB theory compactified on a two-sphere in the presence of mutually nonlocal 7-branes. The BPS states associated with the gauge vectors of exceptional groups are seen to arise from open strings connecting the 7-branes, and multi-pronged open strings capable of ending on more than two 7-branes. These multi-pronged strings are built from open string junctions that arise naturally when strings cross 7-branes. The different string configurations can be multiplied as traditional open strings, and are shown to generate the structure of exceptional groups.",
+    "authors": [
+      "Matthias R. Gaberdiel",
+      "Barton Zwiebach"
+    ],
+    "published": "1997-09-01T15:58:20Z",
+    "updated": "1997-09-18T09:06:27Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9709013v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9709013v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0310027v3",
+    "title": "Multibranes boundary states with open string interactions",
+    "summary": "We derive boundary states which describe configurations of multiple parallel branes with arbitrary open string states interactions in bosonic string theory. This is obtained by a careful discussion of the factorization of open/closed string states amplitudes taking care of cycles needed by ensuring vertexes commutativity: in particular the discussion reveals that already at the tree level open string knows of the existence of closed string. We also give a formal expression for computing pure closed string amplitudes using the open string formalism.",
+    "authors": [
+      "Igor Pesando"
+    ],
+    "published": "2003-10-03T09:50:28Z",
+    "updated": "2007-10-06T11:06:48Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0310027v3",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0310027v3"
+  }
+]

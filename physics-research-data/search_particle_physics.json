@@ -1,0 +1,1670 @@
+[
+  {
+    "id": "http://arxiv.org/abs/0910.4642v2",
+    "title": "Identical Particles in Quantum Mechanics",
+    "summary": "If, in a system of identical particles, the one particle state is defined by the partial trace to one of the component spaces of the total Hilbert space, then all one particle states are identical. The particles are indistinguishable. This is often thought to be a typical quantum mechanical phenomenon. I will show however that an analogous procedure to define particle states exists in classical mechanics, which results in classical indistinguishable identical particles. From this analogy it follows that the indistinguishability of identical particles depends on how we define particle states. It is not an inevitable result of the symmetry postulate.   Indeed, if particles are defined by partial traces, consistent use of the symmetry postulate leads to the conclusion that all identical particles in the universe are indistinguishable, so that particles can never be pointed at, not even in the classical limit. This does not correspond to the way the term particle is actually used in practice. I will argue that a particle should be defined in such a way that in the classical limit the quantum particle state becomes the state of a classical particle. This will lead us to a definition of particles which is in line with the way the term particle is actually used by physicists.",
+    "authors": [
+      "Andrea Lubberdink"
+    ],
+    "published": "2009-10-24T11:22:49Z",
+    "updated": "2010-01-09T11:56:25Z",
+    "categories": [
+      "physics.gen-ph",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0910.4642v2",
+    "arxivUrl": "http://arxiv.org/abs/0910.4642v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1908.02869v1",
+    "title": "Predicting the impact of particle-particle collisions on turbophoresis   with a reduced number of computational particles",
+    "summary": "A common feature of wall-bounded turbulent particle-laden flows is enhanced particle concentrations in a thin layer near the wall due to a phenomenon known as turbophoresis. Even at relatively low bulk volume fractions, particle-particle collisions regulate turbophoresis in a critical way, making simulations sensitive to collisional effects. Lagrangian tracking of every particle in the flow can become computationally expensive when the physical number of particles in the system is large. Artificially reducing the number of particles in the simulation can mitigate the computational cost. When particle-particle collisions are an important aspect determining the simulation outcome, as in the case when turbophoresis plays an active role, simply reducing the number of particles in the simulation significantly alters the computed particle statistics. This paper introduces a computational particle treatment for particle-particle collisions which reproduces the results of a full simulation with a reduced number of particles. This is accomplished by artificially enhancing the particle collision radius based on scaling laws for the collision rates. The proposed method retains the use of deterministic collision models and is applicable for both low and high Stokes number regimes.",
+    "authors": [
+      "Perry L. Johnson"
+    ],
+    "published": "2019-08-07T23:15:16Z",
+    "updated": "2019-08-07T23:15:16Z",
+    "categories": [
+      "physics.flu-dyn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1908.02869v1",
+    "arxivUrl": "http://arxiv.org/abs/1908.02869v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1905.05638v1",
+    "title": "Implications of detecting the Axion-Like Particles in Astro-Particle   Physics",
+    "summary": "Axions and axion like particles in general are consequences of the extensions of the standard model in particle physics. Axions have been proposed as hypothetical pseudo-scalar particles in particle physics to solve the strong Charge-Parity problem using quantum chromodynamics. These particles are also proposed to be an attractive candidate for cold dark matter in the Universe. The current understanding of the existence and properties of the axions is not very clear and these hypothetical particles remain elusive. However many theoretical and experimental searches are being made for understanding and constraining the properties of axions via detection of axion like particles. The term axion like particles is used to include different types of axions going beyond the standard model. In this paper, we review the different physical properties of axions and axion like particles and their possible sources in the laboratory and Universe. We discuss different experimental set ups for detection of axion like particles proposed in the literature. Implications of detecting the axion like particles in the areas of particle physics, astrophysics and cosmology are also discussed in the framework of present and future motivations.",
+    "authors": [
+      "K K Singh"
+    ],
+    "published": "2019-05-13T10:30:22Z",
+    "updated": "2019-05-13T10:30:22Z",
+    "categories": [
+      "hep-ph",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1905.05638v1",
+    "arxivUrl": "http://arxiv.org/abs/1905.05638v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9609173v1",
+    "title": "Particle-Particle-String Vertex",
+    "summary": "We study a theory of particles interacting with strings. Considering such a theory for Type IIA superstring will give some clue about M-theory. As a first step toward such a theory, we construct the particle-particle-string interaction vertex generalizing the D-particle boundary state.",
+    "authors": [
+      "Nobuyuki Ishibashi"
+    ],
+    "published": "1996-09-21T06:08:01Z",
+    "updated": "1996-09-21T06:08:01Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9609173v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9609173v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1812.10511v1",
+    "title": "One particle subspaces for two particle quantum walks with ultralocal   interaction",
+    "summary": "We study one particle subspaces for two particles of different masses with ultra local interaction on a lattice of arbitrary dimension.",
+    "authors": [
+      "V. Malyshev",
+      "A. Zamyatin"
+    ],
+    "published": "2018-12-26T19:46:15Z",
+    "updated": "2018-12-26T19:46:15Z",
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "39A12, 47A75, 34L40"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1812.10511v1",
+    "arxivUrl": "http://arxiv.org/abs/1812.10511v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2011.01638v3",
+    "title": "Colliders",
+    "summary": "Modern particle physics relies on high energy particle accelerators to provide collisions of various types of elementary particles in order to deduce fundamental laws of physics or properties of individual particles. The only way to generate particle collisions at extremely high energies is to collide particles of counter-rotating beams...called \"particle-colliders\". This write-up gives a short briefing on the physics motivation of various particle colliders ($e^+e^-$ colliders, $pp$ colliders, ...), a summary of the historical evolution and a mathematical treatment to describe collider performance.",
+    "authors": [
+      "H. Schmickler"
+    ],
+    "published": "2020-11-03T11:27:18Z",
+    "updated": "2024-02-08T09:00:01Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.ed-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2011.01638v3",
+    "arxivUrl": "http://arxiv.org/abs/2011.01638v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/1501.06879v2",
+    "title": "An Underlying Asymmetry within Particle-size Segregation",
+    "summary": "We experimentally study particle scale dynamics during segregation of a bidisperse mixture under oscillatory shear. Large and small particles show an underlying asymmetry that is dependent on the local particle concentration, with small particles segregating faster in regions of many large particles and large particles segregating slower in regions of many small particles. We quantify the asymmetry on bulk and particle scales, and capture it theoretically. This gives new physical insight into segregation and reveals a similarity with sedimentation, traffic flow and particle diffusion.",
+    "authors": [
+      "Kasper van der Vaart",
+      "Parmesh Gajjar",
+      "Gaël Epely-Chauvin",
+      "Nicolas Andreini",
+      "J. M. N. T. Gray",
+      "Christophe Ancey"
+    ],
+    "published": "2015-01-27T19:31:18Z",
+    "updated": "2015-05-08T09:01:29Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1501.06879v2",
+    "arxivUrl": "http://arxiv.org/abs/1501.06879v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1904.06235v1",
+    "title": "Comparing particle-particle and particle-hole channels of random-phase   approximation",
+    "summary": "We present a comparative study of particle-hole and particle-particle channels of random-phase approximation (RPA) for molecular dissociations of different bonding types. We introduced a \\textit{direct} particle-particle RPA scheme, in analogy to the \\textit{direct} particle-hole RPA formalism, whereby the exchange-type contributions are excluded. This allows us to compare the behavior of the particle-hole and particle-particle RPA channels on the same footing. Our study unravels the critical role of exchange contributions in determining behaviors of the two RPA channels for describing stretched molecules. We also made an attempt to merge particle-hole RPA and particle-particle RPA into a unified scheme, with the double-counting terms removed. However, benchmark calculations indicate that a straightforward combination of the two RPA channels does not lead to a successful computational scheme for describing molecular dissociations.",
+    "authors": [
+      "Muhammad N. Tahir",
+      "Xinguo Ren"
+    ],
+    "published": "2019-04-12T13:52:35Z",
+    "updated": "2019-04-12T13:52:35Z",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.chem-ph",
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1904.06235v1",
+    "arxivUrl": "http://arxiv.org/abs/1904.06235v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2304.02707v1",
+    "title": "Radiative View Factor Correlations in Particulate Media from Ray Tracing   Simulations and Data-Driven Modeling",
+    "summary": "Thermal radiation in particulate media has been extensively modeled by solving the radiative transport equation with effective radiative properties or with statistical ray tracing techniques. While effective for static particles, this approach is not compatible with the more common discrete formulation of heat fluxes in particle flow systems. This study focuses on such a discrete approach to compute radiative fluxes by developing view factors correlations. Training data is generated from physics-based Monte Carlo ray tracing simulations on a monodisperse, packed bed with solid volume fractions ranging from 0.016 to 0.45. This data was used to develop reduced-order correlations to determine particle-particle and particle-wall radiative view factors as a function of particle-particle and particle-wall separation distance, viewing angle, and the number of shading particles. Uniquely, we determine best-fit functions that are physically interpretable to account for shading effects by particles. A sigmoid function with a non-linear dependence on viewing angle governs the extent of shading cast by an intermediate particle. To scale the net contribution of shading by intermediate particles between a particle and a planar wall, a particle-wall correction factor that is dependent quadratically on the particle-wall normal separation distance serves to be effective. View factor correlations result in reliable and reasonably accurate predictions. For a solid volume fraction of 0.45, the root mean squared errors of particle-particle and particle-wall view factors are 2.7e-4 and 0.021 with data in the ranges of 0-0.08 and 0-0.5 respectively. With thousands of particles, the computational cost of proposed correlations with thresholding of 5 shading particles is about 100 times faster than serial Monte Carlo ray tracing simulations for a solid volume fraction of 0.45.",
+    "authors": [
+      "Zijie Chen",
+      "Rohini Bala Chandran"
+    ],
+    "published": "2022-12-13T22:37:59Z",
+    "updated": "2022-12-13T22:37:59Z",
+    "categories": [
+      "physics.flu-dyn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2304.02707v1",
+    "arxivUrl": "http://arxiv.org/abs/2304.02707v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/9909034v1",
+    "title": "Explanation of Quantum Mechanics",
+    "summary": "By assuming that the kinetic energy,potential energy,momentum,and some other physical quantities of a particle exist in the field out of the particle,the Schrodinger equation is an equation describing field of a particle,but not the particle itself.",
+    "authors": [
+      "Gang Zhao"
+    ],
+    "published": "1999-09-10T00:52:59Z",
+    "updated": "1999-09-10T00:52:59Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/9909034v1",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/9909034v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0110128v3",
+    "title": "The particle invariance in particle physics",
+    "summary": "Since the particles such as molecules, atoms and nuclei are composite particles, it is important to recognize that physics must be invariant for the composite particles and their constituent particles, this requirement is called particle invariance in this paper. But difficulties arise immediately because for fermion we use Dirac equation, for meson we use Klein-Gordon equation and for classical particle we use Newtonian mechanics, while the connections between these equations are quite indirect. Thus if the particle invariance is held in physics, i.e., only one physical formalism exists for any particle, we can expect to find out the differences between these equations by employing the particle invariance. As the results, several new relationships between them are found, the most important result is that the obstacles that cluttered the path from classical mechanics to quantum mechanics are found, it becomes possible to derive the quantum wave equations from relativistic mechanics after the obstacles are removed. An improved model is proposed to gain a better understanding on elementary particle interactions. This approach offers enormous advantages, not only for giving the first physically reasonable interpretation of quantum mechanics, but also for improving quark model.",
+    "authors": [
+      "H. Y. Cui"
+    ],
+    "published": "2001-10-15T15:15:04Z",
+    "updated": "2002-05-08T17:11:33Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0110128v3",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0110128v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/9510397v1",
+    "title": "ITEP Lectures in Particle Physics",
+    "summary": "Introduction to the Lecture Note Volume \"ITEP Lectures in Particle Physics\", including 25 years of personal reminiscences.",
+    "authors": [
+      "Mikhail Shifman"
+    ],
+    "published": "1995-10-24T22:04:14Z",
+    "updated": "1995-10-24T22:04:14Z",
+    "categories": [
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/9510397v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/9510397v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1104.5594v1",
+    "title": "Particle Physics challenges to the Bohm Picture of Relativistic Quantum   Field Theory",
+    "summary": "I discuss topics in Particle Physics applying the novel ontological formulation of Relativistic Quantum Field Theory due to David Bohm. I argument that particle physicists might too benefit from this truly novel way of thinking Physics.",
+    "authors": [
+      "Abel Miranda"
+    ],
+    "published": "2011-04-29T10:46:19Z",
+    "updated": "2011-04-29T10:46:19Z",
+    "categories": [
+      "hep-ph",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1104.5594v1",
+    "arxivUrl": "http://arxiv.org/abs/1104.5594v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2411.18771v1",
+    "title": "Direct comparison of the energization of self-consistent charged   particles vs test particles in a turbulent plasma",
+    "summary": "The test particle approach is a widely used method for studying the dynamics of charged particles in complex electromagnetic fields and has been successful in explaining particle energization in turbulent plasmas. However, this approach is fundamentally not self-consistent, as test particles do not generate their own electromagnetic fields and therefore do not interact with their surroundings realistically. In this work, we compare the energization of a population of test protons in a magnetofluid to that of a plasma composed of self-consistent particles. We use a compressible Hall magnetohydrodynamic (CHMHD) model for the test particle case and a hybrid particle-in-cell (HPIC) approach for the self-consistent case, conducting both 2D and 3D simulations. We calculate the rate of energization and conversion to thermal energy in both models, finding a higher temperature for the test particle case. Additionally, we examine the distribution of suprathermal particles and find that, in the test particle scenario, these particles eventually occupy the entire domain, while in the self-consistent case, suprathermal particles are confined to specific regions. We conclude that while test particles capture some qualitative features of their self-consistent counterparts, they miss finer phenomena and tend to overestimate energization.",
+    "authors": [
+      "Facundo Pugliese",
+      "Pablo Dmitruk"
+    ],
+    "published": "2024-11-27T21:51:04Z",
+    "updated": "2024-11-27T21:51:04Z",
+    "categories": [
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2411.18771v1",
+    "arxivUrl": "http://arxiv.org/abs/2411.18771v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1908.06019v1",
+    "title": "Multiparticle Dynamics on the Triangular Lattice in Interacting Media",
+    "summary": "We study the motion of $N$ particles moving on a two-dimensional triangular lattice, whose sites are occupied by either left or right rotators. These rotators deterministically scatter the particles to the left (right), changing orientation from left to right (right to left) after scattering a particle. This interplay between the scatterers and the particle's motion causes a single particle to propagate in one direction away from its initial position. For multiple particles we show that the particles' dynamics can be vastly different. Specifically, we show that a particle can become entangled with another particle potentially causing the particle's trajectory to become periodic and that this can happen when the particles have the same or differing speeds. We describe two classes of periodic orbits based on the particles' initial velocities. We also describe how a particle with an unbounded past trajectory implies that some, possibly other, particle(s) has an unbounded future trajectory in this and other related multiparticle models.",
+    "authors": [
+      "Stewart McGinnis",
+      "Benjamin Webb"
+    ],
+    "published": "2019-08-12T22:49:39Z",
+    "updated": "2019-08-12T22:49:39Z",
+    "categories": [
+      "cond-mat.stat-mech",
+      "math-ph",
+      "math.MP",
+      "82C20, 70F99, 82C22"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1908.06019v1",
+    "arxivUrl": "http://arxiv.org/abs/1908.06019v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2002.03535v1",
+    "title": "Collisionless particle dynamic in an axi-symmetric diamagnetic trap",
+    "summary": "Particle dynamic in an axi-symmetric mirror machine with an extremely high plasma pressure equal to pressure of vacuum magnetic field (so-called regime of diamagnetic confinement) is investigated. Extrusion of magnetic field from central region due to plasma diamagnetism leads to non-conservation of the magnetic moment and can result in chaotic movement and fast losses of particles. The following mechanisms can provide particle confinement for unlimited time: absolute confinement of particles with high azimuthal velocity and conservation of adiabatic invariant for particle moving in smooth magnetic field. The criteria of particle confinement and estimations of lifetime of unconfined particles are obtained and verified in direct numerical simulation. Particle confinement time in the diamagnetic trap in regime of gas-dynamic outflow is discussed.",
+    "authors": [
+      "Ivan Chernoshtanov"
+    ],
+    "published": "2020-02-10T04:24:13Z",
+    "updated": "2020-02-10T04:24:13Z",
+    "categories": [
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2002.03535v1",
+    "arxivUrl": "http://arxiv.org/abs/2002.03535v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2006.00360v2",
+    "title": "Universal Particle Kinetic Distribution in Crowded Environments",
+    "summary": "We study many-particle transport in heterogeneous, crowded environments at different particle P\\'{e}clet numbers ($Pe^*$). We demonstrate that a modified Nakagami-$m$ function describes particle velocity probability distributions when particle deposition occurs. We assess the universality of said function through comparison against new Lagrangian simulations of various particle types as well as experimental data from the literature. We construe the function's physical meaning as its ability to explain particle deposition in terms of $Pe^*$ and the competition between distributions of energy barriers for particle release and particles' diffusive energy.",
+    "authors": [
+      "Dian Fan",
+      "Ronny Pini",
+      "Alberto Striolo"
+    ],
+    "published": "2020-05-30T20:49:17Z",
+    "updated": "2020-10-20T22:06:32Z",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2006.00360v2",
+    "arxivUrl": "http://arxiv.org/abs/2006.00360v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1902.09280v1",
+    "title": "Identical quantum particles as distinguishable objects",
+    "summary": "According to classical physics particles are basic building blocks of the world. Classical particles are distinguishable objects, individuated by physical characteristics. By contrast, in quantum mechanics the standard view is that particles of the same kind (\"identical particles\") are in all circumstances indistinguishable from each other. This indistinguishability doctrine is motivated by the (anti)symmetrization postulates together with the assumption (``factorism'') that each single particle is represented in exactly one factor space in the tensor product Hilbert space of a many-particles system.   Although the factorist assumption is standard in the literature, it is conceptually problematic. Particle indistinguishability is incompatible with the everyday meaning of ``particle'', and also with how this term is used both in classical physics and in the experimental practice of physics. The standard view requires quantum particles of the same kind to remain indistinguishable even in the classical limit, so that a transition to the classical picture of the world seems impossible.   Earlier we have proposed an alternative conception of quantum particles that does not rely on factorism and that avoids these and other problems. We further explain and develop this proposal here. In our view, particles in quantum theory are not fundamental but \\emph{emergent}. However, in those situations where the particle concept is applicable, quantum particles---identical or not---are distinguishable in the same way as classical particles.",
+    "authors": [
+      "Dennis Dieks",
+      "Andrea Lubberdink"
+    ],
+    "published": "2019-02-25T14:21:29Z",
+    "updated": "2019-02-25T14:21:29Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1902.09280v1",
+    "arxivUrl": "http://arxiv.org/abs/1902.09280v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2010.07218v2",
+    "title": "Peridynamics-based discrete element method (PeriDEM) model of granular   systems involving breakage of arbitrarily shaped particles",
+    "summary": "Usage, manipulation, transport, delivery, and mixing of granular or particulate media, comprised of spherical or polyhedral particles, is commonly encountered in industrial sectors of construction (cement and rock fragments), pharmaceutics (tablets), and transportation (ballast). Elucidating particulate media's behavior in concert with particle attrition (i.e., particle wear and subsequent particle fragmentation) is essential for predicting the performance and increasing the efficiency of engineering systems using such media. Discrete element method (DEM) based techniques can describe the interaction between particles but cannot model intra-particle deformation, especially intra-particle fracture. On the other hand, peridynamics provides the means to account for intra-particle deformation and fracture due to contact forces between particles. The present study proposes a hybrid model referred to as \\textit{PeriDEM} that combines the advantages of peridynamics and DEM. The model parameters can be tuned to achieve desired DEM contact forces, damping effects, and intra-particle stiffness. Two particle impacts and compressive behavior of multi-particle systems are thoroughly investigated. The model can account for any arbitrarily shaped particle in general. Spherical, hexagonal, and non-convex particle shapes are simulated in the present study. The effect of mesh resolution on intra-particle peridynamics is explicitly studied. The proposed hybrid model opens a new avenue to explore the complicated interactions encountered in discrete particle dynamics that involve the formation of force chains, particle interlocking, particle attrition, wear, and the eventual breakage.",
+    "authors": [
+      "Prashant K. Jha",
+      "Prathamesh S. Desai",
+      "Debdeep Bhattacharya",
+      "Robert Lipton"
+    ],
+    "published": "2020-10-14T16:32:21Z",
+    "updated": "2021-02-23T21:31:44Z",
+    "categories": [
+      "cs.CE",
+      "7008, 7010, 7410"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2010.07218v2",
+    "arxivUrl": "http://arxiv.org/abs/2010.07218v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/0604270v1",
+    "title": "Grand unified models and cosmology",
+    "summary": "The cosmological consequences of particle physics grand unified theories (GUTs) are studied. Cosmological models are implemented in realistic particle physics models. Models consistent from both particle physics and cosmological considerations are selected. (...)",
+    "authors": [
+      "Rachel Jeannerot"
+    ],
+    "published": "2006-04-28T16:18:26Z",
+    "updated": "2006-04-28T16:18:26Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/0604270v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/0604270v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2011.13473v1",
+    "title": "Interacting particle systems with type D symmetry and duality",
+    "summary": "We construct a two-class asymmetric interacting particle system with $U_q(so_6)$ or $U_q(so_8)$ symmetry, in which up to two particles may occupy a site if the two particles have different class. The particles exhibit a drift, but there is no preference given between first-class and second-class particles. The quantum group symmetry leads to reversible measures and a self-duality for the particle system. Additionally, a new method is developed to construct a symmetric interacting particle system from the Casimir element of $so_{2n}$.",
+    "authors": [
+      "Jeffrey Kuan",
+      "Mark Landry",
+      "Andrew Lin",
+      "Andrew Park",
+      "Zhengye Zhou"
+    ],
+    "published": "2020-11-26T21:03:35Z",
+    "updated": "2020-11-26T21:03:35Z",
+    "categories": [
+      "math.PR",
+      "math-ph",
+      "math.MP",
+      "math.RT"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2011.13473v1",
+    "arxivUrl": "http://arxiv.org/abs/2011.13473v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2105.07389v1",
+    "title": "A mathematical treatment of bump structure for the particle laden flows   with particle features",
+    "summary": "In this paper, we consider the particle laden flows on a inclined plane under the effect of the gravity. It is observed from preceding experimental works that the particle-rich ridge is generated near the contact line. The bump structure observed in particle-rich ridge is studied in terms of Lax's shock waves in the mathematical theory of conservation laws. In the present study, the effect of particles with nontrivial radii on morphology of particle laden flows is explicitly considered, and dependence of radius and concentration of particles on the bump structure is extracted.",
+    "authors": [
+      "Kaname Matsue",
+      "Kyoko Tomoeda"
+    ],
+    "published": "2021-05-16T09:24:36Z",
+    "updated": "2021-05-16T09:24:36Z",
+    "categories": [
+      "physics.flu-dyn",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2105.07389v1",
+    "arxivUrl": "http://arxiv.org/abs/2105.07389v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2303.01119v1",
+    "title": "Mining the quantum vacuum: quantum tunnelling and particle creation",
+    "summary": "Particle production from the vacuum is a remarkable aspect of particle physics. Prime examples are the Schwinger process of particle production in strong electric fields and the Hawking process of particle production from black holes. These processes can be viewed as quantum tunnelling of particles from the vacuum. The tunnelling approach, and the closely related instanton or complex path approaches, are reviewed here with emphasis on paths in the complex coordinate plane. The method is applied to particle production from a black hole in a magnetic field, where ultra-high energy charged particles are produced.",
+    "authors": [
+      "Ian G. Moss",
+      "Piotr Z. Stasiak"
+    ],
+    "published": "2023-03-02T10:01:47Z",
+    "updated": "2023-03-02T10:01:47Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2303.01119v1",
+    "arxivUrl": "http://arxiv.org/abs/2303.01119v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/chem-ph/9605003v1",
+    "title": "Extended Two--Particle Green's Functions and Optical Potentials for   Two--Particle Scattering by Many--Body Targets",
+    "summary": "An extension of the fermionic particle--particle propagator is presented, that possesses similar algebraic properties to the single--particle Green's function. In particular, this extended two--particle Green's function satisfies Dyson's equation and its self energy has the same analytic structure as the the self energy of the single--particle Green's function. For the case of a system interacting by one--particle potentials only, the two--particle self energy takes on a particularly simple form, just like the common self energy does. The new two--particle self energy also serves as a well behaved optical potential for the elastic scattering of a two--particle projectile by a many--body target. Due to its analytic structure, the two--particle self energy avoids divergences that appear with effective potentials derived by other means.",
+    "authors": [
+      "Joachim Brand",
+      "Lorenz S. Cederbaum"
+    ],
+    "published": "1996-05-13T19:13:48Z",
+    "updated": "1996-05-13T19:13:48Z",
+    "categories": [
+      "chem-ph",
+      "atom-ph",
+      "nucl-th",
+      "physics.chem-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/chem-ph/9605003v1",
+    "arxivUrl": "http://arxiv.org/abs/chem-ph/9605003v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/0606255v1",
+    "title": "Particle interactions, masses and the symmetry breaking",
+    "summary": "A possible original $SU(2)_{L} \\times SU(2)_{R}$ symmetry of the elementary particles and the mechanism of its breaking is discussed. It is concluded that it is the broken symmetry states of the particles which induce the interactions among the particles.",
+    "authors": [
+      "Fizuli Mamedov"
+    ],
+    "published": "2006-06-24T00:02:08Z",
+    "updated": "2006-06-24T00:02:08Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/0606255v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/0606255v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0805.3105v1",
+    "title": "The derivation of Particle Monte Carlo methods for plasma modeling from   transport equations",
+    "summary": "We analyze here in some detail, the derivation of the Particle and Monte Carlo methods of plasma simulation, such as Particle in Cell (PIC), Monte Carlo (MC) and Particle in Cell / Monte Carlo (PIC/MC) from formal manipulation of transport equations.",
+    "authors": [
+      "Savino Longo"
+    ],
+    "published": "2008-05-20T15:51:49Z",
+    "updated": "2008-05-20T15:51:49Z",
+    "categories": [
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0805.3105v1",
+    "arxivUrl": "http://arxiv.org/abs/0805.3105v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0812.4119v1",
+    "title": "Excitation of low-n TAE instabilities by energetic particles in global   gyrokinetic tokamak plasmas",
+    "summary": "The first linear global electromagnetic gyrokinetic particle simulation on the excitation of toroidicity induced Alfven eigenmode (TAE) by energetic particles is reported. With an increase in the energetic particle pressure, the TAE frequency moves down into the lower continuum.",
+    "authors": [
+      "Y. Nishimura"
+    ],
+    "published": "2008-12-22T08:41:26Z",
+    "updated": "2008-12-22T08:41:26Z",
+    "categories": [
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0812.4119v1",
+    "arxivUrl": "http://arxiv.org/abs/0812.4119v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0912.5007v1",
+    "title": "Schrodinger equation for classical particles",
+    "summary": "In this paper we propose the hyperbolic Schredinger equation (HS). The solution of the HS for a particle in a box is obtained. It is shown that for particles with m greater of Mp the energy spectrum is independent of the mass of particle.",
+    "authors": [
+      "M Kozlowski",
+      "J Marciak-Kozlowska",
+      "M Pelc"
+    ],
+    "published": "2009-12-26T09:42:41Z",
+    "updated": "2009-12-26T09:42:41Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0912.5007v1",
+    "arxivUrl": "http://arxiv.org/abs/0912.5007v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2103.15043v1",
+    "title": "Inter-particle adhesion regulates the surface roughness of growing dense   three-dimensional active particle aggregates",
+    "summary": "Activity and self-generated motion are fundamental features observed in many living and non-living systems. Given that inter-particle adhesive forces are known to regulate particle dynamics, we investigate how adhesion strength controls the boundary growth and roughness in an active particle aggregate. Using particle based simulations incorporating both activity (birth, death and growth) and systematic physical interactions (elasticity and adhesion), we establish that inter-particle adhesion strength ($f^{ad}$) controls the surface roughness of a densely packed three-dimensional(3D) active particle aggregate expanding into a highly viscous medium. We discover that the surface roughness of a 3D active particle aggregate increases in proportion to the inter-particle adhesion strength, $f^{ad}$. We show that asymmetry in the radial and tangential active particle mean squared displacement (MSD) suppresses 3D surface roughness at lower adhesion strengths. By analyzing the statistical properties of particle displacements at the aggregate periphery, we determine that the 3D surface roughness is driven by the movement of active particle towards the core at high inter-particle adhesion strengths. Our results elucidate the physics controlling the expansion of adhesive 3D active particle collectives into a highly viscous medium, with implications into understanding stochastic interface growth in active matter systems characterized by self generated particle flux.",
+    "authors": [
+      "Sumit Sinha",
+      "Abdul N Malmi-Kakkada"
+    ],
+    "published": "2021-03-28T04:26:12Z",
+    "updated": "2021-03-28T04:26:12Z",
+    "categories": [
+      "cond-mat.soft",
+      "physics.bio-ph",
+      "q-bio.TO"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2103.15043v1",
+    "arxivUrl": "http://arxiv.org/abs/2103.15043v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/0009106v1",
+    "title": "Atmospheric Secondary Particles In Near Earth Space",
+    "summary": "The Alpha Magnetic Spectrometer detects a large amount of particles below rigidity cutoff. Those high energy particles create questions related to radiation belts and atmospheric neutrinos. To understand the origin of these particles, we use a trajectory tracing program to simulate particle trajectories in realistic geomagnetic field. The complex behaviors and large e^+/e^- are explained here.",
+    "authors": [
+      "Ming-Huey A. Huang"
+    ],
+    "published": "2000-09-07T09:30:57Z",
+    "updated": "2000-09-07T09:30:57Z",
+    "categories": [
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/0009106v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/0009106v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/9810349v1",
+    "title": "Influence of source evolution on particle correlations",
+    "summary": "Modification of the particles in the course of the source evolution is considered. Influence of this effect on multiplicities and correlations of the particles is displayed, including an enhancement of the production rates and identical particle correlations and also back-to-back particle-antiparticle correlations.",
+    "authors": [
+      "I. V. Andreev"
+    ],
+    "published": "1998-10-13T13:41:36Z",
+    "updated": "1998-10-13T13:41:36Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/9810349v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/9810349v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math-ph/0609006v1",
+    "title": "Dynamics of a system of sticking particles of a finite size on the line",
+    "summary": "The continuous limit of large systems of particles of finite size on the line is described. The particles are assumed to move freely and stick under collision, to form compound particles whose mass and size is the sum of the masses and sizes of the particles before collision, and whose velocity is determined by conservation of linear momentum.",
+    "authors": [
+      "Gershon Wolansky"
+    ],
+    "published": "2006-09-02T13:59:20Z",
+    "updated": "2006-09-02T13:59:20Z",
+    "categories": [
+      "math-ph",
+      "math.DS",
+      "math.MP",
+      "35L65;35L67"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math-ph/0609006v1",
+    "arxivUrl": "http://arxiv.org/abs/math-ph/0609006v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/0004026v1",
+    "title": "Sommerfeld Particle in Static Magnetic Field: Tunneling and Delayed   Untwisting in Cyclotron",
+    "summary": "Motion of a charged particle with finite size, described by Sommerfeld model, in static magnetic field has two peculiar features: 1.) there is the effect of tunneling - Sommerfeld particle overcomes the barrier and finds itself in the forbidden, from classical point of view, area; 2.) the untwisting of trajectory in cyclotron for Sommerfeld particle is strongly delayed compared to that of a classical particle.",
+    "authors": [
+      "Alexander A. Vlasov"
+    ],
+    "published": "2000-04-14T10:28:49Z",
+    "updated": "2000-04-14T10:28:49Z",
+    "categories": [
+      "physics.class-ph",
+      "physics.acc-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/0004026v1",
+    "arxivUrl": "http://arxiv.org/abs/physics/0004026v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0812.0074v1",
+    "title": "Relative entropy of entanglement of rotationally invariant states",
+    "summary": "We calculate the relative entropy of entanglement for rotationally invariant states of spin-1/2 and arbitrary spin-$j$ particles or of spin-1 particle and spin-$j$ particle with integer $j$. A lower bound of relative entropy of entanglement and an upper bound of distillable entanglement are presented for rotationally invariant states of spin-1 particle and spin-$j$ particle with half-integer $j$.",
+    "authors": [
+      "Zhen Wang",
+      "Zhixi Wang"
+    ],
+    "published": "2008-11-29T14:04:18Z",
+    "updated": "2008-11-29T14:04:18Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0812.0074v1",
+    "arxivUrl": "http://arxiv.org/abs/0812.0074v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.09179v1",
+    "title": "Lifshitz tails for the multi-particle continuous Anderson model",
+    "summary": "We consider the multi-particle Anderson model in the continuum and show that under some mild assumptions on the inter-particle interaction and the external potential, its lower spectral edge is almost surely constant and is the same with that of the single-particle model. We then obtain the lifshitz asymptotics for the multi-particle hamiltonian in the continuum near the bottom of the spectrum.",
+    "authors": [
+      "Trésor Ekanga"
+    ],
+    "published": "2016-10-28T12:02:04Z",
+    "updated": "2016-10-28T12:02:04Z",
+    "categories": [
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1610.09179v1",
+    "arxivUrl": "http://arxiv.org/abs/1610.09179v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1812.08242v1",
+    "title": "Convergence to equilibrium due to collisions with external particles",
+    "summary": "We consider a class of \"most non ergodic\" particle systems and prove that for most of them ergodicity appears if only one particle of N has contact with external world, that is this particle collides with external particles in random time moments.",
+    "authors": [
+      "Alexandr Lykov",
+      "Vadim Malyshev"
+    ],
+    "published": "2018-12-19T20:58:17Z",
+    "updated": "2018-12-19T20:58:17Z",
+    "categories": [
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1812.08242v1",
+    "arxivUrl": "http://arxiv.org/abs/1812.08242v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2303.11104v1",
+    "title": "Intrinsic quantum dynamics of particles in brane gravity",
+    "summary": "The Newtonian dynamics of particles in brane gravity is investigated. Due to the coupling of the particles' energy-momentum tensor to the tension of the brane, the particle is semi-confined and oscillates along the extra dimension. We demonstrate that the frequency of these oscillations is proportional to the kinetic energy of the particle in the brane. We show that the classical stability of particle trajectories on the brane gives us the Bohr--Sommerfeld quantization condition. The particle's motion along the extra dimension allows us to formulate a geometrical version of the uncertainty principle. Furthermore, we exhibited that the particle's motion along the extra dimension is identical to the time-independent Schr\\\"odinger equation. The dynamics of a free particle, particles in a box, a harmonic oscillator, a bouncing particle, and tunneling are re-examined. We show that the particle's motion along the extra dimension yields a quantized energy spectrum for bound states.",
+    "authors": [
+      "Shahram Jalalzadeh"
+    ],
+    "published": "2023-03-20T13:41:07Z",
+    "updated": "2023-03-20T13:41:07Z",
+    "categories": [
+      "gr-qc",
+      "hep-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2303.11104v1",
+    "arxivUrl": "http://arxiv.org/abs/2303.11104v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2107.05075v1",
+    "title": "Unified gas-kinetic wave-particle methods VI: Disperse dilute   gas-particle multiphase flow",
+    "summary": "In this paper, a unified gas-kinetic wave-particle scheme (UGKWP) for the disperse dilute gas-particle multiphase flow is proposed. The gas phase is always in the hydrodynamic regime. However, the particle phase covers different flow regimes from particle trajectory crossing to the hydrodynamic wave interaction with the variation of local particle phase Knudsen number. The UGKWP is an appropriate method for the capturing of the multiscale transport mechanism in the particle phase through its coupled wave-particle formulation. In the regime with intensive particle collision, the evolution of solid particle will be followed by the analytic wave with quasi-equilibrium distribution; while in the rarefied regime the non-equilibrium particle phase will be captured through particle tracking and collision, which plays a decisive role in recovering particle trajectory crossing behavior. The gas-kinetic scheme (GKS) is employed for the simulation of gas flow. In the highly collision regime for the particles, no particles will be sampled in UGKWP and the wave formulation for solid particle with the hydrodynamic gas phase will reduce the system to the two-fluid Eulerian model. On the other hand, in the collisionless regime for the solid particle, the free transport of solid particle will be followed in UGKWP, and coupled system will return to the Eulerian-Lagrangian formulation for the gas and particle. The scheme will be tested for in all flow regimes, which include the non-equilibrium particle trajectory crossing, the particle concentration under different Knudsen number, and the dispersion of particle flow with the variation of Stokes number. A experiment of shock-induced particle bed fluidization is simulated and the results are compared with experimental measurements. These numerical solutions validate suitability of the proposed scheme for the simulation of gas-particle multiphase flow.",
+    "authors": [
+      "Xiaojian Yang",
+      "Chang Liu",
+      "Xing Ji",
+      "Wei Shyy",
+      "Kun Xu"
+    ],
+    "published": "2021-07-11T15:54:02Z",
+    "updated": "2021-07-11T15:54:02Z",
+    "categories": [
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2107.05075v1",
+    "arxivUrl": "http://arxiv.org/abs/2107.05075v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0810.3312v2",
+    "title": "Report from the IUPAP Commission on Particles and Fields (C11)",
+    "summary": "The Commission 11 (C11) on Particles and Fields of the International Union of Pure and Applied Physics (IUPAP) supervises the organization of the main conferences in particle physics. In the period 2007-2008 it has been active in the oversight and venue selection for the ICHEP and Lepton Photon Conferences, establishment of the new conference on Technology and Instrumentation in Particle Physics (TIPP), the selection of the prize winners for the IUPAP Young Scientist Prize in Particle Physics and the establishment of a working group on the \"Assessment of Individual Achievements in Large Collaborations in Particle Physics\".",
+    "authors": [
+      "Gregor Herten"
+    ],
+    "published": "2008-10-18T13:00:00Z",
+    "updated": "2008-10-21T06:00:09Z",
+    "categories": [
+      "hep-ex"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0810.3312v2",
+    "arxivUrl": "http://arxiv.org/abs/0810.3312v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0409054v2",
+    "title": "What is a particle?",
+    "summary": "Theoretical developments related to the gravitational interaction have questioned the notion of particle in quantum field theory (QFT). For instance, uniquely-defined particle states do not exist in general, in QFT on a curved spacetime. More in general, particle states are difficult to define in a background-independent quantum theory of gravity. These difficulties have lead some to suggest that in general QFT should not be interpreted in terms of particle states, but rather in terms of eigenstates of local operators. Still, it is not obvious how to reconcile this view with the empirically-observed ubiquitous particle-like behavior of quantum fields, apparent for instance in experimental high-energy physics, or \"particle\"-physics. Here we offer an element of clarification by observing that already in flat space there exist --strictly speaking-- two distinct notions of particles: globally defined $n$-particle Fock-states and *local particle states*. The last describe the physical objects detected by finite-size particle detectors and are eigenstates of local field operators. In the limit in which the particle detectors are appropriately large, global and local particle states converge in a weak topology (but not in norm). This observation has little relevance for flat-space theories --it amounts to a reminder that there are boundary effects in realistic detectors--; but is relevant for gravity. It reconciles the two points of view mentioned above. More importantly, it provides a definition of local particle state that remains well-defined even when the conventional global particle states are not defined. This definition plays an important role in quantum gravity.",
+    "authors": [
+      "Daniele Colosi",
+      "Carlo Rovelli"
+    ],
+    "published": "2004-09-14T14:55:32Z",
+    "updated": "2008-11-05T22:06:53Z",
+    "categories": [
+      "gr-qc",
+      "physics.hist-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0409054v2",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0409054v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2304.03296v1",
+    "title": "UGKWP method for polydisperse gas-solid particle multiphase flow",
+    "summary": "In this paper, a unified algorithm will be proposed for the study of gas-solid particle multiphase flow. The gas-kinetic scheme (GKS) is used to simulate the continuum gas phase and the multiscale unified gas-kinetic wave-particle (UGKWP) method is developed for the multiple dispersed solid particle phase. At the same time, the momentum and energy exchanges between gas-particle phases will be included under the GKS-UGKWP framework. For each disperse solid particle phase, the decomposition of deterministic wave and statistic particle in UGKWP is based on the local cell's Knudsen number. This is very significant for simulating dispersed particle phases at different Knudsen numbers due to the variation of physical properties in individual particle phase, such as the particle diameter, material density, and the corresponding mass fraction inside each control volume. For the gas phase, the GKS is basically an Eulerian approach for the NS solution. Therefore, the GKS-UGKWP method for the gas-particle flow unifies the Eulerian-Eulerian (EE) and Eulerian-Lagrangian (EL) methods. An optimal strategy can be obtained for the solid particle phase with the consideration of physical accuracy and numerical efficiency. Two cases of gas-solid fluidization system, i.e., one circulating fluidized bed and one turbulent fluidized bed, are simulated. The typical flow structures of the fluidized particles are captured, and the time-averaged variables of the flow field agree well with the experimental measurements. In addition, the shock particle-bed interaction is studied by the proposed GKS-UGKWP, which validates the method for polydisperse gas-particle system in the supersonic case, where the dynamic evolution process of the particle cloud is investigated.",
+    "authors": [
+      "Xiaojian Yang",
+      "Wei Shyy",
+      "Kun Xu"
+    ],
+    "published": "2023-04-06T09:13:06Z",
+    "updated": "2023-04-06T09:13:06Z",
+    "categories": [
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2304.03296v1",
+    "arxivUrl": "http://arxiv.org/abs/2304.03296v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1112.3796v1",
+    "title": "Dynamical clusters of infinite particle dynamics",
+    "summary": "For any system $\\{i\\}$ of particles with the trajectories $x_{i}(t)$ in $R^{d}$ on a finite time interval $[0,\\tau]$ we define the interaction graph $G$. Vertices of $G$ are the particles, there is an edge between two particles $i,j$ iff for some $t\\in[0,\\tau]$ the distance between particles $i,j$ is not greater than some constant. We undertake a detailed study of this graph for infinite particle dynamics and prove exponential estimates for its finite connected components. This solves continuous percolation problem for a complicated geometrical objects - the tubes around particle trajectories.",
+    "authors": [
+      "V. A. Malyshev"
+    ],
+    "published": "2011-12-16T12:58:41Z",
+    "updated": "2011-12-16T12:58:41Z",
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "math.PR",
+      "82C21"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1112.3796v1",
+    "arxivUrl": "http://arxiv.org/abs/1112.3796v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.02539v2",
+    "title": "Some conditional probabilities in the TASEP with second class particles",
+    "summary": "In this paper we consider the TASEP with second class particles with the initial order is such that $k$ first class particles are located to the left of $N-k$ second class particles. Under this assumption of the initial state of order, we find the probability that the first class particles are at $x,x+1,\\cdots, x+k-1$ and the first class particles are still located to the left of all second class particles at later time $t$. Moreover, we obtain an explicit formula of this probability for the step initial condition. This probability generalizes a result for $k=1$ in Lee (arXiv:1705.10544).",
+    "authors": [
+      "Eunghyun Lee"
+    ],
+    "published": "2017-07-09T08:09:25Z",
+    "updated": "2018-01-09T06:06:02Z",
+    "categories": [
+      "math.PR",
+      "cond-mat.stat-mech",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1707.02539v2",
+    "arxivUrl": "http://arxiv.org/abs/1707.02539v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2007.00785v1",
+    "title": "The appearance of particle tracks in detectors",
+    "summary": "The phenomenon that a quantum particle propagating in a detector, such as a Wilson cloud chamber, leaves a track close to a classical trajectory is analyzed. We introduce an idealized quantum-mechanical model of a charged particle that is periodically illuminated by pulses of laser light resulting in repeated indirect measurements of the approximate position of the particle. For this model we present a mathematically rigorous analysis of the appearance of particle tracks, assuming that the Hamiltonian of the particle is quadratic in the position- and momentum operators, as for a freely moving particle or a harmonic oscillator.",
+    "authors": [
+      "Miguel Ballesteros",
+      "Tristan Benoist",
+      "Martin Fraas",
+      "Jürg Fröhlich"
+    ],
+    "published": "2020-07-01T22:08:28Z",
+    "updated": "2020-07-01T22:08:28Z",
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2007.00785v1",
+    "arxivUrl": "http://arxiv.org/abs/2007.00785v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0709.3396v2",
+    "title": "Cooling of Particle Beams in Storage Rings",
+    "summary": "Methods of particle beam cooling are reviewed.",
+    "authors": [
+      "E. G. Bessonov"
+    ],
+    "published": "2007-09-21T10:47:57Z",
+    "updated": "2007-10-19T06:22:26Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.class-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0709.3396v2",
+    "arxivUrl": "http://arxiv.org/abs/0709.3396v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0302140v1",
+    "title": "Information theoretic approach to single-particle and two-particle   interference in multi-path interferometers",
+    "summary": "We propose entropic measures for the strength of single-particle and two-particle interference in interferometric experiments where each particle of a pair traverses a multi-path interferometer. Optimal single-particle interference excludes any two-particle interference, and vice versa. We report an inequality that states the compromises allowed by quantum mechanics in intermediate situations, and identify a class of two-particle states for which the upper bound is reached. Our approach is applicable to symmetric two-partite systems of any finite dimension.",
+    "authors": [
+      "Dagomir Kaszlikowski",
+      "L. C. Kwek",
+      "Marek Zukowski",
+      "Berthold-Georg Englert"
+    ],
+    "published": "2003-02-19T12:07:46Z",
+    "updated": "2003-02-19T12:07:46Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0302140v1",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0302140v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0707.2215v1",
+    "title": "Detection of massive multi-particle beams by two-particle ionization",
+    "summary": "Multi-photon absorption is a well-known phenomenon. With atom lasers a similar process could take place for massive particles, the ionization of an atom or molecule by the successive interaction with various particles. This process would lead to multi-particle detection events for incident multi-particle beams. We show that two-particle detections would introduce a correction (proportional to the fourth power of the wavefunction modulus) to the usual one-particle detection probability (only proportional to the second power).",
+    "authors": [
+      "Pedro Sancho"
+    ],
+    "published": "2007-07-15T15:27:42Z",
+    "updated": "2007-07-15T15:27:42Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0707.2215v1",
+    "arxivUrl": "http://arxiv.org/abs/0707.2215v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0809.3445v1",
+    "title": "Creation-annihilation processes in the ensemble of constant particle   number",
+    "summary": "We study, in the ensemble of constant particle number, processes in which a cluster of particles is annihilated and particles are created catalytically in active sites. In this ensemble, particles belonging to a cluster of $\\ell$ particles jump to $\\ell$ distinct active sites. As examples of our prescription, we analyze numerically three nonequilibrium systems that annihilate cluster of particles that are identified as conserved versions of the pair annihilation contact model, triplet annihilation contact model and pair contact process. We show also how to set up the constant particle number ensemble from the constant rate ensemble.",
+    "authors": [
+      "Carlos E. Fiore",
+      "Mário J. de Oliveira"
+    ],
+    "published": "2008-09-19T19:47:31Z",
+    "updated": "2008-09-19T19:47:31Z",
+    "categories": [
+      "cond-mat.stat-mech"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0809.3445v1",
+    "arxivUrl": "http://arxiv.org/abs/0809.3445v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1102.4445v1",
+    "title": "Directional correlations in quantum walks with two particles",
+    "summary": "Quantum walks on the line with a single particle possess a classical analog. Involving more walkers opens up the possibility to study collective quantum effects, such as many particle correlations. In this context, entangled initial states and indistinguishability of the particles play a role. We consider directional correlations between two particles performing a quantum walk on a line. For non-interacting particles we find analytic asymptotic expressions and give the limits of directional correlations. We show that introducing $\\delta$-interaction between the particles, one can exceed the limits for non-interacting particles.",
+    "authors": [
+      "M. Stefanak",
+      "S. M. Barnett",
+      "B. Kollar",
+      "T. Kiss",
+      "I. Jex"
+    ],
+    "published": "2011-02-22T10:23:22Z",
+    "updated": "2011-02-22T10:23:22Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1102.4445v1",
+    "arxivUrl": "http://arxiv.org/abs/1102.4445v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1112.3847v1",
+    "title": "Correlated metallic two particle bound states in quasiperiodic chains",
+    "summary": "Single particle states in a chain with quasiperiodic potential show a metal-insulator transition upon the change of the potential strength. We consider two particles with local interaction in the single particle insulating regime. The two particle states change from being localized to delocalized upon an increase of the interaction strength to a nonperturbative finite value. At even larger interaction strength the states become localized again. This transition of two particle bound states into a correlated metal is due to a resonant mixing of the noninteracting two particle eigenstates. In the discovered correlated metal states two particles move coherently together through the whole chain, therefore contributing to a finite conductivity.",
+    "authors": [
+      "Sergej Flach",
+      "Mikhail Ivanchenko",
+      "Ramaz Khomeriki"
+    ],
+    "published": "2011-12-16T15:24:23Z",
+    "updated": "2011-12-16T15:24:23Z",
+    "categories": [
+      "quant-ph",
+      "cond-mat.dis-nn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1112.3847v1",
+    "arxivUrl": "http://arxiv.org/abs/1112.3847v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2101.01924v1",
+    "title": "Role of wave-particle resonance in turbulent transport in toroidal   plasmas",
+    "summary": "Wave-particle interaction in toroidal plasmas is an essential transport mechanism in drift wave instability-driven microturbulence. In tokamkas, different wave-particle resonance conditions have been found important for the energy and particle transport of multiple species in various drift wave turbulences. To confirm the transport mechanism for electrons and ions in tokamak drift-wave instabilities, the effect of wave-particle resonance on turbulent transport is studied using global gyrokinetic particle simulations of the plasma core ion temperature gradient (ITG) and collisionless trapped electron mode (CTEM) turbulence. Simulation results show that in CTEM and ITG turbulence, electron transport is primarily regulated by wave-particle linear resonance, and the ion transport is regulated by nonlinear wave-particle decorrelation.",
+    "authors": [
+      "Ge Dong",
+      "Zhihong Lin"
+    ],
+    "published": "2021-01-06T08:46:53Z",
+    "updated": "2021-01-06T08:46:53Z",
+    "categories": [
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2101.01924v1",
+    "arxivUrl": "http://arxiv.org/abs/2101.01924v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2207.14105v1",
+    "title": "Production of twisted particles in magnetic fields",
+    "summary": "The use of a (quasi)uniform magnetic field opens new possibilities for a production of twisted particles having orbital angular momenta. Quantum states suitable for a production of charged particles in a uniform magnetic field are determined. The particle penetration from a solenoid to vacuum or another solenoid is analyzed in detail. Experiments allowing one successful discoveries of twisted positrons and positroniums are developed. We find a new effect of increasing a uncertainty of phase of the particle rotation with the distance passed by the particle in the solenoid. This effect leads to exciting new possibilities of production of twisted particles in real solenoids without additional devices like particle sources.",
+    "authors": [
+      "Liping Zou",
+      "Pengming Zhang",
+      "Alexander J. Silenko"
+    ],
+    "published": "2022-07-28T14:20:36Z",
+    "updated": "2022-07-28T14:20:36Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2207.14105v1",
+    "arxivUrl": "http://arxiv.org/abs/2207.14105v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2212.03393v1",
+    "title": "Dynamical regimes and clustering of small neutrally buoyant inertial   particles in stably stratified turbulence",
+    "summary": "Inertial particles in stably stratified flows play a fundamental role in geophysics, from the dynamics of nutrients in the ocean to the dispersion of pollutants in the atmosphere. We consider the Maxey-Riley equation for small neutrally buoyant inertial particles in the Boussinesq approximation, and discuss its limits of validity. We show that particles behave as forced damped oscillators, with different regimes depending on the particles Stokes number and the fluid Brunt-V\\\"ais\\\"al\\\"a frequency. Using direct numerical simulations we study the particles dynamics and we show that small neutrally buoyant particles in these flows tend to cluster in regions of low local vorticity. The particles, albeit small, behave fundamentally differently than tracers.",
+    "authors": [
+      "Christian Reartes",
+      "Pablo D. Mininni"
+    ],
+    "published": "2022-12-07T01:14:29Z",
+    "updated": "2022-12-07T01:14:29Z",
+    "categories": [
+      "physics.flu-dyn",
+      "physics.ao-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2212.03393v1",
+    "arxivUrl": "http://arxiv.org/abs/2212.03393v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0205069v5",
+    "title": "Quantum Entanglement of Identical Particles",
+    "summary": "We consider entanglement in a system of fixed number of identical particles. Since any operation should be symmetrized over all the identical particles and there is the precondition that the spatial wave functions overlap, the meaning of identical-particle entanglement is fundamentally different from that of distinguishable particles. The identical-particle counterpart of the Schmidt basis is shown to be the single-particle basis in which the one-particle reduced density matrix is diagonal. But it does not play a special role in the issue of entanglement, which depends on the single-particle basis chosen. The nonfactorization due to (anti)symmetrization is naturally excluded by using the (anti)symmetrized basis or, equivalently, the particle number representation. The natural degrees of freedom in quantifying the identical-particle entanglement in a chosen single-particle basis are occupation numbers of different single particle basis states. The entanglement between effectively distinguishable spins is shown to be a special case of the occupation-number entanglement.",
+    "authors": [
+      "Yu Shi"
+    ],
+    "published": "2002-05-13T19:51:06Z",
+    "updated": "2003-02-10T15:58:17Z",
+    "categories": [
+      "quant-ph",
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0205069v5",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0205069v5"
+  },
+  {
+    "id": "http://arxiv.org/abs/1605.07994v1",
+    "title": "Squeeze expulsion in grain size segregation",
+    "summary": "Grain segregation occurs under various conditions, such as vibration, shear and mixing. In the gravity-driven shear flow, size segregation is triggered by the percolation of small particles through the opened voids (kinetic sieving), and large particles are accumulated in the upper layer. One hypothesis for the upward migration of large particles is the squeeze expulsion mechanism, which remains yet ambiguous due to limited evidences from either physical or numerical experiments. Here we show statistically how the percolation of small particles facilitates the upward movement of large particles. We found that in large particles, the mechanical anisotropy (strong force network) coincides with the geometric anisotropy (contact network), which indicates squeeze, and the connectivity of large particles is much higher when they are squeezed through small particles. The presence of small particles filling the voids hinders the downward movements and provides dynamic steps for the climbing large particles. Furthermore, increasing the coefficient of friction promotes rotation and empowers more large particles to reach the top layer, implying that the climbing particles tend to rotate relative to their neighbors. Our findings of the microstructure and movement pattern of individual particles add new evidences to the mechanism of squeeze expulsion and provide new perspective for the study of segregation.",
+    "authors": [
+      "Lu Jing",
+      "C. Y. Kwok",
+      "Y. F. Leung"
+    ],
+    "published": "2016-05-25T18:27:06Z",
+    "updated": "2016-05-25T18:27:06Z",
+    "categories": [
+      "nlin.AO",
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1605.07994v1",
+    "arxivUrl": "http://arxiv.org/abs/1605.07994v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1611.02234v2",
+    "title": "Hot Particles Attract in a Cold Bath",
+    "summary": "Controlling interactions out of thermodynamic equilibrium is crucial for designing addressable and functional self-organizing structures. These active interactions also underpin collective behavior in biological systems. Here we study a general setting of active particles in a bath of passive particles, and demonstrate a novel mechanism for long range attraction between active particles. The mechanism operates when the translational persistence length of the active particle motion is smaller than the particle diameter. In this limit, the system reduces to particles of higher diffusivity (\"hot\" particles) in a bath of particles with lower diffusivity (\"cold\" particles). This attractive interaction arises as a hot particle pushes cold particles away to create a large hole around itself, and the holes interact via a depletion-like attraction. Strikingly, the interaction range is more than an order of magnitude larger than the particle radius, well beyond the range of conventional depletion force. Although the mechanism occurs outside the parameter regime of typical biological swimmers, the mechanism could be realized in the laboratory.",
+    "authors": [
+      "Hidenori Tanaka",
+      "Alpha A. Lee",
+      "Michael P. Brenner"
+    ],
+    "published": "2016-11-07T19:49:00Z",
+    "updated": "2017-03-30T11:59:15Z",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech",
+      "physics.bio-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1611.02234v2",
+    "arxivUrl": "http://arxiv.org/abs/1611.02234v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2403.00623v1",
+    "title": "Analysis of the particle relaxation method for generating uniform   particle distributions in smoothed particle hydrodynamics",
+    "summary": "We establish a theoretical framework of the particle relaxation method for uniform particle generation of Smoothed Particle Hydrodynamics. We achieve this by reformulating the particle relaxation as an optimization problem. The objective function is an integral difference between discrete particle-based and smoothed-analytical volume fractions. The analysis demonstrates that the particle relaxation method in the domain interior is essentially equivalent to employing a gradient descent approach to solve this optimization problem, and we can extend such an equivalence to the bounded domain by introducing a proper boundary term. Additionally, each periodic particle distribution has a spatially uniform particle volume, denoted as characteristic volume. The relaxed particle distribution has the largest characteristic volume, and the kernel cut-off radius determines this volume. This insight enables us to control the relaxed particle distribution by selecting the target kernel cut-off radius for a given kernel function.",
+    "authors": [
+      "Yu Fan",
+      "Xiaoliang Li",
+      "Shuoguo Zhang",
+      "Xiangyu Hu",
+      "Nikolaus A. Adams"
+    ],
+    "published": "2024-03-01T15:59:51Z",
+    "updated": "2024-03-01T15:59:51Z",
+    "categories": [
+      "math.NA",
+      "cs.NA",
+      "physics.comp-ph",
+      "65N50, 70F10, 74S30"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2403.00623v1",
+    "arxivUrl": "http://arxiv.org/abs/2403.00623v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1911.02515v2",
+    "title": "Gauge Invariance for Classical Massless Particles with Spin",
+    "summary": "Wigner's quantum-mechanical classification of particle-types in terms of irreducible representations of the Poincar\\'e group has a classical analogue, which we extend in this paper. We study the compactness properties of the resulting phase spaces at fixed energy, and show that in order for a classical massless particle to be physically sensible, its phase space must feature a classical-particle counterpart of electromagnetic gauge invariance. By examining the connection between massless and massive particles in the massless limit, we also derive a classical-particle version of the Higgs mechanism.",
+    "authors": [
+      "Jacob A. Barandes"
+    ],
+    "published": "2019-11-01T18:45:48Z",
+    "updated": "2023-07-26T23:24:22Z",
+    "categories": [
+      "physics.class-ph",
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1911.02515v2",
+    "arxivUrl": "http://arxiv.org/abs/1911.02515v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2403.10645v1",
+    "title": "Conversion of weighted macro-particle distributions",
+    "summary": "This article introduces a method for adjusting macro-particle weights within a particle distribution while preserving statistical and physical properties. The method allows the weights of the new macro-particle distribution to be determined by any continuous function, including uniform. Computational simulations validate the presented approach.",
+    "authors": [
+      "Nicolas Pichoff",
+      "Samuel Marini"
+    ],
+    "published": "2024-03-15T19:25:29Z",
+    "updated": "2024-03-15T19:25:29Z",
+    "categories": [
+      "physics.comp-ph",
+      "physics.acc-ph",
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2403.10645v1",
+    "arxivUrl": "http://arxiv.org/abs/2403.10645v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2411.05753v1",
+    "title": "Magnetic monopoles -- theory overview",
+    "summary": "I give a theoretical overview of magnetic monopoles, focusing on the physical perspective of monopoles as hypothetical particles rather than as mathematical objects. I argue that monopoles are exceptionally interesting hypothetical particles and discuss the prospects of addressing the question of their existence, and possibly producing them, in particle physics experiments.",
+    "authors": [
+      "Arttu Rajantie"
+    ],
+    "published": "2024-11-08T18:11:23Z",
+    "updated": "2024-11-08T18:11:23Z",
+    "categories": [
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2411.05753v1",
+    "arxivUrl": "http://arxiv.org/abs/2411.05753v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/nucl-ex/0609017v3",
+    "title": "Cumulant versus jet-like three-particle correlations",
+    "summary": "Two-particle jet-like azimuthal correlations have revealed intriguing modifications to the away-side of high pt trigger particles in relativistic heavy-ion collisions. Three-particle jet-like azimuthal correlation and three-particle azimuthal cumulant have been analyzed in experiments in attempt to distinguish conical emission of jet-correlated particles from other physics mechanisms. We investigate the difference between three-particle jet-like correlation and three-particle cumulant in azimuth. We show, under the circumstance where the away-side two-particle correlation is relatively flat in azimuth and similar in magnitude to the azimuthal average of the two-particle correlation signal, that the three-particle cumulant cannot distinguish conical emission from other physics mechanisms. The three-particle jet-like correlation, on the other hand, retains its discrimination power.",
+    "authors": [
+      "Jason G. Ulery",
+      "Fuqiang Wang"
+    ],
+    "published": "2006-09-12T20:39:14Z",
+    "updated": "2009-02-19T20:33:43Z",
+    "categories": [
+      "nucl-ex",
+      "nucl-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/nucl-ex/0609017v3",
+    "arxivUrl": "http://arxiv.org/abs/nucl-ex/0609017v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/1912.04101v1",
+    "title": "Alternative analysis of the delayed-choice quantum eraser with two   entangled particles",
+    "summary": "According to Quantum Mechanics, the particles can exhibit either particle properties or wave properties depending on the experimental set up (wave-particle dualism). A special behavior occurs for a system of two entangled particles 1 and 2 that propagate along two different directions in the space. In such a case, the entangled particle 2 should exhibit either the particle behavior or the wave behavior depending on the kind of measurement that is performed on particle 1 whatever is the actual distance between the two particles. The apparently surprising fact is that the \"choice\" of what kind of measurement is performed on particle 1 can be also made when particle 2 has been already detected (delayed-choice quantum eraser).These theoretical predictions have been confirmed by the experiments and seem to suggest that a future measurement can affect a past event. Recently, both the concepts of \"delayed choice\" and of \"quantum erasure\" have been criticized by Ellerman and by Kastner. In this paper we propose an alternative analysis of the delayed-choice quantum eraser with two entangled particles and we show that it does not imply an inversion of the natural cause-effect temporal order of the physical events.",
+    "authors": [
+      "Sandro Faetti"
+    ],
+    "published": "2019-12-09T15:04:48Z",
+    "updated": "2019-12-09T15:04:48Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1912.04101v1",
+    "arxivUrl": "http://arxiv.org/abs/1912.04101v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2505.01014v1",
+    "title": "Violation of Svetlichny's inequality in a system of spins $j$",
+    "summary": "Quantum multi-particle correlations are one of the most intriguing properties of quantum entanglement, arising from collective entangled states of multiple particles. Svetlichny's inequality (SI) was the first method proposed to test the existence of such correlations. Previous studies have primarily focused on $1/2$-spin particle systems. In this paper, we present a unified scheme that enables the violation of SI in arbitrary non-zero spin particle systems. Specifically, for all fermion systems, our scheme achieves the maximal quantum violation of SI for any number of particles. For boson systems, when the particle spin $j\\geq2$, our scheme consistently realizes the violation of SI for any number of particles. When the particle spin $j=1$, our scheme can yield SI violation for up to $7$ particles. Furthermore, as the particle spin $j$ approaches infinity, our scheme achieves the maximal quantum violation of SI. To obtain these results, we also prove that the upper bound of Svetlichny's operator within the framework of local hidden variable theory is $\\sqrt{2^{N+1}}$. These findings not only enhance our understanding of quantum correlations across various particle systems but also provide valuable insights for the development of quantum communication protocols that utilize entanglement and non-locality in multi-particle configurations.",
+    "authors": [
+      "Yang Xiang",
+      "Yuan Tao"
+    ],
+    "published": "2025-05-02T05:26:08Z",
+    "updated": "2025-05-02T05:26:08Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2505.01014v1",
+    "arxivUrl": "http://arxiv.org/abs/2505.01014v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1706.06580v1",
+    "title": "Early propagation of energetic particles across the mean field in   turbulent plasmas",
+    "summary": "Propagation of energetic particles across the mean field direction in turbulent magnetic fields is often described as spatial diffusion. Recently, it has been suggested that initially the particles propagate systematically along meandering field lines, and only later reach the time-asymptotic diffusive cross-field propagation. In this paper, we analyse cross-field propagation of 1--100 MeV protons in composite 2D-slab turbulence superposed on a constant background magnetic field, using full-orbit particle simulations, to study the non-diffusive phase of particle propagation with a wide range of turbulence parameters. We show that the early-time non-diffusive propagation of the particles is consistent with particle propagation along turbulently meandering field lines. This results in a wide cross-field extent of the particles already at the initial arrival of particles to a given distance along the mean field direction, unlike when using spatial diffusion particle transport models. The cross-field extent of the particle distribution remains constant for up to tens of hours in turbulence environment consistent with the inner heliosphere during solar energetic particle events. Subsequently, the particles escape from their initial meandering field lines, and the particle propagation across the mean field reaches time-asymptotic diffusion. Our analysis shows that in order to understand solar energetic particle event origins, particle transport modelling must include non-diffusive particle propagation along meandering field lines.",
+    "authors": [
+      "T. Laitinen",
+      "S. Dalla",
+      "D. Marriott"
+    ],
+    "published": "2017-06-20T09:46:37Z",
+    "updated": "2017-06-20T09:46:37Z",
+    "categories": [
+      "physics.space-ph",
+      "astro-ph.SR"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1706.06580v1",
+    "arxivUrl": "http://arxiv.org/abs/1706.06580v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.19189v1",
+    "title": "Exploring the soft pinning effect in the dynamics and the structure   dynamics correlation in multicomponent supercooled liquids",
+    "summary": "We study multicomponent liquids by increasing the mass of $15\\%$ of the particles in a binary Kob-Andersen model. We find that the heavy particles have dual effects on the lighter particles. At higher temperatures, there is a significant decoupling of the dynamics between heavier and lighter particles, with the former resembling a pinned particle to the latter. The dynamics of the lighter particles slow down due to the excluded volume around the nearly immobile heavier particles. Conversely, at lower temperatures, there is a coupling between the dynamics of the heavier and lighter particles. The heavier particles' mass slows down the dynamics of both types of particles. This makes the soft pinning effect of the heavy particles questionable in this regime. We demonstrate that as the mass of the heavy particles increases, the coupling of the dynamics between the lighter and heavier particles weakens. Consequently, the heavier the mass of the heavy particles, the more effectively they act as soft pinning centres in both high and low-temperature regimes. A key finding is that akin to the pinned system, the self and collective dynamics of the lighter particles decouple from each other as the mass of the heavy particles has a more pronounced impact on the latter. We analyze the structure dynamics correlation by considering the system under the binary and modified quaternary framework, the latter describing the pinned system. Our findings indicate that whenever the heavy mass particles function as soft pinning centres, the modified quaternary framework predicts a higher correlation.",
+    "authors": [
+      "Ehtesham Anwar",
+      "Palak Patel",
+      "Mohit Sharma",
+      "Sarika Maitra Bhattacharyya"
+    ],
+    "published": "2024-07-27T06:47:59Z",
+    "updated": "2024-07-27T06:47:59Z",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech",
+      "physics.comp-ph",
+      "physics.flu-dyn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2407.19189v1",
+    "arxivUrl": "http://arxiv.org/abs/2407.19189v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/9712342v1",
+    "title": "The Standard Model of particle physics",
+    "summary": "A brief review of the Standard Model of particle physics is presented.",
+    "authors": [
+      "P. Aurenche"
+    ],
+    "published": "1997-12-11T11:11:02Z",
+    "updated": "1997-12-11T11:11:02Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/9712342v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/9712342v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/0510281v1",
+    "title": "The Standard Model of Particle Physics",
+    "summary": "A concise introduction to the Standard Model of fundamental particle interactions is presented.",
+    "authors": [
+      "Guido ALTARELLI"
+    ],
+    "published": "2005-10-21T08:10:53Z",
+    "updated": "2005-10-21T08:10:53Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/0510281v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/0510281v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1002.0473v1",
+    "title": "Renormalization of Newton's constant and Particle Physics",
+    "summary": "We report on particle physics applications of the renormalization group equation of Newton's constant.",
+    "authors": [
+      "X. Calmet"
+    ],
+    "published": "2010-02-02T13:06:51Z",
+    "updated": "2010-02-02T13:06:51Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1002.0473v1",
+    "arxivUrl": "http://arxiv.org/abs/1002.0473v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0706.0807v1",
+    "title": "Kinetic Equations for Quantum Many-Particle Systems",
+    "summary": "The current status of the derivation of kinetic equations from quantum many-particle dynamics is reviewed.",
+    "authors": [
+      "Herbert Spohn"
+    ],
+    "published": "2007-06-06T11:55:06Z",
+    "updated": "2007-06-06T11:55:06Z",
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "82C10"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0706.0807v1",
+    "arxivUrl": "http://arxiv.org/abs/0706.0807v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/9906063v1",
+    "title": "Physics of Particle Detection",
+    "summary": "In this review the basic interaction mechanisms of charged and neutral particles are presented. The ionization energy loss of charged particles is fundamental to most particle detectors and is therefore described in more detail. The production of electromagnetic radiation in various spectral ranges leads to the detection of charged particles in scintillation, Cherenkov and transition radiation counters. Photons are measured via the photoelectric effect, Compton scattering or pair production, and neutrons through their nuclear interactions. A combination of the various detector methods helps to identify elementary particles and nuclei. At high energies absorption techniques in calorimeters provide additional particle identification and an accurate energy measurement.",
+    "authors": [
+      "C. Grupen"
+    ],
+    "published": "1999-06-30T12:42:39Z",
+    "updated": "1999-06-30T12:42:39Z",
+    "categories": [
+      "physics.ins-det"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/9906063v1",
+    "arxivUrl": "http://arxiv.org/abs/physics/9906063v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/0410138v1",
+    "title": "Control of fine particles by oscillating external forces in plasmas",
+    "summary": "A novel technique for the control of fine particle behavior is developed and demonstrated experimentally. The technique is called a time-averaged particle driving (TAPD) method. This method contains an application of positive pulses to two point-electrodes placed facing each other with some distance in plasmas with fine particles. When the positive pulses are applied alternatively with a repetition period that is shorter than the particle response time, the particles feel only time-averaged force because of the large mass and are transported around the center between two point-electrodes. This method is quite effective for converging fine particles in the plasma.",
+    "authors": [
+      "Satoru Iizuka",
+      "Kazuma Sakuta"
+    ],
+    "published": "2004-10-19T08:16:22Z",
+    "updated": "2004-10-19T08:16:22Z",
+    "categories": [
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/0410138v1",
+    "arxivUrl": "http://arxiv.org/abs/physics/0410138v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1107.0873v1",
+    "title": "High \\pt{} particle correlations in pp collisions at LHC/ALICE",
+    "summary": "Two-particle correlation triggered by high-\\pt{} particles allows us to study hard scattering phenomena when full jet reconstruction is challenging. An analysis of the first ALICE pp data where charged and neutral particles isolated or not are used as trigger particles is presented. The two-particle correlation between the trigger ($t$) and the associate ($a$) particles is studied as a function of the imbalance parameter \\xe=-$\\vec{p}_{T_{a}} \\cdot \\vec{p}_{T_{t}}/\\mid \\vec{p}_{T_{t}}\\mid ^{2}$ and interpreted in terms of jet fragmentation function.",
+    "authors": [
+      "Yaxian Mao"
+    ],
+    "published": "2011-07-05T13:45:25Z",
+    "updated": "2011-07-05T13:45:25Z",
+    "categories": [
+      "hep-ex"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1107.0873v1",
+    "arxivUrl": "http://arxiv.org/abs/1107.0873v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2102.02894v2",
+    "title": "Identical Particles in Quantum Mechanics: Against the Received View",
+    "summary": "According to the Received View identical quantum particles are a previously unknown kind of objects that do not possess individuality. In this Chapter we discuss this view, criticize it, and propose an alternative. According to this alternative view so-called identical quantum particles should in many cases not be seen as objects (particles) at all. However, there are situations in which a particle picture does become applicable. But the particles that emerge in these cases are distinguishable individuals, unlike the particles of the Received View.",
+    "authors": [
+      "Dennis Dieks"
+    ],
+    "published": "2021-02-04T21:28:44Z",
+    "updated": "2022-11-10T15:51:21Z",
+    "categories": [
+      "quant-ph",
+      "physics.hist-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2102.02894v2",
+    "arxivUrl": "http://arxiv.org/abs/2102.02894v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2211.15452v1",
+    "title": "Structural Properties of Irreducible Two-Particle Representations of the   Poincaré Group",
+    "summary": "Two particles, described by an irreducible two-particle representation of the Poincar\\'e group, are correlated by the constraints that the constancy of the Casimir operators imposes on the state space. This correlation can be understood as a geometrically caused interaction between the particles, the strength of which is related to the normalisation constant $\\omega$ of the two-particle states by $4\\pi\\,\\omega^2$. The numerical value of $4\\pi\\,\\omega^2$ is found to match the experimental value of the electromagnetic fine structure constant $\\alpha$. This strongly suggests that the correlation of two particles in an irreducible two-particle representation of the Poincar\\'e group manifests itself in the electromagnetic interaction.",
+    "authors": [
+      "Walter Smilga"
+    ],
+    "published": "2022-11-22T11:54:01Z",
+    "updated": "2022-11-22T11:54:01Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2211.15452v1",
+    "arxivUrl": "http://arxiv.org/abs/2211.15452v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.00849v1",
+    "title": "The open ASEP with light particles",
+    "summary": "We consider the stationary measure of the open asymmetric simple exclusion process (ASEP) with light particles. We prove several results on the asymptotic locations of the light particles under the stationary measure. Moreover, in the fan region of the high and low density phases, we study the mixing times for open ASEP with light particles. Our approach involves the matrix product ansatz, Askey-Wilson signed measures, moderate deviation results for second class particles, as well as various coupling arguments. Along the way we obtain the particle densities at single sites for the standard open ASEP without light particles, which are of independent interest.",
+    "authors": [
+      "Dominik Schmid",
+      "Zongrui Yang"
+    ],
+    "published": "2024-09-01T21:38:55Z",
+    "updated": "2024-09-01T21:38:55Z",
+    "categories": [
+      "math.PR",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2409.00849v1",
+    "arxivUrl": "http://arxiv.org/abs/2409.00849v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/0409023v1",
+    "title": "An advance report on particle invariance in particle physics",
+    "summary": "Since particle such as molecule, atom and nucleus are composite particle, it is important to recognize that physics must be invariant for both the composite particle and its constituent particles, this requirement is called particle invariance. But difficulties arise immediately because for fermion we use the Dirac equation, for boson we use the Klein-Gordon equation. Therefore, the particle invariance demands there is a general wave equation for describing particle motion regardless particle class. In this paper, three advances in this subject are reported: (1) momentum-wavefunction relation is a general relation shared by both fermion and boson, meets the requirement of the particle invaiance. As a test, the momentum-wavefunction relation was directly applied to hydrogen atom, and get the correct fine structure and spin effect for the electron. (2) the Dirac equation and Klein-Gordon equation can be derived out from the momentum-wavefunction relation when we abandon some higher order terms. (3) according to the momentum-wavefunction relation a path integral method was developed, differing from Feynman's path integral, it simplfies quantum computation.",
+    "authors": [
+      "H. Y. Cui"
+    ],
+    "published": "2004-09-02T21:30:14Z",
+    "updated": "2004-09-02T21:30:14Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/0409023v1",
+    "arxivUrl": "http://arxiv.org/abs/physics/0409023v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1907.13478v1",
+    "title": "Orbital stability of ensembles of particles in regions of magnetic   reconnection in Earth's magneto-tail",
+    "summary": "We investigate the collective behaviour of particle orbits in the vicinity of magnetic reconnection in Earth's magneto-tail. Various regions of different kinds of orbital stability of particle motions are found. We locate regimes of temporary capture of particle orbits in configuration space as well as locations, where strong particle accelerations take place. With this study we are able to provide a detailed map, i.e. the topology, of high and low acceleration centers close to the reconnection site. Quasi-regular and chaotic kinds of motions of elementary particles can be determined as well. The orbital stability of particle orbits is obtained by a statistical analysis of the outcome of the system of variational equations of particle orbits within the framework of particle-in-cell simulations. Using the concept of Lyapunov Characteristic Numbers to ensembles of particle orbits we introduce Lyapunov Ensemble Averages to describe the response of particle orbits to local perturbations induced by the electro-magnetic field.",
+    "authors": [
+      "Christoph Lhotka",
+      "Philippe Bourdin",
+      "Elke Pilat-Lohinger"
+    ],
+    "published": "2019-07-30T09:08:58Z",
+    "updated": "2019-07-30T09:08:58Z",
+    "categories": [
+      "physics.plasm-ph",
+      "astro-ph.EP",
+      "nlin.CD",
+      "physics.space-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1907.13478v1",
+    "arxivUrl": "http://arxiv.org/abs/1907.13478v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.11361v1",
+    "title": "Origin of granular axial segregation bands in a rotating tumbler: An   interface-mixing driven Rayleigh-Taylor instability",
+    "summary": "The origin of large and small particle axial bands in long rotating tumblers is a long-standing question. Using DEM simulations, we show that this axial segregation is due to a Rayleigh-Taylor instability which is characterized by the fact that the density of a granular medium increases with mixing and decreases with segregation. For initially mixed particles, segregation and collisional diffusion in the flowing layer balance and lead to a three-layer system, with a layer of large particles over a layer of small particles, and, interposed between these layers, a layer of more densely packed mixed particles. The higher density mixed particle layer over the lower density small particle layer induces a Rayleigh-Taylor instability, evident as waviness in the interface between the layers. The waviness destabilizes into ascending plumes of small particles and descending plumes of mixed particles with large particles enriched near the surface, which become evident as small and large particle bands visible at the free surface. Rolls driven by segregation at the tilted interface between plumes maintain the pattern of frozen plumes. Published by the American Physical Society 2024",
+    "authors": [
+      "Umberto d'Ortona",
+      "Richard Lueptow",
+      "Nathalie Thomas"
+    ],
+    "published": "2024-10-15T07:28:44Z",
+    "updated": "2024-10-15T07:28:44Z",
+    "categories": [
+      "cond-mat.soft",
+      "physics.class-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2410.11361v1",
+    "arxivUrl": "http://arxiv.org/abs/2410.11361v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0707.1536v2",
+    "title": "Dark Matter and Particle Physics",
+    "summary": "[A brief review intended for a general physics colloquium audience.] Astrophysicists now know that 80% of the matter in the universe is `dark matter', composed of neutral and weakly interacting elementary particles that are not part of the Standard Model of particle physics. I will summarize the evidence for dark matter. I will explain why I expect dark matter particles to be produced at the CERN LHC. We will then need to characterize the new weakly interacting particles and demonstrate that they are the same particles that are found in the cosmos. I will describe how this might be done.",
+    "authors": [
+      "Michael E. Peskin"
+    ],
+    "published": "2007-07-10T23:01:52Z",
+    "updated": "2007-07-29T23:48:46Z",
+    "categories": [
+      "hep-ph",
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0707.1536v2",
+    "arxivUrl": "http://arxiv.org/abs/0707.1536v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1111.1583v1",
+    "title": "Spinor particle. An indeterminacy in the motion of relativistic   dynamical systems with separately fixed mass and spin",
+    "summary": "We give an argument that a broad class of geometric models of spinning relativistic particles with Casimir mass and spin being separately fixed parameters, have indeterminate worldline (while other spinning particles have definite worldline). This paradox suggests that for a consistent description of spinning particles something more general than a worldline concept should be used. As a particular case, we study at the Lagrangian level the Cauchy problem for a spinor particle and then, at the constrained Hamiltonian level, we generalize our result to other particles.",
+    "authors": [
+      "Łukasz Bratek"
+    ],
+    "published": "2011-11-07T14:02:35Z",
+    "updated": "2011-11-07T14:02:35Z",
+    "categories": [
+      "math-ph",
+      "hep-th",
+      "math.MP",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1111.1583v1",
+    "arxivUrl": "http://arxiv.org/abs/1111.1583v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1504.04227v2",
+    "title": "Replacing the Singlet Spinor of the EPR-B Experiment in the   Configuration Space with two Single-Particle Spinors in Physical Space",
+    "summary": "Recently, for spinless non-relativistic particles, Norsen, Marian and Oriols show that in the de Broglie-Bohm interpretation it is possible to replace the wave function in the configuration space by single-particle wave functions in physical space. In this paper, we show that this replacment of the wave function in the configuration space by single-particle functions in the 3D-space is also possible for particles with spin, in particular for the particles of the EPR-B experiment, the Bohm version of the Einstein-Podolsky-Rosen experiment.",
+    "authors": [
+      "Michel Gondran",
+      "Alexandre Gondran"
+    ],
+    "published": "2015-04-15T15:09:05Z",
+    "updated": "2016-05-06T11:27:16Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1504.04227v2",
+    "arxivUrl": "http://arxiv.org/abs/1504.04227v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.19151v1",
+    "title": "Moment-preserving Monte-Carlo Coulomb collision method for particle   codes",
+    "summary": "Binary-pairing Monte-Carlo methods are widely used in particle-in-cell codes to capture effects of small angle Coulomb collisions. These methods preserve momentum and energy exactly when the simulation particles have equal weights. However, when the interacting particles are of varying weight, these physical conservation laws are only preserved on average. Here, we 1) extend these methods to weighted particles such that the scattering physics is correct on average, and 2) describe a new method for adjusting the particle velocities post scatter to restore exact conservation of momentum and energy. The efficacy of the model is illustrated with various test problems.",
+    "authors": [
+      "Justin Ray Angus",
+      "Yichen Fu",
+      "Vasily Geyko",
+      "Dave Grote",
+      "David Larson"
+    ],
+    "published": "2024-07-27T02:46:59Z",
+    "updated": "2024-07-27T02:46:59Z",
+    "categories": [
+      "physics.comp-ph",
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2407.19151v1",
+    "arxivUrl": "http://arxiv.org/abs/2407.19151v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/0001036v2",
+    "title": "Wave Essence of Particles",
+    "summary": "We state several ideas based on the view-point of particle behaviour of matter to explain wave character of photon and elementary particles. By using Newton's suggestion of light ray, we clarify integrally the behaviour of light ``wave''. And ``wave'' character of particles is also explained by the view-point of particle.",
+    "authors": [
+      "Do Minh Chi"
+    ],
+    "published": "2000-01-17T10:04:11Z",
+    "updated": "2000-02-22T10:31:08Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/0001036v2",
+    "arxivUrl": "http://arxiv.org/abs/physics/0001036v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0411040v1",
+    "title": "Quantum entanglement as an interpretation of bosonic character in   composite two-particle systems",
+    "summary": "We consider a composite particle formed by two fermions or two bosons. We discover that composite behavior is deeply related to the quantum entanglement between the constituent particles. By analyzing the properties of creation and annihilation operators, we show that bosonic character emerges if the constituent particles become strongly entangled. Such a connection is demonstrated explicitly in a class of two-particle wave functions.",
+    "authors": [
+      "C. K. Law"
+    ],
+    "published": "2004-11-05T05:33:49Z",
+    "updated": "2004-11-05T05:33:49Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0411040v1",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0411040v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0903.3878v1",
+    "title": "Bohmian particle trajectories contradict quantum mechanics",
+    "summary": "The Bohmian interpretation of quantum mechanics adds particle trajectories to the wave function and ensures that the probability distribution of the particle positions agrees with quantum mechanics at any time. This is not sufficient to avoid contradictions with quantum mechanics. There are correlations between particle positions at different times which cannot be reproduced with real particle trajectories. A simple rearrangement of an experimental test of the Bell-CHSH inequality demonstrates this.",
+    "authors": [
+      "Michael Zirpel"
+    ],
+    "published": "2009-03-23T15:44:46Z",
+    "updated": "2009-03-23T15:44:46Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0903.3878v1",
+    "arxivUrl": "http://arxiv.org/abs/0903.3878v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1009.3489v1",
+    "title": "Two-particle Kapitza-Dirac diffraction",
+    "summary": "We extend the study of Kapitza-Dirac diffraction to the case of two-particle systems. Due to the exchange effects the shape and visibility of the two-particle detection patterns show important differences for identical and distinguishable particles. We also identify a novel quantum statistics effect present in momentum space for some values of the initial particle momenta, which is associated with different numbers of photon absorptions compatible with the final momenta.",
+    "authors": [
+      "Pedro Sancho"
+    ],
+    "published": "2010-09-17T19:37:50Z",
+    "updated": "2010-09-17T19:37:50Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1009.3489v1",
+    "arxivUrl": "http://arxiv.org/abs/1009.3489v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1105.5213v2",
+    "title": "A Stable Massive Charged Particle",
+    "summary": "We consider the possibility of the existence of a stable massive charged particle by a minimal extension of the standard model particle content. Absolute stability in the case of singly charged particle is not possible if the usual doublet Higgs exists, unless a discrete symmetry is imposed.But a doubly charged particle is absolutely stable.",
+    "authors": [
+      "G. Rajasekaran"
+    ],
+    "published": "2011-05-26T06:21:52Z",
+    "updated": "2011-06-08T06:59:22Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1105.5213v2",
+    "arxivUrl": "http://arxiv.org/abs/1105.5213v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1703.09760v1",
+    "title": "On the Possible Trajectories of Particles with Spin. III. Particles in   the Stationary Homogeneous Electric Field",
+    "summary": "The behavior of spinning particles in the stationary homogeneous electric field is considered and trajectories are found for various spin orientations. We study the acceleration of spinning particles by an electric field, as well as the electric and magnetic deflection in constant homogeneous fields. It is shown that the classical Lorentz-Einstein theory of motion of charged particles is a special case of the proposed theory",
+    "authors": [
+      "Alexander N. Tarakanov"
+    ],
+    "published": "2017-02-24T16:40:18Z",
+    "updated": "2017-02-24T16:40:18Z",
+    "categories": [
+      "physics.class-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1703.09760v1",
+    "arxivUrl": "http://arxiv.org/abs/1703.09760v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1907.09419v1",
+    "title": "Contextuality and nonlocality of indistinguishable particles",
+    "summary": "Unlike in the case of distinguishable particles, the concept of entanglement-- not to mention, nonlocality-- remains debated in case of indistinguishable particles. Here, we show that certain existing all-versus-nothing type of proofs of contextuality or nonlocality for distinguishable particles, based on a logical contradiction, may be carried over to indistinguishable particles.",
+    "authors": [
+      "Debajyoti Gangopadhyay",
+      "R. Srikanth"
+    ],
+    "published": "2019-07-15T11:17:38Z",
+    "updated": "2019-07-15T11:17:38Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1907.09419v1",
+    "arxivUrl": "http://arxiv.org/abs/1907.09419v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2006.09057v1",
+    "title": "Multi-Particle Simulation Techniques",
+    "summary": "The nonlinear space-charge effects play an important role in high intensity/high brightness accelerators. These effects can be self-consistently studied using multi-particle simulations. In this lecture, we will discuss the particle-in-cell method and the symplectic tracking model for self-consistent multi-particle simulations.",
+    "authors": [
+      "Ji Qiang"
+    ],
+    "published": "2020-06-16T10:29:00Z",
+    "updated": "2020-06-16T10:29:00Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2006.09057v1",
+    "arxivUrl": "http://arxiv.org/abs/2006.09057v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2207.06100v2",
+    "title": "Many-body quantum non-Markovianity",
+    "summary": "We port the concept of non-Markovian quantum dynamics to the many-particle realm, by a suitable decomposition of the many-particle Hilbert space. We show how the specific structure of many-particle states determines the observability of non-Markovianity by single- or many-particle observables, and discuss a realization in a readily implementable few-particle set-up.",
+    "authors": [
+      "Jonathan Brugger",
+      "Christoph Dittel",
+      "Andreas Buchleitner"
+    ],
+    "published": "2022-07-13T10:17:34Z",
+    "updated": "2022-08-19T13:33:26Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2207.06100v2",
+    "arxivUrl": "http://arxiv.org/abs/2207.06100v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0502135v1",
+    "title": "Free Energy Formalism for Particle Adsorption",
+    "summary": "The equilibrium properties of particles adsorption is investigated theoretically. The model relies on a free energy formulation which allows to generalize the Maxwell-Boltzmann description to solutions for which the bulk volume fraction of potentially adsorbed particles is very high. As an application we consider the equilibrium physical adsorption of neutral and charged particles from solution onto two parallel adsorbing surfaces.",
+    "authors": [
+      "Pierre Gosselin",
+      "Herve Mohrbach"
+    ],
+    "published": "2005-02-04T16:40:48Z",
+    "updated": "2005-02-04T16:40:48Z",
+    "categories": [
+      "cond-mat.soft"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0502135v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0502135v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0707.3935v2",
+    "title": "A Possibility of Volume Refraction of Negative Relativistic Particles in   Bent Crystals",
+    "summary": "The volume coherent deflection of high-energy positive and negative particles in uniformly bent crystals is studied. The general analysis of potential scattering shows that the standard screening potential for a large class of collisions can cause the volume refraction for negative particles (antiprotons, electrons) instead of the volume reflection for positive particles (proton, positrons).",
+    "authors": [
+      "Gennady V. Kovalev"
+    ],
+    "published": "2007-07-26T16:47:27Z",
+    "updated": "2007-07-26T20:46:45Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.atom-ph",
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0707.3935v2",
+    "arxivUrl": "http://arxiv.org/abs/0707.3935v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/0811.1663v1",
+    "title": "Open statistical issues in particle physics",
+    "summary": "Many statistical issues arise in the analysis of Particle Physics experiments. We give a brief introduction to Particle Physics, before describing the techniques used by Particle Physicists for dealing with statistical problems, and also some of the open statistical questions.",
+    "authors": [
+      "Louis Lyons"
+    ],
+    "published": "2008-11-11T09:56:54Z",
+    "updated": "2008-11-11T09:56:54Z",
+    "categories": [
+      "stat.AP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0811.1663v1",
+    "arxivUrl": "http://arxiv.org/abs/0811.1663v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1608.07456v1",
+    "title": "Creation of a group on particle accelerator science and technology in   Mexico",
+    "summary": "The story-line of the activities that have produced the first group of scientists in Mexico working on particle accelerator science and technology is briefly presented.",
+    "authors": [
+      "J. G. Contreras",
+      "M. Napsuciale"
+    ],
+    "published": "2016-08-25T01:42:53Z",
+    "updated": "2016-08-25T01:42:53Z",
+    "categories": [
+      "physics.hist-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1608.07456v1",
+    "arxivUrl": "http://arxiv.org/abs/1608.07456v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1411.5911v1",
+    "title": "Effective electric and magnetic polarizabilities of pointlike spin-1/2   particles",
+    "summary": "Effective electric and magnetic polarizabilities of pointlike spin-1/2 particles possesing an anomalous magnetic moment are calculated with the transformation of an initial Hamiltonian to the Foldy-Wouthuysen representation. Polarizabilities of spin-1/2 and spin-1 particles are compared.",
+    "authors": [
+      "A. J. Silenko"
+    ],
+    "published": "2014-11-21T15:25:13Z",
+    "updated": "2014-11-21T15:25:13Z",
+    "categories": [
+      "hep-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1411.5911v1",
+    "arxivUrl": "http://arxiv.org/abs/1411.5911v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2209.05345v1",
+    "title": "Path integral and particle ontology",
+    "summary": "It is often said that in relativistic quantum physics, a fundamental particle ontology is not viable. However, previous works have shown that certain relativistic quantum field theories can be reformulated as path integrals over particle configurations. Drawing on these works, I argue that a fundamental particle ontology is actually viable in relativistic quantum physics.",
+    "authors": [
+      "Ding Jia"
+    ],
+    "published": "2022-07-11T15:07:29Z",
+    "updated": "2022-07-11T15:07:29Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2209.05345v1",
+    "arxivUrl": "http://arxiv.org/abs/2209.05345v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math-ph/0702046v1",
+    "title": "Wave scattering by small particles in a medium",
+    "summary": "Wave scattering is considered in a medium in which many small particles are embedded. Equations for the effective field in the medium are derived when the number of particles tends to infinity.",
+    "authors": [
+      "A. G. Ramm"
+    ],
+    "published": "2007-02-14T17:02:59Z",
+    "updated": "2007-02-14T17:02:59Z",
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "35J05, 74J20, 81U10, 82D20"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math-ph/0702046v1",
+    "arxivUrl": "http://arxiv.org/abs/math-ph/0702046v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0804.3400v1",
+    "title": "Electromagnetic wave scattering by many conducting small particles",
+    "summary": "A rigorous theory of electromagnetic (EM) wave scattering by small perfectly conducting particles is developed. The limiting case when the number of particles tends to infinity is discussed.",
+    "authors": [
+      "A. G. Ramm"
+    ],
+    "published": "2008-04-21T20:07:16Z",
+    "updated": "2008-04-21T20:07:16Z",
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "78A45, 35J25"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0804.3400v1",
+    "arxivUrl": "http://arxiv.org/abs/0804.3400v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1007.0830v1",
+    "title": "Resonances and localization in multi-particle disordered systems",
+    "summary": "This is a complement to our earlier work \\cite{C10a} where a new eigenvalue concentration bound for multi-particle disordered quantum lattice systems was obtained. Here we show that the new bound leads to a simplified proof of multi-particle spectral and dynamical localization.",
+    "authors": [
+      "Victor Chulaevsky"
+    ],
+    "published": "2010-07-06T08:19:26Z",
+    "updated": "2010-07-06T08:19:26Z",
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "math.SP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1007.0830v1",
+    "arxivUrl": "http://arxiv.org/abs/1007.0830v1"
+  }
+]

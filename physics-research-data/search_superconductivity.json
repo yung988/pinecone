@@ -1,0 +1,1744 @@
+[
+  {
+    "id": "http://arxiv.org/abs/1402.6857v2",
+    "title": "Advanced superconducting circuits and devices",
+    "summary": "Short review on advanced superconducting circuits and devices.",
+    "authors": [
+      "Martin Weides",
+      "Hannes Rotzinger"
+    ],
+    "published": "2014-02-27T11:00:16Z",
+    "updated": "2014-04-02T09:24:24Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1402.6857v2",
+    "arxivUrl": "http://arxiv.org/abs/1402.6857v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0606599v2",
+    "title": "The fundamental role of superconducting quasiparticle coherence in   cuprate superconductors",
+    "summary": "Within the kinetic energy driven superconducting mechanism, we study the interplay between superconductivity and the nodal and antinodal superconducting quasiparticle coherences in cuprate superconductors, and find the s-wave superconducting transition temperature is heavily suppressed by the antinodal superconducting quasiparticle coherence, while the d-wave superconducting transition temperature is enhanced, therefore the antinodal superconducting quasiparticle coherence plays a more crucial role in superconductivity of cuprate superconductors.",
+    "authors": [
+      "Shiping Feng",
+      "Huaiming Guo"
+    ],
+    "published": "2006-06-23T09:09:31Z",
+    "updated": "2006-07-05T12:18:49Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0606599v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0606599v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0511705v1",
+    "title": "Magnetic field dependence of kinetic inductance in Bi2Sr2Ca2Cu3O10   superconducting strip and its feasible applications",
+    "summary": "The kinetic inductance properties of a thin superconducting sample of BSCCO-2223 compound is studied. A strong dependence of kinetic inductance with the variation of applied magnetic field is found at low temperature in the superconducting state. The kinetic inductance of a thin superconductor increases linearly with increasing magnetic field. This behavior is used for designing a superconducting modulator circuit. This behavior can be useful for device applications and designing of superconducting electronic circuits like superconducting power amplifier, superconducting transmitter and superconducting ac current controller.",
+    "authors": [
+      "S. Sarangi",
+      "S. P. Chockalingam",
+      "S. V. Bhat"
+    ],
+    "published": "2005-11-29T16:10:42Z",
+    "updated": "2005-11-29T16:10:42Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0511705v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0511705v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2112.09149v2",
+    "title": "Quenched randomness, thermal fluctuations and reentrant   superconductivity: application to UTe$_2$",
+    "summary": "Reentrant superconductivity has been observed in the candidate spin-triplet superconductor UTe$_2$ as a function of the magnetic field applied along the hard axis. Resistivity measurements have shown, a broadened superconducting transition appears near the minimal $T_c$, highlighting the importance of superconducting fluctuations in this regime. We present a phenomenological study assuming a field-driven first-order transition between two superconducting states. We show that with quenched randomness, inhomogeneity-enhanced superconducting fluctuations near the transition could naturally account for both the reentrant superconductivity as well as the broadened superconducting transition.",
+    "authors": [
+      "Yue Yu",
+      "S. Raghu"
+    ],
+    "published": "2021-12-16T19:00:15Z",
+    "updated": "2022-05-09T22:44:26Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2112.09149v2",
+    "arxivUrl": "http://arxiv.org/abs/2112.09149v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2212.13102v1",
+    "title": "Piezoelectric effect and diode effect in anapole and monopole   superconductors",
+    "summary": "Superconductors lacking both inversion symmetry and time-reversal symmetry have been attracting much attention as a platform for exotic superconducting phases and anomalous phenomena, including the superconducting diode effect. Recent studies revealed intrinsic phases with this symmetry, named anapole superconductivity and monopole superconductivity, which are $PT$-symmetric superconducting states with and without Cooper pairs' total momentum, respectively. To explore characteristic phenomena in these states, we calculate and predict the superconducting piezoelectric effect and superconducting diode effect. A close relationship with the finite-$q$ pairing, asymmetric Bogoliubov spectrum, and quantum geometry is discussed. This study reveals the piezoelectric and diode effects as potential probes to elucidate exotic superconducting phases.",
+    "authors": [
+      "Michiya Chazono",
+      "Shota Kanasugi",
+      "Taisei Kitamura",
+      "Youichi Yanase"
+    ],
+    "published": "2022-12-26T12:25:47Z",
+    "updated": "2022-12-26T12:25:47Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2212.13102v1",
+    "arxivUrl": "http://arxiv.org/abs/2212.13102v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9812245v2",
+    "title": "Spinon Superconductivity and Superconductivities Mediated by Spin-Waves   and Phonons in Cuprates",
+    "summary": "The disclosure of spinon superconductivity and superconductivity mediated by spin-waves in hole-doped Bi2212 cuprate raises the question about the origin of the superconductivity in other cuprates and specially in an electron-doped NCCO cuprate.",
+    "authors": [
+      "A. Mourachkine"
+    ],
+    "published": "1998-12-15T18:10:07Z",
+    "updated": "1998-12-16T01:17:14Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9812245v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9812245v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0409240v1",
+    "title": "Principles of Superconductivity",
+    "summary": "The purpose of this chapter is to discuss the main principles of superconductivity as a phenomenon, valid for every superconductor independently of its characteristic properties and material. The underlying mechanisms of superconductivity can be different for various materials, but certain principles must be satisfied. The chapter introduces four principles of superconductivity. (The chapter is slightly nodified from the original one in order to be self-contained.)",
+    "authors": [
+      "A. Mourachkine"
+    ],
+    "published": "2004-09-09T18:44:15Z",
+    "updated": "2004-09-09T18:44:15Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0409240v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0409240v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0908.3496v1",
+    "title": "Why non-superconducting metallic elements become superconducting under   high pressure",
+    "summary": "We predict that simple metals and early transition metals that become superconducting under high pressures will show a change in sign of their Hall coefficient from negative to positive under pressure. If verified, this will strongly suggest that hole carriers play a fundamental role in `conventional' superconductivity, as predicted by the theory of hole superconductivity.",
+    "authors": [
+      "J. E. Hirsch",
+      "J. J. Hamlin"
+    ],
+    "published": "2009-08-24T23:15:22Z",
+    "updated": "2009-08-24T23:15:22Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0908.3496v1",
+    "arxivUrl": "http://arxiv.org/abs/0908.3496v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1206.4791v1",
+    "title": "Searching for Superconductivity in the Z = 12.67 Family",
+    "summary": "The Z = 12.67 family of materials includes CaBeSi and NaAlSi which have been reported as non-superconducting and superconducting respectively. We show with an algorithm how to generate other members of this family. We discover through the material specific characterization dataset (MSCD) scheme and the symmetry conditions for superconductivity, why some are superconducting and others may not be superconducting.We estimate too the Tcs of members of this interesting family of materials.",
+    "authors": [
+      "O. P. Isikaku-Ironkwe"
+    ],
+    "published": "2012-06-21T07:10:25Z",
+    "updated": "2012-06-21T07:10:25Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1206.4791v1",
+    "arxivUrl": "http://arxiv.org/abs/1206.4791v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9811284v3",
+    "title": "The Magnetic Origin of d-Wave High-Tc Superconductivity from Tunneling   Spectroscopy Measurements on Bi2212 Single Crystals",
+    "summary": "The complete scenario of high-Tc superconductivity based on experimental data from electron-tunneling spectroscopy on underdoped, overdoped and Ni-doped Bi2212 single crystals using a break-junction technique is presented. There are two different types of superconductivity in cuprates: superconductivity due to pairing of spinons on charged stripes and magnetic superconductivity mediated by spin-waves. The coherent state of the spinon superconductivity is established via the magnetic superconductivity. In NCCO, there is only the spinon superconductivity and the coherent state is established due to the Josephson coupling between charged stripes. Below Tc, we observe four different gaps, namely, (i) a SDW gap due to antiferromagnetic correlations; (ii) a superconducting gap due to spinon pairing; (iii) a d-wave magnetic superconducting gap, and (iv) a small superconducting gap most likely having g-wave symmetry. We show that the d-wave superconductivity is mediated by spin-waves and the magnitude of the superconducting gap due to pairing of spinons is larger than the magnitude of the d-wave gap, however, the d-wave gap is more intense. The superconducting gap due to pairing of spinons most likely has a s-wave symmetry. The maximum magnitudes of the SDW, the spinon and d-wave gaps are located at (p/2, p/2), (p/2, p/2) and (p, 0) on the Fermi surface, respectively. The d-g-wave superconductivity mediated by spin-waves can be considered as a pairing of magnetic polarons. We formulate a theorem for cuprates by analogy with the Anderson's theorem for classical superconductors. The presented model of high-Tc superconductivity naturally explains other experimental data.",
+    "authors": [
+      "Andrei Mourachkine"
+    ],
+    "published": "1998-11-19T11:03:47Z",
+    "updated": "1998-12-13T21:23:46Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9811284v3",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9811284v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0405371v2",
+    "title": "Itinerant Ferromagnetism and Superconductivity",
+    "summary": "Superconductivity has again become a challenge following the discovery of unconventional superconductivity. Resistance-free currents have been observed in heavy-fermion materials, organic conductors and copper oxides. The discovery of superconductivity in a single crystal of $UGe_2$, $ZrZn_2$ and $URhGe$ revived the interest in the coexistence of superconductivity and ferromagnetism. The experiments indicate that: i)The superconductivity is confined to the ferromagnetic phase. ii)The ferromagnetic order is stable within the superconducting phase (neutron scattering experiments). iii) The specific heat anomaly associated with the superconductivity in these materials appears to be absent. The specific heat depends on the temperature linearly at low temperature.   I present a review of the recent experimental results and the basic theoretical ideas concerning ferromagnetic superconductivity (FM-superconductivity) induced by the ferromagnetic spin fluctuations. A particular attention is paid to the magnon exchange mechanism of FM-superconductivity.",
+    "authors": [
+      "Naoum Karchev"
+    ],
+    "published": "2004-05-17T14:46:23Z",
+    "updated": "2004-06-15T10:08:17Z",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0405371v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0405371v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1501.02505v2",
+    "title": "Hidden Order as a Source of Interface Superconductivity",
+    "summary": "Interfacial superconductivity is observed in a variety of heterostructures composed of different materials including superconducting and nonsuperconducting (at appropriate doping and temperatures) cuprates and iron-based pnictides. The origin of this superconductivity remains in many cases unclear. Here, we propose a general mechanism of interfacial superconductivity for systems with competing order parameters. We assume that parameters characterizing the material allow formation of another order like charge- or spin-density wave competing and prevailing superconductivity in the bulk (hidden superconductivity). Diffusive electron scattering on the interface results in a suppression of this order and releasing the superconductivity. Our theory is based on the use of Ginzburg--Landau equations applicable to a broad class of systems. We demonstrate that the local superconductivity appears in the vicinity of the interface and the spatial dependence of the superconducting order parameter~$\\Delta(x)$ is described by the Gross--Pitaevskii equation. Solving this equation we obtain quantized values of temperature and doping levels at which~$\\Delta(x)$ appears. Remarkably, the local superconductivity shows up even in the case when the rival order is only slightly suppressed and may arise also on the surface of the sample (surface superconductivity).",
+    "authors": [
+      "Andreas Moor",
+      "Anatoly F. Volkov",
+      "Konstantin B. Efetov"
+    ],
+    "published": "2015-01-11T22:38:38Z",
+    "updated": "2015-02-03T10:47:55Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1501.02505v2",
+    "arxivUrl": "http://arxiv.org/abs/1501.02505v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2107.09187v1",
+    "title": "Superconductivity in Al-Nb-Ti-V-Zr multicomponent alloy",
+    "summary": "The superconducting high-entropy alloys (HEAs) recently attract considerable attention due to their exciting properties, such as the robustness of superconductivity against atomic disorder and extremely high-pressure. The well-studied crystal structure of superconducting HEAs is body-centered-cubic (bcc) containing Nb, Ti, and Zr atoms. The same elements are contained in Al5Nb24Ti40V5Zr26, which is a recently discovered bcc HEA and shows a gum-metal-like behavior after cold rolling. The gum metal is also an interesting system, exhibiting superelasticity and low Young's modulus. If gum metals show superconductivity and can be used as a superconducting wire, the gum-metal HEA superconductors might be the next-generation superconducting wire materials. Aiming at a fundamental assessment of as-cast Al-Nb-Ti-V-Zr multicomponent alloys including Al5Nb24Ti40V5Zr26, we have investigated the structural and superconducting properties of the alloys. All alloys investigated show the superconductivity, and the valence electron concentration dependence of the superconducting critical temperature is very close to those of typical superconducting bcc HEAs.",
+    "authors": [
+      "Yuta Harayama",
+      "Jiro Kitagawa"
+    ],
+    "published": "2021-07-19T22:58:03Z",
+    "updated": "2021-07-19T22:58:03Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2107.09187v1",
+    "arxivUrl": "http://arxiv.org/abs/2107.09187v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0605326v1",
+    "title": "Domain wall superconductivity in superconductor/ferromagnet bilayers",
+    "summary": "We analyze the enhancement of the superconducting critical temperature of superconducting/ferromagnetic bilayers due to the appearance of localized superconducting states in the vicinity of magnetic domain walls in the ferromagnet. We consider the case when the main mechanism of the superconductivity destruction via the proximity effect is the exchange field. We demonstrate that the influence of the domain walls on the superconducting properties of the bilayer may be quite strong if the domain wall thickness is of the order of superconducting coherence length.",
+    "authors": [
+      "M. Houzet",
+      "A. I. Buzdin"
+    ],
+    "published": "2006-05-12T08:33:40Z",
+    "updated": "2006-05-12T08:33:40Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0605326v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0605326v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0905.2625v1",
+    "title": "Superconducting phases of f-electron compounds",
+    "summary": "Intermetallic compounds containing f-electron elements display a wealth of superconducting phases, that are prime candidates for unconventional pairing with complex order parameter symmetries. For instance, superconductivity has been found at the border of magnetic order as well as deep within ferro- and antiferromagnetically ordered states, suggesting that magnetism may promote rather than destroy superconductivity. Superconductivity near valence transitions, or in the vicinity of magneto-polar order are candidates for new superconductive pairing interactions such as fluctuations of the conduction electron density or the crystal electric field, respectively. The experimental status of the study of the superconducting phases of f-electron compounds is reviewed.",
+    "authors": [
+      "C. Pfleiderer"
+    ],
+    "published": "2009-05-15T22:14:21Z",
+    "updated": "2009-05-15T22:14:21Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0905.2625v1",
+    "arxivUrl": "http://arxiv.org/abs/0905.2625v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1004.2823v1",
+    "title": "Three-Dimensional Multiband d-p Model of Superconductivity in Spin-Chain   Ladder Cuprate",
+    "summary": "We study the superconductivity in the three-dimensional multiband d-p model, in which a Cu$_2$O$_3$-ladder layer and a CuO$_2$-chain layer are alternately stacked, as a model of the superconducting spin-chain ladder cuprate. $p_z$-Wave-like triplet superconductivity is found to be the most stable, and its dependence on interlayer coupling can explain the superconducting transition temperature dependence on pressure in real superconducting spin-chain ladder cuprates. The superconductivity may be enhanced if hole transfer from the chain layer to the ladder layer can be promoted beyond the typical transfer rate.",
+    "authors": [
+      "Shigeru Koikegami",
+      "Takashi Yanagisawa"
+    ],
+    "published": "2010-04-16T11:43:31Z",
+    "updated": "2010-04-16T11:43:31Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1004.2823v1",
+    "arxivUrl": "http://arxiv.org/abs/1004.2823v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1301.5466v1",
+    "title": "Superconductivity in Sulfur-Doped Amorphous Carbon Films",
+    "summary": "Following our previous investigations on superconductivity in amorphous carbon (aC) based systems; we have prepared thin composite aC-W films using electron-beam induced deposition. The films did not show any sign for superconductivity above 5 K. However, local, non-percolative, superconductivity emerged at Tc = 34.4 K after treatment with sulfur at 250 C for 24 hours. The superconducting features in the magnetization curves were by far sharper compared to our previous results, and the shielding fraction increased by about an order of magnitude. Our data suggest that pairing and localized superconductivity take place in the aC-S regions, whereas phase coherence, assisted by the W inclusions, was enhanced compared to our previous samples, yet still not to the degree of achieving global phase-coherence and percolating superconductivity.",
+    "authors": [
+      "I. Felner",
+      "O. Wolf",
+      "O. Millo"
+    ],
+    "published": "2013-01-23T11:06:56Z",
+    "updated": "2013-01-23T11:06:56Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1301.5466v1",
+    "arxivUrl": "http://arxiv.org/abs/1301.5466v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1502.04724v1",
+    "title": "Superconductivity in the elements, alloys and simple compounds",
+    "summary": "We give a brief review of superconductivity at ambient pressure in elements, alloys, and simple three-dimensional compounds. Historically these were the first superconducting materials studied, and based on the experimental knowledge gained from them the BCS theory of superconductivity was developed in 1957. Extended to include the effect of phonon retardation, the theory is believed to describe the subset of superconducting materials known as `conventional superconductors', where superconductivity is caused by the electron-phonon interaction. These include the elements, alloys and simple compounds discussed in this article and several other classes of materials discussed in other articles in this Special Issue.",
+    "authors": [
+      "G. W. Webb",
+      "F. Marsiglio",
+      "J. E. Hirsch"
+    ],
+    "published": "2015-02-16T21:16:00Z",
+    "updated": "2015-02-16T21:16:00Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1502.04724v1",
+    "arxivUrl": "http://arxiv.org/abs/1502.04724v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.01791v2",
+    "title": "Odd-triplet superconductivity in single-level quantum dots",
+    "summary": "We study the interplay of spin and charge coherence in a single-level quantum dot. A tunnel coupling to a superconducting lead induces superconducting correlations in the dot. With full spin symmetry retained, only even-singlet superconducting correlations are generated. An applied magnetic field or attached ferromagnetic leads partially or fully reduce the spin symmetry, and odd-triplet superconducting correlations are generated as well. For single-level quantum dots, no other superconducting correlations are possible. We analyze, with the help of a diagrammatic real-time technique, the interplay of spin symmetry and superconductivity and its signatures in electronic transport, in particular current and shot noise.",
+    "authors": [
+      "S. Weiss",
+      "J. König"
+    ],
+    "published": "2017-07-06T13:51:10Z",
+    "updated": "2017-09-01T13:53:32Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1707.01791v2",
+    "arxivUrl": "http://arxiv.org/abs/1707.01791v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2302.07826v1",
+    "title": "Superconducting Transformer for Superconducting Cable Testing up to 45   kA",
+    "summary": "A facility capable of testing superconducting cables with current of tens of kA is essential for the development of large superconducting magnets. A superconducting transformer (SCT) is a suitable choice as a high DC current source for testing superconducting cables. In this work, we will present our experimental results of a SCT up to output current of 45 kA. The properties of this SCT is characterized at 4.2 K. Its behaviors during quenches at different current levels are studied.",
+    "authors": [
+      "H. Yu",
+      "J. Lu"
+    ],
+    "published": "2023-02-14T02:56:34Z",
+    "updated": "2023-02-14T02:56:34Z",
+    "categories": [
+      "physics.ins-det",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2302.07826v1",
+    "arxivUrl": "http://arxiv.org/abs/2302.07826v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.01019v1",
+    "title": "Superconducting Properties of Topological Semimetal 1$T$-RhSeTe",
+    "summary": "Platinum-group transition-metal dichalcogenides have emerged as a subject of considerable interest in condensed matter physics due to their remarkable topological properties and unconventional superconducting behavior. In this study, we report the synthesis and superconducting characteristics of a new Dirac-type topological semimetallic compound 1$T$-RhSeTe. It shows type-II superconductivity with a superconducting transition temperature of 4.72 K and a high upper critical field. The coexistence of superconductivity and topological properties makes it a prime candidate for hosting topological superconductivity.",
+    "authors": [
+      "C. Patra",
+      "T. Agarwal",
+      " Arushi",
+      "P. Manna",
+      "N. Bhatt",
+      "R. S. Singh",
+      "R. P. Singh"
+    ],
+    "published": "2023-11-02T06:24:09Z",
+    "updated": "2023-11-02T06:24:09Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2311.01019v1",
+    "arxivUrl": "http://arxiv.org/abs/2311.01019v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2405.12879v1",
+    "title": "Predictive design of two-dimensional electrides with tunable magnetic,   topological, and superconducting properties",
+    "summary": "Two-dimensional materials are of interest for their exotic properties, for example, superconductivity, and highly tunability. Focusing on phonon-mediating superconductivity, one would propose to promote critical temperature by substituting heavy elements by lighter ones, in order to increase Debye temperature. Following recent experimental progress in transition-metal nitrides and theoretically revealing W$_2$N$_3$ as a candidate for high-temperature superconductivity, we investigate the possibility of two-dimensional superconductivity through surface engineering on MoN$_2$. Using density functional theory calculation, we found multigap superconductivity at temperature up to 36K within anisotropic Eliashberg equation in passivated electride-like surfaces. We also demonstrate their possibility to sustain topological superconductivity with strong spin-orbital coupling.",
+    "authors": [
+      "Haomin Fei",
+      "Ping Cui",
+      "Zhenyu Zhang"
+    ],
+    "published": "2024-05-21T15:48:19Z",
+    "updated": "2024-05-21T15:48:19Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "physics.app-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2405.12879v1",
+    "arxivUrl": "http://arxiv.org/abs/2405.12879v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2412.07145v1",
+    "title": "Chiral finite-momentum superconductivity in the tetralayer graphene",
+    "summary": "Motivated by the recent discovery of superconductivity in tetralayer graphene, we investigate the pairing mechanism arising from density-density interactions within the random phase approximation. This approach successfully highlights the dominance of chiral $p$-wave pairing between electrons with the same spin and valley at low electron densities, while also predicting the superconducting range in agreement with experimental findings. Furthermore, we examine the characteristics of distinct superconducting regions: SC1 and SC2 exhibit chiral finite-momentum superconductivity with pronounced phase fluctuations, whereas SC4 displays nematic zero-momentum superconductivity, with its transition temperature constrained by the pairing strength. Additionally, we delve into the exotic features of chiral finite-momentum superconductivity, underscoring its potential significance for realizing a charge-4e exotic metal with time-reversal symmetry.",
+    "authors": [
+      "Qiong Qin",
+      "Congjun Wu"
+    ],
+    "published": "2024-12-10T03:10:30Z",
+    "updated": "2024-12-10T03:10:30Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2412.07145v1",
+    "arxivUrl": "http://arxiv.org/abs/2412.07145v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2503.23066v1",
+    "title": "Time dependent Ginzburg-Landau theory for design of superconducting wire",
+    "summary": "In the present paper, we study the superconducting wire. It is known from Maxwell equations that the current creates magnetic field that suppresses superconductivity and wire starts to conduct with resistance. We consider the time dependent Ginzburg-Landau theory to resolve the problem. The solutions of the system of equations show that applied electric field, perpendicular to the axis of the wire and to the magnetic field restores superconductivity and wire starts to conduct without resistivity. We can increase the current to a new suppression of superconductivity and to restore superconductivity increasing the applied electric field. The aforementioned results permit us to conclude that the superconducting wire can transport a very strong current if the novel design discussed in the paper is applied.",
+    "authors": [
+      "Naoum Karchev"
+    ],
+    "published": "2025-03-29T12:52:33Z",
+    "updated": "2025-03-29T12:52:33Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2503.23066v1",
+    "arxivUrl": "http://arxiv.org/abs/2503.23066v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2504.07088v1",
+    "title": "Pauli 'unlimited': magnetic field induced-superconductivity in UTe$_2$",
+    "summary": "Inspired by the observation of extreme field-boosted superconductivity in uranium ditelluride, we present a scenario in which superconductivity can be induced by a strong Zeeman field, rather than destroyed by it, as is the case in Pauli-limited superconductivity. The resulting superconducting state has an upper critical field far greater than the superconducting transition temperature, and with spin-orbit coupling, it is sensitive to the field orientation. We demonstrate the interplay between superconductivity and metamagnetism in a simple effective theory.",
+    "authors": [
+      "Josephine J. Yu",
+      "Yue Yu",
+      "Chaitanya Murthy",
+      "Srinivas Raghu"
+    ],
+    "published": "2025-04-09T17:58:57Z",
+    "updated": "2025-04-09T17:58:57Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2504.07088v1",
+    "arxivUrl": "http://arxiv.org/abs/2504.07088v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9810214v1",
+    "title": "Comment on \"Predominantly Superconducting Origin ...\", by N. Miyakawa,   et al",
+    "summary": "Recent tunneling studies in Bi2Sr2CaCu2O8 suggest that the pseudogap is caused by superconducting fluctuations. By reanalyzing this data, we show that instead there is a second non-superconducting component of the gap which increases strongly with underdoping.",
+    "authors": [
+      "R. S. Markiewicz",
+      "C. Kusko"
+    ],
+    "published": "1998-10-17T19:45:13Z",
+    "updated": "1998-10-17T19:45:13Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9810214v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9810214v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/0110197v1",
+    "title": "Color Superconducting State of Quarks",
+    "summary": "An introductory review of physics of color superconducting state of matter is presented. Comparison with superconductivity in electron systems reveals difficulties involved in formulating color superconductivity theory at moderately ultra-nuclear density.",
+    "authors": [
+      "B. O. Kerbikov"
+    ],
+    "published": "2001-10-15T18:30:50Z",
+    "updated": "2001-10-15T18:30:50Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/0110197v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/0110197v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0812.3165v1",
+    "title": "Ground states for three-layer hybrid superconductor",
+    "summary": "A superconducting hybrid structure composed of three layers is considerated.The 2D layers interact mutually by higher grade inter-layer couplings.We determine the possible superconducting modes. Those solutions enable to discuss the conditions for the onset and enhancement of 3D superconductivity in such a structure.",
+    "authors": [
+      "M. Sztyren"
+    ],
+    "published": "2008-12-16T22:05:50Z",
+    "updated": "2008-12-16T22:05:50Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0812.3165v1",
+    "arxivUrl": "http://arxiv.org/abs/0812.3165v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0905.3524v1",
+    "title": "Onset of ATC superconductivity in Ag5Pb2O6/CuO composite",
+    "summary": "Meissner type superconductivity extending up to 13 - 18 degrees Celsius was confirmed in the composite material consisting of metallic particles Ag5Pb2O6 dispersed in an insulating CuO matrix, and superconductivity mechanism is based upon inter particle interaction acting in the quantum tunnelling regime.",
+    "authors": [
+      "Danijel Djurek"
+    ],
+    "published": "2009-05-21T16:13:55Z",
+    "updated": "2009-05-21T16:13:55Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0905.3524v1",
+    "arxivUrl": "http://arxiv.org/abs/0905.3524v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1211.1292v1",
+    "title": "Inhomogeneous superconductivity induced by interstitial Fe   deintercalation in oxidizing-agent-annealed and HNO3-treated Fe1+y(Te1-xSex)",
+    "summary": "We have systematically investigated the annealing effect on the superconductivity of iron chalcogenide Fe1+y(Te1-xSex). The atmospheres used for annealing include O2, N2, I2 vapor, air and vacuum. We observed that annealing in O2, I2 and air could enhance superconductivity for the underdoped samples, consistent with the results reported in literatures. Interestingly, we found that annealing in N2 also leads to superconductivity enhancement, similar to the annealing effects of O2, I2 and air. However, vacuum annealing does not enhance superconductivity, which indicates that the enhanced superconductivity in O2-, N2-, I2- and air-annealed samples is not due to improved homogeneity. In addition, we have treated the underdoped samples with nitric acid, which is found to enhance superconductivity as well. Our analyses of these results support the argument that the superconductivity enhancement, caused either by annealing or nitric acid treatment, originates from the variation of interstitial Fe. The interstitial Fe, which is destructive to superconducting pairing, can be reduced by annealing in oxidation agents or nitric acid treatment. We also find that although N2-, O2- and air-annealed samples exhibit strong superconducting diamagnetism with -4pichi ~1 (chi, dc magnetic susceptibility) for some samples, their actual superconducting volume fraction probed by specific heat is low, ranging from 10% to 30% for 0.09 < x < 0.3, indicating that the superconductivity suppression remains significant even in annealed samples. The strong diamagnetism is associated with the superconducting shielding effect on the non-superconducting phase. We have also established the phase diagram of the annealed samples and compared it with that of the as-grown samples. The effect of annealing on the interplay between magnetism and superconductivity is discussed.",
+    "authors": [
+      "J. Hu",
+      "G. C. Wang",
+      "B. Qian",
+      "Z. Q. Mao"
+    ],
+    "published": "2012-11-06T16:20:23Z",
+    "updated": "2012-11-06T16:20:23Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1211.1292v1",
+    "arxivUrl": "http://arxiv.org/abs/1211.1292v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2205.14373v3",
+    "title": "Curvature-induced superconductivity enhancement for ultra-thin   superconducting films",
+    "summary": "We derive the linearized Ginzburg-Landau (GL) equation for an ultra-thin superconducting film with curvature in a magnetic field. By introducing a novel transverse order parameter that varies slowly along the film, and applying the superconducting/vacuum boundary condition, we decouple the linearized GL equation into a transverse part and a surface part that includes the superconducting geometric potential (GP). The nucleation of the superconducting state in curved thin superconducting films can be equivalently described by the surface part equation. In the equivalent GL free energy of a curved superconducting film, the superconducting GP enables the film to remain in the superconducting state even when the superconducting parameter $ \\alpha $ turns positive by further reducing the quadratic term of the order parameter. Furthermore, we numerically investigate the phase transition of a rectangle thin superconducting film bent around a cylindrical surface. Our numerical results show that the superconducting GP enhances the superconductivity of the curved film by weakening the effect of the magnetic field, and the increase of the critical temperature, in units of the bulk critical temperature, is equal to the product of the negative superconducting GP and the square of the zero-temperature coherence length, which agrees with our theoretical predictions.",
+    "authors": [
+      "Long Du",
+      "Yong-Long Wang",
+      "Minsi Li",
+      "Jiahong Gu",
+      "Lijuan Zhou",
+      "Guangzhen Kang",
+      "Huiqing Tang",
+      "Qinghua Chen"
+    ],
+    "published": "2022-05-28T09:00:56Z",
+    "updated": "2023-12-10T06:44:50Z",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2205.14373v3",
+    "arxivUrl": "http://arxiv.org/abs/2205.14373v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2011.12710v1",
+    "title": "Tip-induced Superconductivity",
+    "summary": "It is widely believed that topological superconductivity, a hitherto elusive phase of quantum matter, can be achieved by inducing superconductivity in topological materials. In search of such topological superconductors, certain topological insulators (like, Bi$_2$Se$_3$) were successfully turned into superconductors by metal-ion (Cu, Pd, Sr, Nb etc. ) intercalation. Superconductivity could be induced in topological materials through applying pressure as well. for example, a pressure-induced superconducting phase was found in the topological insulator Bi$_2$Se$_3$. However, in all such cases, no conclusive signature of topological superconductivity was found. In this review, we will discuss about another novel way of inducing superconductivity in a non-superconducting topological material -- by creating a mesoscopic interface on the material with a non-superconducting, normal metallic tip where the mesoscopic interface becomes superconducting. Such a phase is now known as a tip-induced superconducting (TISC) phase. This was first seen in 2014 on Cd$_3$As$_2$ at IISER Mohali, India. Following that, a large number of other topological materials were shown to display TISC. Since the TISC phase emerges only at a confined region under a mesoscopic point contact, traditional bulk tools for characterizing superconductivity cannot be employed to detect/confirm such a phase. On the other hand, such a point contact geometry is ideal for probing the possible existence of a temperature and magnetic field dependent superconducting energy gap and a temperature and magnetic field dependent critical current. We will review the details of the experimental signatures that can be used to prove the existence of superconductivity even when the \"text-book\" tests for detecting superconductivity cannot be performed. Then, we will review different systems where a TISC phase could be realized.",
+    "authors": [
+      "Sandeep Howlader",
+      "Goutam Sheet"
+    ],
+    "published": "2020-11-25T13:23:15Z",
+    "updated": "2020-11-25T13:23:15Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2011.12710v1",
+    "arxivUrl": "http://arxiv.org/abs/2011.12710v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2306.11935v1",
+    "title": "Superconducting nanowire diode",
+    "summary": "Semiconducting diode with nonreciprocal transport effect underlies the cornerstone of contemporary integrated circuits (ICs) technology. Due to isotropic superconducting properties and the lack of breaking of inversion symmetry for conventional s-wave superconductors, such a superconducting peer is absent. Recently, a series of superconducting structures, including superconducting superlattice and quantum-material-based superconducting Josephson junction, have exhibited a superconducting diode effect in terms of polarity-dependent critical current. However, due to complex structures, these composite systems are not able to construct large-scale integrated superconducting circuits. Here, we demonstrated the minimal superconducting electric component-superconducting nanowire-based diode with a nonreciprocal transport effect under a perpendicular magnetic field, in which the superconducting to normal metallic phase transition relies on the polarity and amplitude of the bias current. Our nanowire diodes can be reliably operated nearly at all temperatures below the critical temperature, and the rectification efficiency at 2 K can be more than 24%. Moreover, the superconducting nanowire diode is able to rectify both square wave and sine wave signals without any distortion. Combining the superconducting nanowire-based diodes and transistors, superconducting nanowires hold the possibility to construct novel low-dissipation superconducting ICs.",
+    "authors": [
+      "Xiaofu Zhang",
+      "Qingchang Huan",
+      "Ruoyan Ma",
+      "Xingyu Zhang",
+      "Jia Huang",
+      "Xiaoyu Liu",
+      "Wei Peng",
+      "Hao Li",
+      "Zhen Wang",
+      "Xiaoming Xie",
+      "Lixing You"
+    ],
+    "published": "2023-06-20T23:05:59Z",
+    "updated": "2023-06-20T23:05:59Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "physics.app-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2306.11935v1",
+    "arxivUrl": "http://arxiv.org/abs/2306.11935v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2504.21137v1",
+    "title": "Phase Diagram of UTe$_2$",
+    "summary": "The pressure-temperature phase diagram of superconducting UTe$_2$ with three lines of the second-order phase transitions cannot be explained in terms of successive transitions to superconducting states with a decrease in symmetry. The problem is solved using a two-band description of the superconducting state of UTe$_2$.",
+    "authors": [
+      "V. P. Mineev"
+    ],
+    "published": "2025-04-29T19:46:45Z",
+    "updated": "2025-04-29T19:46:45Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2504.21137v1",
+    "arxivUrl": "http://arxiv.org/abs/2504.21137v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9811188v3",
+    "title": "Comment on \"Mesoscopic Superconducting-Normal Metal-Superconducting   Transistor\"",
+    "summary": "Comment withdrawn. To be superseded by a subseqent paper.",
+    "authors": [
+      "A. F. Volkov"
+    ],
+    "published": "1998-11-13T12:17:28Z",
+    "updated": "1998-12-02T17:02:59Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9811188v3",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9811188v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0104479v1",
+    "title": "Some comments on superconductivity in diborides",
+    "summary": "Short discussion trying to explain, why superconductivity revealed for some diborides is not always confirmed in experiments of different research groups.",
+    "authors": [
+      "D. Kaczorowski",
+      "J. Klamut",
+      "A. J. Zaleski"
+    ],
+    "published": "2001-04-25T06:24:48Z",
+    "updated": "2001-04-25T06:24:48Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0104479v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0104479v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0603148v3",
+    "title": "Theory of superconductivity in doped cuprates",
+    "summary": "Within the t-t'-J model, the physical properties of doped cuprates in the superconducting-state are discussed based on the kinetic energy driven superconducting mechanism. We show that the superconducting-state in cuprate superconductors is controlled by both superconducting gap parameter and single particle coherence, and then quantitatively reproduce some main features found in the experiments on cuprate superconductors, including the doping dependence of the superconducting gap parameter and superconducting transition temperature, the electron spectral function at [\\pi,0] point, the charge asymmetry of superconductivity in the hole and electron doping, and the doping and energy dependence of the incommensurate magnetic scattering at both low and high energies and commensurate [\\pi,\\pi] resonance at intermediate energy. We also show that the incommensurate magnetic excitations at high energy have energies greater than the superconducting gap energy, and are present at the superconducting transition temperature.",
+    "authors": [
+      "Shiping Feng",
+      "Tianxing Ma"
+    ],
+    "published": "2006-03-07T05:16:17Z",
+    "updated": "2006-12-09T07:32:13Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0603148v3",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0603148v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0606187v1",
+    "title": "Room-Temperature Superconductivity",
+    "summary": "This is the first book on the subject of room-temperature superconductivity. The main purpose of the book is twofold. First, to show that, under suitable conditions, superconductivity can occur above room temperature. Secondly, to present general guidelines on how to synthesize a room temperature superconductor. The book begins with an introduction into the physics of the superconducting state and superconducting materials. The mechanisms of conventional, half-conventional and unconventional superconductivity are discussed in the following chapters. The last three chapters of the book are devoted to room temperature superconductivity. In Chapter 2, an attempt to review the basic properties of the superconducting state independently of any specific mechanism is made for the first time. In addition, four principles of superconductivity valid for any type of superconductivity are introduced in Chapter 4. The book is mainly addressed to specialists in materials science and in the field of superconductivity. At the same time, students will also benefit from reading the first nine chapters of the book.",
+    "authors": [
+      "A. Mourachkine"
+    ],
+    "published": "2006-06-07T15:02:47Z",
+    "updated": "2006-06-07T15:02:47Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0606187v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0606187v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0910.3281v1",
+    "title": "To the methodics of the superconducting nanotube paraconductivity   calculation",
+    "summary": "In the investigation carried out, the superconducting nanotube paraconductivity calculation algorithm is defined more precisely.",
+    "authors": [
+      "Iogann Tolbatov"
+    ],
+    "published": "2009-10-17T07:08:14Z",
+    "updated": "2009-10-17T07:08:14Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0910.3281v1",
+    "arxivUrl": "http://arxiv.org/abs/0910.3281v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1001.3358v1",
+    "title": "Pairing mechanism for high temperature superconductivity in the   cuprates: what can we learn from the two-dimensional t-J model?",
+    "summary": "A possible pairing mechanism for high temperature superconductivity in the cuprates is discussed.",
+    "authors": [
+      "Huan-Qiang Zhou"
+    ],
+    "published": "2010-01-19T16:31:19Z",
+    "updated": "2010-01-19T16:31:19Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1001.3358v1",
+    "arxivUrl": "http://arxiv.org/abs/1001.3358v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1904.11113v2",
+    "title": "Multiorbital Ferroelectric Superconductivity in doped SrTiO3",
+    "summary": "SrTiO$_3$ is a unique example of a system which exhibits both quantum paraelectricity and superconductivity. Thus, it is expected that the superconducting state is closely related to the intrinsic ferroelectric instability. Indeed, recent experiments suggest existence of a coexistent phase of superconductivity and ferroelectricity in Ca-substituted SrTiO$_3$. In this paper, we propose that SrTiO$_3$ can be a platform of the ferroelectric superconductivity, which is characterized by a ferroelectric transition in the superconducting state. By analyzing a multiorbital model for $t_{2g}$ electrons, we show that the ferroelectric superconductivity is stabilized through two different mechanisms which rely on the presence of the spin-orbit coupling. First, the ferroelectric superconducting state is stabilized in the dilute carrier density regime due to a ferroelectricity-induced Lifshitz transition. Second, it is stabilized under a magnetic field independent of the carrier density. The importance of the multiorbital or multiband nature for the ferroelectric superconductivity is clarified. Then, we predict a topological Weyl superconducting state in the ferroelectric superconducting phase of SrTiO$_3$.",
+    "authors": [
+      "Shota Kanasugi",
+      "Youichi Yanase"
+    ],
+    "published": "2019-04-25T01:19:02Z",
+    "updated": "2019-08-20T05:45:15Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1904.11113v2",
+    "arxivUrl": "http://arxiv.org/abs/1904.11113v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2002.06314v1",
+    "title": "Tuning stoichiometry and its impact on superconductivity of monolayer   and multilayer FeSe on SrTiO3",
+    "summary": "Synthesis of monolayer FeSe on SrTiO3, with greatly enhanced superconductivity compared to bulk FeSe, remains difficult. Lengthy annealing within a certain temperature window is always required to achieve superconducting samples as reported by different groups around the world, but the mechanism of annealing in inducing superconductivity has not been elucidated. We grow FeSe films on SrTiO3 by molecular beam epitaxy and adjust the stoichiometry by depositing additional small amounts of Fe atoms. The monolayer films become superconducting after the Fe deposition without any annealing, and show similar superconducting transition temperatures as those of the annealed films in transport measurements. We also demonstrate on the 5-unit-cell films that the FeSe multilayer can be reversibly tuned between the non-superconducting $\\sqrt{5} \\times \\sqrt{5}$ phase with Fe-vacancies and superconducting $1 \\times 1$ phase. Our results reveal that the traditional anneal process in essence removes Fe vacancies and the additional Fe deposition serves as a more efficient way to achieve superconductivity. This work highlights the significance of stoichiometry in the superconductivity of FeSe thin films and provides an easy path for superconducting samples.",
+    "authors": [
+      "Chong Liu",
+      "Ke Zou"
+    ],
+    "published": "2020-02-15T04:04:45Z",
+    "updated": "2020-02-15T04:04:45Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2002.06314v1",
+    "arxivUrl": "http://arxiv.org/abs/2002.06314v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2107.06806v1",
+    "title": "Emergence of Topological Superconductivity in Doped Topological Dirac   Semimetals under Symmetry-Lowering Lattice Distortions",
+    "summary": "Recently, unconventional superconductivity having a zero-bias conductance peak is reported in doped topological Dirac semimetal (DSM) with lattice distortion. Motivated by the experiments, we theoretically study the possible symmetry-lowering lattice distortions and their effects on the emergence of unconventional superconductivity in doped topological DSM. We find four types of symmetry-lowering lattice distortions that reproduce the crystal symmetries relevant to experiments from the group-theoretical analysis. Considering inter-orbital and intra-orbital electron density-density interactions, we calculate superconducting phase diagrams. We find that the lattice distortions can induce unconventional superconductivity hosting gapless surface Andreev bound states (SABS). Depending on the lattice distortions and superconducting pairing interactions, the unconventional inversion-odd-parity superconductivity can be either topological nodal superconductivity hosting a flat SABS or topological crystalline superconductivity hosting a gapless SABS. Remarkably, the lattice distortions increase the superconducting critical temperature, which is consistent with the experiments. Our work opens a pathway to explore and control pressure-induced topological superconductivity in doped topological semimetals.",
+    "authors": [
+      "Sangmo Cheon",
+      "Ki Hoon Lee",
+      "Suk Bum Chung",
+      "Bohm-Jung Yang"
+    ],
+    "published": "2021-07-13T05:41:27Z",
+    "updated": "2021-07-13T05:41:27Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2107.06806v1",
+    "arxivUrl": "http://arxiv.org/abs/2107.06806v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2203.05000v1",
+    "title": "Notes on altermagnetism and superconductivity",
+    "summary": "A brief discussion of possible interplay between altermagnetism (a third type of collinear magnetism, besides ferro- and antiferromagnetism), and superconductivity.",
+    "authors": [
+      "Igor I. Mazin"
+    ],
+    "published": "2022-03-09T19:01:17Z",
+    "updated": "2022-03-09T19:01:17Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2203.05000v1",
+    "arxivUrl": "http://arxiv.org/abs/2203.05000v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2406.03700v1",
+    "title": "Ferroelectricity-tuned band topology and superconductivity in   two-dimensional materials and related heterostructures",
+    "summary": "Ferroelectricity, band topology, and superconductivity are respectively local, global, and macroscopic properties of quantum materials, and understanding their mutual couplings offers unique opportunities for exploring rich physics and enhanced functionalities. In this mini-review, we attempt to highlight some of the latest advances in this vibrant area, focusing in particular on ferroelectricity-tuned superconductivity and band topology in two-dimensional (2D) materials and related heterostructures. We will first present results from predictive studies of the delicate couplings between ferroelectricity and topology or superconductivity based on first-principles calculations and phenomenological modeling, with ferroelectricity-enabled topological superconductivity as an appealing objective. Next, we will cover the latest advances on experimental studies of ferroelectricity-tuned superconductivity based on different 2D materials or van der Waals heterostructures. Finally, as perspectives, we will outline schemes that may allow to materialize new types of 2D systems that simultaneously harbor ferroelectricity and superconductivity, or that may lead to enhanced ferroelectric superconductivity, ferroelectric topological superconductivity, and new types of superconducting devices such as superconducting diodes.",
+    "authors": [
+      "Jianyong Chen",
+      "Ping Cui",
+      "Zhenyu Zhang"
+    ],
+    "published": "2024-06-06T02:50:41Z",
+    "updated": "2024-06-06T02:50:41Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2406.03700v1",
+    "arxivUrl": "http://arxiv.org/abs/2406.03700v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2506.06696v1",
+    "title": "Intertwined nematic and d-wave superconductive orders in optimally-doped   La1.84Sr0.16CuO4",
+    "summary": "The anisotropy of the superconducting state and superconducting fluctuations in the CuO2 plane is directly related to the superconducting mechanism of copper oxide superconductors and is therefore pivotal for understanding high-temperature superconductivity. Here, we integrated the high-precision angle-resolved resistivity (ARR) measurement with a rotatable in-plane magnetic field to systematically study the angular dependence of superconducting fluctuations in optimally doped La1.84Sr0.16CuO4 (LSCO). By independently controlling the directions of the current and the magnetic field, we are able to isolate the magneto-resistivity contributed by the superconducting vortex motion and distinguish excitations from nematic superconductivity and d-wave superconductive order based on their respective C2 and C4 symmetries. Signatures of two intertwined superconductive orders are also evident in the measured angular dependence of the critical current. A T-B phase diagram of different types of superconducting fluctuations is determined. These findings are closely related to other intriguing phenomena, such as pair density wave and charge density wave.",
+    "authors": [
+      "Gangfan Chen",
+      "Yichi Zhang",
+      "Guangyu Xi",
+      "Jingyi Shen",
+      "Jie Wu"
+    ],
+    "published": "2025-06-07T07:43:44Z",
+    "updated": "2025-06-07T07:43:44Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2506.06696v1",
+    "arxivUrl": "http://arxiv.org/abs/2506.06696v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1012.0879v1",
+    "title": "Physical Mechanism of Superconductivity",
+    "summary": "The physical mechanism of superconductivity is proposed on the basis of carrier-induced dynamic strain effect. By this new model, superconducting state consists of the dynamic bound state of superconducting electrons, which is formed by the high-energy nonbonding electrons through dynamic interaction with their surrounding lattice to trap themselves into the three - dimensional potential wells lying in energy at above the Fermi level of the material. The binding energy of superconducting electrons dominates the superconducting transition temperature in the corresponding material. Under an electric field, superconducting electrons move coherently with lattice distortion wave and periodically exchange their excitation energy with chain lattice, that is, the superconducting electrons transfer periodically between their dynamic bound state and conducting state. Thus, the intrinsic feature of superconductivity is to generate an oscillating current under a dc voltage. The coherence lengths in cuprates must have the value equal to an even number times the lattice constant. A superconducting material must simultaneously satisfy three criteria required by superconductivity. Almost all of the puzzling behavior of the cuprates can be uniquely understood under this new model. We demonstrate that the factor 2 in Josephson current equation, in fact, is resulting from 2V, the voltage drops across the two superconductor sections on both sides of a junction, not from the Cooper pair, and the magnetic flux is quantized in units of h/e, postulated by London, not in units of h/2e. The central features of superconductivity, such as Josephson effect, the tunneling mechanism in multijunction systems, and the origin of the superconducting tunneling phenomena, are all physically reconsidered under this superconductivity model.",
+    "authors": [
+      "Xue-Shu Zhao",
+      "Yu-Ru Ge",
+      "Xin Zhao",
+      "Hong Zhao"
+    ],
+    "published": "2010-12-04T03:59:59Z",
+    "updated": "2010-12-04T03:59:59Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1012.0879v1",
+    "arxivUrl": "http://arxiv.org/abs/1012.0879v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/9509023v1",
+    "title": "Surface superconductivity and order parameter suppression in UPt$_3$",
+    "summary": "We show that a recent measurement of surface superconductivity in UPt$_3$ (Keller {\\it et. al.}, Phys. Rev. Lett. {\\bf 73}, 2364 (1994)) can be understood if the superconducting pair wavefunction is suppressed anisotropically at a vacuum to superconductor interface. Further measurements of surface superconductivity can distinguish between the various phenomenological models of superconducting UPt$_3$.",
+    "authors": [
+      "D. F. Agterberg",
+      "M. B. Walker"
+    ],
+    "published": "1995-09-05T22:27:36Z",
+    "updated": "1995-09-05T22:27:36Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/9509023v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/9509023v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0009373v1",
+    "title": "Spin dynamics in Cuprates and its relation to superconductivity",
+    "summary": "The relevance of magnetism for the mechanism responsible for high-temperature superconductivity remains an open and still interesting issue. The observation by inelastic neutron scattering of strong antiferromagnetic dynamical correlations in superconducting cuprates is discussed in relation to the unusual physical properties of the cuprates as well as in relation to the superconducting pairing.",
+    "authors": [
+      "Philippe Bourges"
+    ],
+    "published": "2000-09-25T06:54:15Z",
+    "updated": "2000-09-25T06:54:15Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0009373v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0009373v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0102293v1",
+    "title": "Uemura Plot as a Certificate of Two-dimensional Character of   Superconducting Transition for Quasi-two-dimensional HTS",
+    "summary": "With using general properties of superconducting state for 2D systems the universal temperature dependence of the penetration length is found out for quasi-2D HTS, that leads to Uemura plot and evidences about 2D character of superconducting transition. It is shown that from the measurements of c-axis resistivity and of the penetration length the value of the interval of 3D superconducting fluctuations can be determined.",
+    "authors": [
+      "G. Sergeeva"
+    ],
+    "published": "2001-02-16T10:42:51Z",
+    "updated": "2001-02-16T10:42:51Z",
+    "categories": [
+      "cond-mat"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0102293v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0102293v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0106574v2",
+    "title": "The Mechanism of High-Tc Superconductivity: \"Nonlinear\"   Superconductivity",
+    "summary": "The main purpose of the paper is to present an overview of the current situation in the development of understanding of the mechanism of high-Tc superconductivity which arises due to moderately strong, nonlinear electron-phonon interactions and due to magnetic (spin) fluctuations.",
+    "authors": [
+      "A. Mourachkine"
+    ],
+    "published": "2001-06-27T17:13:33Z",
+    "updated": "2001-08-13T13:50:55Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0106574v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0106574v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0111393v2",
+    "title": "A Duality Between Unidirectional Charge Density Wave Order and   Superconductivity",
+    "summary": "This paper shows the existence of a duality between an unidirectional charge density wave order and a superconducting order. This duality predicts the existence of charge density wave near a superconducting vortex, and the existence of superconductivity near a charge density wave dislocation.",
+    "authors": [
+      "Dung-Hai Lee"
+    ],
+    "published": "2001-11-21T01:16:55Z",
+    "updated": "2002-05-06T20:58:13Z",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0111393v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0111393v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0211643v1",
+    "title": "Electron-hole asymmetry and superconductivity",
+    "summary": "In a solid, transport of electricity can occur via electrons or via holes. In the normal state no experiment can determine unambiguously whether the elementary mobile carriers have positive or negative charge. This is no longer true in the superconducting state: superconductors know the difference between electrons and holes. This indicates that electron-hole asymmetry plays a fundamental role in superconductivity, as proposed by the theory of hole superconductivity.",
+    "authors": [
+      "J. E. Hirsch"
+    ],
+    "published": "2002-11-28T13:14:23Z",
+    "updated": "2002-11-28T13:14:23Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0211643v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0211643v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0306472v1",
+    "title": "Relativistic Model for two-band Superconductivity",
+    "summary": "To understand the superconductivity in MgB2, several two-band models of superconductivity were proposed. In this paper, by using the relativistic fermion model, we clearize the effect of the lower band in the superconductivity.",
+    "authors": [
+      "Tadafumi Ohsaku"
+    ],
+    "published": "2003-06-18T14:20:40Z",
+    "updated": "2003-06-18T14:20:40Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0306472v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0306472v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0406371v1",
+    "title": "Superconductivity in ferromagnetic metals and in compounds without   inversion centre",
+    "summary": "The symmetry properties and the general overview of the superconductivity theory in the itinerant ferromagnets and in materials without space parity are presented. The basic notions of unconventional superconductivity are introduced in broad context of multiband superconductivity which is inherent property of ferromagnetic metals or metals without centre of inversion.",
+    "authors": [
+      "V. P. Mineev"
+    ],
+    "published": "2004-06-16T14:34:25Z",
+    "updated": "2004-06-16T14:34:25Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0406371v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0406371v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0409285v1",
+    "title": "High-Tc Cuprate Superconductivity in a Nutshell",
+    "summary": "Since the discovery of high-Tc cuprate superconductivity in 1986 many new experimental techniques and theoretical concepts have been developed. In particular it was shown that the BCS theory of d-wave superconductivity describes semi-quantitatively the high-Tc superconductivity. Furthermore, it was demonstrated that Volovik's approach is extremely useful for finding the quasiparticle properties in the vortex state. Here we survey these developments and forecast future directions.",
+    "authors": [
+      "Hyekyung Won",
+      "Stephan Haas",
+      "David Parker",
+      "Kazumi Maki"
+    ],
+    "published": "2004-09-11T15:44:29Z",
+    "updated": "2004-09-11T15:44:29Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0409285v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0409285v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0410141v1",
+    "title": "New Electron-Doped Superconducting Cuprate Li_x_Sr_2_CuO_2_Br_2_",
+    "summary": "A new electron-doped superconductor Li_x_Sr_2_CuO_2_Br_2_ with x = 0.15 has successfully been synthesized by an electrochemical Li-intercalation technique. The magnetic susceptibility shows superconductivity of bulk with the superconducting transition temperature Tc = 8 K. This compound is the first electron-doped superconducting cuprate with the K_2_NiF_4_ structure.",
+    "authors": [
+      "Tetsuya Kajita",
+      "Masatsune Kato",
+      "Takashi Suzuki",
+      "Takashi Itoh",
+      "Takashi Noji",
+      "Yoji Koike"
+    ],
+    "published": "2004-10-06T05:26:42Z",
+    "updated": "2004-10-06T05:26:42Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0410141v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0410141v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0410158v1",
+    "title": "Superconductivity of Magnesium Diboride: Theoretical Aspects",
+    "summary": "In this work we review our present understanding of superconductivity in Magnesium Diboride from the theoretical perspective as it evolves from band structure calculations. Particular emphasis is placed on two gap superconductivity. Some of its peculiar consequences are discussed, in particular upper critical field anisotropy and microwave conductivity.",
+    "authors": [
+      "T. Dahm"
+    ],
+    "published": "2004-10-06T16:46:28Z",
+    "updated": "2004-10-06T16:46:28Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0410158v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0410158v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0612033v1",
+    "title": "A possibility of kinetic energy economy at the transition of   two-dimensional conductor to the superconducting state",
+    "summary": "For a two-dimensional conductor under the conditions of the Bardeen-Cooper-Schrieffer mechanism of superconductivity, a factor resulting in economy in kinetic energy upon the transition to the superconducting state and connected to the zero oscillations of macroscopic quantum oscillator is offered. The economy, in as turn, can result in greater rigity of superconducting state.",
+    "authors": [
+      "I. N. Zhilyaev"
+    ],
+    "published": "2006-12-01T17:38:41Z",
+    "updated": "2006-12-01T17:38:41Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0612033v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0612033v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0703802v1",
+    "title": "Properties of Mesoscopic Hybrid Superconducting Systems",
+    "summary": "In this paper we review several aspects of mesoscopic hybrid superconducting systems. In particular we consider charge and heat transport properties in hybrid superconducting-metal structures and the effect of charging energy in superconducting nanostructures.",
+    "authors": [
+      "F. Taddei",
+      "F. Giazotto",
+      "R. Fazio"
+    ],
+    "published": "2007-03-30T08:56:02Z",
+    "updated": "2007-03-30T08:56:02Z",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0703802v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0703802v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/supr-con/9508003v1",
+    "title": "Superconducting, magnetic, and charge correlations in the doped   two-chain Hubbard model",
+    "summary": "Superconducting, magnetic, and charge correlation functions and dynamic spin correlation functions of the doped two-chain Hubbard model is studied with the projector Quantum Monte carlo method and Lanczos recursion method. Of the three correlation functions, the interchain singlet superconducting correlation function is the most long range. Our data is not consistent with the Luther-Emery picture.",
+    "authors": [
+      "Yoshihiro Asai"
+    ],
+    "published": "1995-08-22T07:15:09Z",
+    "updated": "1995-08-22T07:15:09Z",
+    "categories": [
+      "supr-con",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/supr-con/9508003v1",
+    "arxivUrl": "http://arxiv.org/abs/supr-con/9508003v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0908.0474v1",
+    "title": "Correlation-induced triplet superconductivity on the graphene lattice",
+    "summary": "We investigate the possibility of superconductivity on the graphene lattice within the repulsive Hubbard model using the variational cluster approximation (VCA). We find that singlet superconductivity is impossible; instead, triplet superconductivity is favored, with four solutions that are close to each other in energy and differ by their symmetry; one is f-wave, the other three p-wave, including a p+ip solution that breaks time-reversal invariance.",
+    "authors": [
+      "Peyman Sahebsara",
+      "David Senechal"
+    ],
+    "published": "2009-08-04T15:30:37Z",
+    "updated": "2009-08-04T15:30:37Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0908.0474v1",
+    "arxivUrl": "http://arxiv.org/abs/0908.0474v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1011.2359v1",
+    "title": "Effect of charge ordering on superconductivity in high-temperature   superconductors",
+    "summary": "It is shown that charge ordering in layered crystalline metals causes an increase in the normal state energy of the conducting layers. If this increase in the energy exceeds the difference between the superconducting state energy and the normal state energy of the metal, then the superconducting transition occurs. A relation between the charge gap in the superconducting phase and the bandgap width in the undoped insulating phase of high-temperature superconductors is obtained.",
+    "authors": [
+      "Fedor V. Prigara"
+    ],
+    "published": "2010-11-10T12:32:12Z",
+    "updated": "2010-11-10T12:32:12Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1011.2359v1",
+    "arxivUrl": "http://arxiv.org/abs/1011.2359v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1102.0496v1",
+    "title": "Frustrated multiband superconductivity",
+    "summary": "We show that a clean multiband superconductor may display one or several phase transitions with increasing temperature from or to frustrated configurations of the relative phases of the superconducting order parameters. These transitions may occur when more than two bands are involved in the formation of the superconducting phase and when the number of repulsive interband interactions is odd. These transitions are signalled by slope changes in the temperature dependence of the superconducting gaps.",
+    "authors": [
+      "R. G. Dias",
+      "A. M. Marques"
+    ],
+    "published": "2011-02-02T17:21:50Z",
+    "updated": "2011-02-02T17:21:50Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1102.0496v1",
+    "arxivUrl": "http://arxiv.org/abs/1102.0496v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1105.1883v1",
+    "title": "Surface superconductivity in multilayered rhombohedral graphene:   Supercurrent",
+    "summary": "The supercurrent for the surface superconductivity of a flat-band multilayered rhombohedral graphene is calculated. Despite the absence of dispersion of the excitation spectrum, the supercurrent is finite. The critical current is proportional to the zero-temperature superconducting gap, i.e., to the superconducting critical temperature and to the size of the flat band in the momentum space.",
+    "authors": [
+      "N. B. Kopnin"
+    ],
+    "published": "2011-05-10T08:49:31Z",
+    "updated": "2011-05-10T08:49:31Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1105.1883v1",
+    "arxivUrl": "http://arxiv.org/abs/1105.1883v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1105.3608v1",
+    "title": "Specifics of impurity effects in ferropnictide superconductors",
+    "summary": "Effects of impurities and disorder on quasiparticle spectrum in superconducting iron pnictides are considered. Possibility for occurrence of localized energy levels due to impurities within the superconducting gap and the related modification of band structure and of superconducting order parameter are discussed. The evolution of superconducting state with impurity doping is traced.",
+    "authors": [
+      "Y. G. Pogorelov",
+      "M. C. Santos",
+      "V. M. Loktev"
+    ],
+    "published": "2011-05-18T12:42:37Z",
+    "updated": "2011-05-18T12:42:37Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1105.3608v1",
+    "arxivUrl": "http://arxiv.org/abs/1105.3608v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1107.4355v1",
+    "title": "Raising Tc in charge density wave superconductor ZrTe3 by Ni   intercalation",
+    "summary": "We report discovery of bulk superconductivity in Ni0.05ZrTe3 at Tc = 3.1 K, obtained through Ni intercalation. Superconductivity coexists with charge density wave (CDW) state with TCDW = 41 K. When compared to parent material ZrTe3, filamentary superconducting transition is substantially increased whereas TCDW was suppressed. The analysis of superconducting state indicates that Ni0.05ZrTe3 is an intermediately coupled superconductor.",
+    "authors": [
+      "Hechang Lei",
+      "Xiangde Zhu",
+      "C. Petrovic"
+    ],
+    "published": "2011-07-21T19:58:42Z",
+    "updated": "2011-07-21T19:58:42Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1107.4355v1",
+    "arxivUrl": "http://arxiv.org/abs/1107.4355v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1112.3083v1",
+    "title": "Superconductivity in Single-Crystal YIn3",
+    "summary": "We measure the superconducting transition of YIn$_3$ by resistivity, susceptibility, and specific heat. Despite using high-quality single-crystal samples, the transitions detected by the three techniques are shifted from each other in temperature, suggesting a region of filamentary superconductivity. We discuss the possible implications for filamentary superconductivity in unconventional superconductors.",
+    "authors": [
+      "S. D. Johnson",
+      "J. R. Young",
+      "R. J. Zieve",
+      "J. C. Cooley"
+    ],
+    "published": "2011-12-14T00:41:52Z",
+    "updated": "2011-12-14T00:41:52Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1112.3083v1",
+    "arxivUrl": "http://arxiv.org/abs/1112.3083v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1501.06948v1",
+    "title": "Superconductivity of magnesium diboride",
+    "summary": "Over the past 14 years MgB2 has gone from a startling discovery to a promising, applied superconductor. In this article we present a brief overview of the synthesis and the basic superconducting properties of this remarkable compound. In particular, the effects of pressure, substitutions and neutron irradiation on superconducting properties are discussed.",
+    "authors": [
+      "Sergey L. Bud'ko",
+      "Paul C. Canfield"
+    ],
+    "published": "2015-01-27T22:12:54Z",
+    "updated": "2015-01-27T22:12:54Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1501.06948v1",
+    "arxivUrl": "http://arxiv.org/abs/1501.06948v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1504.03318v1",
+    "title": "Superconducting materials classes: introduction and overview",
+    "summary": "An introduction to and overview of the contents of this Special Issue are given. 32 classes of superconducting materials are discussed, grouped under the three categories \"conventional\", \"possibly unconventional\" and \"unconventional\" according to the mechanism believed to give rise to superconductivity.",
+    "authors": [
+      "J. E. Hirsch",
+      "M. B. Maple",
+      "F. Marsiglio"
+    ],
+    "published": "2015-04-13T20:00:28Z",
+    "updated": "2015-04-13T20:00:28Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1504.03318v1",
+    "arxivUrl": "http://arxiv.org/abs/1504.03318v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1709.07125v1",
+    "title": "Simulating the effect of boron doping in superconducting carbon",
+    "summary": "We examine the effect of boron doping in superconducting forms of amorphous carbon. By judiciously optimizing boron substitutional sites in simulated amorphous carbon we predict a superconducting transition temperature near 37 K at 14 % boron concentration. Our findings have direct implications for understanding the recently discovered high T_$c$ superconductivity in Q-carbon.",
+    "authors": [
+      "Yuki Sakai",
+      "James R. Chelikowsky",
+      "Marvin L. Cohen"
+    ],
+    "published": "2017-09-21T01:47:31Z",
+    "updated": "2017-09-21T01:47:31Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1709.07125v1",
+    "arxivUrl": "http://arxiv.org/abs/1709.07125v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2006.06916v1",
+    "title": "Superconductivity mystery turns 25",
+    "summary": "In 1994, an unconventional form of superconductivity was detected in strontium ruthenate. The discovery has shed light on the mechanism of unconventional superconductivity at high temperatures.   \"The great tragedy of Science [is] the slaying of a beautiful hypothesis by an [experimental] fact.\"   - T.H. Huxley, Biogenesis and abiogenesis, (1884)",
+    "authors": [
+      "N. P. Armitage"
+    ],
+    "published": "2020-06-12T02:49:32Z",
+    "updated": "2020-06-12T02:49:32Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2006.06916v1",
+    "arxivUrl": "http://arxiv.org/abs/2006.06916v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2006.15541v1",
+    "title": "Defecton Contribution to the High-Temperature Superconductivity of   Hydrides",
+    "summary": "We introduce below the concept of defecton, and describe briefly the electron polaron effect, the clustering of defectons, and also the defecton mechanism of superconductivity. It is shown that in the case of high-temperature superconducting metal hydrides, which acquire superconducting properties under pressure of hundreds of gigapascals, this mechanism can make a significant contribution to the Cooper pairing.",
+    "authors": [
+      "A. I. Morosov",
+      "A. S. Sigov"
+    ],
+    "published": "2020-06-28T08:28:40Z",
+    "updated": "2020-06-28T08:28:40Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2006.15541v1",
+    "arxivUrl": "http://arxiv.org/abs/2006.15541v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0103296v1",
+    "title": "Superconductivity in the non-oxide Perovskite MgCNi3",
+    "summary": "The oxide perovskites are a large family of materials with many important physical properties. Of particular interest has been the fact that this structure type provides an excellent structural framework for the existence of superconductivity. The high Tc copper oxides are the most famous examples of superconducting perovskites, but there are many others [1]. Intermetallic compounds have been the source of many superconducting materials in the past, but they have been eclipsed in recent years by the perovskite oxides. The recent discovery of superconductivity in MgB2 [2] suggests that intermetallic compounds with simple structure types are worth serious reconsideration as sources of new superconducting materials. Here we report the observation of superconductivity at 8 K in the perovskite structure intermetallic compound MgCNi3, linking what appear at first sight to be mutually exclusive classes of superconducting materials. The observation of superconductivity in MgCNi3 indicates that MgB2 will not be the only one of its kind within the chemical paradigm that it suggests for new superconducting materials.",
+    "authors": [
+      "T. He",
+      "Q. Huang",
+      "A. P. Ramirez",
+      "Y. Wang",
+      "K. A. Regan",
+      "N. Rogado",
+      "M. A. Hayward",
+      "M. K. Haas",
+      "J. S. Slusky",
+      "K. Inumaru",
+      "H. W. Zandbergen",
+      "N. P. Ong",
+      "R. J. Cava"
+    ],
+    "published": "2001-03-14T23:48:24Z",
+    "updated": "2001-03-14T23:48:24Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0103296v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0103296v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0810.2915v3",
+    "title": "Localization and Superconductivity in Doped Semiconductors",
+    "summary": "Motivated by the discovery of superconductivity in boron-doped (B-doped) diamond, we investigate the localization and superconductivity in heavily doped semiconductors. The competition between Anderson localization and s-wave superconductivity is investigated from the microscopic point of view. The effect of microscopic inhomogeneity and the thermal fluctuation in superconductivity are taken into account using the self-consistent 1-loop-order theory with respect to superconducting fluctuation. The crossover from superconductivity in the host band to that in the impurity band is described on the basis of the disordered three-dimensional attractive Hubbard model for binary alloys. We show that superconductor-insulator transition (SIT) accompanies the crossover. We point out an enhancement of Cooper pairing in the crossover regime. Further localization of the electron wave function gives rise to incoherent Cooper pairs and the pseudogap above T_c. A global phase diagram is drawn for host band superconductivity, impurity band superconductivity, Anderson localization, Fermi liquid state, and pseudogap state. A theoretical interpretation is proposed for superconductivity in the doped diamond, SiC, and Si.",
+    "authors": [
+      "Youichi Yanase",
+      "Naoyuki Yorozu"
+    ],
+    "published": "2008-10-16T13:28:30Z",
+    "updated": "2009-01-26T14:06:11Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.dis-nn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0810.2915v3",
+    "arxivUrl": "http://arxiv.org/abs/0810.2915v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/1407.5945v2",
+    "title": "Universal scaling of the critical temperature for thin films near the   superconducting-to-insulating transition",
+    "summary": "Thin superconducting films form a unique platform for geometrically-confined, strongly-interacting electrons. They allow an inherent competition between disorder and superconductivity, which in turn enables the intriguing superconducting-to-insulator transition and believed to facilitate the comprehension of high-Tc superconductivity. Furthermore, understanding thin film superconductivity is technologically essential e.g. for photo-detectors, and quantum-computers. Consequently, the absence of an established universal relationships between critical temperature ($T_c$), film thickness ($d$) and sheet resistance ($R_s$) hinders both our understanding of the onset of the superconductivity and the development of miniaturised superconducting devices. We report that in thin films, superconductivity scales as $d^.$$T_c(R_s)$. We demonstrated this scaling by analysing the data published over the past 46 years for different materials (and facilitated this database for further analysis). Moreover, we experimentally confirmed the discovered scaling for NbN films, quantified it with a power law, explored its possible origin and demonstrated its usefulness for superconducting film-based devices.",
+    "authors": [
+      "Yachin Ivry",
+      "Chung-Soo Kim",
+      "Andrew E. Dane",
+      "Domenico De Fazio",
+      "Adam McCaughan",
+      "Kristen A. Sunter",
+      "Qingyuan Zhao",
+      "Karl K. Berggren"
+    ],
+    "published": "2014-07-22T17:14:31Z",
+    "updated": "2014-09-16T00:38:58Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1407.5945v2",
+    "arxivUrl": "http://arxiv.org/abs/1407.5945v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1603.03851v3",
+    "title": "Superconductivity driven by pairing of the coherent parts of the   physical electrons",
+    "summary": "How the superconductivity in unconventional superconductors emerges from the diverse mother normal states is still a big puzzle. Whatever the mother normal states are the superconductivity is {\\em normal} with BCS-like behaviours of the paired quasiparticles in condensation. To reconcile the diverse mother normal states and the normal superconductivity in unconventional superconductors, we revisit a proposal that the emergence of the low-energy coherent parts of the physical electrons, which survive from the interaction correlations, is an essential prerequisite for superconductivity. The superconductivity is driven by the pair condensation of these coherent parts of the physical electrons. Moreover the incoherent parts of the physical electrons can enhance the superconducting transition temperature $T_c$ although they are not in driving role in the emergence of the superconductivity. Some experimental responses of the coherent parts of the physical electrons are predicted.",
+    "authors": [
+      "Yuehua Su",
+      "Chao Zhang"
+    ],
+    "published": "2016-03-12T02:43:01Z",
+    "updated": "2017-12-15T13:49:39Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1603.03851v3",
+    "arxivUrl": "http://arxiv.org/abs/1603.03851v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/1703.07492v1",
+    "title": "Superconducting transition of FeSe/SrTiO3 induced by adsorption of   semiconducting organic molecules",
+    "summary": "We prepared superconducting and non-superconducting FeSe films on SrTiO3(001) substrates (FeSe/STO) and investigated the superconducting transition induced by charge transfer between organic molecules and FeSe layers by low temperature scanning tunneling microscopy and spectroscopy. At low coverage, donor- and acceptor-type molecules adsorbed preferentially on the non-superconducting and superconducting FeSe layers, respectively. Superconductivity was induced by donor molecules on non-superconducting FeSe layer, while the superconductivity was suppressed near acceptor molecules. The corresponding evolutions of electronic states and work function were also resolved by scanning tunneling microscopy. These results illustrate the important role played by local electron concentration in the superconducting transition of FeSe/STO.",
+    "authors": [
+      "Jiaqi Guan",
+      "Jian Liu",
+      "Bing Liu",
+      "Xiaochun Huang",
+      "Qing Zhu",
+      "Xuetao Zhu",
+      "Jiatao Sun",
+      "Sheng Meng",
+      "Weihua Wang",
+      "Jiandong Guo"
+    ],
+    "published": "2017-03-22T02:15:45Z",
+    "updated": "2017-03-22T02:15:45Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1703.07492v1",
+    "arxivUrl": "http://arxiv.org/abs/1703.07492v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1801.00306v1",
+    "title": "Geometry Effects on Switching Currents in Superconducting Ultra Thin   Films",
+    "summary": "Vortex dynamics is strongly connected with the mechanisms responsible for the photon detection of superconducting devices. Indeed, the local suppression of superconductivity by photon absorption may trigger vortex nucleation and motion effects, which can make the superconducting state unstable. In addition, scaling down the thickness of the superconducting films and/or the width of the bridge geometry can strongly influence the transport properties of superconducting films, e.g. affecting its critical current as well as its switching current into the normal state. Understanding such instability can boost the performances of those superconducting devices based on nanowire geometries. We present an experimental study on the resistive switching in NbN and NbTiN ultra-thin films with a thickness of few nanometers. Despite both films were patterned with the same microbridge geometry, the two superconducting materials show different behaviors at very low applied magnetic fields. A comparison with other low temperature superconducting materials outlines the influence of geometry effects on the superconducting transport properties of these materials particularly useful for devices applications.",
+    "authors": [
+      "A. Leo",
+      "N. Martucciello",
+      "A. Guarino",
+      "V. La Ferrara",
+      "E. Bobeico",
+      "J. C. Villégier",
+      "A. Nigro",
+      "S. Pace",
+      "G. Grimaldi"
+    ],
+    "published": "2017-12-31T15:47:09Z",
+    "updated": "2017-12-31T15:47:09Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1801.00306v1",
+    "arxivUrl": "http://arxiv.org/abs/1801.00306v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2005.07315v3",
+    "title": "Exotic Superconducting States in FeSe-based Materials",
+    "summary": "High-temperature superconductivity and a wide variety of exotic superconducting states discovered in FeSe-based materials have been at the frontier of research on condensed matter physics over the past decade. Unique properties originating from the multiband electronic structure, strongly orbital-dependent phenomena, extremely small Fermi energy, electronic nematicity, and topological aspects give rise to many distinct and fascinating superconducting states. Here, we provide an overview of our current understanding of the superconductivity of {\\it bulk} FeSe-based materials, focusing on FeSe and the isovalent substituted FeSe$_{1-x}$S$_{x}$ and FeSe$_{1-x}$Te$_{x}$. We discuss the highly nontrivial superconducting properties in FeSe, including extremely anisotropic pairing states, crossover phenomena from Bardeen--Cooper--Schrieffer (BCS) to Bose--Einstein condensation (BEC) states, a novel field-induced superconducting phase, and broken time-reversal symmetry. We also discuss the evolution of the superconducting gap function with sulfur and tellurium doping, paying particular attention to the impact of quantum critical nematic fluctuations and the topological superconductivity. FeSe-based materials provide an excellent playground to study various exotic superconducting states.",
+    "authors": [
+      "Takasada Shibauchi",
+      "Tetsuo Hanaguri",
+      "Yuji Matsuda"
+    ],
+    "published": "2020-05-15T01:32:40Z",
+    "updated": "2020-10-02T06:55:59Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2005.07315v3",
+    "arxivUrl": "http://arxiv.org/abs/2005.07315v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2008.13129v1",
+    "title": "Study of Bose-Einstein Condensation Process and Superconductivity",
+    "summary": "The transition from normal state to superconductive state is a condensation (Bose-Einstein condensation) process. As an example of Bose-Einstein condensation, the condensation process of superconductivity is investigated in detail. The basic unit of superconductivity is condensation circuit, which should contain 4m+2 (m=1,2,...) electrons (holes). The perfect explanation for no resistance and complete diamagnetism are given by using condensation circuit. The quantum mechanics equation of superconductive state is constructed, and energy level equation of superconductive quantum state is given. The later equation has simple form (I is the unit matrix, A is the adjacent matrix), with deep topological meanings. The phase transition from normal state to superconductive state is irreversible. The irreversible process is analyzed and discussed in detail. The temperature region of superconductive state is calculated. The simplest structure of superconductor circuit is a condensation circuit which is composed of a series of 3-4-element-circuits (called lantern series structure). It is theoretically proved that the room temperature superconductivity can be realized by using polylayer oxide structure. The experimental frame of room temperature superconductivity is suggested.",
+    "authors": [
+      "Wenchen He"
+    ],
+    "published": "2020-08-30T09:46:38Z",
+    "updated": "2020-08-30T09:46:38Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2008.13129v1",
+    "arxivUrl": "http://arxiv.org/abs/2008.13129v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2201.00990v1",
+    "title": "Two-dimensional superconductivity at the surfaces of KTaO3 gated with   ionic liquid",
+    "summary": "The recent observation of superconductivity at the interfaces between KTaO3 and EuO (or LaAlO3) offers a new example of emergent phenomena at oxide interfaces. This superconductivity exhibits an unusual strong dependence on the crystalline orientation of KTaO3 and its superconducting transition temperature Tc is nearly one order of magnitude higher than that of the seminal LaAlO3/SrTiO3 interface. To understand its mechanism, it is crucial to address if the formation of oxide interfaces is indispensable for the presence of superconductivity. Here, by exploiting ionic liquid (IL) gating, we obtain superconductivity at KTaO3 (111) and (110) surfaces with Tc up to 2.0 K and 1.0 K, respectively. This oxide-interface-free superconductivity gives a clear experimental evidence that the essential physics of KTaO3 interface superconductivity lies in the KTaO3 surfaces doped with electrons. Moreover, the ability to control superconductivity at surfaces with IL provides a simple way to study the intrinsic superconductivity in KTaO3.",
+    "authors": [
+      "Tianshuang Ren",
+      "Miaocong Li",
+      "Xikang Sun",
+      "Lele Ju",
+      "Yuan Liu",
+      "Siyuan Hong",
+      "Yanqiu Sun",
+      "Qian Tao",
+      "Yi Zhou",
+      "Zhu-An Xu",
+      "Yanwu Xie"
+    ],
+    "published": "2022-01-04T05:34:23Z",
+    "updated": "2022-01-04T05:34:23Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2201.00990v1",
+    "arxivUrl": "http://arxiv.org/abs/2201.00990v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.17671v1",
+    "title": "Mystery of superconductivity in FeTe films and the role of neighboring   layers",
+    "summary": "Since the discovery of superconductivity in the Fe(Te,Se) system, it has been a general consensus that the end member of FeTe is not superconducting. Nonetheless, in recent years, there have been reports of superconducting FeTe films, but the origin of their superconductivity remains mysterious. Here, we provide the first comprehensive review of all the reported FeTe films regarding the relationship between their superconductivity and neighboring layers. Based on this review, we show that telluride neighboring layers are the key to superconducting FeTe films. Then, with additional new studies, we show that stoichiometric Te content, which can be readily achieved in FeTe films with the assistance of neighboring telluride layers, might be crucial to stabilizing the superconductivity in this system. This work provides insights into the underlying mechanism behind superconductivity in FeTe films and sheds light on the critical role of neighboring layers and stoichiometry control toward manipulating topological superconductivity in FeTe heterostructures.",
+    "authors": [
+      "Xiong Yao",
+      "Hee Taek Yi",
+      "Deepti Jain",
+      "Xiaoyu Yuan",
+      "Seongshik Oh"
+    ],
+    "published": "2024-10-23T08:43:00Z",
+    "updated": "2024-10-23T08:43:00Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2410.17671v1",
+    "arxivUrl": "http://arxiv.org/abs/2410.17671v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2502.09945v1",
+    "title": "Removal of excess iron by annealing processes and emergence of bulk   superconductivity in sulfur-substituted FeTe",
+    "summary": "There are several strategies to discover new superconductors. Growing new materials and applying high pressures can be the classic ways since superconductivity was found. Also, chemical processing, such as annealing, is another way to induce superconductivity in a non-superconducting material. Here, we show chemical processing effects in the non-superconducting material, sulfur-substituted FeTe. It has been known that superconductivity in S-substituted FeTe is induced by O$_2$ annealing. We revealed that hydrochloric acid etching and vacuum annealing for O$_2$-annealed samples made the quality of superconductivity higher by several physical property measurements. Furthermore, we visualized the superconducting regions by a magneto-optical imaging technique, indicating that the superconductivity in the processed sample was bulk. In this sample, we confirmed that the concentration of excess iron was reduced compared to that in the as-grown state. These results provide an important route to bulk superconductivity in S-substituted FeTe and its related iron-based compounds.",
+    "authors": [
+      "Ryosuke Kurihara",
+      "Ryusuke Kogure",
+      "Tomotaka Ota",
+      "Yuto Kinoshita",
+      "Satoshi Hakamada",
+      "Masashi Tokunaga",
+      "Hiroshi Yaguchi"
+    ],
+    "published": "2025-02-14T06:50:47Z",
+    "updated": "2025-02-14T06:50:47Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2502.09945v1",
+    "arxivUrl": "http://arxiv.org/abs/2502.09945v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0111296v1",
+    "title": "On superconductivity in armchair carbon nanotubes",
+    "summary": "We use the momentum space renormalization group to study the influence of phonons and the Coulomb interaction on the superconducting response function of armchair single-walled nanotubes. We do not find superconductivity in undoped single nanotubes. When doped, superconducting fluctuations can develop because of the phonons but remain small and are easily destroyed by the Coulomb interaction. The origin of superconductivity in ropes of nanotobes is most likely an intertube effect. Projections to zig-zag nanotubes indicate a more favorable disposition to superconducting fluctuations.",
+    "authors": [
+      "A. Sédéki",
+      "L. G. Caron",
+      "C. Bourbonnais"
+    ],
+    "published": "2001-11-15T21:19:59Z",
+    "updated": "2001-11-15T21:19:59Z",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0111296v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0111296v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0204263v3",
+    "title": "Superconducting states in ferromagnetic metals",
+    "summary": "The symmetry of the superconducting states arising directly from ferromagnetic states in the crystals with cubic and orthorombic symmetries is described. The symmetry nodes in the quasiparticle spectra of such the states are pointed out if they exist. The superconducting phase transition in the ferromagnet is accompanied by the formation of superconducting domain structure consisting of complex conjugate states imposed on the ferromagnet domain structure with the opposite direction of the magnetization in the adjacent domains. The interplay between stimulation of a nonunitary superconducting state by the ferromagnetic moment and supression of the superconductivity by the diamagnetic orbital currents is established.",
+    "authors": [
+      "V. P. Mineev"
+    ],
+    "published": "2002-04-12T07:52:28Z",
+    "updated": "2002-05-16T15:38:44Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0204263v3",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0204263v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0306211v2",
+    "title": "Stripes and superconductivity in one-dimensional self-consistent model",
+    "summary": "We show that many observable properties of high temperature superconductors can be obtained in the frameworks of one-dimensional self-consistent model with included superconducting correlations. Analytical solutions for spin, charge and superconductivity order parameters are found.   The ground state of the model at low hole doping is a spin-charge solitonic superstructure. Increasing of doping leads to the phase transition to superconducting phase. There is a region of doping where superconductivity, spin density wave and charged stripe structure coexist.   The charge density modulation presents in the vicinity of vortices (kinks in the 1D model) in the superconducting state.",
+    "authors": [
+      "S. I. Matveenko"
+    ],
+    "published": "2003-06-09T12:23:21Z",
+    "updated": "2003-06-11T08:25:31Z",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0306211v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0306211v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0312280v1",
+    "title": "Suppression of Superconductivity in YBCO/LCMO Superlattices",
+    "summary": "The competition of superconductivity and magnetism in superlattices composed of alternating YBa$_2$Cu$_3$O$_{7-d}$ and La$_{0.67}$Ca$_{0.33}$MnO$_{3}$ thin films is investigated using low-energy optical spectroscopy. The thickness of the superconducting YBCO layers is varied from 30 nm to 20 nm while the thickness of the magnetic LCMO layers is kept constant at 20 nm. We clearly observe that the superconducting condensate density in the superconducting state of superlattice is drastically reduced by the magnetic subsystem which may be connected with proximity effects that distort the gap symmetry and thus suppress superconductivity.",
+    "authors": [
+      "F. Chen",
+      "B. Gorshunov",
+      "G. Cristiani",
+      "H. -U. Habermeier",
+      "M. Dressel"
+    ],
+    "published": "2003-12-11T09:39:49Z",
+    "updated": "2003-12-11T09:39:49Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0312280v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0312280v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0404156v1",
+    "title": "Superconductivity in diamond",
+    "summary": "We report the discovery of superconductivity in boron-doped diamond synthesized at high pressure (8-9 GPa) and temperature (2,500-2,800 K). Electrical resistivity, magnetic susceptibility, specific heat, and field-dependent resistance measurements show that boron-doped diamond is a bulk, type-II superconductor below the superconducting transition temperature Tc=4 K; superconductivity survives in a magnetic field up to Hc2(0)=3.5 T. The discovery of superconductivity in diamond-structured carbon suggests that Si and Ge, which also form in the diamond structure, may similarly exhibit superconductivity under the appropriate conditions.",
+    "authors": [
+      "E. A. Ekimov",
+      "V. A. Sidorov",
+      "E. D. Bauer",
+      "N. N. Mel'nik",
+      "N. J. Curro",
+      "J. D. Thompson",
+      "S. M. Stishov"
+    ],
+    "published": "2004-04-06T23:34:22Z",
+    "updated": "2004-04-06T23:34:22Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0404156v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0404156v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0410302v1",
+    "title": "Assembling the puzzle of superconducting elements: A Review",
+    "summary": "Superconductivity in the simple elements is of both technological relevance and fundamental scientific interest in the investigation of superconductivity phenomena. Recent advances in the instrumentation of physics under pressure have enabled the observation of superconductivity in many elements not previously known to superconduct, and at steadily increasing temperatures. This article offers a review of the state of the art in the superconductivity of elements, highlighting underlying correlations and general trends.",
+    "authors": [
+      "Cristina Buzea",
+      "Kevin Robbie"
+    ],
+    "published": "2004-10-12T16:59:25Z",
+    "updated": "2004-10-12T16:59:25Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0410302v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0410302v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0410367v1",
+    "title": "High Pressure Effects on Superconductivity",
+    "summary": "The review is devoted to a discussion of the effects of high pressure imposed on superconducting materials. Low-temperature superconductors, high-temperature superconducting cuprates, and some unconventional superconducting compounds are investigated. Experimental as well as theoretical results regarding the pressure effects on Tc and other interesting properties are summarized.",
+    "authors": [
+      "B. Lorenz",
+      "C. W. Chu"
+    ],
+    "published": "2004-10-14T19:01:20Z",
+    "updated": "2004-10-14T19:01:20Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0410367v1",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0410367v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/cond-mat/0501549v2",
+    "title": "The charge asymmetry in superconductivity of hole- and electron-doped   cuprates",
+    "summary": "Within the t-t'-J model, the charge asymmetry in superconductivity of hole- and electron-doped cuprates is studied based on the kinetic energy driven superconducting mechanism. It is shown that superconductivity appears over a narrow range of doping in electron-doped cuprates, and the superconducting transition temperature displays the same kind of the doping controlled behavior that is observed in the hole-doped case. However, the maximum achievable superconducting transition temperature in the optimal doping in electron-doped cuprates is much lower than that of the hole-doped case due to the electron-hole asymmetry.",
+    "authors": [
+      "Tianxing Ma",
+      "Shiping Feng"
+    ],
+    "published": "2005-01-23T02:16:35Z",
+    "updated": "2005-04-18T06:22:06Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/cond-mat/0501549v2",
+    "arxivUrl": "http://arxiv.org/abs/cond-mat/0501549v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/0707.0495v2",
+    "title": "Vibrating Superconducting Island in a Josephson Junction",
+    "summary": "We consider a combined nanomechanical-supercondcuting device that allows the Cooper pair tunneling to interfere with the mechanical motion of the middle superconducting island. Coupling of mechanical oscillations of a superconducting island between two superconducting leads to the electronic tunneling generate a supercurrent which is modulated by the oscillatory motion of the island. This coupling produces alternating finite and vanishing supercurrent as function of the superconducting phases. Current peaks are sensitive to the superconducting phase shifts relative to each other. The proposed device may be used to study the nanoelectromechanical coupling in case of superconducting electronics.",
+    "authors": [
+      "J. Fransson",
+      "J. -X. Zhu",
+      "A. V. Balatsky"
+    ],
+    "published": "2007-07-03T20:23:59Z",
+    "updated": "2008-07-14T15:01:25Z",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0707.0495v2",
+    "arxivUrl": "http://arxiv.org/abs/0707.0495v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/0902.0308v1",
+    "title": "Evolution of the local superconducting density of states in   ErRh$_4$B$_{4}$ close to the ferromagnetic transition",
+    "summary": "We present local tunneling spectroscopy experiments in the superconducting and ferromagnetic phases of the reentrant superconductor ErRh$_4$B$_{4}$. The tunneling conductance curves jump from showing normal to superconducting features within a few mK close to the ferromagnetic transition temperature, with a clear hysteretic behavior. Within the ferromagnetic phase, we do not detect any superconducting correlations. Within the superconducting phase we find a peculiar V-shaped density of states at low energies, which is produced by the magnetically modulated phase that coexists with superconductivity just before ferromagnetism sets in.",
+    "authors": [
+      "V. Crespo",
+      "J. G. Rodrigo",
+      "H. Suderow",
+      "S. Vieira",
+      "D. Hinks",
+      "I. K. Schuller"
+    ],
+    "published": "2009-02-02T15:53:28Z",
+    "updated": "2009-02-02T15:53:28Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0902.0308v1",
+    "arxivUrl": "http://arxiv.org/abs/0902.0308v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0905.2630v3",
+    "title": "Competition between singlet and triplet superconductivity",
+    "summary": "The competition between singlet and triplet superconductivity is examined in consideration of correlations on an extended Hubbard model. It is shown that the triplet superconductivity may not be included in the common Hubbard model since the strong correlation favors the singlet superconductivity, and thus the triplet superconductivity should be induced by the electron-phonon interaction and the ferromagnetic exchange interaction. We also present a superconducting qualification with which magnetism is unbeneficial to superconductivity.",
+    "authors": [
+      "Tian De Cao",
+      "Tie Bang Wang"
+    ],
+    "published": "2009-05-15T22:11:39Z",
+    "updated": "2009-10-04T02:13:18Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0905.2630v3",
+    "arxivUrl": "http://arxiv.org/abs/0905.2630v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/0906.0069v1",
+    "title": "Specific heat of aluminium-doped superconducting silicon carbide",
+    "summary": "The discoveries of superconductivity in heavily boron-doped diamond, silicon and silicon carbide renewed the interest in the ground states of charge-carrier doped wide-gap semiconductors. Recently, aluminium doping in silicon carbide successfully yielded a metallic phase from which at high aluminium concentrations superconductivity emerges. Here, we present a specific-heat study on superconducting aluminium-doped silicon carbide. We observe a clear jump anomaly at the superconducting transition temperature 1.5 K indicating that aluminium-doped silicon carbide is a bulk superconductor. An analysis of the jump anomaly suggests BCS-like phonon-mediated superconductivity in this system.",
+    "authors": [
+      "M. Kriener",
+      "T. Muranaka",
+      "Y. Kikuchi",
+      "J. Akimitsu",
+      "Y. Maeno"
+    ],
+    "published": "2009-05-30T09:29:39Z",
+    "updated": "2009-05-30T09:29:39Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0906.0069v1",
+    "arxivUrl": "http://arxiv.org/abs/0906.0069v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0911.3079v1",
+    "title": "Mechanisms for the superconducting state from a one-particle derivation   of the BCS gap equations",
+    "summary": "The BCS results for the superconducting gap $\\Delta$ and $T_C$ are obtained from a one-particle model. Superconductivity appears when the electronic energy gains of the band structure surpass the energy needed for atomic vibrations or magnetic moment oscillations. The vibration/oscillation amplitudes determine the superconducting gap, and the Fermi surface is important for the q-dependence. This permits for complementary interpretations of the parameters for superconductivity and modeling of density-of-state effects. It also makes the superconducting mechanism less exotic.",
+    "authors": [
+      "T. Jarlborg"
+    ],
+    "published": "2009-11-16T16:51:43Z",
+    "updated": "2009-11-16T16:51:43Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0911.3079v1",
+    "arxivUrl": "http://arxiv.org/abs/0911.3079v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0912.4539v2",
+    "title": "Superconductivity Induced in Iron Telluride Films by Low Temperature   Oxygen Incorporation",
+    "summary": "We report superconductivity induced in films of the non-superconducting, antiferromagnetic parent material FeTe by low temperature oxygen incorporation in a reversible manner. X-ray absorption shows that oxygen doping changes the nominal Fe valence state from 2+ in the non-superconducting state to mainly 3+ in the superconducting state. Thus superconductivity in O doped FeTe occurs in a quite different charge and strain state than the more common FeTe$_{1-x}$Se$_x$. This work also suggests a convenient path for conducting doping experiments in-situ with many measurement techniques.",
+    "authors": [
+      "Yuefeng Nie",
+      "Donald Telesca",
+      "Joseph I. Budnick",
+      "Boris Sinkovic",
+      "Barrett O. Wells"
+    ],
+    "published": "2009-12-22T23:58:24Z",
+    "updated": "2010-03-16T04:33:30Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0912.4539v2",
+    "arxivUrl": "http://arxiv.org/abs/0912.4539v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1101.3846v1",
+    "title": "Controllable manipulation of superconductivity using magnetic vortices",
+    "summary": "The magneto-transport of a superconducting/ferromagnetic hybrid structure consisting of a superconducting thin film in contact with an array of magnetic nanodots in the so-called \"magnetic vortex-state\" exhibits interesting properties. For certain magnetic states, the stray magnetic field from the vortex array is intense enough to drive the superconducting film into the normal state. In this fashion, the normal-to-superconducting phase transition can be controlled by the magnetic history. The strong coupling between superconducting and magnetic subsystems allows characteristically ferromagnetic properties, such as hysteresis and remanence, to be dramatically transferred into the transport properties of the superconductor.",
+    "authors": [
+      "Javier E. Villegas",
+      "Ivan K. Schuller"
+    ],
+    "published": "2011-01-20T09:00:46Z",
+    "updated": "2011-01-20T09:00:46Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1101.3846v1",
+    "arxivUrl": "http://arxiv.org/abs/1101.3846v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1111.1686v2",
+    "title": "Suppression of superconductivity at nematic critical point in underdoped   cuprates",
+    "summary": "A nematic quantum critical point is anticipated to exist in the superconducting dome of some high-temperature superconductors. The nematic order competes with the superconducting order and hence reduces the superconducting condensate at $T = 0$. Moreover, the critical fluctuations of nematic order can excite more nodal quasiparticles out of the condensate. We address these two effects within an effective field theory and show that superfluid density $\\rho^s(T)$ and superconducting temperature $T_c$ are both suppressed strongly by the critical fluctuations. The strong suppression of superconductivity provides a possible way to determine the nematic quantum critical point.",
+    "authors": [
+      "Guo-Zhu Liu",
+      "Jing-Rong Wang",
+      "Jing Wang"
+    ],
+    "published": "2011-11-07T19:18:43Z",
+    "updated": "2012-05-24T16:39:14Z",
+    "categories": [
+      "cond-mat.supr-con"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1111.1686v2",
+    "arxivUrl": "http://arxiv.org/abs/1111.1686v2"
+  }
+]

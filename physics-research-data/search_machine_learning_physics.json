@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2204.07492v2",
+    "title": "A Machine Learning Tutorial for Operational Meteorology, Part I:   Traditional Machine Learning",
+    "summary": "Recently, the use of machine learning in meteorology has increased greatly. While many machine learning methods are not new, university classes on machine learning are largely unavailable to meteorology students and are not required to become a meteorologist. The lack of formal instruction has contributed to perception that machine learning methods are 'black boxes' and thus end-users are hesitant to apply the machine learning methods in their every day workflow. To reduce the opaqueness of machine learning methods and lower hesitancy towards machine learning in meteorology, this paper provides a survey of some of the most common machine learning methods. A familiar meteorological example is used to contextualize the machine learning methods while also discussing machine learning topics using plain language. The following machine learning methods are demonstrated: linear regression; logistic regression; decision trees; random forest; gradient boosted decision trees; naive Bayes; and support vector machines. Beyond discussing the different methods, the paper also contains discussions on the general machine learning process as well as best practices to enable readers to apply machine learning to their own datasets. Furthermore, all code (in the form of Jupyter notebooks and Google Colaboratory notebooks) used to make the examples in the paper is provided in an effort to catalyse the use of machine learning in meteorology.",
+    "authors": [
+      "Randy J. Chase",
+      "David R. Harrison",
+      "Amanda Burke",
+      "Gary M. Lackmann",
+      "Amy McGovern"
+    ],
+    "published": "2022-04-15T14:48:04Z",
+    "updated": "2022-06-07T14:48:09Z",
+    "categories": [
+      "physics.ao-ph",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2204.07492v2",
+    "arxivUrl": "http://arxiv.org/abs/2204.07492v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2007.14206v1",
+    "title": "Machine Learning Potential Repository",
+    "summary": "This paper introduces a machine learning potential repository that includes Pareto optimal machine learning potentials. It also shows the systematic development of accurate and fast machine learning potentials for a wide range of elemental systems. As a result, many Pareto optimal machine learning potentials are available in the repository from a website. Therefore, the repository will help many scientists to perform accurate and fast atomistic simulations.",
+    "authors": [
+      "Atsuto Seko"
+    ],
+    "published": "2020-07-27T14:30:23Z",
+    "updated": "2020-07-27T14:30:23Z",
+    "categories": [
+      "physics.comp-ph",
+      "cond-mat.mtrl-sci",
+      "physics.chem-ph",
+      "physics.data-an"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2007.14206v1",
+    "arxivUrl": "http://arxiv.org/abs/2007.14206v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2203.16797v1",
+    "title": "When Physics Meets Machine Learning: A Survey of Physics-Informed   Machine Learning",
+    "summary": "Physics-informed machine learning (PIML), referring to the combination of prior knowledge of physics, which is the high level abstraction of natural phenomenons and human behaviours in the long history, with data-driven machine learning models, has emerged as an effective way to mitigate the shortage of training data, to increase models' generalizability and to ensure the physical plausibility of results. In this paper, we survey an abundant number of recent works in PIML and summarize them from three aspects: (1) motivations of PIML, (2) physics knowledge in PIML, (3) methods of physics knowledge integration in PIML. We also discuss current challenges and corresponding research opportunities in PIML.",
+    "authors": [
+      "Chuizheng Meng",
+      "Sungyong Seo",
+      "Defu Cao",
+      "Sam Griesemer",
+      "Yan Liu"
+    ],
+    "published": "2022-03-31T04:58:27Z",
+    "updated": "2022-03-31T04:58:27Z",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2203.16797v1",
+    "arxivUrl": "http://arxiv.org/abs/2203.16797v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2401.11351v2",
+    "title": "A comprehensive review of Quantum Machine Learning: from NISQ to Fault   Tolerance",
+    "summary": "Quantum machine learning, which involves running machine learning algorithms on quantum devices, has garnered significant attention in both academic and business circles. In this paper, we offer a comprehensive and unbiased review of the various concepts that have emerged in the field of quantum machine learning. This includes techniques used in Noisy Intermediate-Scale Quantum (NISQ) technologies and approaches for algorithms compatible with fault-tolerant quantum computing hardware. Our review covers fundamental concepts, algorithms, and the statistical learning theory pertinent to quantum machine learning.",
+    "authors": [
+      "Yunfei Wang",
+      "Junyu Liu"
+    ],
+    "published": "2024-01-21T00:19:16Z",
+    "updated": "2024-03-31T00:32:13Z",
+    "categories": [
+      "quant-ph",
+      "cs.AI",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2401.11351v2",
+    "arxivUrl": "http://arxiv.org/abs/2401.11351v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2412.18979v1",
+    "title": "Quantum memristors for neuromorphic quantum machine learning",
+    "summary": "Quantum machine learning may permit to realize more efficient machine learning calculations with near-term quantum devices. Among the diverse quantum machine learning paradigms which are currently being considered, quantum memristors are promising as a way of combining, in the same quantum hardware, a unitary evolution with the nonlinearity provided by the measurement and feedforward. Thus, an efficient way of deploying neuromorphic quantum computing for quantum machine learning may be enabled.",
+    "authors": [
+      "Lucas Lamata"
+    ],
+    "published": "2024-12-25T20:21:24Z",
+    "updated": "2024-12-25T20:21:24Z",
+    "categories": [
+      "quant-ph",
+      "cs.NE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2412.18979v1",
+    "arxivUrl": "http://arxiv.org/abs/2412.18979v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2310.10368v1",
+    "title": "Machine learning in physics: a short guide",
+    "summary": "Machine learning is a rapidly growing field with the potential to revolutionize many areas of science, including physics. This review provides a brief overview of machine learning in physics, covering the main concepts of supervised, unsupervised, and reinforcement learning, as well as more specialized topics such as causal inference, symbolic regression, and deep learning. We present some of the principal applications of machine learning in physics and discuss the associated challenges and perspectives.",
+    "authors": [
+      "Francisco A. Rodrigues"
+    ],
+    "published": "2023-10-16T13:05:47Z",
+    "updated": "2023-10-16T13:05:47Z",
+    "categories": [
+      "cs.LG",
+      "cond-mat.stat-mech",
+      "physics.app-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2310.10368v1",
+    "arxivUrl": "http://arxiv.org/abs/2310.10368v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1911.08587v1",
+    "title": "Solving machine learning optimization problems using quantum computers",
+    "summary": "Classical optimization algorithms in machine learning often take a long time to compute when applied to a multi-dimensional problem and require a huge amount of CPU and GPU resource. Quantum parallelism has a potential to speed up machine learning algorithms. We describe a generic mathematical model to leverage quantum parallelism to speed-up machine learning algorithms. We also apply quantum machine learning and quantum parallelism applied to a $3$-dimensional image that vary with time.",
+    "authors": [
+      "Venkat R. Dasari",
+      "Mee Seong Im",
+      "Lubjana Beshaj"
+    ],
+    "published": "2019-11-17T17:36:41Z",
+    "updated": "2019-11-17T17:36:41Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1911.08587v1",
+    "arxivUrl": "http://arxiv.org/abs/1911.08587v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.19890v1",
+    "title": "Quantum Dynamics of Machine Learning",
+    "summary": "The quantum dynamic equation (QDE) of machine learning is obtained based on Schr\\\"odinger equation and potential energy equivalence relationship. Through Wick rotation, the relationship between quantum dynamics and thermodynamics is also established in this paper. This equation reformulates the iterative process of machine learning into a time-dependent partial differential equation with a clear mathematical structure, offering a theoretical framework for investigating machine learning iterations through quantum and mathematical theories. Within this framework, the fundamental iterative process, the diffusion model, and the Softmax and Sigmoid functions are examined, validating the proposed quantum dynamics equations. This approach not only presents a rigorous theoretical foundation for machine learning but also holds promise for supporting the implementation of machine learning algorithms on quantum computers.",
+    "authors": [
+      "Peng Wang",
+      "Maimaitiniyazi Maimaitiabudula"
+    ],
+    "published": "2024-07-07T16:30:46Z",
+    "updated": "2024-07-07T16:30:46Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2407.19890v1",
+    "arxivUrl": "http://arxiv.org/abs/2407.19890v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2006.02619v1",
+    "title": "Integrating Machine Learning with Physics-Based Modeling",
+    "summary": "Machine learning is poised as a very powerful tool that can drastically improve our ability to carry out scientific research. However, many issues need to be addressed before this becomes a reality. This article focuses on one particular issue of broad interest: How can we integrate machine learning with physics-based modeling to develop new interpretable and truly reliable physical models? After introducing the general guidelines, we discuss the two most important issues for developing machine learning-based physical models: Imposing physical constraints and obtaining optimal datasets. We also provide a simple and intuitive explanation for the fundamental reasons behind the success of modern machine learning, as well as an introduction to the concurrent machine learning framework needed for integrating machine learning with physics-based modeling. Molecular dynamics and moment closure of kinetic equations are used as examples to illustrate the main issues discussed. We end with a general discussion on where this integration will lead us to, and where the new frontier will be after machine learning is successfully integrated into scientific modeling.",
+    "authors": [
+      "Weinan E",
+      "Jiequn Han",
+      "Linfeng Zhang"
+    ],
+    "published": "2020-06-04T02:35:10Z",
+    "updated": "2020-06-04T02:35:10Z",
+    "categories": [
+      "physics.comp-ph",
+      "cs.LG",
+      "cs.NA",
+      "math.NA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2006.02619v1",
+    "arxivUrl": "http://arxiv.org/abs/2006.02619v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2303.09491v1",
+    "title": "Challenges and Opportunities in Quantum Machine Learning",
+    "summary": "At the intersection of machine learning and quantum computing, Quantum Machine Learning (QML) has the potential of accelerating data analysis, especially for quantum data, with applications for quantum materials, biochemistry, and high-energy physics. Nevertheless, challenges remain regarding the trainability of QML models. Here we review current methods and applications for QML. We highlight differences between quantum and classical machine learning, with a focus on quantum neural networks and quantum deep learning. Finally, we discuss opportunities for quantum advantage with QML.",
+    "authors": [
+      "M. Cerezo",
+      "Guillaume Verdon",
+      "Hsin-Yuan Huang",
+      "Lukasz Cincio",
+      "Patrick J. Coles"
+    ],
+    "published": "2023-03-16T17:10:39Z",
+    "updated": "2023-03-16T17:10:39Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2303.09491v1",
+    "arxivUrl": "http://arxiv.org/abs/2303.09491v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2110.12773v1",
+    "title": "Scientific Machine Learning Benchmarks",
+    "summary": "The breakthrough in Deep Learning neural networks has transformed the use of AI and machine learning technologies for the analysis of very large experimental datasets. These datasets are typically generated by large-scale experimental facilities at national laboratories. In the context of science, scientific machine learning focuses on training machines to identify patterns, trends, and anomalies to extract meaningful scientific insights from such datasets. With a new generation of experimental facilities, the rate of data generation and the scale of data volumes will increasingly require the use of more automated data analysis. At present, identifying the most appropriate machine learning algorithm for the analysis of any given scientific dataset is still a challenge for scientists. This is due to many different machine learning frameworks, computer architectures, and machine learning models. Historically, for modelling and simulation on HPC systems such problems have been addressed through benchmarking computer applications, algorithms, and architectures. Extending such a benchmarking approach and identifying metrics for the application of machine learning methods to scientific datasets is a new challenge for both scientists and computer scientists. In this paper, we describe our approach to the development of scientific machine learning benchmarks and review other approaches to benchmarking scientific machine learning.",
+    "authors": [
+      "Jeyan Thiyagalingam",
+      "Mallikarjun Shankar",
+      "Geoffrey Fox",
+      "Tony Hey"
+    ],
+    "published": "2021-10-25T10:05:11Z",
+    "updated": "2021-10-25T10:05:11Z",
+    "categories": [
+      "cs.LG",
+      "physics.comp-ph",
+      "I.2"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2110.12773v1",
+    "arxivUrl": "http://arxiv.org/abs/2110.12773v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2309.00767v1",
+    "title": "Physics-informed machine learning of the correlation functions in bulk   fluids",
+    "summary": "The Ornstein-Zernike (OZ) equation is the fundamental equation for pair correlation function computations in the modern integral equation theory for liquids. In this work, machine learning models, notably physics-informed neural networks and physics-informed neural operator networks, are explored to solve the OZ equation. The physics-informed machine learning models demonstrate great accuracy and high efficiency in solving the forward and inverse OZ problems of various bulk fluids. The results highlight the significant potential of physics-informed machine learning for applications in thermodynamic state theory.",
+    "authors": [
+      "Wenqian Chen",
+      "Peiyuan Gao",
+      "Panos Stinis"
+    ],
+    "published": "2023-09-02T00:11:48Z",
+    "updated": "2023-09-02T00:11:48Z",
+    "categories": [
+      "physics.comp-ph",
+      "cs.LG",
+      "physics.chem-ph",
+      "physics.flu-dyn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2309.00767v1",
+    "arxivUrl": "http://arxiv.org/abs/2309.00767v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2502.17993v1",
+    "title": "A Perspective on Symbolic Machine Learning in Physical Sciences",
+    "summary": "Machine learning is rapidly making its pathway across all of the natural sciences, including physical sciences. The rate at which ML is impacting non-scientific disciplines is incomparable to that in the physical sciences. This is partly due to the uninterpretable nature of deep neural networks. Symbolic machine learning stands as an equal and complementary partner to numerical machine learning in speeding up scientific discovery in physics. This perspective discusses the main differences between the ML and scientific approaches. It stresses the need to develop and apply symbolic machine learning to physics problems equally, in parallel to numerical machine learning, because of the dual nature of physics research.",
+    "authors": [
+      "Nour Makke",
+      "Sanjay Chawla"
+    ],
+    "published": "2025-02-25T09:02:02Z",
+    "updated": "2025-02-25T09:02:02Z",
+    "categories": [
+      "cs.LG",
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2502.17993v1",
+    "arxivUrl": "http://arxiv.org/abs/2502.17993v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2408.12655v1",
+    "title": "Improving Radiography Machine Learning Workflows via Metadata Management   for Training Data Selection",
+    "summary": "Most machine learning models require many iterations of hyper-parameter tuning, feature engineering, and debugging to produce effective results. As machine learning models become more complicated, this pipeline becomes more difficult to manage effectively. In the physical sciences, there is an ever-increasing pool of metadata that is generated by the scientific research cycle. Tracking this metadata can reduce redundant work, improve reproducibility, and aid in the feature and training dataset engineering process. In this case study, we present a tool for machine learning metadata management in dynamic radiography. We evaluate the efficacy of this tool against the initial research workflow and discuss extensions to general machine learning pipelines in the physical sciences.",
+    "authors": [
+      "Mirabel Reid",
+      "Christine Sweeney",
+      "Oleg Korobkin"
+    ],
+    "published": "2024-08-22T18:01:21Z",
+    "updated": "2024-08-22T18:01:21Z",
+    "categories": [
+      "cs.LG",
+      "cs.HC"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2408.12655v1",
+    "arxivUrl": "http://arxiv.org/abs/2408.12655v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2108.09664v1",
+    "title": "New Trends in Quantum Machine Learning",
+    "summary": "Here we will give a perspective on new possible interplays between Machine Learning and Quantum Physics, including also practical cases and applications. We will explore the ways in which machine learning could benefit from new quantum technologies and algorithms to find new ways to speed up their computations by breakthroughs in physical hardware, as well as to improve existing models or devise new learning schemes in the quantum domain. Moreover, there are lots of experiments in quantum physics that do generate incredible amounts of data and machine learning would be a great tool to analyze those and make predictions, or even control the experiment itself. On top of that, data visualization techniques and other schemes borrowed from machine learning can be of great use to theoreticians to have better intuition on the structure of complex manifolds or to make predictions on theoretical models. This new research field, named as Quantum Machine Learning, is very rapidly growing since it is expected to provide huge advantages over its classical counterpart and deeper investigations are timely needed since they can be already tested on the already commercially available quantum machines.",
+    "authors": [
+      "Lorenzo Buffoni",
+      "Filippo Caruso"
+    ],
+    "published": "2021-08-22T08:23:30Z",
+    "updated": "2021-08-22T08:23:30Z",
+    "categories": [
+      "quant-ph",
+      "cond-mat.dis-nn",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2108.09664v1",
+    "arxivUrl": "http://arxiv.org/abs/2108.09664v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1905.01330v1",
+    "title": "TensorNetwork: A Library for Physics and Machine Learning",
+    "summary": "TensorNetwork is an open source library for implementing tensor network algorithms. Tensor networks are sparse data structures originally designed for simulating quantum many-body physics, but are currently also applied in a number of other research areas, including machine learning. We demonstrate the use of the API with applications both physics and machine learning, with details appearing in companion papers.",
+    "authors": [
+      "Chase Roberts",
+      "Ashley Milsted",
+      "Martin Ganahl",
+      "Adam Zalcman",
+      "Bruce Fontaine",
+      "Yijian Zou",
+      "Jack Hidary",
+      "Guifre Vidal",
+      "Stefan Leichenauer"
+    ],
+    "published": "2019-05-03T18:14:25Z",
+    "updated": "2019-05-03T18:14:25Z",
+    "categories": [
+      "physics.comp-ph",
+      "cond-mat.str-el",
+      "cs.LG",
+      "hep-th",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1905.01330v1",
+    "arxivUrl": "http://arxiv.org/abs/1905.01330v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2411.15945v1",
+    "title": "Understanding Machine Learning Paradigms through the Lens of Statistical   Thermodynamics: A tutorial",
+    "summary": "This tutorial investigates the convergence of statistical mechanics and learning theory, elucidating the potential enhancements in machine learning methodologies through the integration of foundational principles from physics. The tutorial delves into advanced techniques like entropy, free energy, and variational inference which are utilized in machine learning, illustrating their significant contributions to model efficiency and robustness. By bridging these scientific disciplines, we aspire to inspire newer methodologies in researches, demonstrating how an in-depth comprehension of physical systems' behavior can yield more effective and dependable machine learning models, particularly in contexts characterized by uncertainty.",
+    "authors": [
+      " Star",
+      " Liu"
+    ],
+    "published": "2024-11-24T18:20:05Z",
+    "updated": "2024-11-24T18:20:05Z",
+    "categories": [
+      "cs.LG",
+      "cond-mat.mtrl-sci",
+      "math.ST",
+      "physics.chem-ph",
+      "stat.TH"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2411.15945v1",
+    "arxivUrl": "http://arxiv.org/abs/2411.15945v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2312.14050v1",
+    "title": "Machine learning and domain decomposition methods -- a survey",
+    "summary": "Hybrid algorithms, which combine black-box machine learning methods with experience from traditional numerical methods and domain expertise from diverse application areas, are progressively gaining importance in scientific machine learning and various industrial domains, especially in computational science and engineering. In the present survey, several promising avenues of research will be examined which focus on the combination of machine learning (ML) and domain decomposition methods (DDMs). The aim of this survey is to provide an overview of existing work within this field and to structure it into domain decomposition for machine learning and machine learning-enhanced domain decomposition, including: domain decomposition for classical machine learning, domain decomposition to accelerate the training of physics-aware neural networks, machine learning to enhance the convergence properties or computational efficiency of DDMs, and machine learning as a discretization method in a DDM for the solution of PDEs. In each of these fields, we summarize existing work and key advances within a common framework and, finally, disuss ongoing challenges and opportunities for future research.",
+    "authors": [
+      "Axel Klawonn",
+      "Martin Lanser",
+      "Janine Weber"
+    ],
+    "published": "2023-12-21T17:19:27Z",
+    "updated": "2023-12-21T17:19:27Z",
+    "categories": [
+      "math.NA",
+      "cs.LG",
+      "cs.NA",
+      "65F10, 65N22, 65N55, 68T05, 68T07"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2312.14050v1",
+    "arxivUrl": "http://arxiv.org/abs/2312.14050v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.08251v1",
+    "title": "Quantum-enhanced machine learning",
+    "summary": "The emerging field of quantum machine learning has the potential to substantially aid in the problems and scope of artificial intelligence. This is only enhanced by recent successes in the field of classical machine learning. In this work we propose an approach for the systematic treatment of machine learning, from the perspective of quantum information. Our approach is general and covers all three main branches of machine learning: supervised, unsupervised and reinforcement learning. While quantum improvements in supervised and unsupervised learning have been reported, reinforcement learning has received much less attention. Within our approach, we tackle the problem of quantum enhancements in reinforcement learning as well, and propose a systematic scheme for providing improvements. As an example, we show that quadratic improvements in learning efficiency, and exponential improvements in performance over limited time periods, can be obtained for a broad class of learning problems.",
+    "authors": [
+      "Vedran Dunjko",
+      "Jacob M. Taylor",
+      "Hans J. Briegel"
+    ],
+    "published": "2016-10-26T09:35:11Z",
+    "updated": "2016-10-26T09:35:11Z",
+    "categories": [
+      "quant-ph",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1610.08251v1",
+    "arxivUrl": "http://arxiv.org/abs/1610.08251v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2303.03181v1",
+    "title": "MetaPhysiCa: OOD Robustness in Physics-informed Machine Learning",
+    "summary": "A fundamental challenge in physics-informed machine learning (PIML) is the design of robust PIML methods for out-of-distribution (OOD) forecasting tasks. These OOD tasks require learning-to-learn from observations of the same (ODE) dynamical system with different unknown ODE parameters, and demand accurate forecasts even under out-of-support initial conditions and out-of-support ODE parameters. In this work we propose a solution for such tasks, which we define as a meta-learning procedure for causal structure discovery (including invariant risk minimization). Using three different OOD tasks, we empirically observe that the proposed approach significantly outperforms existing state-of-the-art PIML and deep learning methods.",
+    "authors": [
+      "S Chandra Mouli",
+      "Muhammad Ashraful Alam",
+      "Bruno Ribeiro"
+    ],
+    "published": "2023-03-06T14:48:30Z",
+    "updated": "2023-03-06T14:48:30Z",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2303.03181v1",
+    "arxivUrl": "http://arxiv.org/abs/2303.03181v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1712.08523v1",
+    "title": "Contemporary machine learning: a guide for practitioners in the physical   sciences",
+    "summary": "Machine learning is finding increasingly broad application in the physical sciences. This most often involves building a model relationship between a dependent, measurable output and an associated set of controllable, but complicated, independent inputs. We present a tutorial on current techniques in machine learning -- a jumping-off point for interested researchers to advance their work. We focus on deep neural networks with an emphasis on demystifying deep learning. We begin with background ideas in machine learning and some example applications from current research in plasma physics. We discuss supervised learning techniques for modeling complicated functions, beginning with familiar regression schemes, then advancing to more sophisticated deep learning methods. We also address unsupervised learning and techniques for reducing the dimensionality of input spaces. Along the way, we describe methods for practitioners to help ensure that their models generalize from their training data to as-yet-unseen test data. We describe classes of tasks -- predicting scalars, handling images, fitting time-series -- and prepare the reader to choose an appropriate technique. We finally point out some limitations to modern machine learning and speculate on some ways that practitioners from the physical sciences may be particularly suited to help.",
+    "authors": [
+      "Brian K. Spears"
+    ],
+    "published": "2017-12-20T23:28:03Z",
+    "updated": "2017-12-20T23:28:03Z",
+    "categories": [
+      "physics.comp-ph",
+      "cs.LG",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1712.08523v1",
+    "arxivUrl": "http://arxiv.org/abs/1712.08523v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2205.05279v1",
+    "title": "Unsupervised machine learning for physical concepts",
+    "summary": "In recent years, machine learning methods have been used to assist scientists in scientific research. Human scientific theories are based on a series of concepts. How machine learns the concepts from experimental data will be an important first step. We propose a hybrid method to extract interpretable physical concepts through unsupervised machine learning. This method consists of two stages. At first, we need to find the Betti numbers of experimental data. Secondly, given the Betti numbers, we use a variational autoencoder network to extract meaningful physical variables. We test our protocol on toy models and show how it works.",
+    "authors": [
+      "Ruyu Yang"
+    ],
+    "published": "2022-05-11T05:48:46Z",
+    "updated": "2022-05-11T05:48:46Z",
+    "categories": [
+      "cs.LG",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2205.05279v1",
+    "arxivUrl": "http://arxiv.org/abs/2205.05279v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2307.02693v1",
+    "title": "Kernels, Data & Physics",
+    "summary": "Lecture notes from the course given by Professor Julia Kempe at the summer school \"Statistical physics of Machine Learning\" in Les Houches. The notes discuss the so-called NTK approach to problems in machine learning, which consists of gaining an understanding of generally unsolvable problems by finding a tractable kernel formulation. The notes are mainly focused on practical applications such as data distillation and adversarial robustness, examples of inductive bias are also discussed.",
+    "authors": [
+      "Francesco Cagnetta",
+      "Deborah Oliveira",
+      "Mahalakshmi Sabanayagam",
+      "Nikolaos Tsilivis",
+      "Julia Kempe"
+    ],
+    "published": "2023-07-05T23:51:05Z",
+    "updated": "2023-07-05T23:51:05Z",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2307.02693v1",
+    "arxivUrl": "http://arxiv.org/abs/2307.02693v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.00196v1",
+    "title": "Machine learning for accuracy in density functional approximations",
+    "summary": "Machine learning techniques have found their way into computational chemistry as indispensable tools to accelerate atomistic simulations and materials design. In addition, machine learning approaches hold the potential to boost the predictive power of computationally efficient electronic structure methods, such as density functional theory, to chemical accuracy and to correct for fundamental errors in density functional approaches. Here, recent progress in applying machine learning to improve the accuracy of density functional and related approximations is reviewed. Promises and challenges in devising machine learning models transferable between different chemistries and materials classes are discussed with the help of examples applying promising models to systems far outside their training sets.",
+    "authors": [
+      "Johannes Voss"
+    ],
+    "published": "2023-11-01T00:02:09Z",
+    "updated": "2023-11-01T00:02:09Z",
+    "categories": [
+      "physics.chem-ph",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2311.00196v1",
+    "arxivUrl": "http://arxiv.org/abs/2311.00196v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2211.08064v2",
+    "title": "Physics-Informed Machine Learning: A Survey on Problems, Methods and   Applications",
+    "summary": "Recent advances of data-driven machine learning have revolutionized fields like computer vision, reinforcement learning, and many scientific and engineering domains. In many real-world and scientific problems, systems that generate data are governed by physical laws. Recent work shows that it provides potential benefits for machine learning models by incorporating the physical prior and collected data, which makes the intersection of machine learning and physics become a prevailing paradigm. By integrating the data and mathematical physics models seamlessly, it can guide the machine learning model towards solutions that are physically plausible, improving accuracy and efficiency even in uncertain and high-dimensional contexts. In this survey, we present this learning paradigm called Physics-Informed Machine Learning (PIML) which is to build a model that leverages empirical data and available physical prior knowledge to improve performance on a set of tasks that involve a physical mechanism. We systematically review the recent development of physics-informed machine learning from three perspectives of machine learning tasks, representation of physical prior, and methods for incorporating physical prior. We also propose several important open research problems based on the current trends in the field. We argue that encoding different forms of physical prior into model architectures, optimizers, inference algorithms, and significant domain-specific applications like inverse engineering design and robotic control is far from being fully explored in the field of physics-informed machine learning. We believe that the interdisciplinary research of physics-informed machine learning will significantly propel research progress, foster the creation of more effective machine learning models, and also offer invaluable assistance in addressing long-standing problems in related disciplines.",
+    "authors": [
+      "Zhongkai Hao",
+      "Songming Liu",
+      "Yichi Zhang",
+      "Chengyang Ying",
+      "Yao Feng",
+      "Hang Su",
+      "Jun Zhu"
+    ],
+    "published": "2022-11-15T11:34:30Z",
+    "updated": "2023-03-07T02:46:34Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV",
+      "cs.NA",
+      "math.NA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2211.08064v2",
+    "arxivUrl": "http://arxiv.org/abs/2211.08064v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2004.12076v2",
+    "title": "Quantum machine learning and quantum biomimetics: A perspective",
+    "summary": "Quantum machine learning has emerged as an exciting and promising paradigm inside quantum technologies. It may permit, on the one hand, to carry out more efficient machine learning calculations by means of quantum devices, while, on the other hand, to employ machine learning techniques to better control quantum systems. Inside quantum machine learning, quantum reinforcement learning aims at developing \"intelligent\" quantum agents that may interact with the outer world and adapt to it, with the strategy of achieving some final goal. Another paradigm inside quantum machine learning is that of quantum autoencoders, which may allow one for employing fewer resources in a quantum device via a training process. Moreover, the field of quantum biomimetics aims at establishing analogies between biological and quantum systems, to look for previously inadvertent connections that may enable useful applications. Two recent examples are the concepts of quantum artificial life, as well as of quantum memristors. In this Perspective, we give an overview of these topics, describing the related research carried out by the scientific community.",
+    "authors": [
+      "Lucas Lamata"
+    ],
+    "published": "2020-04-25T07:45:20Z",
+    "updated": "2020-05-30T07:00:32Z",
+    "categories": [
+      "quant-ph",
+      "cond-mat.mes-hall",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2004.12076v2",
+    "arxivUrl": "http://arxiv.org/abs/2004.12076v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2009.06093v1",
+    "title": "Simultaneous Quantum Machine Learning Training and Architecture   Discovery",
+    "summary": "With the onset of gated quantum machine learning, the architecture for such a system is an open question. Many architectures are created either ad hoc or are directly analogous from known classical architectures. Presented here is a novel algorithm which learns a gated quantum machine learning architecture while simultaneously learning its parameters. This proof of concept and some of its variations are explored and discussed.",
+    "authors": [
+      "Dominic Pasquali"
+    ],
+    "published": "2020-09-13T21:47:36Z",
+    "updated": "2020-09-13T21:47:36Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2009.06093v1",
+    "arxivUrl": "http://arxiv.org/abs/2009.06093v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2106.02964v1",
+    "title": "A Review of Machine Learning Classification Using Quantum Annealing for   Real-world Applications",
+    "summary": "Optimizing the training of a machine learning pipeline helps in reducing training costs and improving model performance. One such optimizing strategy is quantum annealing, which is an emerging computing paradigm that has shown potential in optimizing the training of a machine learning model. The implementation of a physical quantum annealer has been realized by D-Wave systems and is available to the research community for experiments. Recent experimental results on a variety of machine learning applications using quantum annealing have shown interesting results where the performance of classical machine learning techniques is limited by limited training data and high dimensional features. This article explores the application of D-Wave's quantum annealer for optimizing machine learning pipelines for real-world classification problems. We review the application domains on which a physical quantum annealer has been used to train machine learning classifiers. We discuss and analyze the experiments performed on the D-Wave quantum annealer for applications such as image recognition, remote sensing imagery, computational biology, and particle physics. We discuss the possible advantages and the problems for which quantum annealing is likely to be advantageous over classical computation.",
+    "authors": [
+      "Rajdeep Kumar Nath",
+      "Himanshu Thapliyal",
+      "Travis S. Humble"
+    ],
+    "published": "2021-06-05T21:15:34Z",
+    "updated": "2021-06-05T21:15:34Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2106.02964v1",
+    "arxivUrl": "http://arxiv.org/abs/2106.02964v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2504.17112v1",
+    "title": "Physics-informed features in supervised machine learning",
+    "summary": "Supervised machine learning involves approximating an unknown functional relationship from a limited dataset of features and corresponding labels. The classical approach to feature-based machine learning typically relies on applying linear regression to standardized features, without considering their physical meaning. This may limit model explainability, particularly in scientific applications. This study proposes a physics-informed approach to feature-based machine learning that constructs non-linear feature maps informed by physical laws and dimensional analysis. These maps enhance model interpretability and, when physical laws are unknown, allow for the identification of relevant mechanisms through feature ranking. The method aims to improve both predictive performance in regression tasks and classification skill scores by integrating domain knowledge into the learning process, while also enabling the potential discovery of new physical equations within the context of explainable machine learning.",
+    "authors": [
+      "Margherita Lampani",
+      "Sabrina Guastavino",
+      "Michele Piana",
+      "Federico Benvenuto"
+    ],
+    "published": "2025-04-23T21:45:49Z",
+    "updated": "2025-04-23T21:45:49Z",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "cs.NA",
+      "math.NA",
+      "68Q32, 62J07, 65J20"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2504.17112v1",
+    "arxivUrl": "http://arxiv.org/abs/2504.17112v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2305.07801v1",
+    "title": "Quantum learning machines",
+    "summary": "Physical learning machines, be they classical or quantum, are necessarily dissipative systems. The rate of energy dissipation decreases as the learning error rate decreases linking thermodynamic efficiency and learning efficiency. In the classical case the energy is dissipated as heat. We give an example based on a quantum optical perceptron where the energy is dissipated as spontaneous emission. At optical frequencies the temperature is effectively zero so this perceptron is as efficient as it is possible to get. The example illustrates a general point: In a classical learning machine, measurement is taken to reveal objective facts about the world. In quantum learning machines what is learned is defined by the nature of the measurement itself.",
+    "authors": [
+      "G J Milburn"
+    ],
+    "published": "2023-05-12T23:38:36Z",
+    "updated": "2023-05-12T23:38:36Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2305.07801v1",
+    "arxivUrl": "http://arxiv.org/abs/2305.07801v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2005.09428v2",
+    "title": "Quantum-Classical Machine learning by Hybrid Tensor Networks",
+    "summary": "Tensor networks (TN) have found a wide use in machine learning, and in particular, TN and deep learning bear striking similarities. In this work, we propose the quantum-classical hybrid tensor networks (HTN) which combine tensor networks with classical neural networks in a uniform deep learning framework to overcome the limitations of regular tensor networks in machine learning. We first analyze the limitations of regular tensor networks in the applications of machine learning involving the representation power and architecture scalability. We conclude that in fact the regular tensor networks are not competent to be the basic building blocks of deep learning. Then, we discuss the performance of HTN which overcome all the deficiency of regular tensor networks for machine learning. In this sense, we are able to train HTN in the deep learning way which is the standard combination of algorithms such as Back Propagation and Stochastic Gradient Descent. We finally provide two applicable cases to show the potential applications of HTN, including quantum states classification and quantum-classical autoencoder. These cases also demonstrate the great potentiality to design various HTN in deep learning way.",
+    "authors": [
+      "Ding Liu",
+      "Jiaqi Yao",
+      "Zekun Yao",
+      "Quan Zhang"
+    ],
+    "published": "2020-05-15T10:20:35Z",
+    "updated": "2024-08-14T06:43:55Z",
+    "categories": [
+      "cs.LG",
+      "quant-ph",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2005.09428v2",
+    "arxivUrl": "http://arxiv.org/abs/2005.09428v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1805.08355v1",
+    "title": "Opening the black box of deep learning",
+    "summary": "The great success of deep learning shows that its technology contains profound truth, and understanding its internal mechanism not only has important implications for the development of its technology and effective application in various fields, but also provides meaningful insights into the understanding of human brain mechanism. At present, most of the theoretical research on deep learning is based on mathematics. This dissertation proposes that the neural network of deep learning is a physical system, examines deep learning from three different perspectives: microscopic, macroscopic, and physical world views, answers multiple theoretical puzzles in deep learning by using physics principles. For example, from the perspective of quantum mechanics and statistical physics, this dissertation presents the calculation methods for convolution calculation, pooling, normalization, and Restricted Boltzmann Machine, as well as the selection of cost functions, explains why deep learning must be deep, what characteristics are learned in deep learning, why Convolutional Neural Networks do not have to be trained layer by layer, and the limitations of deep learning, etc., and proposes the theoretical direction and basis for the further development of deep learning now and in the future. The brilliance of physics flashes in deep learning, we try to establish the deep learning technology based on the scientific theory of physics.",
+    "authors": [
+      "Dian Lei",
+      "Xiaoxiao Chen",
+      "Jianfei Zhao"
+    ],
+    "published": "2018-05-22T02:12:33Z",
+    "updated": "2018-05-22T02:12:33Z",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1805.08355v1",
+    "arxivUrl": "http://arxiv.org/abs/1805.08355v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.06085v1",
+    "title": "Differentiable programming across the PDE and Machine Learning barrier",
+    "summary": "The combination of machine learning and physical laws has shown immense potential for solving scientific problems driven by partial differential equations (PDEs) with the promise of fast inference, zero-shot generalisation, and the ability to discover new physics. Examples include the use of fundamental physical laws as inductive bias to machine learning algorithms, also referred to as physics-driven machine learning, and the application of machine learning to represent features not represented in the differential equations such as closures for unresolved spatiotemporal scales. However, the simulation of complex physical systems by coupling advanced numerics for PDEs with state-of-the-art machine learning demands the composition of specialist PDE solving frameworks with industry-standard machine learning tools. Hand-rolling either the PDE solver or the neural net will not cut it. In this work, we introduce a generic differentiable programming abstraction that provides scientists and engineers with a highly productive way of specifying end-to-end differentiable models coupling machine learning and PDE-based components, while relying on code generation for high performance. Our interface automates the coupling of arbitrary PDE-based systems and machine learning models and unlocks new applications that could not hitherto be tackled, while only requiring trivial changes to existing code. Our framework has been adopted in the Firedrake finite-element library and supports the PyTorch and JAX ecosystems, as well as downstream libraries.",
+    "authors": [
+      "Nacime Bouziani",
+      "David A. Ham",
+      "Ado Farsi"
+    ],
+    "published": "2024-09-09T21:36:38Z",
+    "updated": "2024-09-09T21:36:38Z",
+    "categories": [
+      "cs.LG",
+      "cs.MS",
+      "cs.NA",
+      "math.NA",
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2409.06085v1",
+    "arxivUrl": "http://arxiv.org/abs/2409.06085v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2211.14401v2",
+    "title": "Elements of effective machine learning datasets in astronomy",
+    "summary": "In this work, we identify elements of effective machine learning datasets in astronomy and present suggestions for their design and creation. Machine learning has become an increasingly important tool for analyzing and understanding the large-scale flood of data in astronomy. To take advantage of these tools, datasets are required for training and testing. However, building machine learning datasets for astronomy can be challenging. Astronomical data is collected from instruments built to explore science questions in a traditional fashion rather than to conduct machine learning. Thus, it is often the case that raw data, or even downstream processed data is not in a form amenable to machine learning. We explore the construction of machine learning datasets and we ask: what elements define effective machine learning datasets? We define effective machine learning datasets in astronomy to be formed with well-defined data points, structure, and metadata. We discuss why these elements are important for astronomical applications and ways to put them in practice. We posit that these qualities not only make the data suitable for machine learning, they also help to foster usable, reusable, and replicable science practices.",
+    "authors": [
+      "Bernie Boscoe",
+      "Tuan Do",
+      "Evan Jones",
+      "Yunqi Li",
+      "Kevin Alfaro",
+      "Christy Ma"
+    ],
+    "published": "2022-11-25T23:37:24Z",
+    "updated": "2022-11-29T06:25:23Z",
+    "categories": [
+      "astro-ph.IM",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2211.14401v2",
+    "arxivUrl": "http://arxiv.org/abs/2211.14401v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2006.12270v1",
+    "title": "Classification with Quantum Machine Learning: A Survey",
+    "summary": "Due to the superiority and noteworthy progress of Quantum Computing (QC) in a lot of applications such as cryptography, chemistry, Big data, machine learning, optimization, Internet of Things (IoT), Blockchain, communication, and many more. Fully towards to combine classical machine learning (ML) with Quantum Information Processing (QIP) to build a new field in the quantum world is called Quantum Machine Learning (QML) to solve and improve problems that displayed in classical machine learning (e.g. time and energy consumption, kernel estimation). The aim of this paper presents and summarizes a comprehensive survey of the state-of-the-art advances in Quantum Machine Learning (QML). Especially, recent QML classification works. Also, we cover about 30 publications that are published lately in Quantum Machine Learning (QML). we propose a classification scheme in the quantum world and discuss encoding methods for mapping classical data to quantum data. Then, we provide quantum subroutines and some methods of Quantum Computing (QC) in improving performance and speed up of classical Machine Learning (ML). And also some of QML applications in various fields, challenges, and future vision will be presented.",
+    "authors": [
+      "Zainab Abohashima",
+      "Mohamed Elhosen",
+      "Essam H. Houssein",
+      "Waleed M. Mohamed"
+    ],
+    "published": "2020-06-22T14:05:31Z",
+    "updated": "2020-06-22T14:05:31Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2006.12270v1",
+    "arxivUrl": "http://arxiv.org/abs/2006.12270v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2101.12097v1",
+    "title": "Adversarial Machine Learning Attacks on Condition-Based Maintenance   Capabilities",
+    "summary": "Condition-based maintenance (CBM) strategies exploit machine learning models to assess the health status of systems based on the collected data from the physical environment, while machine learning models are vulnerable to adversarial attacks. A malicious adversary can manipulate the collected data to deceive the machine learning model and affect the CBM system's performance. Adversarial machine learning techniques introduced in the computer vision domain can be used to make stealthy attacks on CBM systems by adding perturbation to data to confuse trained models. The stealthy nature causes difficulty and delay in detection of the attacks. In this paper, adversarial machine learning in the domain of CBM is introduced. A case study shows how adversarial machine learning can be used to attack CBM capabilities. Adversarial samples are crafted using the Fast Gradient Sign method, and the performance of a CBM system under attack is investigated. The obtained results reveal that CBM systems are vulnerable to adversarial machine learning attacks and defense strategies need to be considered.",
+    "authors": [
+      "Hamidreza Habibollahi Najaf Abadi"
+    ],
+    "published": "2021-01-28T16:34:04Z",
+    "updated": "2021-01-28T16:34:04Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CR"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2101.12097v1",
+    "arxivUrl": "http://arxiv.org/abs/2101.12097v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2005.08582v2",
+    "title": "Quantum Machine Learning in High Energy Physics",
+    "summary": "Machine learning has been used in high energy physics for a long time, primarily at the analysis level with supervised classification. Quantum computing was postulated in the early 1980s as way to perform computations that would not be tractable with a classical computer. With the advent of noisy intermediate-scale quantum computing devices, more quantum algorithms are being developed with the aim at exploiting the capacity of the hardware for machine learning applications. An interesting question is whether there are ways to apply quantum machine learning to High Energy Physics. This paper reviews the first generation of ideas that use quantum machine learning on problems in high energy physics and provide an outlook on future applications.",
+    "authors": [
+      "Wen Guan",
+      "Gabriel Perdue",
+      "Arthur Pesah",
+      "Maria Schuld",
+      "Koji Terashi",
+      "Sofia Vallecorsa",
+      "Jean-Roch Vlimant"
+    ],
+    "published": "2020-05-18T10:48:39Z",
+    "updated": "2020-10-19T14:39:29Z",
+    "categories": [
+      "quant-ph",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2005.08582v2",
+    "arxivUrl": "http://arxiv.org/abs/2005.08582v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2209.00628v2",
+    "title": "Monotonic Gaussian process for physics-constrained machine learning with   materials science applications",
+    "summary": "Physics-constrained machine learning is emerging as an important topic in the field of machine learning for physics. One of the most significant advantages of incorporating physics constraints into machine learning methods is that the resulting model requires significantly less data to train. By incorporating physical rules into the machine learning formulation itself, the predictions are expected to be physically plausible. Gaussian process (GP) is perhaps one of the most common methods in machine learning for small datasets. In this paper, we investigate the possibility of constraining a GP formulation with monotonicity on three different material datasets, where one experimental and two computational datasets are used. The monotonic GP is compared against the regular GP, where a significant reduction in the posterior variance is observed. The monotonic GP is strictly monotonic in the interpolation regime, but in the extrapolation regime, the monotonic effect starts fading away as one goes beyond the training dataset. Imposing monotonicity on the GP comes at a small accuracy cost, compared to the regular GP. The monotonic GP is perhaps most useful in applications where data is scarce and noisy, and monotonicity is supported by strong physical evidence.",
+    "authors": [
+      "Anh Tran",
+      "Kathryn Maupin",
+      "Theron Rodgers"
+    ],
+    "published": "2022-08-31T14:43:50Z",
+    "updated": "2022-09-06T13:43:24Z",
+    "categories": [
+      "cs.LG",
+      "cond-mat.mtrl-sci",
+      "stat.AP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2209.00628v2",
+    "arxivUrl": "http://arxiv.org/abs/2209.00628v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.21339v1",
+    "title": "Machine Learning and Quantum Intelligence for Health Data Scenarios",
+    "summary": "The advent of quantum computing has opened new possibilities in data science, offering unique capabilities for addressing complex, data-intensive problems. Traditional machine learning algorithms often face challenges in high-dimensional or limited-quality datasets, which are common in healthcare. Quantum Machine Learning leverages quantum properties, such as superposition and entanglement, to enhance pattern recognition and classification, potentially surpassing classical approaches. This paper explores QML's application in healthcare, focusing on quantum kernel methods and hybrid quantum-classical networks for heart disease prediction and COVID-19 detection, assessing their feasibility and performance.",
+    "authors": [
+      "Sanjeev Naguleswaran"
+    ],
+    "published": "2024-10-28T01:04:43Z",
+    "updated": "2024-10-28T01:04:43Z",
+    "categories": [
+      "quant-ph",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2410.21339v1",
+    "arxivUrl": "http://arxiv.org/abs/2410.21339v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2106.12974v2",
+    "title": "Tensor networks for unsupervised machine learning",
+    "summary": "Modeling the joint distribution of high-dimensional data is a central task in unsupervised machine learning. In recent years, many interests have been attracted to developing learning models based on tensor networks, which have the advantages of a principle understanding of the expressive power using entanglement properties, and as a bridge connecting classical computation and quantum computation. Despite the great potential, however, existing tensor network models for unsupervised machine learning only work as a proof of principle, as their performance is much worse than the standard models such as restricted Boltzmann machines and neural networks. In this Letter, we present autoregressive matrix product states (AMPS), a tensor network model combining matrix product states from quantum many-body physics and autoregressive modeling from machine learning. Our model enjoys the exact calculation of normalized probability and unbiased sampling. We demonstrate the performance of our model using two applications, generative modeling on synthetic and real-world data, and reinforcement learning in statistical physics. Using extensive numerical experiments, we show that the proposed model significantly outperforms the existing tensor network models and the restricted Boltzmann machines, and is competitive with state-of-the-art neural network models.",
+    "authors": [
+      "Jing Liu",
+      "Sujie Li",
+      "Jiang Zhang",
+      "Pan Zhang"
+    ],
+    "published": "2021-06-24T12:51:00Z",
+    "updated": "2023-02-01T02:10:03Z",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cs.LG",
+      "quant-ph",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2106.12974v2",
+    "arxivUrl": "http://arxiv.org/abs/2106.12974v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2105.04130v1",
+    "title": "Boltzmann machines as two-dimensional tensor networks",
+    "summary": "Restricted Boltzmann machines (RBM) and deep Boltzmann machines (DBM) are important models in machine learning, and recently found numerous applications in quantum many-body physics. We show that there are fundamental connections between them and tensor networks. In particular, we demonstrate that any RBM and DBM can be exactly represented as a two-dimensional tensor network. This representation gives an understanding of the expressive power of RBM and DBM using entanglement structures of the tensor networks, also provides an efficient tensor network contraction algorithm for the computing partition function of RBM and DBM. Using numerical experiments, we demonstrate that the proposed algorithm is much more accurate than the state-of-the-art machine learning methods in estimating the partition function of restricted Boltzmann machines and deep Boltzmann machines, and have potential applications in training deep Boltzmann machines for general machine learning tasks.",
+    "authors": [
+      "Sujie Li",
+      "Feng Pan",
+      "Pengfei Zhou",
+      "Pan Zhang"
+    ],
+    "published": "2021-05-10T06:14:49Z",
+    "updated": "2021-05-10T06:14:49Z",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cs.LG",
+      "physics.comp-ph",
+      "quant-ph",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2105.04130v1",
+    "arxivUrl": "http://arxiv.org/abs/2105.04130v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2307.09862v1",
+    "title": "Towards a population-informed approach to the definition of data-driven   models for structural dynamics",
+    "summary": "Machine learning has affected the way in which many phenomena for various domains are modelled, one of these domains being that of structural dynamics. However, because machine-learning algorithms are problem-specific, they often fail to perform efficiently in cases of data scarcity. To deal with such issues, combination of physics-based approaches and machine learning algorithms have been developed. Although such methods are effective, they also require the analyser's understanding of the underlying physics of the problem. The current work is aimed at motivating the use of models which learn such relationships from a population of phenomena, whose underlying physics are similar. The development of such models is motivated by the way that physics-based models, and more specifically finite element models, work. Such models are considered transferrable, explainable and trustworthy, attributes which are not trivially imposed or achieved for machine-learning models. For this reason, machine-learning approaches are less trusted by industry and often considered more difficult to form validated models. To achieve such data-driven models, a population-based scheme is followed here and two different machine-learning algorithms from the meta-learning domain are used. The two algorithms are the model-agnostic meta-learning (MAML) algorithm and the conditional neural processes (CNP) model. The algorithms seem to perform as intended and outperform a traditional machine-learning algorithm at approximating the quantities of interest. Moreover, they exhibit behaviour similar to traditional machine learning algorithms (e.g. neural networks or Gaussian processes), concerning their performance as a function of the available structures in the training population.",
+    "authors": [
+      "G. Tsialiamanis",
+      "N. Dervilis",
+      "D. J. Wagg",
+      "K. Worden"
+    ],
+    "published": "2023-07-19T09:45:41Z",
+    "updated": "2023-07-19T09:45:41Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "eess.SP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2307.09862v1",
+    "arxivUrl": "http://arxiv.org/abs/2307.09862v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2005.14139v1",
+    "title": "Machine learning and excited-state molecular dynamics",
+    "summary": "Machine learning is employed at an increasing rate in the research field of quantum chemistry. While the majority of approaches target the investigation of chemical systems in their electronic ground state, the inclusion of light into the processes leads to electronically excited states and gives rise to several new challenges. Here, we survey recent advances for excited-state dynamics based on machine learning. In doing so, we highlight successes, pitfalls, challenges and future avenues for machine learning approaches for light-induced molecular processes.",
+    "authors": [
+      "Julia Westermayr",
+      "Philipp Marquetand"
+    ],
+    "published": "2020-05-28T16:43:18Z",
+    "updated": "2020-05-28T16:43:18Z",
+    "categories": [
+      "physics.chem-ph",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2005.14139v1",
+    "arxivUrl": "http://arxiv.org/abs/2005.14139v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2011.04890v1",
+    "title": "Quantum reservoir computing: a reservoir approach toward quantum machine   learning on near-term quantum devices",
+    "summary": "Quantum systems have an exponentially large degree of freedom in the number of particles and hence provide a rich dynamics that could not be simulated on conventional computers. Quantum reservoir computing is an approach to use such a complex and rich dynamics on the quantum systems as it is for temporal machine learning. In this chapter, we explain quantum reservoir computing and related approaches, quantum extreme learning machine and quantum circuit learning, starting from a pedagogical introduction to quantum mechanics and machine learning. All these quantum machine learning approaches are experimentally feasible and effective on the state-of-the-art quantum devices.",
+    "authors": [
+      "Keisuke Fujii",
+      "Kohei Nakajima"
+    ],
+    "published": "2020-11-10T04:45:52Z",
+    "updated": "2020-11-10T04:45:52Z",
+    "categories": [
+      "quant-ph",
+      "nlin.AO"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2011.04890v1",
+    "arxivUrl": "http://arxiv.org/abs/2011.04890v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2412.01393v2",
+    "title": "Machine Learning Analysis of Anomalous Diffusion",
+    "summary": "The rapid advancements in machine learning have made its application to anomalous diffusion analysis both essential and inevitable. This review systematically introduces the integration of machine learning techniques for enhanced analysis of anomalous diffusion, focusing on two pivotal aspects: single trajectory characterization via machine learning and representation learning of anomalous diffusion. We extensively compare various machine learning methods, including both classical machine learning and deep learning, used for the inference of diffusion parameters and trajectory segmentation. Additionally, platforms such as the Anomalous Diffusion Challenge that serve as benchmarks for evaluating these methods are highlighted. On the other hand, we outline three primary strategies for representing anomalous diffusion: the combination of predefined features, the feature vector from the penultimate layer of neural network, and the latent representation from the autoencoder, analyzing their applicability across various scenarios. This investigation paves the way for future research, offering valuable perspectives that can further enrich the study of anomalous diffusion and advance the application of artificial intelligence in statistical physics and biophysics.",
+    "authors": [
+      "Wenjie Cai",
+      "Yi Hu",
+      "Xiang Qu",
+      "Hui Zhao",
+      "Gongyi Wang",
+      "Jing Li",
+      "Zihan Huang"
+    ],
+    "published": "2024-12-02T11:27:26Z",
+    "updated": "2025-03-30T04:37:48Z",
+    "categories": [
+      "cs.LG",
+      "cond-mat.soft",
+      "physics.bio-ph",
+      "physics.data-an"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2412.01393v2",
+    "arxivUrl": "http://arxiv.org/abs/2412.01393v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2303.06871v3",
+    "title": "Physics-driven machine learning models coupling PyTorch and Firedrake",
+    "summary": "Partial differential equations (PDEs) are central to describing and modelling complex physical systems that arise in many disciplines across science and engineering. However, in many realistic applications PDE modelling provides an incomplete description of the physics of interest. PDE-based machine learning techniques are designed to address this limitation. In this approach, the PDE is used as an inductive bias enabling the coupled model to rely on fundamental physical laws while requiring less training data. The deployment of high-performance simulations coupling PDEs and machine learning to complex problems necessitates the composition of capabilities provided by machine learning and PDE-based frameworks. We present a simple yet effective coupling between the machine learning framework PyTorch and the PDE system Firedrake that provides researchers, engineers and domain specialists with a high productive way of specifying coupled models while only requiring trivial changes to existing code.",
+    "authors": [
+      "Nacime Bouziani",
+      "David A. Ham"
+    ],
+    "published": "2023-03-13T05:42:58Z",
+    "updated": "2023-04-01T12:05:32Z",
+    "categories": [
+      "cs.LG",
+      "cs.MS",
+      "cs.NA",
+      "math.NA",
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2303.06871v3",
+    "arxivUrl": "http://arxiv.org/abs/2303.06871v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/1903.10563v2",
+    "title": "Machine learning and the physical sciences",
+    "summary": "Machine learning encompasses a broad range of algorithms and modeling tools used for a vast array of data processing tasks, which has entered most scientific disciplines in recent years. We review in a selective way the recent research on the interface between machine learning and physical sciences. This includes conceptual developments in machine learning (ML) motivated by physical insights, applications of machine learning techniques to several domains in physics, and cross-fertilization between the two fields. After giving basic notion of machine learning methods and principles, we describe examples of how statistical physics is used to understand methods in ML. We then move to describe applications of ML methods in particle physics and cosmology, quantum many body physics, quantum computing, and chemical and material physics. We also highlight research and development into novel computing architectures aimed at accelerating ML. In each of the sections we describe recent successes as well as domain-specific methodology and challenges.",
+    "authors": [
+      "Giuseppe Carleo",
+      "Ignacio Cirac",
+      "Kyle Cranmer",
+      "Laurent Daudet",
+      "Maria Schuld",
+      "Naftali Tishby",
+      "Leslie Vogt-Maranto",
+      "Lenka Zdeborová"
+    ],
+    "published": "2019-03-25T19:34:24Z",
+    "updated": "2019-12-06T15:50:33Z",
+    "categories": [
+      "physics.comp-ph",
+      "astro-ph.CO",
+      "cond-mat.dis-nn",
+      "hep-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1903.10563v2",
+    "arxivUrl": "http://arxiv.org/abs/1903.10563v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.10761v1",
+    "title": "Physics-Informed Machine Learning for Smart Additive Manufacturing",
+    "summary": "Compared to physics-based computational manufacturing, data-driven models such as machine learning (ML) are alternative approaches to achieve smart manufacturing. However, the data-driven ML's \"black box\" nature has presented a challenge to interpreting its outcomes. On the other hand, governing physical laws are not effectively utilized to develop data-efficient ML algorithms. To leverage the advantages of ML and physical laws of advanced manufacturing, this paper focuses on the development of a physics-informed machine learning (PIML) model by integrating neural networks and physical laws to improve model accuracy, transparency, and generalization with case studies in laser metal deposition (LMD).",
+    "authors": [
+      "Rahul Sharma",
+      "Maziar Raissi",
+      "Y. B. Guo"
+    ],
+    "published": "2024-07-15T14:40:24Z",
+    "updated": "2024-07-15T14:40:24Z",
+    "categories": [
+      "cs.LG",
+      "cs.CE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2407.10761v1",
+    "arxivUrl": "http://arxiv.org/abs/2407.10761v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2201.09345v2",
+    "title": "Machine Learning Symmetry",
+    "summary": "We review recent work in machine learning aspects of conformal field theory and Lie algebra representation theory using neural networks.",
+    "authors": [
+      "Shailesh Lal"
+    ],
+    "published": "2022-01-23T19:09:22Z",
+    "updated": "2022-01-29T13:57:32Z",
+    "categories": [
+      "hep-th",
+      "math-ph",
+      "math.MP",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2201.09345v2",
+    "arxivUrl": "http://arxiv.org/abs/2201.09345v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1702.08586v1",
+    "title": "Can Boltzmann Machines Discover Cluster Updates ?",
+    "summary": "Boltzmann machines are physics informed generative models with wide applications in machine learning. They can learn the probability distribution from an input dataset and generate new samples accordingly. Applying them back to physics, the Boltzmann machines are ideal recommender systems to accelerate Monte Carlo simulation of physical systems due to their flexibility and effectiveness. More intriguingly, we show that the generative sampling of the Boltzmann Machines can even discover unknown cluster Monte Carlo algorithms. The creative power comes from the latent representation of the Boltzmann machines, which learn to mediate complex interactions and identify clusters of the physical system. We demonstrate these findings with concrete examples of the classical Ising model with and without four spin plaquette interactions. Our results endorse a fresh research paradigm where intelligent machines are designed to create or inspire human discovery of innovative algorithms.",
+    "authors": [
+      "Lei Wang"
+    ],
+    "published": "2017-02-28T00:39:04Z",
+    "updated": "2017-02-28T00:39:04Z",
+    "categories": [
+      "physics.comp-ph",
+      "cond-mat.stat-mech",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1702.08586v1",
+    "arxivUrl": "http://arxiv.org/abs/1702.08586v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1808.09856v1",
+    "title": "Application of Machine Learning in Rock Facies Classification with   Physics-Motivated Feature Augmentation",
+    "summary": "With recent progress in algorithms and the availability of massive amounts of computation power, application of machine learning techniques is becoming a hot topic in the oil and gas industry. One of the most promising aspects to apply machine learning to the upstream field is the rock facies classification in reservoir characterization, which is crucial in determining the net pay thickness of reservoirs, thus a definitive factor in drilling decision making process. For complex machine learning tasks like facies classification, feature engineering is often critical. This paper shows the inclusion of physics-motivated feature interaction in feature augmentation can further improve the capability of machine learning in rock facies classification. We demonstrate this approach with the SEG 2016 machine learning contest dataset and the top winning algorithms. The improvement is roboust and can be $\\sim5\\%$ better than current existing best F-1 score, where F-1 is an evaluation metric used to quantify average prediction accuracy.",
+    "authors": [
+      "Jie Chen",
+      "Yu Zeng"
+    ],
+    "published": "2018-08-29T14:43:12Z",
+    "updated": "2018-08-29T14:43:12Z",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "physics.geo-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1808.09856v1",
+    "arxivUrl": "http://arxiv.org/abs/1808.09856v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2406.19750v1",
+    "title": "Guest Editorial: Special Topic on Software for Atomistic Machine   Learning",
+    "summary": "A survey of the contributions to the Journal of Chemical Physics' Special Topic on Software for Atomistic Machine Learning.",
+    "authors": [
+      "Matthias Rupp",
+      "Emine Küçükbenli",
+      "Gábor Csányi"
+    ],
+    "published": "2024-06-28T08:48:44Z",
+    "updated": "2024-06-28T08:48:44Z",
+    "categories": [
+      "physics.chem-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2406.19750v1",
+    "arxivUrl": "http://arxiv.org/abs/2406.19750v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.05507v1",
+    "title": "Structural Constraints for Physics-augmented Learning",
+    "summary": "When the physics is wrong, physics-informed machine learning becomes physics-misinformed machine learning. A powerful black-box model should not be able to conceal misconceived physics. We propose two criteria that can be used to assert integrity that a hybrid (physics plus black-box) model: 0) the black-box model should be unable to replicate the physical model, and 1) any best-fit hybrid model has the same physical parameter as a best-fit standalone physics model. We demonstrate them for a sample nonlinear mechanical system approximated by its small-signal linearization.",
+    "authors": [
+      "Simon Kuang",
+      "Xinfan Lin"
+    ],
+    "published": "2024-10-07T21:25:49Z",
+    "updated": "2024-10-07T21:25:49Z",
+    "categories": [
+      "cs.LG",
+      "cs.SY",
+      "eess.SY"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2410.05507v1",
+    "arxivUrl": "http://arxiv.org/abs/2410.05507v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1711.02038v1",
+    "title": "An efficient quantum algorithm for generative machine learning",
+    "summary": "A central task in the field of quantum computing is to find applications where quantum computer could provide exponential speedup over any classical computer. Machine learning represents an important field with broad applications where quantum computer may offer significant speedup. Several quantum algorithms for discriminative machine learning have been found based on efficient solving of linear algebraic problems, with potential exponential speedup in runtime under the assumption of effective input from a quantum random access memory. In machine learning, generative models represent another large class which is widely used for both supervised and unsupervised learning. Here, we propose an efficient quantum algorithm for machine learning based on a quantum generative model. We prove that our proposed model is exponentially more powerful to represent probability distributions compared with classical generative models and has exponential speedup in training and inference at least for some instances under a reasonable assumption in computational complexity theory. Our result opens a new direction for quantum machine learning and offers a remarkable example in which a quantum algorithm shows exponential improvement over any classical algorithm in an important application field.",
+    "authors": [
+      "Xun Gao",
+      "Zhengyu Zhang",
+      "Luming Duan"
+    ],
+    "published": "2017-11-06T17:44:03Z",
+    "updated": "2017-11-06T17:44:03Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1711.02038v1",
+    "arxivUrl": "http://arxiv.org/abs/1711.02038v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2402.14694v1",
+    "title": "A Quick Introduction to Quantum Machine Learning for Non-Practitioners",
+    "summary": "This paper provides an introduction to quantum machine learning, exploring the potential benefits of using quantum computing principles and algorithms that may improve upon classical machine learning approaches. Quantum computing utilizes particles governed by quantum mechanics for computational purposes, leveraging properties like superposition and entanglement for information representation and manipulation. Quantum machine learning applies these principles to enhance classical machine learning models, potentially reducing network size and training time on quantum hardware. The paper covers basic quantum mechanics principles, including superposition, phase space, and entanglement, and introduces the concept of quantum gates that exploit these properties. It also reviews classical deep learning concepts, such as artificial neural networks, gradient descent, and backpropagation, before delving into trainable quantum circuits as neural networks. An example problem demonstrates the potential advantages of quantum neural networks, and the appendices provide detailed derivations. The paper aims to help researchers new to quantum mechanics and machine learning develop their expertise more efficiently.",
+    "authors": [
+      "Ethan N. Evans",
+      "Dominic Byrne",
+      "Matthew G. Cook"
+    ],
+    "published": "2024-02-22T16:48:17Z",
+    "updated": "2024-02-22T16:48:17Z",
+    "categories": [
+      "quant-ph",
+      "cs.ET",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2402.14694v1",
+    "arxivUrl": "http://arxiv.org/abs/2402.14694v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2112.03769v1",
+    "title": "Machine Learning in the Search for New Fundamental Physics",
+    "summary": "Machine learning plays a crucial role in enhancing and accelerating the search for new fundamental physics. We review the state of machine learning methods and applications for new physics searches in the context of terrestrial high energy physics experiments, including the Large Hadron Collider, rare event searches, and neutrino experiments. While machine learning has a long history in these fields, the deep learning revolution (early 2010s) has yielded a qualitative shift in terms of the scope and ambition of research. These modern machine learning developments are the focus of the present review.",
+    "authors": [
+      "Georgia Karagiorgi",
+      "Gregor Kasieczka",
+      "Scott Kravitz",
+      "Benjamin Nachman",
+      "David Shih"
+    ],
+    "published": "2021-12-07T15:26:42Z",
+    "updated": "2021-12-07T15:26:42Z",
+    "categories": [
+      "hep-ph",
+      "hep-ex",
+      "physics.data-an",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2112.03769v1",
+    "arxivUrl": "http://arxiv.org/abs/2112.03769v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2303.12626v2",
+    "title": "Machine Learning in Physics and Geometry",
+    "summary": "We survey some recent applications of machine learning to problems in geometry and theoretical physics. Pure mathematical data has been compiled over the last few decades by the community and experiments in supervised, semi-supervised and unsupervised machine learning have found surprising success. We thus advocate the programme of machine learning mathematical structures, and formulating conjectures via pattern recognition, in other words using artificial intelligence to help one do mathematics.   This is an invited chapter contribution to Elsevier's Handbook of Statistics, Volume 49: Artificial Intelligence edited by S.~G.~Krantz, A.~S.~R.~Srinivasa Rao, and C.~R.~Rao.",
+    "authors": [
+      "Yang-Hui He",
+      "Elli Heyes",
+      "Edward Hirst"
+    ],
+    "published": "2023-03-22T15:04:01Z",
+    "updated": "2023-03-30T13:36:25Z",
+    "categories": [
+      "hep-th",
+      "math-ph",
+      "math.AG",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2303.12626v2",
+    "arxivUrl": "http://arxiv.org/abs/2303.12626v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2304.02381v2",
+    "title": "Physics-Inspired Interpretability Of Machine Learning Models",
+    "summary": "The ability to explain decisions made by machine learning models remains one of the most significant hurdles towards widespread adoption of AI in highly sensitive areas such as medicine, cybersecurity or autonomous driving. Great interest exists in understanding which features of the input data prompt model decision making. In this contribution, we propose a novel approach to identify relevant features of the input data, inspired by methods from the energy landscapes field, developed in the physical sciences. By identifying conserved weights within groups of minima of the loss landscapes, we can identify the drivers of model decision making. Analogues to this idea exist in the molecular sciences, where coordinate invariants or order parameters are employed to identify critical features of a molecule. However, no such approach exists for machine learning loss landscapes. We will demonstrate the applicability of energy landscape methods to machine learning models and give examples, both synthetic and from the real world, for how these methods can help to make models more interpretable.",
+    "authors": [
+      "Maximilian P Niroomand",
+      "David J Wales"
+    ],
+    "published": "2023-04-05T11:35:17Z",
+    "updated": "2024-12-15T17:17:01Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2304.02381v2",
+    "arxivUrl": "http://arxiv.org/abs/2304.02381v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2007.07383v3",
+    "title": "Supervised learning from noisy observations: Combining machine-learning   techniques with data assimilation",
+    "summary": "Data-driven prediction and physics-agnostic machine-learning methods have attracted increased interest in recent years achieving forecast horizons going well beyond those to be expected for chaotic dynamical systems. In a separate strand of research data-assimilation has been successfully used to optimally combine forecast models and their inherent uncertainty with incoming noisy observations. The key idea in our work here is to achieve increased forecast capabilities by judiciously combining machine-learning algorithms and data assimilation. We combine the physics-agnostic data-driven approach of random feature maps as a forecast model within an ensemble Kalman filter data assimilation procedure. The machine-learning model is learned sequentially by incorporating incoming noisy observations. We show that the obtained forecast model has remarkably good forecast skill while being computationally cheap once trained. Going beyond the task of forecasting, we show that our method can be used to generate reliable ensembles for probabilistic forecasting as well as to learn effective model closure in multi-scale systems.",
+    "authors": [
+      "Georg A. Gottwald",
+      "Sebastian Reich"
+    ],
+    "published": "2020-07-14T22:29:37Z",
+    "updated": "2021-03-08T11:45:38Z",
+    "categories": [
+      "physics.data-an",
+      "cs.LG",
+      "physics.comp-ph",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2007.07383v3",
+    "arxivUrl": "http://arxiv.org/abs/2007.07383v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2109.13901v1",
+    "title": "Physics-Augmented Learning: A New Paradigm Beyond Physics-Informed   Learning",
+    "summary": "Integrating physical inductive biases into machine learning can improve model generalizability. We generalize the successful paradigm of physics-informed learning (PIL) into a more general framework that also includes what we term physics-augmented learning (PAL). PIL and PAL complement each other by handling discriminative and generative properties, respectively. In numerical experiments, we show that PAL performs well on examples where PIL is inapplicable or inefficient.",
+    "authors": [
+      "Ziming Liu",
+      "Yunyue Chen",
+      "Yuanqi Du",
+      "Max Tegmark"
+    ],
+    "published": "2021-09-28T17:53:32Z",
+    "updated": "2021-09-28T17:53:32Z",
+    "categories": [
+      "cs.LG",
+      "physics.class-ph",
+      "physics.comp-ph",
+      "physics.data-an"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2109.13901v1",
+    "arxivUrl": "http://arxiv.org/abs/2109.13901v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1901.09323v1",
+    "title": "Prediction of Silicate Glasses' Stiffness by High-Throughput Molecular   Dynamics Simulations and Machine Learning",
+    "summary": "The development by machine learning of models predicting materials' properties usually requires the use of a large number of consistent data for training. However, quality experimental datasets are not always available or self-consistent. Here, as an alternative route, we combine machine learning with high-throughput molecular dynamics simulations to predict the Young's modulus of silicate glasses. We demonstrate that this combined approach offers excellent predictions over the entire compositional domain. By comparing the performance of select machine learning algorithms, we discuss the nature of the balance between accuracy, simplicity, and interpretability in machine learning.",
+    "authors": [
+      "Kai Yang",
+      "Xinyi Xu",
+      "Benjamin Yang",
+      "Brian Cook",
+      "Herbert Ramos",
+      "Mathieu Bauchy"
+    ],
+    "published": "2019-01-27T05:37:49Z",
+    "updated": "2019-01-27T05:37:49Z",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn",
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1901.09323v1",
+    "arxivUrl": "http://arxiv.org/abs/1901.09323v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1907.09764v1",
+    "title": "Trees and Islands -- Machine learning approach to nuclear physics",
+    "summary": "We implement machine learning algorithms to nuclear data. These algorithms are purely data driven and generate models that are capable to capture intricate trends. Gradient boosted trees algorithm is employed to generate a trained model from existing nuclear data, which is used for prediction for data of damping parameter, shell correction energies, quadrupole deformation, pairing gaps, level densities and giant dipole resonance for large number of nuclei. We, in particular, predict level density parameter for superheavy elements which is of great current interest. The predictions made by the machine learning algorithm is found to have standard deviation from 0.00035 to 0.73.",
+    "authors": [
+      "Nishchal R. Dwivedi"
+    ],
+    "published": "2019-07-23T08:54:01Z",
+    "updated": "2019-07-23T08:54:01Z",
+    "categories": [
+      "nucl-th",
+      "cs.LG",
+      "nucl-ex",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1907.09764v1",
+    "arxivUrl": "http://arxiv.org/abs/1907.09764v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1910.08842v1",
+    "title": "Machine Learning for AC Optimal Power Flow",
+    "summary": "We explore machine learning methods for AC Optimal Powerflow (ACOPF) - the task of optimizing power generation in a transmission network according while respecting physical and engineering constraints. We present two formulations of ACOPF as a machine learning problem: 1) an end-to-end prediction task where we directly predict the optimal generator settings, and 2) a constraint prediction task where we predict the set of active constraints in the optimal solution. We validate these approaches on two benchmark grids.",
+    "authors": [
+      "Neel Guha",
+      "Zhecheng Wang",
+      "Matt Wytock",
+      "Arun Majumdar"
+    ],
+    "published": "2019-10-19T20:47:13Z",
+    "updated": "2019-10-19T20:47:13Z",
+    "categories": [
+      "cs.LG",
+      "eess.SP",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1910.08842v1",
+    "arxivUrl": "http://arxiv.org/abs/1910.08842v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1910.13827v1",
+    "title": "Predicting Rainfall using Machine Learning Techniques",
+    "summary": "Rainfall prediction is one of the challenging and uncertain tasks which has a significant impact on human society. Timely and accurate predictions can help to proactively reduce human and financial loss. This study presents a set of experiments which involve the use of prevalent machine learning techniques to build models to predict whether it is going to rain tomorrow or not based on weather data for that particular day in major cities of Australia. This comparative study is conducted concentrating on three aspects: modeling inputs, modeling methods, and pre-processing techniques. The results provide a comparison of various evaluation metrics of these machine learning techniques and their reliability to predict the rainfall by analyzing the weather data.",
+    "authors": [
+      "Nikhil Oswal"
+    ],
+    "published": "2019-10-29T01:42:15Z",
+    "updated": "2019-10-29T01:42:15Z",
+    "categories": [
+      "cs.LG",
+      "physics.ao-ph",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1910.13827v1",
+    "arxivUrl": "http://arxiv.org/abs/1910.13827v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2001.06597v1",
+    "title": "Machine Learning in Quantitative PET Imaging",
+    "summary": "This paper reviewed the machine learning-based studies for quantitative positron emission tomography (PET). Specifically, we summarized the recent developments of machine learning-based methods in PET attenuation correction and low-count PET reconstruction by listing and comparing the proposed methods, study designs and reported performances of the current published studies with brief discussion on representative studies. The contributions and challenges among the reviewed studies were summarized and highlighted in the discussion part followed by.",
+    "authors": [
+      "Tonghe Wang",
+      "Yang Lei",
+      "Yabo Fu",
+      "Walter J. Curran",
+      "Tian Liu",
+      "Xiaofeng Yang"
+    ],
+    "published": "2020-01-18T04:35:59Z",
+    "updated": "2020-01-18T04:35:59Z",
+    "categories": [
+      "eess.IV",
+      "cs.LG",
+      "physics.med-ph",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2001.06597v1",
+    "arxivUrl": "http://arxiv.org/abs/2001.06597v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2112.05554v1",
+    "title": "Using Machine Learning to Find New Density Functionals",
+    "summary": "Machine learning has now become an integral part of research and innovation. The field of machine learning density functional theory has continuously expanded over the years while making several noticeable advances. We briefly discuss the status of this field and point out some current and future challenges. We also talk about how state-of-the-art science and technology tools can help overcome these challenges. This draft is a part of the \"Roadmap on Machine Learning in Electronic Structure\" to be published in Electronic Structure (EST).",
+    "authors": [
+      "Bhupalee Kalita",
+      "Kieron Burke"
+    ],
+    "published": "2021-12-04T00:49:26Z",
+    "updated": "2021-12-04T00:49:26Z",
+    "categories": [
+      "physics.chem-ph",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2112.05554v1",
+    "arxivUrl": "http://arxiv.org/abs/2112.05554v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2302.00105v2",
+    "title": "Fourier series weight in quantum machine learning",
+    "summary": "In this work, we aim to confirm the impact of the Fourier series on the quantum machine learning model. We will propose models, tests, and demonstrations to achieve this objective. We designed a quantum machine learning leveraged on the Hamiltonian encoding. With a subtle change, we performed the trigonometric interpolation, binary and multiclass classifier, and a quantum signal processing application. We also proposed a block diagram of determining approximately the Fourier coefficient based on quantum machine learning. We performed and tested all the proposed models using the Pennylane framework.",
+    "authors": [
+      "Parfait Atchade-Adelomou",
+      "Kent Larson"
+    ],
+    "published": "2023-01-31T21:12:09Z",
+    "updated": "2024-02-26T17:24:29Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2302.00105v2",
+    "arxivUrl": "http://arxiv.org/abs/2302.00105v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.19011v1",
+    "title": "Identification and Mitigating Bias in Quantum Machine Learning",
+    "summary": "As quantum machine learning (QML) emerges as a promising field at the intersection of quantum computing and artificial intelligence, it becomes crucial to address the biases and challenges that arise from the unique nature of quantum systems. This research includes work on identification, diagnosis, and response to biases in Quantum Machine Learning. This paper aims to provide an overview of three key topics: How does bias unique to Quantum Machine Learning look? Why and how can it occur? What can and should be done about it?",
+    "authors": [
+      "Nandhini Swaminathan",
+      "David Danks"
+    ],
+    "published": "2024-09-23T21:31:16Z",
+    "updated": "2024-09-23T21:31:16Z",
+    "categories": [
+      "quant-ph",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2409.19011v1",
+    "arxivUrl": "http://arxiv.org/abs/2409.19011v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.10908v2",
+    "title": "The State of Julia for Scientific Machine Learning",
+    "summary": "Julia has been heralded as a potential successor to Python for scientific machine learning and numerical computing, boasting ergonomic and performance improvements. Since Julia's inception in 2012 and declaration of language goals in 2017, its ecosystem and language-level features have grown tremendously. In this paper, we take a modern look at Julia's features and ecosystem, assess the current state of the language, and discuss its viability and pitfalls as a replacement for Python as the de-facto scientific machine learning language. We call for the community to address Julia's language-level issues that are preventing further adoption.",
+    "authors": [
+      "Edward Berman",
+      "Jacob Ginesin"
+    ],
+    "published": "2024-10-14T01:43:23Z",
+    "updated": "2024-12-20T08:17:23Z",
+    "categories": [
+      "cs.LG",
+      "cs.MS",
+      "cs.PL"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2410.10908v2",
+    "arxivUrl": "http://arxiv.org/abs/2410.10908v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1903.07378v1",
+    "title": "On-line learning dynamics of ReLU neural networks using statistical   physics techniques",
+    "summary": "We introduce exact macroscopic on-line learning dynamics of two-layer neural networks with ReLU units in the form of a system of differential equations, using techniques borrowed from statistical physics. For the first experiments, numerical solutions reveal similar behavior compared to sigmoidal activation researched in earlier work. In these experiments the theoretical results show good correspondence with simulations. In ove-rrealizable and unrealizable learning scenarios, the learning behavior of ReLU networks shows distinctive characteristics compared to sigmoidal networks.",
+    "authors": [
+      "Michiel Straat",
+      "Michael Biehl"
+    ],
+    "published": "2019-03-18T12:09:36Z",
+    "updated": "2019-03-18T12:09:36Z",
+    "categories": [
+      "cs.LG",
+      "cond-mat.dis-nn",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1903.07378v1",
+    "arxivUrl": "http://arxiv.org/abs/1903.07378v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2009.09719v2",
+    "title": "A Survey on Machine Learning Applied to Dynamic Physical Systems",
+    "summary": "This survey is on recent advancements in the intersection of physical modeling and machine learning. We focus on the modeling of nonlinear systems which are closer to electric motors. Survey on motor control and fault detection in operation of electric motors has been done.",
+    "authors": [
+      "Sagar Verma"
+    ],
+    "published": "2020-09-21T09:41:54Z",
+    "updated": "2020-09-28T13:27:14Z",
+    "categories": [
+      "cs.LG",
+      "cs.NE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2009.09719v2",
+    "arxivUrl": "http://arxiv.org/abs/2009.09719v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2205.01591v2",
+    "title": "Machine learning and density functional theory",
+    "summary": "Over the past decade machine learning has made significant advances in approximating density functionals, but whether this signals the end of human-designed functionals remains to be seen. Ryan Pederson, Bhupalee Kalita and Kieron Burke discuss the rise of machine learning for functional design.",
+    "authors": [
+      "Ryan Pederson",
+      "Bhupalee Kalita",
+      "Kieron Burke"
+    ],
+    "published": "2022-05-03T16:15:22Z",
+    "updated": "2022-05-22T18:29:25Z",
+    "categories": [
+      "physics.comp-ph",
+      "cond-mat.str-el",
+      "physics.chem-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2205.01591v2",
+    "arxivUrl": "http://arxiv.org/abs/2205.01591v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2501.14813v1",
+    "title": "Dissertation Machine Learning in Materials Science -- A case study in   Carbon Nanotube field effect transistors",
+    "summary": "In this thesis, I explored the use of several machine learning techniques, including neural networks, simulation-based inference, and generative flow networks, on predicting CNTFETs performance, probing the conductivity properties of CNT network, and generating CNTFETs processing information for target performance.",
+    "authors": [
+      "Shulin Tan"
+    ],
+    "published": "2025-01-19T01:58:45Z",
+    "updated": "2025-01-19T01:58:45Z",
+    "categories": [
+      "physics.app-ph",
+      "cond-mat.mes-hall",
+      "cs.LG",
+      "physics.data-an"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2501.14813v1",
+    "arxivUrl": "http://arxiv.org/abs/2501.14813v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2103.02037v2",
+    "title": "Implementation of Quantum Machine Learning for Electronic Structure   Calculations of Periodic Systems on Quantum Computing Devices",
+    "summary": "Quantum machine learning algorithms, the extensions of machine learning to quantum regimes, are believed to be more powerful as they leverage the power of quantum properties. Quantum machine learning methods have been employed to solve quantum many-body systems and have demonstrated accurate electronic structure calculations of lattice models, molecular systems, and recently periodic systems. A hybrid approach using restricted Boltzmann machines and a quantum algorithm to obtain the probability distribution that can be optimized classically is a promising method due to its efficiency and ease of implementation. Here we implement the benchmark test of the hybrid quantum machine learning on the IBM-Q quantum computer to calculate the electronic structure of typical 2-dimensional crystal structures: hexagonal-Boron Nitride and graphene. The band structures of these systems calculated using the hybrid quantum machine learning are in good agreement with those obtained by the conventional electronic structure calculation. This benchmark result implies that the hybrid quantum machine learning, empowered by quantum computers, could provide a new way of calculating the electronic structures of quantum many-body systems.",
+    "authors": [
+      "Shree Hari Sureshbabu",
+      "Manas Sajjan",
+      "Sangchul Oh",
+      "Sabre Kais"
+    ],
+    "published": "2021-03-02T21:30:20Z",
+    "updated": "2021-05-28T22:20:00Z",
+    "categories": [
+      "physics.comp-ph",
+      "cond-mat.mtrl-sci",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2103.02037v2",
+    "arxivUrl": "http://arxiv.org/abs/2103.02037v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1911.08603v1",
+    "title": "Forbidden knowledge in machine learning -- Reflections on the limits of   research and publication",
+    "summary": "Certain research strands can yield \"forbidden knowledge\". This term refers to knowledge that is considered too sensitive, dangerous or taboo to be produced or shared. Discourses about such publication restrictions are already entrenched in scientific fields like IT security, synthetic biology or nuclear physics research. This paper makes the case for transferring this discourse to machine learning research. Some machine learning applications can very easily be misused and unfold harmful consequences, for instance with regard to generative video or text synthesis, personality analysis, behavior manipulation, software vulnerability detection and the like. Up to now, the machine learning research community embraces the idea of open access. However, this is opposed to precautionary efforts to prevent the malicious use of machine learning applications. Information about or from such applications may, if improperly disclosed, cause harm to people, organizations or whole societies. Hence, the goal of this work is to outline norms that can help to decide whether and when the dissemination of such information should be prevented. It proposes review parameters for the machine learning community to establish an ethical framework on how to deal with forbidden knowledge and dual-use applications.",
+    "authors": [
+      "Thilo Hagendorff"
+    ],
+    "published": "2019-11-19T21:43:06Z",
+    "updated": "2019-11-19T21:43:06Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CY",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1911.08603v1",
+    "arxivUrl": "http://arxiv.org/abs/1911.08603v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2411.09403v1",
+    "title": "Quantum Machine Learning: An Interplay Between Quantum Computing and   Machine Learning",
+    "summary": "Quantum machine learning (QML) is a rapidly growing field that combines quantum computing principles with traditional machine learning. It seeks to revolutionize machine learning by harnessing the unique capabilities of quantum mechanics and employs machine learning techniques to advance quantum computing research. This paper introduces quantum computing for the machine learning paradigm, where variational quantum circuits (VQC) are used to develop QML architectures on noisy intermediate-scale quantum (NISQ) devices. We discuss machine learning for the quantum computing paradigm, showcasing our recent theoretical and empirical findings. In particular, we delve into future directions for studying QML, exploring the potential industrial impacts of QML research.",
+    "authors": [
+      "Jun Qi",
+      "Chao-Han Yang",
+      "Samuel Yen-Chi Chen",
+      "Pin-Yu Chen"
+    ],
+    "published": "2024-11-14T12:27:50Z",
+    "updated": "2024-11-14T12:27:50Z",
+    "categories": [
+      "quant-ph",
+      "cs.AI"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2411.09403v1",
+    "arxivUrl": "http://arxiv.org/abs/2411.09403v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2112.02655v2",
+    "title": "Quantum Machine Learning for Radio Astronomy",
+    "summary": "In this work we introduce a novel approach to the pulsar classification problem in time-domain radio astronomy using a Born machine, often referred to as a quantum neural network. Using a single-qubit architecture, we show that the pulsar classification problem maps well to the Bloch sphere and that comparable accuracies to more classical machine learning approaches are achievable. We introduce a novel single-qubit encoding for the pulsar data used in this work and show that this performs comparably to a multi-qubit QAOA encoding.",
+    "authors": [
+      "Mohammad Kordzanganeh",
+      "Aydin Utting",
+      "Anna Scaife"
+    ],
+    "published": "2021-12-05T19:05:08Z",
+    "updated": "2021-12-09T20:42:20Z",
+    "categories": [
+      "quant-ph",
+      "astro-ph.HE",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2112.02655v2",
+    "arxivUrl": "http://arxiv.org/abs/2112.02655v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2003.00039v1",
+    "title": "Unsupervised Machine Learning of Quenched Gauge Symmetries: A   Proof-of-Concept Demonstration",
+    "summary": "In condensed matter physics, one of the goals of machine learning is the classification of phases of matter. The consideration of a system's symmetries can significantly assist the machine in this goal. We demonstrate the ability of an unsupervised machine learning protocol, the Principal Component Analysis method, to detect hidden quenched gauge symmetries introduced via the so-called Mattis gauge transformation. Our work reveals that unsupervised machine learning can identify hidden properties of a model and may therefore provide new insights into the models themselves.",
+    "authors": [
+      "Daniel Lozano-Gómez",
+      "Darren Pereira",
+      "Michel J. P. Gingras"
+    ],
+    "published": "2020-02-28T19:45:11Z",
+    "updated": "2020-02-28T19:45:11Z",
+    "categories": [
+      "cond-mat.dis-nn",
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2003.00039v1",
+    "arxivUrl": "http://arxiv.org/abs/2003.00039v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1907.00429v2",
+    "title": "Machine Learning for Intelligent Authentication in 5G-and-Beyond   Wireless Networks",
+    "summary": "The fifth generation (5G) and beyond wireless networks are critical to support diverse vertical applications by connecting heterogeneous devices and machines, which directly increase vulnerability for various spoofing attacks. Conventional cryptographic and physical layer authentication techniques are facing some challenges in complex dynamic wireless environments, including significant security overhead, low reliability, as well as difficulty in pre-designing authentication model, providing continuous protections, and learning time-varying attributes. In this article, we envision new authentication approaches based on machine learning techniques by opportunistically leveraging physical layer attributes, and introduce intelligence to authentication for more efficient security provisioning. Machine learning paradigms for intelligent authentication design are presented, namely for parametric/non-parametric and supervised/unsupervised/reinforcement learning algorithms. In a nutshell, the machine learning-based intelligent authentication approaches utilize specific features in the multi-dimensional domain for achieving cost-effective, more reliable, model-free, continuous and situation-aware device validation under unknown network conditions and unpredictable dynamics.",
+    "authors": [
+      "He Fang",
+      "Xianbin Wang",
+      "Stefano Tomasin"
+    ],
+    "published": "2019-06-30T18:36:26Z",
+    "updated": "2019-07-28T00:25:21Z",
+    "categories": [
+      "cs.CR",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1907.00429v2",
+    "arxivUrl": "http://arxiv.org/abs/1907.00429v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2204.00887v2",
+    "title": "Dimensionless machine learning: Imposing exact units equivariance",
+    "summary": "Units equivariance (or units covariance) is the exact symmetry that follows from the requirement that relationships among measured quantities of physics relevance must obey self-consistent dimensional scalings. Here, we express this symmetry in terms of a (non-compact) group action, and we employ dimensional analysis and ideas from equivariant machine learning to provide a methodology for exactly units-equivariant machine learning: For any given learning task, we first construct a dimensionless version of its inputs using classic results from dimensional analysis, and then perform inference in the dimensionless space. Our approach can be used to impose units equivariance across a broad range of machine learning methods which are equivariant to rotations and other groups. We discuss the in-sample and out-of-sample prediction accuracy gains one can obtain in contexts like symbolic regression and emulation, where symmetry is important. We illustrate our approach with simple numerical examples involving dynamical systems in physics and ecology.",
+    "authors": [
+      "Soledad Villar",
+      "Weichi Yao",
+      "David W. Hogg",
+      "Ben Blum-Smith",
+      "Bianca Dumitrascu"
+    ],
+    "published": "2022-04-02T15:46:20Z",
+    "updated": "2022-12-31T15:08:35Z",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "physics.data-an"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2204.00887v2",
+    "arxivUrl": "http://arxiv.org/abs/2204.00887v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2009.12783v2",
+    "title": "Machine Learning in Event-Triggered Control: Recent Advances and Open   Issues",
+    "summary": "Networked control systems have gained considerable attention over the last decade as a result of the trend towards decentralised control applications and the emergence of cyber-physical system applications. However, real-world wireless networked control systems suffer from limited communication bandwidths, reliability issues, and a lack of awareness of network dynamics due to the complex nature of wireless networks. Combining machine learning and event-triggered control has the potential to alleviate some of these issues. For example, machine learning can be used to overcome the problem of a lack of network models by learning system behavior or adapting to dynamically changing models by continuously learning model dynamics. Event-triggered control can help to conserve communication bandwidth by transmitting control information only when necessary or when resources are available. The purpose of this article is to conduct a review of the literature on the use of machine learning in combination with event-triggered control. Machine learning techniques such as statistical learning, neural networks, and reinforcement learning-based approaches such as deep reinforcement learning are being investigated in combination with event-triggered control. We discuss how these learning algorithms can be used for different applications depending on the purpose of the machine learning use. Following the review and discussion of the literature, we highlight open research questions and challenges associated with machine learning-based event-triggered control and suggest potential solutions.",
+    "authors": [
+      "Leila Sedghi",
+      "Zohaib Ijaz",
+      "Md. Noor-A-Rahim",
+      "Kritchai Witheephanich",
+      "Dirk Pesch"
+    ],
+    "published": "2020-09-27T08:11:34Z",
+    "updated": "2022-08-09T06:41:35Z",
+    "categories": [
+      "eess.SY",
+      "cs.LG",
+      "cs.SY"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2009.12783v2",
+    "arxivUrl": "http://arxiv.org/abs/2009.12783v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.07632v1",
+    "title": "Learning Robust Observable to Address Noise in Quantum Machine Learning",
+    "summary": "Quantum Machine Learning (QML) has emerged as a promising field that combines the power of quantum computing with the principles of machine learning. One of the significant challenges in QML is dealing with noise in quantum systems, especially in the Noisy Intermediate-Scale Quantum (NISQ) era. Noise in quantum systems can introduce errors in quantum computations and degrade the performance of quantum algorithms. In this paper, we propose a framework for learning observables that are robust against noisy channels in quantum systems. We demonstrate that it is possible to learn observables that remain invariant under the effects of noise and show that this can be achieved through a machine-learning approach. We present a toy example using a Bell state under a depolarization channel to illustrate the concept of robust observables. We then describe a machine-learning framework for learning such observables across six two-qubit quantum circuits and five noisy channels. Our results show that it is possible to learn observables that are more robust to noise than conventional observables. We discuss the implications of this finding for quantum machine learning, including potential applications in enhancing the stability of QML models in noisy environments. By developing techniques for learning robust observables, we can improve the performance and reliability of quantum machine learning models in the presence of noise, contributing to the advancement of practical QML applications in the NISQ era.",
+    "authors": [
+      "Bikram Khanal",
+      "Pablo Rivas"
+    ],
+    "published": "2024-09-11T21:30:49Z",
+    "updated": "2024-09-11T21:30:49Z",
+    "categories": [
+      "quant-ph",
+      "cs.CC",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2409.07632v1",
+    "arxivUrl": "http://arxiv.org/abs/2409.07632v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0803.2976v2",
+    "title": "Quantum Learning Machine",
+    "summary": "We propose a novel notion of a quantum learning machine for automatically controlling quantum coherence and for developing quantum algorithms. A quantum learning machine can be trained to learn a certain task with no a priori knowledge on its algorithm. As an example, it is demonstrated that the quantum learning machine learns Deutsch's task and finds itself a quantum algorithm, that is different from but equivalent to the original one.",
+    "authors": [
+      "Jeongho Bang",
+      "James Lim",
+      "M. S. Kim",
+      "Jinhyoung Lee"
+    ],
+    "published": "2008-03-20T16:11:41Z",
+    "updated": "2008-03-31T05:41:41Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0803.2976v2",
+    "arxivUrl": "http://arxiv.org/abs/0803.2976v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2208.07017v1",
+    "title": "Prospects of federated machine learning in fluid dynamics",
+    "summary": "Physics-based models have been mainstream in fluid dynamics for developing predictive models. In recent years, machine learning has offered a renaissance to the fluid community due to the rapid developments in data science, processing units, neural network based technologies, and sensor adaptations. So far in many applications in fluid dynamics, machine learning approaches have been mostly focused on a standard process that requires centralizing the training data on a designated machine or in a data center. In this letter, we present a federated machine learning approach that enables localized clients to collaboratively learn an aggregated and shared predictive model while keeping all the training data on each edge device. We demonstrate the feasibility and prospects of such decentralized learning approach with an effort to forge a deep learning surrogate model for reconstructing spatiotemporal fields. Our results indicate that federated machine learning might be a viable tool for designing highly accurate predictive decentralized digital twins relevant to fluid dynamics.",
+    "authors": [
+      "Omer San",
+      "Suraj Pawar",
+      "Adil Rasheed"
+    ],
+    "published": "2022-08-15T06:15:04Z",
+    "updated": "2022-08-15T06:15:04Z",
+    "categories": [
+      "cs.LG",
+      "physics.flu-dyn"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2208.07017v1",
+    "arxivUrl": "http://arxiv.org/abs/2208.07017v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2412.14753v1",
+    "title": "Opportunities and limitations of explaining quantum machine learning",
+    "summary": "A common trait of many machine learning models is that it is often difficult to understand and explain what caused the model to produce the given output. While the explainability of neural networks has been an active field of research in the last years, comparably little is known for quantum machine learning models. Despite a few recent works analyzing some specific aspects of explainability, as of now there is no clear big picture perspective as to what can be expected from quantum learning models in terms of explainability. In this work, we address this issue by identifying promising research avenues in this direction and lining out the expected future results. We additionally propose two explanation methods designed specifically for quantum machine learning models, as first of their kind to the best of our knowledge. Next to our pre-view of the field, we compare both existing and novel methods to explain the predictions of quantum learning models. By studying explainability in quantum machine learning, we can contribute to the sustainable development of the field, preventing trust issues in the future.",
+    "authors": [
+      "Elies Gil-Fuster",
+      "Jonas R. Naujoks",
+      "Grégoire Montavon",
+      "Thomas Wiegand",
+      "Wojciech Samek",
+      "Jens Eisert"
+    ],
+    "published": "2024-12-19T11:34:22Z",
+    "updated": "2024-12-19T11:34:22Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2412.14753v1",
+    "arxivUrl": "http://arxiv.org/abs/2412.14753v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2103.11580v5",
+    "title": "Integrating Electrochemical Modeling with Machine Learning for   Lithium-Ion Batteries",
+    "summary": "Mathematical modeling of lithium-ion batteries (LiBs) is a central challenge in advanced battery management. This paper presents a new approach to integrate a physics-based model with machine learning to achieve high-precision modeling for LiBs. This approach uniquely proposes to inform the machine learning model of the dynamic state of the physical model, enabling a deep integration between physics and machine learning. We propose two hybrid physics-machine learning models based on the approach, which blend a single particle model with thermal dynamics (SPMT) with a feedforward neural network (FNN) to perform physics-informed learning of a LiB's dynamic behavior. The proposed models are relatively parsimonious in structure and can provide considerable predictive accuracy even at high C-rates, as shown by extensive simulations.",
+    "authors": [
+      "Hao Tu",
+      "Scott Moura",
+      "Huazhen Fang"
+    ],
+    "published": "2021-03-22T04:53:38Z",
+    "updated": "2021-07-23T04:38:04Z",
+    "categories": [
+      "eess.SY",
+      "cs.LG",
+      "cs.SY"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2103.11580v5",
+    "arxivUrl": "http://arxiv.org/abs/2103.11580v5"
+  },
+  {
+    "id": "http://arxiv.org/abs/2308.04457v1",
+    "title": "A Critical Review of Physics-Informed Machine Learning Applications in   Subsurface Energy Systems",
+    "summary": "Machine learning has emerged as a powerful tool in various fields, including computer vision, natural language processing, and speech recognition. It can unravel hidden patterns within large data sets and reveal unparalleled insights, revolutionizing many industries and disciplines. However, machine and deep learning models lack interpretability and limited domain-specific knowledge, especially in applications such as physics and engineering. Alternatively, physics-informed machine learning (PIML) techniques integrate physics principles into data-driven models. By combining deep learning with domain knowledge, PIML improves the generalization of the model, abidance by the governing physical laws, and interpretability. This paper comprehensively reviews PIML applications related to subsurface energy systems, mainly in the oil and gas industry. The review highlights the successful utilization of PIML for tasks such as seismic applications, reservoir simulation, hydrocarbons production forecasting, and intelligent decision-making in the exploration and production stages. Additionally, it demonstrates PIML's capabilities to revolutionize the oil and gas industry and other emerging areas of interest, such as carbon and hydrogen storage; and geothermal systems by providing more accurate and reliable predictions for resource management and operational efficiency.",
+    "authors": [
+      "Abdeldjalil Latrach",
+      "Mohamed Lamine Malki",
+      "Misael Morales",
+      "Mohamed Mehana",
+      "Minou Rabiei"
+    ],
+    "published": "2023-08-06T18:20:24Z",
+    "updated": "2023-08-06T18:20:24Z",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2308.04457v1",
+    "arxivUrl": "http://arxiv.org/abs/2308.04457v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2310.20425v3",
+    "title": "Discussing the Spectrum of Physics-Enhanced Machine Learning; a Survey   on Structural Mechanics Applications",
+    "summary": "The intersection of physics and machine learning has given rise to the physics-enhanced machine learning (PEML) paradigm, aiming to improve the capabilities and reduce the individual shortcomings of data- or physics-only methods. In this paper, the spectrum of physics-enhanced machine learning methods, expressed across the defining axes of physics and data, is discussed by engaging in a comprehensive exploration of its characteristics, usage, and motivations. In doing so, we present a survey of recent applications and developments of PEML techniques, revealing the potency of PEML in addressing complex challenges. We further demonstrate application of select such schemes on the simple working example of a single degree-of-freedom Duffing oscillator, which allows to highlight the individual characteristics and motivations of different `genres' of PEML approaches. To promote collaboration and transparency, and to provide practical examples for the reader, the code generating these working examples is provided alongside this paper. As a foundational contribution, this paper underscores the significance of PEML in pushing the boundaries of scientific and engineering research, underpinned by the synergy of physical insights and machine learning capabilities.",
+    "authors": [
+      "Marcus Haywood-Alexander",
+      "Wei Liu",
+      "Kiran Bacsa",
+      "Zhilu Lai",
+      "Eleni Chatzi"
+    ],
+    "published": "2023-10-31T12:50:25Z",
+    "updated": "2024-04-22T11:42:02Z",
+    "categories": [
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2310.20425v3",
+    "arxivUrl": "http://arxiv.org/abs/2310.20425v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.05898v2",
+    "title": "Simplex-enabled Safe Continual Learning Machine",
+    "summary": "This paper proposes the SeC-Learning Machine: Simplex-enabled safe continual learning for safety-critical autonomous systems. The SeC-learning machine is built on Simplex logic (that is, ``using simplicity to control complexity'') and physics-regulated deep reinforcement learning (Phy-DRL). The SeC-learning machine thus constitutes HP (high performance)-Student, HA (high assurance)-Teacher, and Coordinator. Specifically, the HP-Student is a pre-trained high-performance but not fully verified Phy-DRL, continuing to learn in a real plant to tune the action policy to be safe. In contrast, the HA-Teacher is a mission-reduced, physics-model-based, and verified design. As a complementary, HA-Teacher has two missions: backing up safety and correcting unsafe learning. The Coordinator triggers the interaction and the switch between HP-Student and HA-Teacher. Powered by the three interactive components, the SeC-learning machine can i) assure lifetime safety (i.e., safety guarantee in any continual-learning stage, regardless of HP-Student's success or convergence), ii) address the Sim2Real gap, and iii) learn to tolerate unknown unknowns in real plants. The experiments on a cart-pole system and a real quadruped robot demonstrate the distinguished features of the SeC-learning machine, compared with continual learning built on state-of-the-art safe DRL frameworks with approaches to addressing the Sim2Real gap.",
+    "authors": [
+      "Hongpeng Cao",
+      "Yanbing Mao",
+      "Yihao Cai",
+      "Lui Sha",
+      "Marco Caccamo"
+    ],
+    "published": "2024-09-05T16:03:00Z",
+    "updated": "2024-10-06T03:05:52Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2409.05898v2",
+    "arxivUrl": "http://arxiv.org/abs/2409.05898v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2105.03684v2",
+    "title": "Quantum Machine Learning For Classical Data",
+    "summary": "In this dissertation, we study the intersection of quantum computing and supervised machine learning algorithms, which means that we investigate quantum algorithms for supervised machine learning that operate on classical data. This area of research falls under the umbrella of quantum machine learning, a research area of computer science which has recently received wide attention. In particular, we investigate to what extent quantum computers can be used to accelerate supervised machine learning algorithms. The aim of this is to develop a clear understanding of the promises and limitations of the current state of the art of quantum algorithms for supervised machine learning, but also to define directions for future research in this exciting field. We start by looking at supervised quantum machine learning (QML) algorithms through the lens of statistical learning theory. In this framework, we derive novel bounds on the computational complexities of a large set of supervised QML algorithms under the requirement of optimal learning rates. Next, we give a new bound for Hamiltonian simulation of dense Hamiltonians, a major subroutine of most known supervised QML algorithms, and then derive a classical algorithm with nearly the same complexity. We then draw the parallels to recent \"quantum-inspired\" results, and will explain the implications of these results for quantum machine learning applications. Looking for areas which might bear larger advantages for QML algorithms, we finally propose a novel algorithm for Quantum Boltzmann machines, and argue that quantum algorithms for quantum data are one of the most promising applications for QML with potentially exponential advantage over classical approaches.",
+    "authors": [
+      "Leonard Wossnig"
+    ],
+    "published": "2021-05-08T12:11:44Z",
+    "updated": "2021-05-12T07:52:07Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2105.03684v2",
+    "arxivUrl": "http://arxiv.org/abs/2105.03684v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.04923v2",
+    "title": "Single-snapshot machine learning for super-resolution of turbulence",
+    "summary": "Modern machine-learning techniques are generally considered data-hungry. However, this may not be the case for turbulence as each of its snapshots can hold more information than a single data file in general machine-learning settings. This study asks the question of whether nonlinear machine-learning techniques can effectively extract physical insights even from as little as a {\\it single} snapshot of turbulent flow. As an example, we consider machine-learning-based super-resolution analysis that reconstructs a high-resolution field from low-resolution data for two examples of two-dimensional isotropic turbulence and three-dimensional turbulent channel flow. First, we reveal that a carefully designed machine-learning model trained with flow tiles sampled from only a single snapshot can reconstruct vortical structures across a range of Reynolds numbers for two-dimensional decaying turbulence. Successful flow reconstruction indicates that nonlinear machine-learning techniques can leverage scale-invariance properties to learn turbulent flows. We also show that training data of turbulent flows can be cleverly collected from a single snapshot by considering characteristics of rotation and shear tensors. Second, we perform the single-snapshot super-resolution analysis for turbulent channel flow, showing that it is possible to extract physical insights from a single flow snapshot even with inhomogeneity. The present findings suggest that embedding prior knowledge in designing a model and collecting data is important for a range of data-driven analyses for turbulent flows. More broadly, this work hopes to stop machine-learning practitioners from being wasteful with turbulent flow data.",
+    "authors": [
+      "Kai Fukami",
+      "Kunihiko Taira"
+    ],
+    "published": "2024-09-07T22:13:26Z",
+    "updated": "2024-11-23T00:43:06Z",
+    "categories": [
+      "physics.flu-dyn",
+      "cs.LG",
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2409.04923v2",
+    "arxivUrl": "http://arxiv.org/abs/2409.04923v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1902.00140v2",
+    "title": "Advances of Machine Learning in Molecular Modeling and Simulation",
+    "summary": "In this review, we highlight recent developments in the application of machine learning for molecular modeling and simulation. After giving a brief overview of the foundations, components, and workflow of a typical supervised learning approach for chemical problems, we showcase areas and state-of-the-art examples of their deployment. In this context, we discuss how machine learning relates to, supports, and augments more traditional physics-based approaches in computational research. We conclude by outlining challenges and future research directions that need to be addressed in order to make machine learning a mainstream chemical engineering tool.",
+    "authors": [
+      "Mojtaba Haghighatlari",
+      "Johannes Hachmann"
+    ],
+    "published": "2019-02-01T00:18:59Z",
+    "updated": "2019-02-20T15:56:31Z",
+    "categories": [
+      "physics.data-an",
+      "physics.comp-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1902.00140v2",
+    "arxivUrl": "http://arxiv.org/abs/1902.00140v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2103.04992v2",
+    "title": "Self-learning Machines based on Hamiltonian Echo Backpropagation",
+    "summary": "A physical self-learning machine can be defined as a nonlinear dynamical system that can be trained on data (similar to artificial neural networks), but where the update of the internal degrees of freedom that serve as learnable parameters happens autonomously. In this way, neither external processing and feedback nor knowledge of (and control of) these internal degrees of freedom is required. We introduce a general scheme for self-learning in any time-reversible Hamiltonian system. We illustrate the training of such a self-learning machine numerically for the case of coupled nonlinear wave fields.",
+    "authors": [
+      "Victor Lopez-Pastor",
+      "Florian Marquardt"
+    ],
+    "published": "2021-03-08T18:35:06Z",
+    "updated": "2023-02-07T15:09:15Z",
+    "categories": [
+      "cs.LG",
+      "nlin.AO",
+      "physics.data-an",
+      "physics.optics"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2103.04992v2",
+    "arxivUrl": "http://arxiv.org/abs/2103.04992v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2312.03057v1",
+    "title": "Advantage of Quantum Machine Learning from General Computational   Advantages",
+    "summary": "An overarching milestone of quantum machine learning (QML) is to demonstrate the advantage of QML over all possible classical learning methods in accelerating a common type of learning task as represented by supervised learning with classical data. However, the provable advantages of QML in supervised learning have been known so far only for the learning tasks designed for using the advantage of specific quantum algorithms, i.e., Shor's algorithms. Here we explicitly construct an unprecedentedly broader family of supervised learning tasks with classical data to offer the provable advantage of QML based on general quantum computational advantages, progressing beyond Shor's algorithms. Our learning task is feasibly achievable by executing a general class of functions that can be computed efficiently in polynomial time for a large fraction of inputs by arbitrary quantum algorithms but not by any classical algorithm. We prove the hardness of achieving this learning task for any possible polynomial-time classical learning method. We also clarify protocols for preparing the classical data to demonstrate this learning task in experiments. These results open routes to exploit a variety of quantum advantages in computing functions for the experimental demonstration of the advantage of QML.",
+    "authors": [
+      "Hayata Yamasaki",
+      "Natsuto Isogai",
+      "Mio Murao"
+    ],
+    "published": "2023-12-05T19:00:00Z",
+    "updated": "2023-12-05T19:00:00Z",
+    "categories": [
+      "quant-ph",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2312.03057v1",
+    "arxivUrl": "http://arxiv.org/abs/2312.03057v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1506.02510v1",
+    "title": "Learning Mixtures of Ising Models using Pseudolikelihood",
+    "summary": "Maximum pseudolikelihood method has been among the most important methods for learning parameters of statistical physics models, such as Ising models. In this paper, we study how pseudolikelihood can be derived for learning parameters of a mixture of Ising models. The performance of the proposed approach is demonstrated for Ising and Potts models on both synthetic and real data.",
+    "authors": [
+      "Onur Dikmen"
+    ],
+    "published": "2015-06-08T14:00:32Z",
+    "updated": "2015-06-08T14:00:32Z",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1506.02510v1",
+    "arxivUrl": "http://arxiv.org/abs/1506.02510v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2011.07200v1",
+    "title": "Deep Spatial Learning with Molecular Vibration",
+    "summary": "Machine learning over-fitting caused by data scarcity greatly limits the application of machine learning for molecules. Due to manufacturing processes difference, big data is not always rendered available through computational chemistry methods for some tasks, causing data scarcity problem for machine learning algorithms. Here we propose to extract the natural features of molecular structures and rationally distort them to augment the data availability. This method allows a machine learning project to leverage the powerful fit of physics-informed augmentation for providing significant boost to predictive accuracy. Successfully verified by the prediction of rejection rate and flux of thin film polyamide nanofiltration membranes, with the relative error dropping from 16.34% to 6.71% and the coefficient of determination rising from 0.16 to 0.75, the proposed deep spatial learning with molecular vibration is widely instructive for molecular science. Experimental comparison unequivocally demonstrates its superiority over common learning algorithms.",
+    "authors": [
+      "Ziyang Zhang",
+      "Yingtao Luo"
+    ],
+    "published": "2020-11-14T02:46:43Z",
+    "updated": "2020-11-14T02:46:43Z",
+    "categories": [
+      "cs.LG",
+      "physics.chem-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2011.07200v1",
+    "arxivUrl": "http://arxiv.org/abs/2011.07200v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2503.23616v1",
+    "title": "Interpretable Machine Learning in Physics: A Review",
+    "summary": "Machine learning is increasingly transforming various scientific fields, enabled by advancements in computational power and access to large data sets from experiments and simulations. As artificial intelligence (AI) continues to grow in capability, these algorithms will enable many scientific discoveries beyond human capabilities. Since the primary goal of science is to understand the world around us, fully leveraging machine learning in scientific discovery requires models that are interpretable -- allowing experts to comprehend the concepts underlying machine-learned predictions. Successful interpretations increase trust in black-box methods, help reduce errors, allow for the improvement of the underlying models, enhance human-AI collaboration, and ultimately enable fully automated scientific discoveries that remain understandable to human scientists. This review examines the role of interpretability in machine learning applied to physics. We categorize different aspects of interpretability, discuss machine learning models in terms of both interpretability and performance, and explore the philosophical implications of interpretability in scientific inquiry. Additionally, we highlight recent advances in interpretable machine learning across many subfields of physics. By bridging boundaries between disciplines -- each with its own unique insights and challenges -- we aim to establish interpretable machine learning as a core research focus in science.",
+    "authors": [
+      "Sebastian Johann Wetzel",
+      "Seungwoong Ha",
+      "Raban Iten",
+      "Miriam Klopotek",
+      "Ziming Liu"
+    ],
+    "published": "2025-03-30T22:44:40Z",
+    "updated": "2025-03-30T22:44:40Z",
+    "categories": [
+      "physics.comp-ph",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2503.23616v1",
+    "arxivUrl": "http://arxiv.org/abs/2503.23616v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2301.11257v1",
+    "title": "A Benchmark Study by using various Machine Learning Models for   Predicting Covid-19 trends",
+    "summary": "Machine learning and deep learning play vital roles in predicting diseases in the medical field. Machine learning algorithms are widely classified as supervised, unsupervised, and reinforcement learning. This paper contains a detailed description of our experimental research work in that we used a supervised machine-learning algorithm to build our model for outbreaks of the novel Coronavirus that has spread over the whole world and caused many deaths, which is one of the most disastrous Pandemics in the history of the world. The people suffered physically and economically to survive in this lockdown. This work aims to understand better how machine learning, ensemble, and deep learning models work and are implemented in the real dataset. In our work, we are going to analyze the current trend or pattern of the coronavirus and then predict the further future of the covid-19 confirmed cases or new cases by training the past Covid-19 dataset by using the machine learning algorithm such as Linear Regression, Polynomial Regression, K-nearest neighbor, Decision Tree, Support Vector Machine and Random forest algorithm are used to train the model. The decision tree and the Random Forest algorithm perform better than SVR in this work. The performance of SVR and lasso regression are low in all prediction areas Because the SVR is challenging to separate the data using the hyperplane for this type of problem. So SVR mostly gives a lower performance in this problem. Ensemble (Voting, Bagging, and Stacking) and deep learning models(ANN) also predict well. After the prediction, we evaluated the model using MAE, MSE, RMSE, and MAPE. This work aims to find the trend/pattern of the covid-19.",
+    "authors": [
+      "D. Kamelesun",
+      "R. Saranya",
+      "P. Kathiravan"
+    ],
+    "published": "2023-01-26T17:49:05Z",
+    "updated": "2023-01-26T17:49:05Z",
+    "categories": [
+      "cs.LG"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2301.11257v1",
+    "arxivUrl": "http://arxiv.org/abs/2301.11257v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2210.10418v5",
+    "title": "Physics-informed Variational Autoencoders for Improved Robustness to   Environmental Factors of Variation",
+    "summary": "The combination of machine learning models with physical models is a recent research path to learn robust data representations. In this paper, we introduce p$^3$VAE, a variational autoencoder that integrates prior physical knowledge about the latent factors of variation that are related to the data acquisition conditions. p$^3$VAE combines standard neural network layers with non-trainable physics layers in order to partially ground the latent space to physical variables. We introduce a semi-supervised learning algorithm that strikes a balance between the machine learning part and the physics part. Experiments on simulated and real data sets demonstrate the benefits of our framework against competing physics-informed and conventional machine learning models, in terms of extrapolation capabilities and interpretability. In particular, we show that p$^3$VAE naturally has interesting disentanglement capabilities. Our code and data have been made publicly available at https://github.com/Romain3Ch216/p3VAE.",
+    "authors": [
+      "Romain Thoreau",
+      "Laurent Risser",
+      "Véronique Achard",
+      "Béatrice Berthelot",
+      "Xavier Briottet"
+    ],
+    "published": "2022-10-19T09:32:15Z",
+    "updated": "2025-02-26T14:08:09Z",
+    "categories": [
+      "cs.CV",
+      "stat.ML",
+      "68T45",
+      "I.2.6; I.2.10"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2210.10418v5",
+    "arxivUrl": "http://arxiv.org/abs/2210.10418v5"
+  },
+  {
+    "id": "http://arxiv.org/abs/1901.02046v3",
+    "title": "A New Perspective on Machine Learning: How to do Perfect Supervised   Learning",
+    "summary": "In this work, we introduce the concept of bandlimiting into the theory of machine learning because all physical processes are bandlimited by nature, including real-world machine learning tasks. After the bandlimiting constraint is taken into account, our theoretical analysis has shown that all practical machine learning tasks are asymptotically solvable in a perfect sense. Furthermore, the key towards this solvability almost solely relies on two factors: i) a sufficiently large amount of training samples beyond a threshold determined by a difficulty measurement of the underlying task; ii) a sufficiently complex and bandlimited model. Moreover, for some special cases, we have derived new error bounds for perfect learning, which can quantify the difficulty of learning. These generalization bounds are not only asymptotically convergent but also irrelevant to model complexity. Our new results on generalization have provided a new perspective to explain the recent successes of large-scale supervised learning using complex models like neural networks.",
+    "authors": [
+      "Hui Jiang"
+    ],
+    "published": "2019-01-07T20:10:55Z",
+    "updated": "2019-03-19T16:40:02Z",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1901.02046v3",
+    "arxivUrl": "http://arxiv.org/abs/1901.02046v3"
+  }
+]

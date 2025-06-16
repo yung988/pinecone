@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "http://arxiv.org/abs/math-ph/0510087v1",
+    "title": "Euclidean Field Theory",
+    "summary": "A coincise review about Euclidean (Quantum) Field Theory is presented. It deals with the general structural properties, the connections with Quantum Field Theory, the exploitation in Constructive Quantum Field Theory, and the physical interpretation.",
+    "authors": [
+      "Francesco Guerra"
+    ],
+    "published": "2005-10-26T14:06:37Z",
+    "updated": "2005-10-26T14:06:37Z",
+    "categories": [
+      "math-ph",
+      "cond-mat.stat-mech",
+      "hep-th",
+      "math.MP",
+      "81T08 (Primary) 60g60, 82B05 (Secondary)"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math-ph/0510087v1",
+    "arxivUrl": "http://arxiv.org/abs/math-ph/0510087v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0706.0573v2",
+    "title": "Compounding Fields and Their Quantum Equations in the Curved Spaces",
+    "summary": "Based on the concept of curved spacetime in Einsteinian General Relativity, the field theories and their quantum theories in the curved octonion spaces etc are discussed. The research results discover the close relationships of the curved spacetimes with the field theories and quantum theories. In the field theories of curved spacetimes, the curvatures have direct effect on field strength and field source etc. While the curvatures have direct impact on wave functions and quantum equations etc in the quantum theories of curved spacetimes. The research results discover that some abnormal phenomena of field source particles could be explained by the field theories or quantum theories in the curved spacetimes.",
+    "authors": [
+      "Zihua Weng"
+    ],
+    "published": "2007-06-05T02:54:00Z",
+    "updated": "2007-09-07T11:23:46Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0706.0573v2",
+    "arxivUrl": "http://arxiv.org/abs/0706.0573v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0607027v1",
+    "title": "A Naturally Renormalized Quantum Field Theory",
+    "summary": "It was shown that quantum metric fluctuations smear out the singularities of Green's functions on the light cone [1], but it does not remove other ultraviolet divergences of quantum field theory. We have proved that the quantum field theory in Krein space, {\\it i.e.} indefinite metric quantization, removes all divergences of quantum field theory with exception of the light cone singularity [2,3]. In this paper, it is discussed that the combination of quantum field theory in Krein space together with consideration of quantum metric fluctuations, results in quantum field theory without any divergences.",
+    "authors": [
+      "S. Rouhani",
+      "M. V. Takook"
+    ],
+    "published": "2006-07-07T03:25:03Z",
+    "updated": "2006-07-07T03:25:03Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0607027v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0607027v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9910255v1",
+    "title": "Exact results on quantum field theories interpolating between pairs of   conformal field theories",
+    "summary": "I review recent results on conformal field theories in four dimensions and quantum field theories interpolating between conformal fixed points, supersymmetric and non-supersymmetric. The talk is structured in three parts: i) central charges, ii) anomalous dimensions and iii) quantum irreversibility.",
+    "authors": [
+      "D. Anselmi"
+    ],
+    "published": "1999-11-01T09:17:41Z",
+    "updated": "1999-11-01T09:17:41Z",
+    "categories": [
+      "hep-th",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9910255v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9910255v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9403170v1",
+    "title": "Models of Quantum Space Time: Quantum Field Planes",
+    "summary": "Quantum field planes furnish a noncommutative differential algebra $\\Omega$ which substitutes for the commutative algebra of functions and forms on a contractible manifold. The data required in their construction come from a quantum field theory. The basic idea is to replace the ground field ${\\bf C}$ of quantum planes by the noncommutative algebra ${\\cal A}$ of observables of the quantum field theory.",
+    "authors": [
+      "G. Mack",
+      "V. Schomerus"
+    ],
+    "published": "1994-03-28T20:14:56Z",
+    "updated": "1994-03-28T20:14:56Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9403170v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9403170v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1210.0944v1",
+    "title": "Reverse Engineering Quantum Field Theory",
+    "summary": "An approach to the foundations of quantum theory is advertised that proceeds by \"reverse engineering\" quantum field theory. As a concrete instance of this approach, the general boundary formulation of quantum theory is outlined.",
+    "authors": [
+      "Robert Oeckl"
+    ],
+    "published": "2012-10-02T23:30:39Z",
+    "updated": "2012-10-02T23:30:39Z",
+    "categories": [
+      "quant-ph",
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1210.0944v1",
+    "arxivUrl": "http://arxiv.org/abs/1210.0944v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1204.5172v1",
+    "title": "\"Einstein's Dream\" - Quantum Mechanics as Theory of Classical Random   Fields",
+    "summary": "This is an introductory chapter of the book in progress on quantum foundations and incompleteness of quantum mechanics. Quantum mechanics is represented as statistical mechanics of classical fields.",
+    "authors": [
+      "Andrei Khrennikov"
+    ],
+    "published": "2012-04-22T09:12:24Z",
+    "updated": "2012-04-22T09:12:24Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1204.5172v1",
+    "arxivUrl": "http://arxiv.org/abs/1204.5172v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9406108v1",
+    "title": "Quantum Field Theory without Divergences: Quantum Spacetime",
+    "summary": "A fundamental length is introduced into physics in a way which respects the principles of relativity and quantum field theory. This improves the properties of quantum field theory: divergences are removed. How to quantize gravity is also indicated. When the fundamental length tends to zero the present version of quantum field theory is recovered.",
+    "authors": [
+      "G. H. Gadiyar"
+    ],
+    "published": "1994-06-15T12:06:15Z",
+    "updated": "1994-06-15T12:06:15Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9406108v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9406108v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math-ph/0702094v1",
+    "title": "Maslov's complex germ and the Weyl--Moyal algebra in quantum mechanics   and in quantum field theory",
+    "summary": "The paper is a survey of some author's results related with the Maslov--Shvedov method of complex germ and with quantum field theory. The main idea is that many results of the method of complex germ and of perturbative quantum field theory can be made more simple and natural if instead of the algebra of (pseudo)differential operators one uses the Weyl algebra (operators with Weyl symbols) with the Moyal *-product. Section 1, devoted to quantum mechanics, contains a closed mathematical description of the Maslov--Shvedov method in the theory of Schrodinger equation, including the method of canonical operator. In particular, it contains a new simple definition of the Maslov index modulo 4. Section 2, devoted to quantum field theory, contains a logically self-consistent exposition of the main results of perturbative quantum field theory not using the subtraction of infinities from the quantum Hamiltonian of free field and normal ordering of operators. It also contains a result (dynamical evolution in quantum field theory in quasiclassical approximation) close to the Maslov--Shvedov quantum field theory complex germ.",
+    "authors": [
+      "A. V. Stoyanovsky"
+    ],
+    "published": "2007-02-28T14:12:58Z",
+    "updated": "2007-02-28T14:12:58Z",
+    "categories": [
+      "math-ph",
+      "hep-th",
+      "math.MP",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math-ph/0702094v1",
+    "arxivUrl": "http://arxiv.org/abs/math-ph/0702094v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1712.04669v1",
+    "title": "General Quantum Theory",
+    "summary": "Inspired by classical (\"actual\") Quantum Theory over $\\mathbb{C}$ and Modal Quantum Theory (MQT), which is a model of Quantum Theory over certain finite fields, we introduce General Quantum Theory as a Quantum Theory -- in the K{\\o}benhavn interpretation -- over general division rings with involution, in which the inner product \"is\" a $(\\sigma,1)$-Hermitian form $\\varphi$. This unites all known such approaches in one and the same theory, and we show that many of the known results such as no-cloning, no-deleting, quantum teleportation and super-dense quantum coding, which are known in classical Quantum Theory over $\\mathbb{C}$ and in some MQTs, hold for any General Quantum Theory. On the other hand, in many General Quantum Theories, a geometrical object which we call \"quantum kernel\" arises, which is invariant under the unitary group $\\mathbf{U}(V,\\varphi)$, and which carries the geometry of a so-called polar space. We use this object to construct new quantum (teleportation) coding schemes, which mix quantum theory with the geometry of the quantum kernel (and the action of the unitary group). We also show that in characteristic $0$, every General Quantum Theory over an algebraically closed field behaves like classical Quantum Theory over $\\mathbb{C}$ at many levels, and that all such theories share one model, which we pin down as the \"minimal model,\" which is countable and defined over $\\overline{\\mathbb{Q}}$. Moreover, to make the analogy with classical Quantum Theory even more striking, we show that Born's rule holds in any such theory. So all such theories are not modal at all. Finally, we obtain an extension theory for General Quantum Theories in characteristic $0$ which allows one to extend any such theory over algebraically closed fields (such as classical complex Quantum Theory) to larger theories in which a quantum kernel is present.",
+    "authors": [
+      "Koen Thas"
+    ],
+    "published": "2017-12-13T09:18:31Z",
+    "updated": "2017-12-13T09:18:31Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1712.04669v1",
+    "arxivUrl": "http://arxiv.org/abs/1712.04669v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1302.4057v2",
+    "title": "Quantum-field theories as representations of a single $^\\ast$-algebra",
+    "summary": "We show that many well-known quantum field theories emerge as representations of a single $^\\ast$-algebra. These include free quantum field theories in flat and curved space-times, lattice quantum field theories, Wightman quantum field theories, and string theories. We prove that such theories can be approximated on lattices, and we give a rigorous definition of the continuum limit of lattice quantum field theories.",
+    "authors": [
+      "Andreas Raab"
+    ],
+    "published": "2013-02-17T11:11:34Z",
+    "updated": "2013-10-19T09:01:57Z",
+    "categories": [
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1302.4057v2",
+    "arxivUrl": "http://arxiv.org/abs/1302.4057v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.12313v2",
+    "title": "Consequences of Godel Theorems on Third Quantized Theories Like String   Field Theory and Group Field Theory",
+    "summary": "The observation that spacetime and quantum fields on it have to be dynamically produced in any theory of quantum gravity implies that quantum gravity should be defined on the configuration space of fields rather than spacetime. Such a theory is described on the configuration space of fields rather than spacetime, which is a third quantized theory. So, both string theory and group field theory are third-quantized theories. Thus, using axioms of string field theory, we motivate similar axioms for group field theory. Then, using the structure of these axioms for string field theory and group field theory, we identify general features of axioms for any such third quantized theory of quantum gravity. Thus, we show that such third-quantized theories of quantum gravity can be formulated as formal axiomatic systems. We then analyze the consequences of G\\\"odel theorems on such third quantized theories. We thus address problems of consistency and completeness of any third quantized theories of quantum gravity.",
+    "authors": [
+      "Mir Faizal",
+      "Arshid Shabir",
+      "Aatif Kaisar Khan"
+    ],
+    "published": "2024-07-17T04:30:31Z",
+    "updated": "2025-01-19T08:07:41Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2407.12313v2",
+    "arxivUrl": "http://arxiv.org/abs/2407.12313v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9609091v1",
+    "title": "Quantum Groups and Quantum Field Theory in Rindler Space-Time",
+    "summary": "Quantum Field Theory (QFT) developed in Rindler space-time and its thermal properties are analyzed by means of quantum groups approach. The quantum deformation parameter, labelling the unitarily inequivalent representations, turns out to be related to the acceleration of the Rindler frame.",
+    "authors": [
+      "Gaetano Lambiase"
+    ],
+    "published": "1996-09-11T12:26:56Z",
+    "updated": "1996-09-11T12:26:56Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9609091v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9609091v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9210100v1",
+    "title": "Quantum Group Symmetries in Conformal Field Theory",
+    "summary": "Quantum groups play the role of hidden symmetries of some two-dimensional field theories. We discuss how they appear in this role in the Wess-Zumino-Witten model of conformal field theory.",
+    "authors": [
+      "Krzysztof Gawȩdzki"
+    ],
+    "published": "1992-10-19T10:24:45Z",
+    "updated": "1992-10-19T10:24:45Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9210100v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9210100v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0704.0822v6",
+    "title": "Braided quantum field theories and their symmetries",
+    "summary": "Braided quantum field theories proposed by Oeckl can provide a framework for defining quantum field theories having Hopf algebra symmetries. In quantum field theories, symmetries lead to non-perturbative relations among correlation functions. We discuss Hopf algebra symmetries and such relations in braided quantum field theories. We give the four algebraic conditions between Hopf algebra symmetries and braided quantum field theories, which are required for the relations to hold. As concrete examples, we apply our discussions to the Poincare symmetries of two examples of noncommutative field theories. One is the effective quantum field theory of three-dimensional quantum gravity coupled with spinless particles given by Freidel and Livine, and the other is noncommutative field theory on Moyal plane. We also comment on quantum field theory on kappa-Minkowski spacetime.",
+    "authors": [
+      "Yuya Sasai",
+      "Naoki Sasakura"
+    ],
+    "published": "2007-04-06T00:28:12Z",
+    "updated": "2007-08-27T05:46:56Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0704.0822v6",
+    "arxivUrl": "http://arxiv.org/abs/0704.0822v6"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/9812037v4",
+    "title": "Quantum Topology, Quantum Topodynamics, Differential Topology in Quantum   Space, Gauge Theory of Gravitation",
+    "summary": "\"Quantum Topology\" deals with the general quantum theory as the theory of the functional quantum space; space time and energy momentum forms form a connected manifold; a functional quantum space on the quantum level. The general quantum theory derives from the topology of the quantum space.   \"Quantum Topodynamics\" derives from quantum topology, it deals with the set that underlies the assumed one structure of the topology, group and logic structure of the quantum space. The underlying structure was founded on the Fourier representation of the functional space.   \"Differential Topology in Quantum Space\" deals with the method of analysis approperiate for the quantum space; based on the Fourier representation of the functional space.   \"Gauge Theory of Gravitation\" deals with gravitation as a quantum topological phenomenon; by introducing the effect of gravitation into the quantum space through a phase angle; this displays its unity with the rest of the gauge interactions and shows that the manifold is compact.",
+    "authors": [
+      "Diaa A Ahmed"
+    ],
+    "published": "1998-12-19T01:57:31Z",
+    "updated": "2001-07-03T16:41:11Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/9812037v4",
+    "arxivUrl": "http://arxiv.org/abs/physics/9812037v4"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0506243v1",
+    "title": "The de Broglie-Bohm pilot-wave interpretation of quantum theory",
+    "summary": "In this thesis we study the de Broglie-Bohm pilot-wave interpretation of quantum theory. We consider the domain of non-relativistic quantum theory, relativistic quantum theory and quantum field theory, and in each domain we consider the possibility of formulating a pilot-wave interpretation. For non-relativistic quantum theory a pilot-wave interpretation in terms of particle beables can readily be formulated. But this interpretation can in general not straightforwardly be generalized to relativistic wave equations. The problems which prevent us from devising a pilot-wave interpretation for relativistic wave equations also plague the standard quantum mechanical interpretation, where these problems led to the conception of quantum field theory. Therefore most of our attention is focussed on the construction of a pilot-wave interpretation for quantum field theory. We thereby favour the field beable approach, developed amongst others by Bohm, Hiley, Holland, Kaloyerou and Valentini. Although the field beable approach can be successfully applied to bosonic quantum field theory, it seems not straightforward to do so for fermionic quantum field theory.",
+    "authors": [
+      "W. Struyve"
+    ],
+    "published": "2005-06-28T21:14:53Z",
+    "updated": "2005-06-28T21:14:53Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0506243v1",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0506243v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0410028v1",
+    "title": "Renormalizable quantum field theory as a limit of a quantum field model   on the loop space",
+    "summary": "A nonlocal generalization of quantum field theory in which momentum space is the space of continuous maps of a circle into $\\mathbf{R}^4$ is proposed. Functional integrals in this theory are proved to exist. Renormalized quantum field model is obtained as a local limit of the proposed theory.",
+    "authors": [
+      "Yu. P. Solovyov",
+      "V. V. Belokurov",
+      "E. T. Shavgulidze"
+    ],
+    "published": "2004-10-04T14:22:05Z",
+    "updated": "2004-10-04T14:22:05Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0410028v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0410028v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9412102v1",
+    "title": "The Weinberg - Faddeev solution to the problems of quantum field theory   and quantum gravity:quantum spacetime",
+    "summary": "In this paper a fundamental length is introduced into physics. This is done in a way which respects special relativity and quantum field theory. The theory has formal similarity to quantum field theory though its properties are far better: divergences are got rid of. The problem of quantizing gravity is straightforward in the approach.",
+    "authors": [
+      "G. H. Gadiyar"
+    ],
+    "published": "1994-12-12T17:13:42Z",
+    "updated": "1994-12-12T17:13:42Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9412102v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9412102v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/q-alg/9712009v2",
+    "title": "q_R-conformal symmetries in 2D nonlocal quantum field theory,   categorical representation theory, and Virasoro algebra",
+    "summary": "The paper is devoted to the symmetry aspects of 2D nonlocal field theory, which is the simplest deformation of the conformally invariant quantum field theory with one free bosonic field. The inverse problem of representation theory is solved for $q_R$-conformal symmetries, which are infinite dimensional hidden symmetries of the field theory. There is developed a mathematical formalism based on the abstract categorical representation theory and sufficient for applications of symmetry methods to the investigation of processes of synthesis, decay and interaction of quasiparticles in the models of 2D nonlocal quantum field theory.",
+    "authors": [
+      "D. V. Juriev"
+    ],
+    "published": "1997-12-02T09:57:21Z",
+    "updated": "1998-04-18T07:20:51Z",
+    "categories": [
+      "q-alg",
+      "math.QA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/q-alg/9712009v2",
+    "arxivUrl": "http://arxiv.org/abs/q-alg/9712009v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1902.05837v1",
+    "title": "Causally neutral quantum physics",
+    "summary": "In fundamental theories that accounts for quantum gravitational effects, the spacetime causal structure is expected to be quantum uncertain. Previous studies of quantum causal structure focused on finite-dimensional systems. Here we present an algebraic framework that incorporates both finite- and infinite-dimensional systems including quantum fields. Thanks to the absence of a definite spacetime causal structure, Lagrangian quantum field theories can be studied on a quantum superposition of spacetimes with a point identification structure.",
+    "authors": [
+      "Ding Jia"
+    ],
+    "published": "2019-02-15T15:13:09Z",
+    "updated": "2019-02-15T15:13:09Z",
+    "categories": [
+      "quant-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1902.05837v1",
+    "arxivUrl": "http://arxiv.org/abs/1902.05837v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0402188v1",
+    "title": "Supersymmetry and Qubit Field Theory",
+    "summary": "Supersymmetric extension of the Deutsch's qubit field theory is presented and a new solution of quantum information paradox via anticommuting qubit-fields condensate is shown.",
+    "authors": [
+      "J. Hruby"
+    ],
+    "published": "2004-02-25T14:54:30Z",
+    "updated": "2004-02-25T14:54:30Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0402188v1",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0402188v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2301.11712v1",
+    "title": "Criticality of quantum energy teleportation at phase transition points   in quantum field theory",
+    "summary": "Quantum field theory can be a new medium for communication through quantum energy teleportation. We performed a demonstration of quantum energy teleportation with a relativistic fermionic field theory of self-coupled fermions, called the massive Thirring model. Our results reveal that there is a close relation between the amount of energy teleported and the phase diagram of the theory. In particular, it is shown that the teleported energy peaks near the phase transition points. The results provide new implications for phase diagrams of field theory in terms of quantum communication and quantum computing.",
+    "authors": [
+      "Kazuki Ikeda"
+    ],
+    "published": "2023-01-27T13:51:50Z",
+    "updated": "2023-01-27T13:51:50Z",
+    "categories": [
+      "hep-th",
+      "cond-mat.stat-mech",
+      "hep-lat",
+      "hep-ph",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2301.11712v1",
+    "arxivUrl": "http://arxiv.org/abs/2301.11712v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1705.05099v1",
+    "title": "Quantum Field Theory, Quantum Geometry, and Quantum Algebras",
+    "summary": "We demonstrate how one can see quantization of geometry, and quantum algebraic structure in supersymmetric gauge theory.",
+    "authors": [
+      "Taro Kimura"
+    ],
+    "published": "2017-05-15T07:36:48Z",
+    "updated": "2017-05-15T07:36:48Z",
+    "categories": [
+      "hep-th",
+      "math-ph",
+      "math.MP",
+      "math.QA",
+      "math.RT"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1705.05099v1",
+    "arxivUrl": "http://arxiv.org/abs/1705.05099v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0303156v2",
+    "title": "Bohmian Mechanics and Quantum Field Theory",
+    "summary": "We discuss a recently proposed extension of Bohmian mechanics to quantum field theory. For more or less any regularized quantum field theory there is a corresponding theory of particle motion, which in particular ascribes trajectories to the electrons or whatever sort of particles the quantum field theory is about. Corresponding to the nonconservation of the particle number operator in the quantum field theory, the theory describes explicit creation and annihilation events: the world lines for the particles can begin and end.",
+    "authors": [
+      "Detlef Duerr",
+      "Sheldon Goldstein",
+      "Roderich Tumulka",
+      "Nino Zanghi"
+    ],
+    "published": "2003-03-25T23:30:06Z",
+    "updated": "2004-08-24T22:51:10Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0303156v2",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0303156v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2405.05863v1",
+    "title": "A touch of quantum field theory",
+    "summary": "The overlap of Srinivasa Ramanujan's work with quantum field theory is discussed. A mathematically natural axiom for euclidean quantum field theories is proposed.",
+    "authors": [
+      "Werner Nahm"
+    ],
+    "published": "2024-05-09T15:50:35Z",
+    "updated": "2024-05-09T15:50:35Z",
+    "categories": [
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2405.05863v1",
+    "arxivUrl": "http://arxiv.org/abs/2405.05863v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2404.07912v2",
+    "title": "Quantum computation in fermionic thermal field theories",
+    "summary": "Thermal properties of quantum fields at finite temperature are crucial to understanding strongly interacting matter and recent development in quantum computing has provided an alternative and promising avenue of study. In this work, we study thermal field theories involving only fermions using quantum algorithms. We first delve into the presentations of fermion fields via qubits on digital quantum computers alongside the quantum algorithms such as quantum imaginary time evolutions employed to evaluate thermal properties of generic quantum field theories. Specifically, we show numerical results such as the thermal distribution and the energy density of thermal field theories for Majorana fermions in 1+1 dimensions using quantum simulators. In addition to free field theory, we also study the effects of interactions resulting from coupling with a spatially homogeneous Majorana field. In both cases, we show analytically that thermal properties of the system can be described using phase-space distributions, and the quantum simulation results agree with analytical and semiclassical expectations. Our work is an important step to understand thermal fixed points, preparing for quantum simulation of thermalization in real time.",
+    "authors": [
+      "Wenyang Qian",
+      "Bin Wu"
+    ],
+    "published": "2024-04-11T16:57:15Z",
+    "updated": "2024-07-16T12:18:54Z",
+    "categories": [
+      "hep-ph",
+      "hep-lat",
+      "hep-th",
+      "nucl-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2404.07912v2",
+    "arxivUrl": "http://arxiv.org/abs/2404.07912v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1805.08859v1",
+    "title": "Quantum field theory with indefinite causal structure",
+    "summary": "Quantum field theory (QFT) in classical spacetime has revealed interesting and puzzling aspects about gravitational systems, in particular black hole thermodynamics and its information processing. Although quantum gravitational effects may be relevant for a better understanding of these topics, a commonly accepted framework for studying QFT with quantum gravitational effects is missing. We present a theory for studying quantum fields in the presence of quantum indefinite causal structure. This theory incorporates quantum properties of spacetime causal structure in a model independent way, and exposes universal features of quantum spacetime which are independent of the details about its microscopic degrees of freedom (strings, loops, causal sets...).",
+    "authors": [
+      "Ding Jia"
+    ],
+    "published": "2018-05-22T20:46:48Z",
+    "updated": "2018-05-22T20:46:48Z",
+    "categories": [
+      "quant-ph",
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1805.08859v1",
+    "arxivUrl": "http://arxiv.org/abs/1805.08859v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109023v1",
+    "title": "On quantum group symmetries of conformal field theories",
+    "summary": "The appearance of quantum groups in conformal field theories is traced back to the Poisson-Lie symmetries of the classical chiral theory. A geometric quantization of the classical theory deforms the Poisson-Lie symmetries to the quantum group ones. This elucidates the fundamental role of chiral symmetries that quantum groups play in conformal models. As a byproduct, one obtains a more geometric approach to the representation theory of quantum groups.",
+    "authors": [
+      "Fernando Falceto",
+      "Krzysztof Gawedzki"
+    ],
+    "published": "1991-09-12T21:58:11Z",
+    "updated": "1991-09-12T21:58:11Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9109023v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9109023v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1512.04766v1",
+    "title": "Stress energy tensor renormalization for a spherically symmetric massive   scalar field on a quantum space-time",
+    "summary": "We consider a massive scalar field living on the recently found exact quantum space-time corresponding to vacuum spherically symmetric loop quantum gravity. The discreteness of the quantum space time naturally regularizes the scalar field, eliminating divergences. However, the resulting finite theory depends on the details of the micro physics. We argue that such dependence can be eliminated through a finite renormalization and discuss its nature. This is an example of how quantum field theories on quantum space times deal with the issues of divergences in quantum field theories.",
+    "authors": [
+      "Nahuel Barrios",
+      "Rodolfo Gambini",
+      "Jorge Pullin"
+    ],
+    "published": "2015-12-15T12:53:17Z",
+    "updated": "2015-12-15T12:53:17Z",
+    "categories": [
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1512.04766v1",
+    "arxivUrl": "http://arxiv.org/abs/1512.04766v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2104.01596v3",
+    "title": "Systems Theory of Classical and Quantum Fields and Applications to   Quantum Computing and Control",
+    "summary": "We explore a field theoretical approach to quantum computing and control. This book consists of three parts. The basics of systems theory and field theory are reviewed in Part I. In Part II, a gauge theory is reinterpreted from a systems theoretical perspective and applied to the formulation of quantum gates. Then quantum systems are defined by introducing feedback to the gates. In Part III, quantum gates and systems are reformulated from a quantum field theoretical perspective using S-matrices. We also discuss how gauge fields are related to feedback.",
+    "authors": [
+      "M. Yanagisawa"
+    ],
+    "published": "2021-04-04T12:13:21Z",
+    "updated": "2021-12-25T07:32:46Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2104.01596v3",
+    "arxivUrl": "http://arxiv.org/abs/2104.01596v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9910259v1",
+    "title": "Equilibrium and Non-equilibrium Quantum Field Theory",
+    "summary": "We concern with various aspects of equilibrium and non-equilibrium quantum field theory.",
+    "authors": [
+      "Petr Jizba"
+    ],
+    "published": "1999-11-01T00:03:21Z",
+    "updated": "1999-11-01T00:03:21Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9910259v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9910259v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0409035v1",
+    "title": "Quantum Field Theory: Spin Zero",
+    "summary": "This is a draft version of Part I of a three-part textbook on quantum field theory.",
+    "authors": [
+      "Mark Srednicki"
+    ],
+    "published": "2004-09-02T22:33:51Z",
+    "updated": "2004-09-02T22:33:51Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0409035v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0409035v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0409036v1",
+    "title": "Quantum Field Theory: Spin One Half",
+    "summary": "This is a draft version of Part II of a three-part textbook on quantum field theory.",
+    "authors": [
+      "Mark Srednicki"
+    ],
+    "published": "2004-09-02T22:39:17Z",
+    "updated": "2004-09-02T22:39:17Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0409036v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0409036v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2211.10349v1",
+    "title": "Ultraviolet finite non-local Hamiltonian perturbation Quantum Field   Theories and their weak adiabatic limit",
+    "summary": "The non-local quantum field theories attract interest in the mathematical and physical community as candidates for effective description of the reality taking into account the quantum gravity effects. The standard methods, developed for the conventional local quantum field theories, often are not applicable. In this paper the Hamiltonian approach, originally proposed for quantization of the non-local effective theory inspired by non-commutative geometry of the Doplicher-Fredenhagen-Roberts Quantum Spacetime, is generalized to a large class of ultraviolet finite non-local Hamiltonian perturbative Quantum Field Theories. General properties of such theories are discussed. The weak adiabatic limit existence is proved for the whole class of theories.",
+    "authors": [
+      "Aleksei Bykov"
+    ],
+    "published": "2022-11-18T16:54:54Z",
+    "updated": "2022-11-18T16:54:54Z",
+    "categories": [
+      "math-ph",
+      "hep-th",
+      "math.MP",
+      "math.OA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2211.10349v1",
+    "arxivUrl": "http://arxiv.org/abs/2211.10349v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0401208v1",
+    "title": "The difference between Dirac's hole theory and quantum field theory",
+    "summary": "Dirac's hole theory and quantum field theory are generally thought to be equivalent. In fact field theory can be derived from hole theory through the process of second quantization. However, it can be shown that problems worked in both theories yield different results. The reason for the difference between the two theories will be examined and the effect the this difference has on the way calculations are done in quantum theory will be examined.",
+    "authors": [
+      "Dan Solomon"
+    ],
+    "published": "2004-01-27T14:12:04Z",
+    "updated": "2004-01-27T14:12:04Z",
+    "categories": [
+      "hep-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0401208v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0401208v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1902.02811v1",
+    "title": "Classical and quantum integrable sigma models. Ricci flow, \"nice   duality\" and perturbed rational conformal field theories",
+    "summary": "We consider classical and quantum integrable sigma models and their relations with the solutions of renormalization group equations. We say that an integrable sigma model possesses the \"nice\" duality property if the dual quantum field theory has the weak coupling region. As an example, we consider the deformed $CP(n-1)$ sigma model with additional quantum degrees of freedom. We formulate the dual integrable field theory and use perturbed conformal field theory, perturbation theory, $S$-matrix, Bethe Ansatz and renormalization group methods to show that this field theory has the \"nice\" duality property. We consider also an alternative approach to the analysis of sigma models on the deformed symmetric spaces, based on the perturbed rational conformal field theories.",
+    "authors": [
+      "Vladimir Fateev"
+    ],
+    "published": "2019-02-07T19:28:05Z",
+    "updated": "2019-02-07T19:28:05Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1902.02811v1",
+    "arxivUrl": "http://arxiv.org/abs/1902.02811v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1503.07814v1",
+    "title": "Perturbative Construction of Models of Algebraic Quantum Field Theory",
+    "summary": "We review the construction of models of algebraic quantum field theory by renormalized perturbation theory.",
+    "authors": [
+      "Klaus Fredenhagen",
+      "Katarzyna Rejzner"
+    ],
+    "published": "2015-03-26T18:28:24Z",
+    "updated": "2015-03-26T18:28:24Z",
+    "categories": [
+      "math-ph",
+      "gr-qc",
+      "hep-th",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1503.07814v1",
+    "arxivUrl": "http://arxiv.org/abs/1503.07814v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0206135v1",
+    "title": "Quantum Field Theory and Representation Theory: A Sketch",
+    "summary": "A sketch is given of a circle of ideas relating quantum field theories with representation theory. The main mathematical ingredients are spinor geometry and the gauge group equivariant K-theory of the space of connections.",
+    "authors": [
+      "Peter Woit"
+    ],
+    "published": "2002-06-17T13:27:09Z",
+    "updated": "2002-06-17T13:27:09Z",
+    "categories": [
+      "hep-th",
+      "math.RT"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0206135v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0206135v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1005.1268v2",
+    "title": "Holographic quantum states",
+    "summary": "We show how continuous matrix product states of quantum field theories can be described in terms of the dissipative non-equilibrium dynamics of a lower-dimensional auxiliary boundary field theory. We demonstrate that the spatial correlation functions of the bulk field can be brought into one-to-one correspondence with the temporal statistics of the quantum jumps of the boundary field. This equivalence: (1) illustrates an intimate connection between the theory of continuous quantum measurement and quantum field theory; (2) gives an explicit construction of the boundary field theory allowing the extension of real-space renormalization group methods to arbitrary dimensional quantum field theories without the introduction of a lattice parameter; and (3) yields a novel interpretation of recent cavity QED experiments in terms of quantum field theory, and hence paves the way toward observing genuine quantum phase transitions in such zero-dimensional driven quantum systems.",
+    "authors": [
+      "Tobias J. Osborne",
+      "Jens Eisert",
+      "Frank Verstraete"
+    ],
+    "published": "2010-05-07T18:00:21Z",
+    "updated": "2010-05-12T19:44:21Z",
+    "categories": [
+      "quant-ph",
+      "cond-mat.str-el",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1005.1268v2",
+    "arxivUrl": "http://arxiv.org/abs/1005.1268v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0109145v4",
+    "title": "Gauge Theory of Gravity",
+    "summary": "The quantum gravity is formulated based on principle of local gauge invariance. The model discussed in this paper has local gravitational gauge symmetry and gravitational field appears as gauge field. The problems on quantization and renormalization of the theory are also discussed in this paper. In leading order approximation, the gravitational gauge field theory gives out classical Newton's theory of gravity. In first order approximation and for vacuum, the gravitational gauge field theory gives out Einstein's general theory of relativity. This quantum gauge theory of gravity is a renormalizable quantum theory.",
+    "authors": [
+      "Ning Wu"
+    ],
+    "published": "2001-09-19T12:14:50Z",
+    "updated": "2001-10-30T01:20:42Z",
+    "categories": [
+      "hep-th",
+      "astro-ph",
+      "gr-qc",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0109145v4",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0109145v4"
+  },
+  {
+    "id": "http://arxiv.org/abs/1408.6991v1",
+    "title": "Feedback Network Models for Quantum Transport",
+    "summary": "Quantum feedback networks have been introduced in quantum optics as a set of rules for constructing arbitrary networks of quantum mechanical systems connected by uni-directional quantum optical fields, and has allowed for a system theoretic approach to open quantum optics systems. Our aim here is to establish a network theory for quantum transport systems where typically the mediating fields between systems are bi-directional. Mathematically this leads us to study quantum feedback networks where fields arrive at ports in input-output pairs, which is then just a specially case of the uni-directional theory. However, it is conceptually important to develop this theory in the context of quantum transport theory, and the resulting theory extends traditional approaches which tends to view the components in quantum transport as scatterers for the various fields, in the process allows us to consider emission and absorption of field quanta by these components. The quantum feedback network theory is applicable to both Bose and Fermi fields, moreover it applies to nonlinear dynamics for the component systems. In this first paper on the subject, we advance the general theory, but study the case of linear passive quantum components in some detail.",
+    "authors": [
+      "John E. Gough"
+    ],
+    "published": "2014-08-29T12:12:04Z",
+    "updated": "2014-08-29T12:12:04Z",
+    "categories": [
+      "quant-ph",
+      "cond-mat.mes-hall"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1408.6991v1",
+    "arxivUrl": "http://arxiv.org/abs/1408.6991v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/0302332v1",
+    "title": "Open and Closed String field theory interpreted in classical Algebraic   Topology",
+    "summary": "There is an interpretation of open string field theory in algebraic topology. An interpretation of closed string field theory can be deduced from this open string theory to obtain as well the interpretation of open and closed string field theory combined.",
+    "authors": [
+      "Dennis Sullivan"
+    ],
+    "published": "2003-02-26T18:35:18Z",
+    "updated": "2003-02-26T18:35:18Z",
+    "categories": [
+      "math.QA",
+      "math.GT"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math/0302332v1",
+    "arxivUrl": "http://arxiv.org/abs/math/0302332v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0003003v1",
+    "title": "A Quantum field theory of dyons",
+    "summary": "We construct a classical field theory action which upon quantization via the functional integral approach, gives rise to a consistent Dirac-string independent quantum field theory. The approach entails a systematic derivation of the correlators of all gauge invariant observables, and also of charged dyonic fields. Manifest SO(2)-duality invariance and Lorentz invariance are ensured by the PST-approach.",
+    "authors": [
+      "Kurt Lechner"
+    ],
+    "published": "2000-03-01T18:37:29Z",
+    "updated": "2000-03-01T18:37:29Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0003003v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0003003v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1711.08468v1",
+    "title": "Background Independence of Closed Superstring Field Theory",
+    "summary": "Given a family of world-sheet superconformal field theories related by marginal deformation, we can formulate superstring field theory based on any of these world-sheet theories. Background independence is the statement that these different superstring field theories are related to each other by field redefinition. We prove background independence of closed superstring field theory.",
+    "authors": [
+      "Ashoke Sen"
+    ],
+    "published": "2017-11-22T19:00:09Z",
+    "updated": "2017-11-22T19:00:09Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1711.08468v1",
+    "arxivUrl": "http://arxiv.org/abs/1711.08468v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0405082v1",
+    "title": "Quantum Field Theory Is Not Merely Quantum Mechanics Applied to Low   Energy Effective Degrees of Freedom",
+    "summary": "It is commonly assumed that quantum field theory arises by applying ordinary quantum mechanics to the low energy effective degrees of freedom of a more fundamental theory defined at ultra-high-energy/short-wavelength scales. We shall argue here that, even for free quantum fields, there are holistic aspects of quantum field theory that cannot be properly understood in this manner. Specifically, the ``subtractions'' needed to define nonlinear polynomial functions of a free quantum field in curved spacetime are quite simple and natural from the quantum field theoretic point of view, but are at best extremely ad hoc and unnatural if viewed as independent renormalizations of individual modes of the field. We illustrate this point by contrasting the analysis of the Casimir effect, the renormalization of the stress-energy tensor in time-dependent spacetimes, and anomalies from the point of quantum field theory and from the point of view of quantum mechanics applied to the independent low energy modes of the field. Some implications for the cosmological constant problem are discussed.",
+    "authors": [
+      "Stefan Hollands",
+      "Robert M. Wald"
+    ],
+    "published": "2004-05-16T13:56:04Z",
+    "updated": "2004-05-16T13:56:04Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0405082v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0405082v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1105.0194v1",
+    "title": "From Quantum Gravity to Quantum Field Theory via Noncommutative Geometry",
+    "summary": "A link between canonical quantum gravity and fermionic quantum field theory is established in this paper. From a spectral triple construction which encodes the kinematics of quantum gravity semi-classical states are constructed which, in a semi-classical limit, give a system of interacting fermions in an ambient gravitational field. The interaction involves flux tubes of the gravitational field. In the additional limit where all gravitational degrees of freedom are turned off, a free fermionic quantum field theory emerges.",
+    "authors": [
+      "Johannes Aastrup",
+      "Jesper M. Grimstrup"
+    ],
+    "published": "2011-05-01T19:32:52Z",
+    "updated": "2011-05-01T19:32:52Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1105.0194v1",
+    "arxivUrl": "http://arxiv.org/abs/1105.0194v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1209.3511v1",
+    "title": "The effective field theory treatment of quantum gravity",
+    "summary": "This is a pedagogical introduction to the treatment of quantum general relativity as an effective field theory. It starts with an overview of the methods of effective field theory and includes an explicit example. Quantum general relativity matches this framework and I discuss gravitational examples as well as the limits of the effective field theory. I also discuss the insights from effective field theory on the gravitational effects on running couplings in the perturbative regime.",
+    "authors": [
+      "John F. Donoghue"
+    ],
+    "published": "2012-09-16T18:28:38Z",
+    "updated": "2012-09-16T18:28:38Z",
+    "categories": [
+      "gr-qc",
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1209.3511v1",
+    "arxivUrl": "http://arxiv.org/abs/1209.3511v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1811.10141v1",
+    "title": "Toy Models for Quantum Field Theory",
+    "summary": "In order to better understand quantum field theory we present some toy models on finite dimensional Hilbert spaces. We discuss how these models converge to a discrete spacetime version of quantum field theory. We first define toy fermion, boson and mixed fermion-boson free quantum fields. The free fields are employed to form what we consider to be the simplest examples of interacting fields which we then use to construct Hamiltonian densities. Scattering operators are defined in terms of these densities and are employed to construct scattering probabilities. Although our definition of a scattering operator is not the usual \"second-quantization\" definition we believe it is simpler and more natural. Emphasis is placed on finding the eigenstructures of toy quantum fields.",
+    "authors": [
+      "Stan Gudder"
+    ],
+    "published": "2018-11-26T01:47:29Z",
+    "updated": "2018-11-26T01:47:29Z",
+    "categories": [
+      "quant-ph",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1811.10141v1",
+    "arxivUrl": "http://arxiv.org/abs/1811.10141v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0611080v1",
+    "title": "A new proposal for group field theory I: the 3d case",
+    "summary": "In this series of papers, we propose a new rendition of 3d and 4d state sum models based upon the group field theory (GFT) approach to non-perturbative quantum gravity. We will see that the group field theories investigated in the literature to date are, when judged from the position of quantum field theory, an unusual manifestation of quantum dynamics. They are one in which the Hadamard function for the field theory propagates a-causally the physical degrees of freedom of quantum gravity. This is fine if we wish to define a scalar product on the physical state space, but it is not what we generally think of as originating directly from a field theory. We propose a model in 3d more in line with standard quantum field theory, and therefore the field theory precipitates causal dynamics. Thereafter, we couple the model to point matter, and extract from the GFT the effective non-commutative field theory describing the matter dynamics on a quantum gravity background. We identify the symmetries of our new model and clarify their meaning in the GFT setting. We are aided in this process by identifying the category theory foundations of this GFT which, moreover, propel us towards a categorified version for the 4d case.",
+    "authors": [
+      "James Ryan"
+    ],
+    "published": "2006-11-14T20:28:42Z",
+    "updated": "2006-11-14T20:28:42Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0611080v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0611080v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1103.6264v1",
+    "title": "Spin foam models with finite groups",
+    "summary": "Spin foam models, loop quantum gravity and group field theory are discussed as quantum gravity candidate theories and usually involve a continuous Lie group. We advocate here to consider quantum gravity inspired models with finite groups, firstly as a test bed for the full theory and secondly as a class of new lattice theories possibly featuring an analogue diffeomorphism symmetry. To make these notes accessible to readers outside the quantum gravity community we provide an introduction to some essential concepts in the loop quantum gravity, spin foam and group field theory approach and point out the many connections to lattice field theory and condensed matter systems.",
+    "authors": [
+      "Benjamin Bahr",
+      "Bianca Dittrich",
+      "James P. Ryan"
+    ],
+    "published": "2011-03-31T18:42:12Z",
+    "updated": "2011-03-31T18:42:12Z",
+    "categories": [
+      "gr-qc",
+      "hep-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1103.6264v1",
+    "arxivUrl": "http://arxiv.org/abs/1103.6264v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-ph/0004125v1",
+    "title": "Topics in Finite Temperature Field Theory",
+    "summary": "We discuss a few selected topics in finite temperature field theory.",
+    "authors": [
+      "Ashok Das"
+    ],
+    "published": "2000-04-13T19:02:43Z",
+    "updated": "2000-04-13T19:02:43Z",
+    "categories": [
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-ph/0004125v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-ph/0004125v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1811.03186v1",
+    "title": "Quantum-classical correspondence via coherent state in integrable field   theory",
+    "summary": "We consider the problem of quantum-classical correspondence in integrable field theories. We propose a method to construct a field theoretical coherent state, in which the expectation value of the quantum field operator exactly coincides with the classical soliton. We also discuss the time evolution of this quantum state and the instability due to the nonlinearity.",
+    "authors": [
+      "Jun Sato",
+      "Tsukasa Yumibayashi"
+    ],
+    "published": "2018-11-06T04:06:34Z",
+    "updated": "2018-11-06T04:06:34Z",
+    "categories": [
+      "quant-ph",
+      "nlin.SI"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1811.03186v1",
+    "arxivUrl": "http://arxiv.org/abs/1811.03186v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2108.07694v3",
+    "title": "Quantization of multidimensional variational principles",
+    "summary": "We construct a mathematical version of quantum field theory. It assigns to a multidimensional variational principle an associative algebra which is a quantization of the Poisson algebra of classical field theory observables. For free scalar field and for the Dirichlet principle, this construction yields free algebraic quantum field theory and free field representation in two dimensional conformal field theory.",
+    "authors": [
+      "Alexander Roi Stoyanovsky"
+    ],
+    "published": "2021-08-01T15:23:07Z",
+    "updated": "2021-09-22T14:27:47Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2108.07694v3",
+    "arxivUrl": "http://arxiv.org/abs/2108.07694v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/q-alg/9603002v1",
+    "title": "Topological quantum field theory with corners based on the Kauffman   bracket",
+    "summary": "The paper contains the construction of a topological quantum field theory with corners that underlies the smooth topological quantum field theory of Lickorish. Among other things, a contraction formula for diagrams is proved, the presence of the skein relation at the level of manifolds with boundary is shown and an explanation for the surgery formula for invariants of closed manifolds is given.",
+    "authors": [
+      "Razvan Gelca"
+    ],
+    "published": "1996-03-06T01:47:42Z",
+    "updated": "1996-03-06T01:47:42Z",
+    "categories": [
+      "q-alg",
+      "math.QA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/q-alg/9603002v1",
+    "arxivUrl": "http://arxiv.org/abs/q-alg/9603002v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0612112v1",
+    "title": "Classical Theorems in Noncommutative Quantum Field Theory",
+    "summary": "Classical results of the axiomatic quantum field theory - Reeh and Schlieder's theorems, irreducibility of the set of field operators and generalized Haag's theorem are proven in SO(1,1) invariant quantum field theory, of which an important example is noncommutative quantum field theory. In SO(1,3) invariant theory new consequences of generalized Haag's theorem are obtained. It has been proven that the equality of four-point Wightman functions in two theories leads to the equality of elastic scattering amplitudes and thus the total cross-sections in these theories.",
+    "authors": [
+      "M. Chaichian",
+      "M. Mnatsakanova",
+      "A. Tureanu",
+      "Yu. Vernov"
+    ],
+    "published": "2006-12-12T18:11:32Z",
+    "updated": "2006-12-12T18:11:32Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0612112v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0612112v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2204.12644v2",
+    "title": "Quantum deformation of cubic string field theory",
+    "summary": "In this paper, we will analyze a quantum deformation of cubic string field theory. This will be done by first constructing a quantum deformation of string theory, in a covariant gauge, and then using the quantum deformed stringy theory to construct a quantum deformation of string field theory. This quantum deformed string field will then be used to contract a quantum deformed version of cubic string field theory. We will explicitly demonstrate that the axioms of cubic string field theory hold even after quantum deformation. Finally, we will analyze the effect of the quantum deformation of string field theory on the string vertices.",
+    "authors": [
+      "Arshid Shabir",
+      "Amaan A. Khan",
+      "James Q. Quach",
+      "Salman Sajad Wani",
+      "Mir Faizal",
+      "Seemin Rubab"
+    ],
+    "published": "2022-04-27T00:59:01Z",
+    "updated": "2024-07-10T08:23:45Z",
+    "categories": [
+      "hep-th",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2204.12644v2",
+    "arxivUrl": "http://arxiv.org/abs/2204.12644v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1802.08101v1",
+    "title": "Homotopical Quantum Field Theory",
+    "summary": "Algebraic quantum field theory and prefactorization algebra are two mathematical approaches to quantum field theory. In this monograph, using a new coend definition of the Boardman-Vogt construction of a colored operad, we define homotopy algebraic quantum field theories and homotopy prefactorization algebras and investigate their homotopy coherent structures. Homotopy coherent diagrams, homotopy inverses, A-infinity-algebras, E-infinity-algebras, and E-infinity-modules arise naturally in this context. In particular, each homotopy algebraic quantum field theory has the structure of a homotopy coherent diagram of A-infinity-algebras and satisfies a homotopy coherent version of the causality axiom. When the time-slice axiom is defined for algebraic quantum field theory, a homotopy coherent version of the time-slice axiom is satisfied by each homotopy algebraic quantum field theory. Over each topological space, every homotopy prefactorization algebra has the structure of a homotopy coherent diagram of E-infinity-modules over an E-infinity-algebra. To compare the two approaches, we construct a comparison morphism from the colored operad for (homotopy) prefactorization algebras to the colored operad for (homotopy) algebraic quantum field theories and study the induced adjunctions on algebras.",
+    "authors": [
+      "Donald Yau"
+    ],
+    "published": "2018-02-22T15:33:39Z",
+    "updated": "2018-02-22T15:33:39Z",
+    "categories": [
+      "math-ph",
+      "math.AT",
+      "math.CT",
+      "math.MP",
+      "18A25, 18A40, 18D10, 18D50, 18G55, 81T05"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1802.08101v1",
+    "arxivUrl": "http://arxiv.org/abs/1802.08101v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/9803024v3",
+    "title": "Strings, loops and others: a critical survey of the present approaches   to quantum gravity",
+    "summary": "I review the present theoretical attempts to understand the quantum properties of spacetime. In particular, I illustrate the main achievements and the main difficulties in: string theory, loop quantum gravity, discrete quantum gravity (Regge calculus, dynamical triangulations and simplicial models), Euclidean quantum gravity, perturbative quantum gravity, quantum field theory on curved spacetime, noncommutative geometry, null surfaces, topological quantum field theories and spin foam models. I also briefly review several recent advances in understanding black hole entropy and attempt a critical discussion of our present understanding of quantum spacetime.",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "published": "1998-03-05T16:14:36Z",
+    "updated": "1998-04-07T00:55:53Z",
+    "categories": [
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/9803024v3",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/9803024v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0011093v1",
+    "title": "Quantum Jacobi fields in Hamiltonian mechanics",
+    "summary": "Jacobi fields of classical solutions of a Hamiltonian mechanical system are quantized in the framework of vertical-extended Hamiltonian formalism. Quantum Jacobi fields characterize quantum transitions between classical solutions.",
+    "authors": [
+      "G. Giachetta",
+      "L. Mangiarotti",
+      "G. Sardanashvily"
+    ],
+    "published": "2000-11-22T16:01:05Z",
+    "updated": "2000-11-22T16:01:05Z",
+    "categories": [
+      "quant-ph",
+      "hep-th",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0011093v1",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0011093v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0608124v1",
+    "title": "Quantum Field Theory on Quantum Spacetime",
+    "summary": "Condensed account of the Lectures delivered at the Meeting on {\\it Noncommutative Geometry in Field and String Theory}, Corfu, September 18 - 20, 2005.",
+    "authors": [
+      "Sergio Doplicher"
+    ],
+    "published": "2006-08-17T16:22:43Z",
+    "updated": "2006-08-17T16:22:43Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "math.QA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0608124v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0608124v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0411121v1",
+    "title": "Excited Field of Particle in Quantum Theory",
+    "summary": "A model about excited field of a particle is discussed. We found this model will give wave-particle duality clearly and its Lagrangian is consistent with Quantum Theory. A new interpretation of quantum mechanics but not statistical interpretation[1] is presented.",
+    "authors": [
+      "Gang Zhao"
+    ],
+    "published": "2004-11-17T00:29:23Z",
+    "updated": "2004-11-17T00:29:23Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0411121v1",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0411121v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1704.08335v2",
+    "title": "Renormalization in Open Quantum Field theory I: Scalar field theory",
+    "summary": "While the notion of open quantum systems is itself old, most of the existing studies deal with quantum mechanical systems rather than quantum field theories. After a brief review of field theoretical/path integral tools currently available to deal with open quantum field theories, we go on to apply these tools to an open version of $\\phi^3$ + $\\phi^4$ theory in four spacetime dimensions and demonstrate its one loop renormalizability (including the renormalizability of the Lindblad structure).",
+    "authors": [
+      " Avinash",
+      "Chandan Jana",
+      "R. Loganayagam",
+      "Arnab Rudra"
+    ],
+    "published": "2017-04-26T20:05:28Z",
+    "updated": "2017-06-13T14:56:50Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1704.08335v2",
+    "arxivUrl": "http://arxiv.org/abs/1704.08335v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0502163v1",
+    "title": "An application of neutrix calculus to quantum field theory",
+    "summary": "Neutrices are additive groups of negligible functions that do not contain any constants except 0. Their calculus was developed by van der Corput and Hadamard in connection with asymptotic series and divergent integrals. We apply neutrix calculus to quantum field theory, obtaining finite renormalizations in the loop calculations. For renormalizable quantum field theories, we recover all the usual physically observable results. One possible advantage of the neutrix framework is that effective field theories can be accommodated. Quantum gravity theories appear to be more manageable.",
+    "authors": [
+      "Y. Jack Ng",
+      "H. van Dam"
+    ],
+    "published": "2005-02-17T22:33:03Z",
+    "updated": "2005-02-17T22:33:03Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0502163v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0502163v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0003287v2",
+    "title": "Field Redefinition Invariance in Quantum Field Theory",
+    "summary": "The issue of field redefinition invariance of path integrals in quantum field theory is reexamined. A ``paradox'' is presented involving the reduction to an effective quantum-mechanical theory of a $(d+1)$-dimensional free scalar field in a Minkowskian spacetime with compactified spatial coordinates. The implementation of field redefinitions both before and after the reduction suggests that operator-ordering issues in quantum field theory should not be ignored.",
+    "authors": [
+      "Karyn M. Apfeldorf",
+      "Horacio E. Camblong",
+      "Carlos R. Ordonez"
+    ],
+    "published": "2000-03-30T23:18:50Z",
+    "updated": "2000-09-11T07:05:31Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0003287v2",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0003287v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0306100v1",
+    "title": "Bohmian Quantum Gravity in the Linear Field Approximation",
+    "summary": "In this paper we have applied Bohmian quantum theory to the linear field approximation of gravity and present a self--consistent quantum gravity theory in the linear field approximation. The theory is then applied to some specific problems, the Newtonian limit, and the static spherically symmetric solution. Some observable effects of the theory are investigated.",
+    "authors": [
+      "Ali Shojai",
+      "Fatimah Shojai"
+    ],
+    "published": "2003-06-22T11:32:55Z",
+    "updated": "2003-06-22T11:32:55Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0306100v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0306100v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9409143v1",
+    "title": "The ideas of gravitational effective field theory",
+    "summary": "I give a very brief introduction to the use of effective field theory techniques in quantum calculations of general relativity. The gravitational interaction is naturally organized as a quantum effective field theory and a certain class of quantum corrections can be calculated.",
+    "authors": [
+      "John F. Donoghue"
+    ],
+    "published": "1994-09-23T15:45:06Z",
+    "updated": "1994-09-23T15:45:06Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9409143v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9409143v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0811.3600v1",
+    "title": "The Fisher's information and quantum-classical field theory: classical   statistics similarity",
+    "summary": "The classical statistics indication for the impossibility to derive quantum mechanics from classical mechanics is proved. The formalism of the statistical Fisher information is used. Next the Fisher information as a tool of the construction of a self-consistent field theory, which joins the quantum theory and classical field theory, is proposed.",
+    "authors": [
+      "Jacek Syska"
+    ],
+    "published": "2008-11-21T18:19:21Z",
+    "updated": "2008-11-21T18:19:21Z",
+    "categories": [
+      "physics.data-an",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0811.3600v1",
+    "arxivUrl": "http://arxiv.org/abs/0811.3600v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1103.3405v1",
+    "title": "Aspects of Quantum Field Theory on Quantum Spacetime",
+    "summary": "We provide a minimal, self-contained introduction to the covariant DFR flat quantum spacetime, and to some partial results for the corresponding quantum field theory. Explicit equations are given in the Dirac notation.",
+    "authors": [
+      "Gherardo Piacitelli"
+    ],
+    "published": "2011-03-17T13:30:02Z",
+    "updated": "2011-03-17T13:30:02Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1103.3405v1",
+    "arxivUrl": "http://arxiv.org/abs/1103.3405v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2108.10713v1",
+    "title": "Quantum Field Theory Deserves Extra Help",
+    "summary": "Today's quantum field theory (QFT) relies heavenly on canonical quantization (CQ), which fails for $\\varphi^4_4$ leading only to a \"free\" result. Affine quantization (AQ), an alternative quantization procedure, leads to a \"non-free\" result for the same model. Perhaps adding AQ to CQ can improve the quantization of a wide class of problems in QFT.",
+    "authors": [
+      "John R. Klauder"
+    ],
+    "published": "2021-08-21T17:11:19Z",
+    "updated": "2021-08-21T17:11:19Z",
+    "categories": [
+      "physics.gen-ph",
+      "hep-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2108.10713v1",
+    "arxivUrl": "http://arxiv.org/abs/2108.10713v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math-ph/0102035v2",
+    "title": "A spin-statistics theorem for quantum fields on curved spacetime   manifolds in a generally covariant framework",
+    "summary": "A model-independent, locally generally covariant formulation of quantum field theory over four-dimensional, globally hyperbolic spacetimes will be given which generalizes similar, previous approaches. Here, a generally covariant quantum field theory is an assignment of quantum fields to globally hyperbolic spacetimes with spin-structure where each quantum field propagates on the spacetime to which it is assigned. Imposing very natural conditions such as local general covariance, existence of a causal dynamical law, fixed spinor- or tensor-type for all quantum fields of the theory, and that the quantum field on Minkowski spacetime satisfies the usual conditions, it will be shown that a spin-statistics theorem hols: If for some spacetimes the corresponding quantum field obeys the \"wrong\" connection between spin and statistics, then all quantum fields of the theory, on each spacetime, are trivial.",
+    "authors": [
+      "Rainer Verch"
+    ],
+    "published": "2001-02-28T10:22:24Z",
+    "updated": "2001-06-01T09:31:47Z",
+    "categories": [
+      "math-ph",
+      "gr-qc",
+      "hep-th",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math-ph/0102035v2",
+    "arxivUrl": "http://arxiv.org/abs/math-ph/0102035v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/9911023v1",
+    "title": "Underlying Field Structure of Matter",
+    "summary": "Intrinsic unfication of quantum theory and general relativity based on the underlying quantum dynamics of fundamental field has been proposed.",
+    "authors": [
+      "Peter Leifer"
+    ],
+    "published": "1999-11-07T20:55:03Z",
+    "updated": "1999-11-07T20:55:03Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/9911023v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/9911023v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0806.1474v1",
+    "title": "Embedding quantum and random optics in a larger field theory",
+    "summary": "Introducing creation and annihilation operators for negative frequency components extends the algebra of smeared local observables of quantum optics to include an associated classical random field optics.",
+    "authors": [
+      "Peter Morgan"
+    ],
+    "published": "2008-06-09T14:44:28Z",
+    "updated": "2008-06-09T14:44:28Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0806.1474v1",
+    "arxivUrl": "http://arxiv.org/abs/0806.1474v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1911.01213v3",
+    "title": "Quantization due to the time evolution, with applications to Quantum   Yang-Mills theory, Quantum Gravity and Classical Statistical Field Theory",
+    "summary": "Quantum Yang-Mills theory, Classical Statistical Field Theory (for Hamiltonians which are non-polynomial in the fields, e.g. General relativistic statistical mechanics) and Quantum Gravity all suffer from severe mathematical inconsistencies and produce unreliable predictions at best.   We define with mathematical rigor, a class of statistical field theories in Minkowski space-time where the (classical) canonical coordinates when modified by a non-deterministic time evolution, verify the canonical commutation relations. We then extend these statistical field theories to include non-trivial gauge symmetries and show that these theories have all the features of a Quantum Yang-Mills theory in four-dimensional space-time. We generalize the Gaussian measure to allow for the definition of Hamiltonians which are non-polynomial in the fields, such as in Classical Statistical Field Theory and Quantum Gravity.   Finally, we test the consistency of our formalism with the quantization of the free Electromagnetic field.",
+    "authors": [
+      "Leonardo Pedro"
+    ],
+    "published": "2019-11-04T13:47:14Z",
+    "updated": "2020-12-20T05:18:43Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1911.01213v3",
+    "arxivUrl": "http://arxiv.org/abs/1911.01213v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9702096v1",
+    "title": "Ward - Takahashi identities and Noether's theorem in quantum field   theory",
+    "summary": "A gap in the mathematical logic in derivations in quantum field theory arises as consequence of variation before quantization. To close this gap the present paper introduces a mathematically rigorous variational calculus for operator fields. Using quantization before variation it is demonstrated that the so-called naive results are correct; in particular both Noether's theorem and the Ward-Takahashi identities retain full validity in quantum field theory.",
+    "authors": [
+      "Michael Danos"
+    ],
+    "published": "1997-02-12T01:44:31Z",
+    "updated": "1997-02-12T01:44:31Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9702096v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9702096v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0601122v1",
+    "title": "Quantum field theory with an interaction on the boundary",
+    "summary": "We consider quantum theory of fields \\phi defined on a D dimensional manifold (bulk) with an interaction V(\\phi) concentrated on a d<D dimensional surface (brane). Such a quantum field theory can be less singular than the one in d dimensions with the interaction $V(\\phi)$. It is shown that scaling properties of fields on the brane are different from the ones in the bulk.",
+    "authors": [
+      "Z. Haba"
+    ],
+    "published": "2006-01-18T12:58:00Z",
+    "updated": "2006-01-18T12:58:00Z",
+    "categories": [
+      "hep-th",
+      "cond-mat.stat-mech"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0601122v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0601122v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1306.6836v1",
+    "title": "An exact integration of a φ^4 quantum field theory",
+    "summary": "Most quantum field theories are not exactly solvable. In this paper show the statistical equivalence of the standard exponential path integral to products of Heaviside functions, i.e. a product of specially tuned uniform distributions. This allows exact integrations of certain quantum field theories. I apply the equivalence to calculate the exact, non-perturbative path integral for a 3+1-D scalar (real) phi-4 field theory.",
+    "authors": [
+      "Timothy D. Andersen"
+    ],
+    "published": "2013-06-27T17:32:31Z",
+    "updated": "2013-06-27T17:32:31Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1306.6836v1",
+    "arxivUrl": "http://arxiv.org/abs/1306.6836v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.06856v1",
+    "title": "An Unreasonably Quick Introduction to String Theory, Conformal Field   Theory and Geometry",
+    "summary": "A very quick introduction to the bosonic string, conformal field theory, the superstring and geometry. No background in quantum field theory is assumed and the omissions are vast. Based on four lectures at the 2024 Physical Mathematics of Quantum Field Theory Summer School.",
+    "authors": [
+      "Paul S. Aspinwall"
+    ],
+    "published": "2024-07-09T13:43:12Z",
+    "updated": "2024-07-09T13:43:12Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2407.06856v1",
+    "arxivUrl": "http://arxiv.org/abs/2407.06856v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2406.03190v1",
+    "title": "Matter coupled to 3d Quantum Gravity: One-loop Unitarity",
+    "summary": "We expect quantum field theories for matter to acquire intricate corrections due to their coupling to quantum fluctuations of the gravitational field. This can be precisely worked out in 3d quantum gravity: after integrating out quantum gravity, matter fields are effectively described as noncommutative quantum field theories, with quantum-deformed Lorentz symmetries. An open question remains: Are such theories unitary or not? On the one hand, since these are effective field theories obtained after integrating out high energy degrees of freedom, we may expect the loss of unitarity. On the other hand, as rigorously defined field theories built with Lorentz symmetries and standing on their own, we naturally expect the conservation of unitarity. In an effort to settle this issue, we explicitly check unitarity for a scalar field at one-loop level in both Euclidean and Lorentzian space-time signatures. We find that unitarity requires adding an extra-term to the propagator of the noncommutative theory, corresponding to a massless mode and given by a representation with vanishing Plancherel measure, thus usually ignored in spinfoam path integrals for quantum gravity. This indicates that the inclusion of matter in spinfoam models, and more generally in quantum gravity, might be more subtle than previously thought.",
+    "authors": [
+      "Etera R. Livine",
+      "Valentine Maris"
+    ],
+    "published": "2024-06-05T12:20:58Z",
+    "updated": "2024-06-05T12:20:58Z",
+    "categories": [
+      "hep-th",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2406.03190v1",
+    "arxivUrl": "http://arxiv.org/abs/2406.03190v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/9506070v2",
+    "title": "Quantum Gravity as Topological Quantum Field Theory",
+    "summary": "The physics of quantum gravity is discussed within the framework of topological quantum field theory. Some of the principles are illustrated with examples taken from theories in which space-time is three dimensional.",
+    "authors": [
+      "John W. Barrett"
+    ],
+    "published": "1995-06-28T15:43:52Z",
+    "updated": "1995-07-24T12:05:09Z",
+    "categories": [
+      "gr-qc",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/9506070v2",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/9506070v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9205064v1",
+    "title": "The Quantum Double in Integrable Quantum Field Theory",
+    "summary": "Various aspects of recent works on affine quantum group symmetry of integrable 2d quantum field theory are reviewed and further clarified. A geometrical meaning is given to the quantum double, and other properties of quantum groups. Multiplicative presentations of the Yangian double are analyzed.",
+    "authors": [
+      "D. Bernard",
+      "A. LeClair"
+    ],
+    "published": "1992-05-18T23:36:30Z",
+    "updated": "1992-05-18T23:36:30Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9205064v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9205064v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1503.00675v1",
+    "title": "The quantum field theory interpretation of quantum mechanics",
+    "summary": "It is shown that adopting the \\emph{Quantum Field} ---extended entity in space-time build by dynamic appearance propagation and annihilation of virtual particles--- as the primary ontology the astonishing features of quantum mechanics can be rendered intuitive. This interpretation of quantum mechanics follows from the formalism of the most successful theory in physics: quantum field theory.",
+    "authors": [
+      "Alberto C. de la Torre"
+    ],
+    "published": "2015-03-02T19:53:11Z",
+    "updated": "2015-03-02T19:53:11Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1503.00675v1",
+    "arxivUrl": "http://arxiv.org/abs/1503.00675v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0910.4779v3",
+    "title": "Inequivalence of QFT's on Noncommutative Spacetimes: Moyal versus   Wick-Voros",
+    "summary": "In this paper, we further develop the analysis started in an earlier paper on the inequivalence of certain quantum field theories on noncommutative spacetimes constructed using twisted fields. The issue is of physical importance. Thus it is well known that the commutation relations among spacetime coordinates, which define a noncommutative spacetime, do not constrain the deformation induced on the algebra of functions uniquely. Such deformations are all mathematically equivalent in a very precise sense. Here we show how this freedom at the level of deformations of the algebra of functions can fail on the quantum field theory side. In particular, quantum field theory on the Wick-Voros and Moyal planes are shown to be inequivalent in a few different ways. Thus quantum field theory calculations on these planes will lead to different physics even though the classical theories are equivalent. This result is reminiscent of chiral anomaly in gauge theories and has obvious physical consequences. The construction of quantum field theories on the Wick-Voros plane has new features not encountered for quantum field theories on the Moyal plane. In fact it seems impossible to construct a quantum field theory on the Wick-Voros plane which satisfies all the properties needed of field theories on noncommutative spaces. The Moyal twist seems to have unique features which make it a preferred choice for the construction of a quantum field theory on a noncommutative spacetime.",
+    "authors": [
+      "A. P. Balachandran",
+      "A. Ibort",
+      "G. Marmo",
+      "M. Martone"
+    ],
+    "published": "2009-10-25T22:58:10Z",
+    "updated": "2010-03-23T09:35:41Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "math-ph",
+      "math.MP",
+      "math.QA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0910.4779v3",
+    "arxivUrl": "http://arxiv.org/abs/0910.4779v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109058v1",
+    "title": "Quantum Symmetries in 2D Massive Field Theories",
+    "summary": "We review various aspects of (infinite) quantum group symmetries in 2D massive quantum field theories. We discuss how these symmetries can be used to exactly solve the integrable models. A possible way for generalizing to three dimensions is shortly described.",
+    "authors": [
+      "Denis Bernard"
+    ],
+    "published": "1991-09-30T17:08:34Z",
+    "updated": "1991-09-30T17:08:34Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9109058v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9109058v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9709212v1",
+    "title": "What is quantum field theory and why have some physicists abandoned it?",
+    "summary": "The present-day crisis in quantum field theory is described.",
+    "authors": [
+      "R. Jackiw"
+    ],
+    "published": "1997-09-29T20:50:54Z",
+    "updated": "1997-09-29T20:50:54Z",
+    "categories": [
+      "hep-th",
+      "hep-ph",
+      "physics.hist-ph",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/9709212v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/9709212v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/0308298v1",
+    "title": "A categorical construction of 2-dimensional extended Topological Quantum   Field Theory",
+    "summary": "In this paper we propose a naive construction of 2-dimensional extended topological quantum field theories (TQFTs), which can be further generalized to the higher-dimension extended TQFTs.",
+    "authors": [
+      "Vishvajit V. S. Gautam"
+    ],
+    "published": "2003-08-29T18:24:11Z",
+    "updated": "2003-08-29T18:24:11Z",
+    "categories": [
+      "math.QA",
+      "math.CT",
+      "18D10; 55R56; 81T45"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math/0308298v1",
+    "arxivUrl": "http://arxiv.org/abs/math/0308298v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/0610974v1",
+    "title": "Quantum Langlands duality and conformal field theory",
+    "summary": "V. Drinfeld proposed conjectures on geometric Langlands correspondence and its quantum deformation. We refine these conjectures and propose their relationship with algebraic conformal field theory.",
+    "authors": [
+      "A. V. Stoyanovsky"
+    ],
+    "published": "2006-10-31T16:23:25Z",
+    "updated": "2006-10-31T16:23:25Z",
+    "categories": [
+      "math.AG",
+      "hep-th",
+      "math-ph",
+      "math.MP",
+      "math.QA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math/0610974v1",
+    "arxivUrl": "http://arxiv.org/abs/math/0610974v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0806.2013v1",
+    "title": "Some Studies in Noncommutative Quantum Field Theories",
+    "summary": "The central theme of this thesis is to study some aspects of noncommutative quantum mechanics and noncommutative quantum field theory. We explore how noncommutative structures can emerge and study the consequences of such structures in various physical models.",
+    "authors": [
+      "Sunandan Gangopadhyay"
+    ],
+    "published": "2008-06-12T07:27:47Z",
+    "updated": "2008-06-12T07:27:47Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0806.2013v1",
+    "arxivUrl": "http://arxiv.org/abs/0806.2013v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0809.1794v1",
+    "title": "Comment on \"Dual path integral representation for finite temperature   quantum field theory\"",
+    "summary": "I show that the novel dual path integral representation for finite temperature quantum field theory proposed in [Phys. Rev. D 77, 105030 (2008), arXiv:0803.1667 ] is a well-known representation of quantum mechanics in terms of symbols of operators.",
+    "authors": [
+      "P. O. Kazinski"
+    ],
+    "published": "2008-09-10T13:40:32Z",
+    "updated": "2008-09-10T13:40:32Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0809.1794v1",
+    "arxivUrl": "http://arxiv.org/abs/0809.1794v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.03117v1",
+    "title": "Mathematical ideas and notions of quantum field theory",
+    "summary": "These are expanded notes of a course on basics of quantum field theory for mathematicians given by the author at MIT.",
+    "authors": [
+      "Pavel Etingof"
+    ],
+    "published": "2024-09-04T22:57:13Z",
+    "updated": "2024-09-04T22:57:13Z",
+    "categories": [
+      "math-ph",
+      "hep-th",
+      "math.MP",
+      "math.QA"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2409.03117v1",
+    "arxivUrl": "http://arxiv.org/abs/2409.03117v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2111.06728v2",
+    "title": "Fermionic quantum field theories as probabilistic cellular automata",
+    "summary": "A class of fermionic quantum field theories with interactions is shown to be equivalent to probabilistic cellular automata, namely cellular automata with a probability distribution for the initial states. Probabilistic cellular automata on a one-dimensional lattice are equivalent to two - dimensional quantum field theories for fermions. They can be viewed as generalized Ising models on a square lattice and therefore as classical statistical systems. As quantum field theories they are quantum systems. Thus quantum mechanics emerges from classical statistics. As an explicit example for an interacting fermionic quantum field theory we describe a type of discretized Thirring model as a cellular automaton. The updating rule of the automaton is encoded in the step evolution operator that can be expressed in terms of fermionic annihilation and creation operators. The complex structure of quantum mechanics is associated to particle -- hole transformations. The naive continuum limit exhibits Lorentz symmetry. We exploit the equivalence to quantum field theory in order to show how quantum concepts as wave functions, density matrix, non-commuting operators for observables and similarity transformations are convenient and useful concepts for the description of probabilistic cellular automata.",
+    "authors": [
+      "C. Wetterich"
+    ],
+    "published": "2021-11-12T14:01:23Z",
+    "updated": "2022-03-21T16:24:23Z",
+    "categories": [
+      "hep-lat",
+      "hep-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2111.06728v2",
+    "arxivUrl": "http://arxiv.org/abs/2111.06728v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1705.06376v2",
+    "title": "Decomposing Quantum Field Theories",
+    "summary": "Motivated by the question of exploring the \"theory space\" of quantum field theories, we review the concept of \"decomposing\" and \"gluing\" quantum field theories. We explain this in the context of three-dimensional $\\mathcal{N}=2$ supersymmetric domain walls inside four-dimensional $\\mathcal{N}=2$ theories, where the latter arise from the 6d $(2,0)$ theory compactified on Riemann surfaces. We find that $S^3$ partition functions of the three-dimensional theories can be interpreted as partition functions of a three-dimensional topological quantum field theory.",
+    "authors": [
+      "Masahito Yamazaki"
+    ],
+    "published": "2017-05-18T00:11:13Z",
+    "updated": "2017-05-24T12:45:37Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1705.06376v2",
+    "arxivUrl": "http://arxiv.org/abs/1705.06376v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/quant-ph/0401068v1",
+    "title": "The Dirac Field in Real Domain",
+    "summary": "The Dirac field is analysed in real domain. A connection with the classical field theory is shown and corresponding relation to the quantum physics.",
+    "authors": [
+      "Krunoslav Ljolje"
+    ],
+    "published": "2004-01-12T17:46:44Z",
+    "updated": "2004-01-12T17:46:44Z",
+    "categories": [
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/quant-ph/0401068v1",
+    "arxivUrl": "http://arxiv.org/abs/quant-ph/0401068v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/math-ph/0610035v1",
+    "title": "Functional Integration for Quantum Field Theory",
+    "summary": "The functional integration scheme for path integrals advanced by Cartier and DeWitt-Morette is extended to the case of fields. The extended scheme is then applied to quantum field theory. Several aspects of the construction are discussed.",
+    "authors": [
+      "J. LaChapelle"
+    ],
+    "published": "2006-10-16T19:02:57Z",
+    "updated": "2006-10-16T19:02:57Z",
+    "categories": [
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/math-ph/0610035v1",
+    "arxivUrl": "http://arxiv.org/abs/math-ph/0610035v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1611.05243v1",
+    "title": "Constructive Liouville Conformal Field Theory",
+    "summary": "These lectures give an introduction to a probabilistic approach to Liouville Quantum Field Theory developed in a joint work with F. David, R. Rhodes and V. Vargas.",
+    "authors": [
+      "Antti Kupiainen"
+    ],
+    "published": "2016-11-16T12:12:36Z",
+    "updated": "2016-11-16T12:12:36Z",
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "math.PR"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1611.05243v1",
+    "arxivUrl": "http://arxiv.org/abs/1611.05243v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1107.5233v2",
+    "title": "Quantum Simulation of Quantum Field Theories in Trapped Ions",
+    "summary": "We propose the quantum simulation of a fermion and an antifermion field modes interacting via a bosonic field mode, and present a possible implementation with two trapped ions. This quantum platform allows for the scalable add-up of bosonic and fermionic modes, and represents an avenue towards quantum simulations of quantum field theories in perturbative and nonperturbative regimes.",
+    "authors": [
+      "J. Casanova",
+      "L. Lamata",
+      "I. L. Egusquiza",
+      "R. Gerritsma",
+      "C. F. Roos",
+      "J. J. Garcia-Ripoll",
+      "E. Solano"
+    ],
+    "published": "2011-07-26T15:06:23Z",
+    "updated": "2011-11-24T18:40:44Z",
+    "categories": [
+      "quant-ph",
+      "cond-mat.mes-hall",
+      "cond-mat.quant-gas",
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1107.5233v2",
+    "arxivUrl": "http://arxiv.org/abs/1107.5233v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2309.06576v3",
+    "title": "Nonlocal Quantum Field Theory and Quantum Entanglement",
+    "summary": "We discuss the nonlocal nature of quantum mechanics and the link with relativistic quantum mechanics such as formulated by quantum field theory. We use here a nonlocal quantum field theory (NLQFT) which is finite, satisfies Poincar\\'e invariance, unitarity and microscopic causality. This nonlocal quantum field theory associates infinite derivative entire functions with propagators and vertices. We focus on proving causality and discussing its importance when constructing a relativistic field theory. We formulate scalar field theory using the functional integral in order to characterize quantum entanglement and the entanglement entropy of the theory. Using the replica trick, we compute the entanglement entropy for the theory in 3 + 1 dimensions on a cone. The result is free of UV divergences and we recover the area law.",
+    "authors": [
+      "Robin Landry",
+      "John Moffat"
+    ],
+    "published": "2023-07-21T20:42:07Z",
+    "updated": "2024-01-10T23:15:26Z",
+    "categories": [
+      "hep-th",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2309.06576v3",
+    "arxivUrl": "http://arxiv.org/abs/2309.06576v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/0011260v1",
+    "title": "Topological quantum field theories",
+    "summary": "Following my plenary lecture on ICMP2000 I review my results concerning two closely related topics: topological quantum field theories and the problem of quantization of gauge theories. I start with old results (first examples of topological quantum field theories were constructed in my papers in late seventies) and I come to some new results, that were not published yet.",
+    "authors": [
+      "Albert Schwarz"
+    ],
+    "published": "2000-11-29T00:29:54Z",
+    "updated": "2000-11-29T00:29:54Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/hep-th/0011260v1",
+    "arxivUrl": "http://arxiv.org/abs/hep-th/0011260v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1803.06080v1",
+    "title": "K-Theory of Hilbert Schemes as a Formal Quantum Field Theory",
+    "summary": "We define a notion of formal quantum field theory and associate a formal quantum field theory to K-theoretical intersection theories on Hilbert schemes of points on algebraic surfaces. This enables us to find an effective way to compute K-theoretical intersection theories on Hilbert schemes via a connection to Macdonald polynomials and vertex operators.",
+    "authors": [
+      "Jian Zhou"
+    ],
+    "published": "2018-03-16T05:53:56Z",
+    "updated": "2018-03-16T05:53:56Z",
+    "categories": [
+      "math.AG",
+      "math-ph",
+      "math.AT",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1803.06080v1",
+    "arxivUrl": "http://arxiv.org/abs/1803.06080v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/9702005v1",
+    "title": "Book Review of Quantum Field Theory by Lewis H. Ryder",
+    "summary": "Book Review of Quantum Field Theory by Lewis H. Ryder. An observation on Ryder's derivation of Dirac equation is made. The review ends as, \"A rare combination of a thorough understanding and appreciation of the essential logical structure of quantum field theory and deep pedagogic skills have intermingled to create a masterpiece on the elementary introduction to quantum field theory in less than five hundred pages... . Without reservations, I give my strongest recommendation to every beginning student of physics to acquire and read Quantum Field Theory by L. H. Ryder.\"",
+    "authors": [
+      "D. V. Ahluwalia"
+    ],
+    "published": "1997-02-04T16:04:41Z",
+    "updated": "1997-02-04T16:04:41Z",
+    "categories": [
+      "physics.pop-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/9702005v1",
+    "arxivUrl": "http://arxiv.org/abs/physics/9702005v1"
+  }
+]

@@ -1,0 +1,1713 @@
+[
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0104006v2",
+    "title": "Watching Gravitational Waves",
+    "summary": "In the vicinity of merging neutron strar binaries or supernova remnants, gravitational waves can interact with the prevailing strong magnetic fields. The resulting partial conversion of gravitational waves into electromagnetic (radio) waves might prove to be an indirect way of detecting gravitational waves from such sources.   Another interesting interaction considered in this article is the excitation of magnetosonic plasma waves by a gravitational wave passing through the surrounding plasma. The transfer of gravitational wave energy into the plasma might help to fuel the `fireball' of electromagnetic radiation observed in gamma ray bursts. In the last section of the article, a dispersion relation is derived for such magnetosonic plasma waves driven by a gravitational wave.",
+    "authors": [
+      "Joachim Moortgat"
+    ],
+    "published": "2001-04-02T14:23:21Z",
+    "updated": "2001-04-04T12:26:20Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0104006v2",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0104006v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.09588v1",
+    "title": "Sonification of gravitationally lensed gravitational waves /   Sonificació de l'efecte de lent gravitatòria en ones gravitacionals",
+    "summary": "Gravitational waves are oscillations of space-time that are created, for example, in black hole mergers. If these waves travel through another massive astrophysical object, they will undergo an effect called gravitational lensing, that will distort and deflect them. This effect can create multiple images of the gravitational wave signal, and interference between them. In this document, we describe the sonification process of the gravitational lensing effect on gravitational waves. Sonification is the translation of data into sound. The wave nature of sound creates interference between waves in a natural way. This has allowed us to reproduce the interference produced by the superposition of gravitational wave images, characteristic of the gravitational lensing effect.   The results can be heard on the following websites:   https://zoom3.net/sonificacions/ona-gravitacional.html - gravitational waves from the merger of two black holes   https://zoom3.net/sonificacions/ona-gravitacional-lent.html - gravitational waves affected by a gravitational lens, interactive website   https://zoom3.net/sonificacions/ona-gravitacional-lent-exemples.html - gravitational waves affected by a gravitational lens, recorded examples.",
+    "authors": [
+      "Helena Ubach",
+      "Jordi Espuny"
+    ],
+    "published": "2024-07-12T17:17:47Z",
+    "updated": "2024-07-12T17:17:47Z",
+    "categories": [
+      "astro-ph.IM",
+      "astro-ph.CO",
+      "gr-qc",
+      "physics.pop-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2407.09588v1",
+    "arxivUrl": "http://arxiv.org/abs/2407.09588v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1703.00187v2",
+    "title": "The Gravitational-Wave Physics",
+    "summary": "The direct detection of gravitational wave by Laser Interferometer Gravitational-Wave Observatory indicates the coming of the era of gravitational-wave astronomy and gravitational-wave cosmology. It is expected that more and more gravitational-wave events will be detected by currently existing and planned gravitational-wave detectors. The gravitational waves open a new window to explore the Universe and various mysteries will be disclosed through the gravitational-wave detection, combined with other cosmological probes. The gravitational-wave physics is not only related to gravitation theory, but also is closely tied to fundamental physics, cosmology and astrophysics. In this review article, three kinds of sources of gravitational waves and relevant physics will be discussed, namely gravitational waves produced during the inflation and preheating phases of the Universe, the gravitational waves produced during the first-order phase transition as the Universe cools down and the gravitational waves from the three phases: inspiral, merger and ringdown of a compact binary system, respectively. We will also discuss the gravitational waves as a standard siren to explore the evolution of the Universe.",
+    "authors": [
+      "Rong-Gen Cai",
+      "Zhoujian Cao",
+      "Zong-Kuan Guo",
+      "Shao-Jiang Wang",
+      "Tao Yang"
+    ],
+    "published": "2017-03-01T09:12:39Z",
+    "updated": "2017-05-27T08:57:13Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "hep-ph",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1703.00187v2",
+    "arxivUrl": "http://arxiv.org/abs/1703.00187v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2308.00233v1",
+    "title": "Probe the gravitational constant variation via the propagation of   gravitational waves",
+    "summary": "The gravitational constant variation means the breakdown of the strong equivalence principle. As the cornerstone of general relativity, the validity of general relativity can be examined by studying the gravitational constant variation. Such variations have the potential to affect both the generation and propagation of gravitational waves. In this paper, our focus lies on the effect of gravitational constant variation specifically on the propagation of gravitational waves. We employ two analytical methods, namely based on the Fierz-Pauli action and the perturbation of Einstein-Hilbert action around Minkowski spacetime, both leading to the the same gravitational wave equation. By solving this equation, we find the effects of gravitational constant variation on gravitational wave propagation. The result is consistent with previous investigations based on Maxwell-like equations for gravitational waves. Notably, we find that small variations in the gravitational constant result in an amplitude correction at the leading order and a phase correction at the sub-leading order for gravitational waves. These results provide valuable insights for probing gravitational constant variation and can be directly applied to gravitational wave data analysis.",
+    "authors": [
+      "Bing Sun",
+      "Jiachen An",
+      "Zhoujian Cao"
+    ],
+    "published": "2023-08-01T02:20:00Z",
+    "updated": "2023-08-01T02:20:00Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2308.00233v1",
+    "arxivUrl": "http://arxiv.org/abs/2308.00233v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1110.0051v1",
+    "title": "On the polarization of nonlinear gravitational waves",
+    "summary": "We derive a relation between the two polarization modes of a plane, linear gravitational wave in the second-order approximation. Since these two polarizations are not independent, an initially monochromatic gravitational wave loses its periodic character due to the nonlinearity of the Einstein field equations. Accordingly, real gravitational waves may differ from solutions of the linearized field equations, which are being assumed in gravitational-wave detectors.",
+    "authors": [
+      "Nikodem J. Poplawski"
+    ],
+    "published": "2011-09-30T23:56:17Z",
+    "updated": "2011-09-30T23:56:17Z",
+    "categories": [
+      "gr-qc",
+      "math-ph",
+      "math.MP"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1110.0051v1",
+    "arxivUrl": "http://arxiv.org/abs/1110.0051v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1811.01489v2",
+    "title": "Interference of Electromagnetic waves in the background of the   gravitational waves",
+    "summary": "Based on the relationship between proper distance and coordinate distance, the geometrical phenomenon caused by the passing gravitational waves can not be observed locally. The electromagnetic wave equations in the background gravitational waves are studied. We find that the expansion and contraction of wave lengths are always synchronous with the objects it measures. The background of the gravitational waves leads to dissipation and dispersion in the propagation of electromagnetic wave. The phase of the gravitational waves control the dissipation term and dispersion term in the telegrapher's equation. The linearly polarized laser beam propagating in the direction of the incoming gravitational waves can give a possible measurement on the local metric. In case of the pulsed beats passing by, the relaxation time is greater than the period of the gravitational waves, thus the detector may only show a signal of the modulation of the beats. Finally we proposed a non-local interference experiment to detect the high-frequency gravitational waves. It is similar to the measurement of redshift caused by gravitation. Together with the ordinary detector, it will give us further and mutually measurements of the gravitational waves.",
+    "authors": [
+      "Wenyu Wang",
+      "Yang Xu"
+    ],
+    "published": "2018-11-05T02:29:12Z",
+    "updated": "2018-11-11T02:42:12Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.IM",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1811.01489v2",
+    "arxivUrl": "http://arxiv.org/abs/1811.01489v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1712.06072v4",
+    "title": "Exploring the CPT violation and birefringence of gravitational waves   with ground- and space-based gravitational-wave interferometers",
+    "summary": "In the gravitational sector, we study the CPT violation and birefringence of gravitational waves. In presence of the CPT violation, a relative dephasing is generated between two circular polarization states of gravitational waves. This effect induces the birefringence of gravitational waves. We predict the gravitational waveform corrected by it and estimate the expected constraints on it from Advanced Laser Interferometer Gravitational-Wave Observatory, Einstein Telescope and Laser Interferometer Space Antenna.",
+    "authors": [
+      "Sai Wang"
+    ],
+    "published": "2017-12-17T08:42:26Z",
+    "updated": "2019-11-19T10:38:38Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1712.06072v4",
+    "arxivUrl": "http://arxiv.org/abs/1712.06072v4"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.12105v2",
+    "title": "The DAWES review: Gravitational-wave burst astrophysics",
+    "summary": "Over a hundred gravitational-wave signals have now been detected from the mergers of black holes and neutron stars, but other sources of gravitational waves have not yet been discovered. Some of the most violent explosive events in the Universe are predicted to emit bursts of gravitational waves, and may result in the next big multi-messenger discovery. Gravitational-wave burst signals often have an unknown waveform shape, and unknown gravitational-wave energy, due to unknown or very complicated progenitor astrophysics. Potential sources of gravitational-wave bursts include core-collapse supernovae, cosmic strings, fast radio bursts, eccentric binary systems, and gravitational-wave memory. In this review, we discuss the astrophysical properties of the main predicted sources of gravitational-wave bursts, and the known features of their gravitational-wave emission. We summarise their future detection prospects, and discuss the challenges of searching for gravitational-wave burst signals and interpreting the astrophysics of the source.",
+    "authors": [
+      "Jade Powell",
+      "Paul D. Lasky"
+    ],
+    "published": "2024-10-15T23:09:58Z",
+    "updated": "2025-01-23T00:54:42Z",
+    "categories": [
+      "astro-ph.HE",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2410.12105v2",
+    "arxivUrl": "http://arxiv.org/abs/2410.12105v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1310.2871v1",
+    "title": "Gravitational wave detector response in terms of spacetime Riemann   curvature",
+    "summary": "Gravitational wave detectors are typically described as responding to gravitational wave metric perturbations, which are gauge-dependent and --- correspondingly --- unphysical quantities. This is particularly true for ground-based interferometric detectors, like LIGO, space-based detectors, like LISA and its derivatives, spacecraft doppler tracking detectors, and pulsar timing arrays detectors. The description of gravitational waves, and a gravitational wave detector's response, to the unphysical metric perturbation has lead to a proliferation of false analogies and descriptions regarding how these detectors function, and true misunderstandings of the physical character of gravitational waves.   Here we provide a fully physical and gauge invariant description of the response of a wide class of gravitational wave detectors in terms of the Riemann curvature, the physical quantity that describes gravitational phenomena in general relativity. In the limit of high frequency gravitational waves, the Riemann curvature separates into two independent gauge invariant quantities: a \"background\" curvature contribution and a \"wave\" curvature contribution. In this limit the gravitational wave contribution to the detector response reduces to an integral of the gravitational wave contribution of the curvature along the unperturbed photon path between components of the detector. The description presented here provides an unambiguous physical description of what a gravitational wave detector measures and how it operates, a simple means of computing corrections to a detectors response owing to general detector motion, a straightforward way of connecting the results of numerical relativity simulations to gravitational wave detection, and a basis for a general and fully relativistic pulsar timing formula.",
+    "authors": [
+      "Michael J. Koop",
+      "Lee Samuel Finn"
+    ],
+    "published": "2013-10-10T16:19:14Z",
+    "updated": "2013-10-10T16:19:14Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1310.2871v1",
+    "arxivUrl": "http://arxiv.org/abs/1310.2871v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1305.4624v1",
+    "title": "Interaction of light with gravitational waves",
+    "summary": "The physical properties of electromagnetic waves in the presence of a gravitational plane wave are analyzed. Formulas for the Stokes parameters describing the polarization of light are obtained in closed form. The particular case of a constant amplitude gravitational wave is worked out explicitly.",
+    "authors": [
+      "Shahen Hacyan"
+    ],
+    "published": "2013-05-20T19:54:35Z",
+    "updated": "2013-05-20T19:54:35Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1305.4624v1",
+    "arxivUrl": "http://arxiv.org/abs/1305.4624v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2110.13319v2",
+    "title": "Did Goryachev et al. detect megahertz gravitational waves?",
+    "summary": "Goryachev et al. [1] recently announced the detection of \"two strongly significant events\" in their Bulk Acoustic Wave High Frequency Gravitational Wave Antenna. They claim many possibilities for the cause of these events, including high-frequency megahertz gravitational waves. We demonstrate these events are not due to gravitational waves for two reasons. 1) The inferred stochastic gravitational-wave background from these events implies the gravitational-wave energy density of the Universe is $\\Omega_{\\rm gw}\\approx 10^8$, approximately $10^8$ times the closure density of the Universe. 2) The low-frequency gravitational-wave memory signal that accompanies any high-frequency gravitational-wave source visible by the current generation of high-frequency detectors would have been visible by LIGO/Virgo as a transient burst with signal-to-noise ratio $\\gtrsim10^6$. The non-detection of such loud memory bursts throughout the operation of LIGO/Virgo rules out the gravitational-wave explanation for the high-frequency events detected by Goryachev et al. We discuss broader implications of this work for the ongoing experimental search for ultra high-frequency (MHz-GHz) gravitational waves.",
+    "authors": [
+      "Paul D. Lasky",
+      "Eric Thrane"
+    ],
+    "published": "2021-10-25T23:28:48Z",
+    "updated": "2021-11-15T01:00:53Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2110.13319v2",
+    "arxivUrl": "http://arxiv.org/abs/2110.13319v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0701008v1",
+    "title": "Detection of gravitational waves in Michelson interferometer by the use   of second order correlation functions",
+    "summary": "The possibility of measuring the second order correlation function of the gravitational waves detectors' currents or photonumbers, and the observation of the gravitational signals by using a spectrum analyzer is discussed. The method is based on complicated data processing and is expected to be efficient for coherent periodic gravitational waves. It is suggested as an alternative method to the conventional one which is used now in the gravitational waves observatories.",
+    "authors": [
+      "Y. Ben-Aryeh"
+    ],
+    "published": "2006-12-31T08:02:30Z",
+    "updated": "2006-12-31T08:02:30Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0701008v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0701008v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1911.08750v2",
+    "title": "Gravitational clock compass and the detection of gravitational waves",
+    "summary": "We present an alternative derivation of the gravitational clock compass and show how such a device can be used for the detection of gravitational waves. Explicit compass setups are constructed in special types of space--times, namely for exact plane gravitational waves and for waves moving radially relative to an observer.",
+    "authors": [
+      "Peter A. Hogan",
+      "Dirk Puetzfeld"
+    ],
+    "published": "2019-11-20T07:46:40Z",
+    "updated": "2020-02-14T14:31:38Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1911.08750v2",
+    "arxivUrl": "http://arxiv.org/abs/1911.08750v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2307.15382v1",
+    "title": "The effect of the gravitational constant variation on the propagation of   gravitational waves",
+    "summary": "Since the first detection of gravitational waves, they have been used to investigate various fundamental problems, including the variation of physical constants. Regarding the gravitational constant, previous works focused on the effect of the gravitational constant variation on the gravitational wave generation. In this paper, we investigate the effect of the gravitational constant variation on the gravitational wave propagation. The Maxwell-like equation that describes the propagation of gravitational waves is extended in this paper to account for situations where the gravitational constant varies. Based on this equation, we find that the amplitude of gravitational waves will be corrected. Consequently the estimated distance to the gravitational wave source without considering such a correction may be biased. Applying our correction result to the well known binary neutron star coalescence event GW170817, we get a constraint on the variation of the gravitational constant. Relating our result to the Yukawa deviation of gravity, we for the first time get the constraint of the Yukawa parameters in 10Mpc scale. This scale corresponds to a graviton mass $m_g\\sim10^{-31}$eV.",
+    "authors": [
+      "Jiachen An",
+      "Yadong Xue",
+      "Zhoujian Cao",
+      "Xiaokai He",
+      "Bing Sun"
+    ],
+    "published": "2023-07-28T08:07:47Z",
+    "updated": "2023-07-28T08:07:47Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2307.15382v1",
+    "arxivUrl": "http://arxiv.org/abs/2307.15382v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2204.08316v2",
+    "title": "Imprint of primordial gravitational wave with extremely low frequency on   gravitational lens system",
+    "summary": "Primordial gravitational waves with extremely low frequency are expected to origin from inflation in the early Universe. The detection of such kind of gravitational waves is of great significance to verify the inflationary theory and determine the energy scale of inflation. B-mode of polarization of cosmic microwave background shows to be a promising probe of extremely low frequency primordial gravitational wave. In order to find a complementary observational feature induced by primordial gravitational wave with extremely low frequency, we propose an alternative way of detection by investigating the effect of primordial gravitational wave with extremely low frequency on a gravitational lens system with a non-aligned source-deflector-observer configuration. The results show that, with a series of chosen parameters, gravitational lens system with perturbation from extremely low frequency primordial gravitational wave could induce time delay which could deviate from the time delay deduced from theoretical model as much as about one hundred percent, meaning that gravitational lens system with a non-aligned configuration could serve as a potential long-base-line detector of extremely low frequency primordial gravitational wave.",
+    "authors": [
+      "Wenshuai Liu"
+    ],
+    "published": "2022-04-18T13:40:12Z",
+    "updated": "2022-10-09T04:02:25Z",
+    "categories": [
+      "astro-ph.CO",
+      "astro-ph.HE",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2204.08316v2",
+    "arxivUrl": "http://arxiv.org/abs/2204.08316v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/0209056v3",
+    "title": "Gravitational Radiation from Oscillating Gravitational Dipole",
+    "summary": "The concept of Gravitational Dipole is introduced starting from the recent discovery of negative gravitational mass (gr-qc/0005107 and physics/0205089). A simple experiment, a gravitational wave transmitter, to test this new concept of gravitational radiation source is presented.",
+    "authors": [
+      "Fran De Aquino"
+    ],
+    "published": "2002-09-16T13:25:03Z",
+    "updated": "2002-10-05T19:29:11Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/0209056v3",
+    "arxivUrl": "http://arxiv.org/abs/physics/0209056v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2505.18639v1",
+    "title": "Detecting gravitational waves with light",
+    "summary": "The strong evidence for low-frequency gravitational waves from pulsar timing arrays (PTAs), published in 2023, has widened the scope for teaching about gravitational wave astronomy. This article provides a simple, unified overview of the detection of gravitational waves using light waves that encompasses the recent PTA detections, the by-now classic interferometric detections using LIGO and similar detectors, and the yet-to-be-accomplished detections using long-arm detectors like the spaceborne LISA. The presentation is at a level accessible for undergraduate students. The influence of gravitational waves on light is derived in a way that makes use only of basic gravitational wave properties and Einstein's equivalence principle.",
+    "authors": [
+      "Markus Pössel"
+    ],
+    "published": "2025-05-24T11:01:13Z",
+    "updated": "2025-05-24T11:01:13Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "physics.ed-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2505.18639v1",
+    "arxivUrl": "http://arxiv.org/abs/2505.18639v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2210.17422v1",
+    "title": "Gravitational wave memory produced by cosmic background radiation",
+    "summary": "It is well known that energy fluxes will produce gravitational wave memory. The gravitational wave memory produced by background including cosmic microwave background (CMB), cosmic neutrino background (C$\\nu$B), and gravitational wave background is investigated in this work. We construct a theory relating the gravitational wave memory strength to the energy flux of a stochastic background. We find that the resulted gravitational wave memory behaves as a constantly varying metric tensor. Such a varying metric tensor will introduce a quadrupole structure to the universe expansion. The gravitational wave memory due to the CMB is too small to be detected. But the gravitational wave memory due to the C$\\nu$B and the gravitational wave background is marginally detectable. Interestingly, such detection can be used to estimate the neutrino masses and the properties of the gravitational wave background.",
+    "authors": [
+      "Zhoujian Cao",
+      "Xiaokai He",
+      "Zhi-Chao Zhao"
+    ],
+    "published": "2022-10-31T15:48:35Z",
+    "updated": "2022-10-31T15:48:35Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2210.17422v1",
+    "arxivUrl": "http://arxiv.org/abs/2210.17422v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2312.17291v1",
+    "title": "Gravitational wave: generation and detection techniques",
+    "summary": "In this paper, we review the theoretical basis for generation of gravitational waves and the detection techniques used to detect a gravitational wave. To materialize this goal in a thorough way we first start with a mathematical background for general relativity from which a clue for gravitational wave was conceived by Einstein. Thereafter we give the classification scheme of gravitational waves such as (i) continuous gravitational waves, (ii) compact binary inspiral gravitational waves and (iii) stochastic gravitational wave. Necessary mathematical insight into gravitational waves from binaries are also dealt with which follows detection of gravitational waves based on the frequency classification. Ground based observatories as well as space borne gravitational wave detectors are discussed in a length. We have provided an overview on the inflationary gravitational waves. In connection to data analysis by matched filtering there are a few highlights on the techniques, e.g. (i) Random noise, (ii) power spectrum, (iii) shot noise, and (iv) Gaussian noise. Optimal detection statistics for a gravitational wave detection is also in the pipeline of the discussion along with detailed necessity of the matched filter and deep learning.",
+    "authors": [
+      "Saibal Ray",
+      "R. Bhattacharya",
+      "Sanjay K. Sahay",
+      "Abdul Aziz",
+      "Amit Das"
+    ],
+    "published": "2023-12-28T10:43:05Z",
+    "updated": "2023-12-28T10:43:05Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.HE",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2312.17291v1",
+    "arxivUrl": "http://arxiv.org/abs/2312.17291v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.18711v1",
+    "title": "Gravitational Wave-Sensitive Photonic-Like Electronic Transport in   Graphene for Efficient High-Frequency Gravitational Wave Detection",
+    "summary": "High-frequency gravitational waves are crucial for understanding the very early universe and distinguishing between various cosmological models, but detecting them remains a significant challenge. We investigated the effects of high-frequency gravitational waves on photonic-like electronic transport in graphene. The results show that, unlike the influence of gravitational waves on the propagation of light, the influence of gravitational waves on photonic-like electronic transport can accumulate not only in real space but also in $k$-space. This makes photonic-like electronic transport under gravitational waves similar to the propagation of light in a medium where the refractive index varies dramatically due to gravitational waves, and with shorter wavelengths. As a result, the relative intensity variation in photonic-like electronic transport under gravitational waves exceeds that of a laser interferometer with the same arm length by six orders of magnitude. At low temperatures, the influence of phonons on photon-like transport in the context of high-frequency gravitational waves can be ignored. These findings indicate a strong interaction between gravitational waves and electron transport, which helps to deepen the understanding of the interaction between gravitational waves and matter, and provides a different method for detecting high-frequency gravitational waves.",
+    "authors": [
+      "Shen Shen",
+      "Liangzhong Lin",
+      "Linfu Li",
+      "Jiang-Tao Liu",
+      "Xin Wu",
+      "Zhenhua Wu"
+    ],
+    "published": "2024-10-24T13:14:12Z",
+    "updated": "2024-10-24T13:14:12Z",
+    "categories": [
+      "physics.ins-det",
+      "astro-ph.IM",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2410.18711v1",
+    "arxivUrl": "http://arxiv.org/abs/2410.18711v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/9903079v1",
+    "title": "On the Detectability of Relic (Squeezed) Gravitational Waves",
+    "summary": "The expected amplitudes and spectral slopes of relic gravitational waves, plus their specific correlation properties associated with the phenomenon of squeezing, may allow the registration of relic (squeezed) gravitational waves by the first generation of sensitive gravity-wave detectors.",
+    "authors": [
+      "L. P. Grishchuk"
+    ],
+    "published": "1999-03-20T18:14:54Z",
+    "updated": "1999-03-20T18:14:54Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/9903079v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/9903079v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1206.3526v1",
+    "title": "Electromagnetic waves and Stokes parameters in the wake of a   gravitational wave",
+    "summary": "A theoretical description of electromagnetic waves in the background of a (weak) gravitational wave is presented. Explicit expressions are obtained for the Stokes parameters during the passage of a plane-fronted gravitational wave described by the Ehlers-Kundt metric. In particular, it is shown that the axis of the polarization ellipse oscillates, its ellipticity remaining constant.",
+    "authors": [
+      "Shahen Hacyan"
+    ],
+    "published": "2012-06-15T17:39:52Z",
+    "updated": "2012-06-15T17:39:52Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1206.3526v1",
+    "arxivUrl": "http://arxiv.org/abs/1206.3526v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1603.00871v2",
+    "title": "Electromagnetic waves, gravitational waves and the prophets who   predicted them",
+    "summary": "Using non-excessively-technical language and written in informal style, this article introduces the reader to the concepts of electromagnetic and gravitational waves and recounts the prediction of existence of these waves by Maxwell and Einstein, respectively. The issue of gravitational radiation is timely in view of the recent announcement of the detection of gravitational waves by the LIGO scientific team.",
+    "authors": [
+      "Costas J. Papachristou"
+    ],
+    "published": "2016-03-02T16:53:38Z",
+    "updated": "2021-06-30T12:14:29Z",
+    "categories": [
+      "physics.pop-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1603.00871v2",
+    "arxivUrl": "http://arxiv.org/abs/1603.00871v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/0802.3821v1",
+    "title": "The surfing effect in the interaction of electromagnetic and   gravitational waves. Limits on the speed of gravitational waves",
+    "summary": "In the current work we investigate the propagation of electromagnetic waves in the field of gravitational waves. Starting with simple case of an electromagnetic wave travelling in the field of a plane monochromatic gravitational wave we introduce the concept of surfing effect and analyze its physical consequences. We then generalize these results to an arbitrary gravitational wave field. We show that, due to the transverse nature of gravitational waves, the surfing effect leads to significant observable consequences only if the velocity of gravitational waves deviates from speed of light. This fact can help to place an upper limit on the deviation of gravitational wave velocity from speed of light. The micro-arcsecond resolution promised by the upcoming precision interferometry experiments allow to place stringent upper limits on $\\epsilon = (v_{gw}-c)/c$ as a function of the energy density parameter for gravitational waves $\\Omega_{gw}$. For $\\Omega_{gw} \\approx 10^{-10}$ this limit amounts to $\\epsilon\\lesssim 2\\cdot 10^{-2}$.",
+    "authors": [
+      "A. G. Polnarev",
+      "D. Baskaran"
+    ],
+    "published": "2008-02-26T14:50:09Z",
+    "updated": "2008-02-26T14:50:09Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0802.3821v1",
+    "arxivUrl": "http://arxiv.org/abs/0802.3821v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1911.07435v2",
+    "title": "Arrival Time Differences of Lensed Massive Gravitational Waves",
+    "summary": "It is of fundamental importance to know the mass of gravitons. A simple method for constraining the graviton mass is to compare the arrival time of light and that of gravitational waves provided that both waves are simultaneously emitted from the same source. To date, from observations of gravitational waves by the LIGO, the upper bound on the graviton mass $m_g$ is given by $m_g\\lesssim 5.0 \\times 10^{-23}$eV. However, when we compare the arrival time of light and gravitational waves, lensing effects could be important for some cases. Moreover, in many cases, the wavelength of gravitational waves is comparable with the gravitational radius of a lens object. Hence, we calculate arrival time differences between electromagnetic waves and massive gravitational waves by taking into account the effect of the gravitational wave optics. Here we take two lens models, a point mass lens and a singular isothermal sphere lens. We find that the lensing changes the arrival time difference of two waves by more than a second for the massive gravitational waves detectable by the LISA.",
+    "authors": [
+      "Takuya Morita",
+      "Jiro Soda"
+    ],
+    "published": "2019-11-18T05:29:21Z",
+    "updated": "2020-02-07T03:18:04Z",
+    "categories": [
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1911.07435v2",
+    "arxivUrl": "http://arxiv.org/abs/1911.07435v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2303.07703v3",
+    "title": "Test gravitational waves in sandwich wave background",
+    "summary": "The scattering of test fields by sandwich waves has been studied extensively. It has been found that for a variety of test fields, the energy of the scattered waves is amplified. In this paper, Scattering of test gravitational waves by sandwich waves are calculated by solving gravitational perturbations in the sandwich wave background. Dependence of their energy amplification with respect to the sandwich wave parameters and the incident wave parameters are examined. The results show that in some cases, the energy of the outgoing test gravitational wave is amplified as well.",
+    "authors": [
+      "Ziqian Tang"
+    ],
+    "published": "2023-03-14T08:41:18Z",
+    "updated": "2023-06-10T14:36:59Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2303.07703v3",
+    "arxivUrl": "http://arxiv.org/abs/2303.07703v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/0107043v1",
+    "title": "Fast Magnetosonic Waves Driven by Gravitational Waves",
+    "summary": "The propagation of a gravitational wave (GW) through a magnetized plasma is considered. In particular, we study the excitation of fast magnetosonic waves (MSW) by a gravitational wave, using the linearized general-relativistic hydromagnetic equations. We derive the dispersion relation for the plasma, treating the gravitational wave as a perturbation in a Minkowski background space-time. We show that the presence of gravitational waves will drive magnetosonic waves in the plasma and discuss the potential astrophysical implications.",
+    "authors": [
+      "D. Papadopoulos",
+      "N. Stergioulas",
+      "L. Vlahos",
+      "J. Kuijpers"
+    ],
+    "published": "2001-07-03T10:47:48Z",
+    "updated": "2001-07-03T10:47:48Z",
+    "categories": [
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/0107043v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/0107043v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2306.05394v1",
+    "title": "Series Solution for Interaction of Scalar Plane Wave with Spatially   Decaying Gravitational Wave",
+    "summary": "In this paper we present the power series solution of the Klein-Gordon equation in the spacetime background of a gravitational wave with amplitude that decays with distance from the source. The resulting solution describes the interaction of a scalar plane wave travelling in an arbitrary direction relative to the direction of propagation of the gravitational wave. This solution has the unexpected property that as the scalar wave approaches collinearity with the gravitational wave there is a rapid transition in the form of the solution. The solution in the collinear limit exhibits a resonance phenomenon which distinguishes these results from previous analyses involving plane gravitational wave backgrounds. We discuss in detail the similarities and differences between the solutions for plane gravitational waves and gravitational waves with amplitude that decreases with distance from the source. We give an argument that this solution of the Klein-Gordon equation only describes the interaction of a gravitational wave with a scalar wave and that the gravitational wave will not produce a scalar waveform in a vacuum. The interaction between the gravitational and scalar waves lead to both sinusoidal time-dependent fluctuations in, and time-independent enhancement of, the scalar current in the direction of the gravitational wave. Finally, we discuss the possibility of observable effects of this interaction.",
+    "authors": [
+      "Jesse Elder",
+      "Todd Fugleberg"
+    ],
+    "published": "2023-06-08T17:45:55Z",
+    "updated": "2023-06-08T17:45:55Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2306.05394v1",
+    "arxivUrl": "http://arxiv.org/abs/2306.05394v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2108.01788v1",
+    "title": "Interaction of Electromagnetic field with a Gravitational wave in   Minkowski and de-Sitter space-time",
+    "summary": "It is important to re-examine some of the interactions of gravitational waves with matter due to the recent discovery of the waves in LIGO. In a previous paper with Morales, interaction of gravitational waves was studied with scalar and neutrino fields in Minkowski space-time. In this paper, we find that electromagnetic waves have a similar interaction with gravitational wave in a flat background, and we comment on the implications of this for a gravitational wave detector. Primordial gravitational waves were generated in the early universe and thus it is important to study interaction of the gravitational waves in cosmological backgrounds. In this paper we discuss the interaction of electromagnetic waves and gravitational waves in a de-Sitter background. We find that the electromagnetic wave is perturbed and modulated. This result is new and will be useful in studying inhomogeneities in Cosmic Microwave Background.",
+    "authors": [
+      "Akash Patel",
+      "Arundhati Dasgupta"
+    ],
+    "published": "2021-08-03T23:45:26Z",
+    "updated": "2021-08-03T23:45:26Z",
+    "categories": [
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2108.01788v1",
+    "arxivUrl": "http://arxiv.org/abs/2108.01788v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/9707236v1",
+    "title": "Multiple imaging by gravitational waves",
+    "summary": "Gravitational waves act like lenses for the light propagating through them. This phenomenon is described using the vector formalism employed for ordinary gravitational lenses, which was proved to be applicable also to a non-stationary spacetime, with the appropriate modifications. In order to have multiple imaging, an approximate condition analogous to that for ordinary gravitational lenses must be satisfied. Certain astrophysical sources of gravitational waves satisfy this condition, while the gravitational wave background, on average, does not. Multiple imaging by gravitational waves is, in principle, possible, but the probability of observing such a phenomenon is extremely low.",
+    "authors": [
+      "Valerio Faraoni"
+    ],
+    "published": "1997-07-21T23:04:16Z",
+    "updated": "1997-07-21T23:04:16Z",
+    "categories": [
+      "astro-ph",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/9707236v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/9707236v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0709.0386v1",
+    "title": "The rotation of polarization by gravitational waves",
+    "summary": "There are conflicting statements in the literature about the gravitational Faraday rotation of the plane of polarization of polarized electromagnetic radiation travelling through a gravitational wave. This issue is reconsidered using a simple formalism describing the rotation of the plane of polarization in a gravitational field, in the geometric optics approximation. It is shown that, to first order in the gravitational wave amplitude, the rotation angle is a boundary effect which vanishes for localized (astrophysically generated) gravitational waves and is non-zero, but nevertheless negligible, for cosmological gravitational waves.",
+    "authors": [
+      "Valerio Faraoni"
+    ],
+    "published": "2007-09-04T10:26:42Z",
+    "updated": "2007-09-04T10:26:42Z",
+    "categories": [
+      "astro-ph",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0709.0386v1",
+    "arxivUrl": "http://arxiv.org/abs/0709.0386v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2006.06405v1",
+    "title": "Cylindrical gravitational waves: radiation and resonance",
+    "summary": "In the weak field approximation the gravitational wave is approximated as a linear wave, which ignores the nonlinear effect. In this paper, we present an exact general solution of the cylindrical gravitational wave. The exact solution of the cylindrical gravitational wave is far different from the weak field approximation. This solution implies the following conclusions. (1) There exist gravitational monopole radiations in the cylindrical gravitational radiation. (2) The gravitational radiation may generate the resonance in the spacetime. (3) The nonlinearity of the gravity source vanishes after time averaging, so the observed result of a long-time measurement may be linear.",
+    "authors": [
+      "Yu-Zhu Chen",
+      "Yu-Jie Chen",
+      "Shi-Lin Li",
+      "Wu-Sheng Dai"
+    ],
+    "published": "2020-06-04T13:29:17Z",
+    "updated": "2020-06-04T13:29:17Z",
+    "categories": [
+      "physics.gen-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2006.06405v1",
+    "arxivUrl": "http://arxiv.org/abs/2006.06405v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1111.5825v1",
+    "title": "The Gravitational Wave International Committee Roadmap: The future of   gravitational wave astronomy",
+    "summary": "Gravitational wave science is on the verge of direct observation of the waves predicted by Einstein's General Theory of Relativity and opening the exciting new field of gravitational wave astronomy. In the coming decades, ultra-sensitive arrays of ground-based instruments and complementary spaced-based instruments will observe the gravitational wave sky, inevitably discovering entirely unexpected phenomena while providing new insight into many of the most profound astrophysical phenomena known. in July 2007 the Gravitational Wave International Committee (GWIC) initiated the development of a strategic roadmap for the field of gravitational wave science with a 30-year horizon. The goal of this roadmap is to serve the international gravitational wave community and its stakeholders as a tool for the development of capabilities and facilities needed to address the exciting scientific opportunities on the intermediate and long-term horizons.",
+    "authors": [
+      "Jay Marx",
+      "Karsten Danzmann",
+      "James Hough",
+      "Kazuaki Kuroda",
+      "David McClelland",
+      "Benoit Mours",
+      "Sterl Phinney",
+      "Sheila Rowan",
+      "B. Sathyaprakash",
+      "Flavio Vetrano",
+      "Stefano Vitale",
+      "Stan Whitcomb",
+      "Clifford Will"
+    ],
+    "published": "2011-11-24T17:53:19Z",
+    "updated": "2011-11-24T17:53:19Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1111.5825v1",
+    "arxivUrl": "http://arxiv.org/abs/1111.5825v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1905.10614v1",
+    "title": "Gravitational waves and extra dimensions: a short review",
+    "summary": "We give a brief review on the recent development of gravitational waves in extra-dimensional theories of gravity. Studying extra-dimensional theories with gravitational waves provides a new way to constrain extra dimensions. After a flash look at the history of gravitational waves and a brief introduction to several major extra-dimensional theories, we focus on the sources and spectra of gravitational waves in extra-dimensional theories. It is shown that one can impose limits on the size of extra dimensions and the curvature of the universe by researching the propagations of gravitational waves and the corresponding electromagnetic waves. Since gravitational waves can propagate throughout the bulk, how the amplitude of gravitational waves decreases determines the number of extra dimensions for some models. In addition, we also briefly present some other characteristics of gravitational waves in extra-dimensional theories.",
+    "authors": [
+      "Hao Yu",
+      "Zi-Chao Lin",
+      "Yu-Xiao Liu"
+    ],
+    "published": "2019-05-25T15:17:44Z",
+    "updated": "2019-05-25T15:17:44Z",
+    "categories": [
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1905.10614v1",
+    "arxivUrl": "http://arxiv.org/abs/1905.10614v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/9909034v1",
+    "title": "Quantization of Gravitational Waves and Squeezing",
+    "summary": "The question whether gravitational waves are quantised or not can in principle be answered by the help of correlation measurements. If the gravitational waves are quantised and they are generated by the change of the background metrics then they can be in squeezed state.   In a sqeezed state there is a correlation between the phase of the wave and the quantum fluctuations. It is recommended to analyse the data to be obtained by the gravitational detectors from the point of view of such correlations. An explicit formula is derived for the squeezing parameter of the quantised gravitational waves. The head on collision of two identical black holes is analysed as a possible source of squeezed gravitational waves.",
+    "authors": [
+      "I. Lovas"
+    ],
+    "published": "1999-09-10T07:41:12Z",
+    "updated": "1999-09-10T07:41:12Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/9909034v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/9909034v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1208.4160v2",
+    "title": "Gravitational waves from smooth hybrid new infation",
+    "summary": "We calculate the production of the gravitational waves from a double inflation model with lattice simulations. Between the two inflationary stages, gravitational waves with a characteristic frequency are produced by fluctuations of the scalar fields enhanced through parametric resonance. The wavelength of the produced gravitational waves gets extra redshift during the second inflationary stage and it can be in the observable range for the direct gravitational wave detectors. It is found that there is a possibility for the produced gravitational waves to be detected in the planned experiments.",
+    "authors": [
+      "Masahiro Kawasaki",
+      "Ken'ichi Saikawa",
+      "Naoyuki Takeda"
+    ],
+    "published": "2012-08-21T02:01:29Z",
+    "updated": "2013-09-26T06:32:10Z",
+    "categories": [
+      "astro-ph.CO",
+      "gr-qc",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1208.4160v2",
+    "arxivUrl": "http://arxiv.org/abs/1208.4160v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1512.09139v1",
+    "title": "Probing circular polarization in stochastic gravitational wave   background with pulsar timing arrays",
+    "summary": "We study the detectability of circular polarization in a stochastic gravitational wave background from various sources such as supermassive black hole binaries, cosmic strings, and inflation in the early universe with pulsar timing arrays. We calculate generalized overlap reduction functions for the circularly polarized stochastic gravitational wave background. We find that the circular polarization can not be detected for an isotropic background. However, there is a chance to observe the circular polarization for an anisotropic gravitational wave background. We also show how to separate polarized gravitational waves from unpolarized gravitational waves.",
+    "authors": [
+      "Ryo Kato",
+      "Jiro Soda"
+    ],
+    "published": "2015-12-30T20:59:58Z",
+    "updated": "2015-12-30T20:59:58Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1512.09139v1",
+    "arxivUrl": "http://arxiv.org/abs/1512.09139v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1910.02083v2",
+    "title": "Gravitational Wave Signals from Multiple Hidden Sectors",
+    "summary": "We explore the possibility of detecting gravitational waves generated by first order phase transitions in multiple dark sectors. Nnaturalness is taken as a sample model that features multiple additional sectors, many of which undergo phase transitions that produce gravitational waves. We examine the cosmological history of this framework and determine the gravitational wave profiles generated. These profiles are checked against projections of next-generation gravitational wave experiments, demonstrating that multiple hidden sectors can indeed produce unique gravitational wave signatures that will be probed by these future experiments.",
+    "authors": [
+      "Paul Archer-Smith",
+      "Dylan Linthorne",
+      "Daniel Stolarski"
+    ],
+    "published": "2019-10-04T18:00:04Z",
+    "updated": "2020-05-21T20:09:06Z",
+    "categories": [
+      "hep-ph",
+      "astro-ph.CO"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1910.02083v2",
+    "arxivUrl": "http://arxiv.org/abs/1910.02083v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.02615v1",
+    "title": "Influence of gravitational waves on quantum multibody states",
+    "summary": "Based on the freely-falling Unruh-Dewitt model, we study the influence of gravitational waves on the quantum multibody states, i.e. the twin-Fock (TF) state and the mixture of Dicke states. The amount of entanglement of quantum many-body states decreases first and then increases with increasing frequency of gravitational waves. In particular, for some fixed frequencies of gravitational waves, entanglement will increase with the increasing amplitude of gravitational waves, which is different from the usual thought of gravity-induced decoherence and could provide a novel understanding for the quantum property of gravitational waves.",
+    "authors": [
+      "Jiatong Yan",
+      "Baocheng Zhang"
+    ],
+    "published": "2023-11-05T10:27:50Z",
+    "updated": "2023-11-05T10:27:50Z",
+    "categories": [
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2311.02615v1",
+    "arxivUrl": "http://arxiv.org/abs/2311.02615v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2411.16780v1",
+    "title": "Gravitational waves driven by Holographic dark energy",
+    "summary": "In this paper, we have studied the effects of holographic dark energy on the evolution of gravitational waves. The background evolution of gravitational waves in a flat FRW universe is considered and studied in the presence of various holographic dark energy models. The perturbation equations governing the evolution of the gravitational waves have been constructed and solutions are obtained. These solutions are studied in detail to get a proper understanding of the characteristics of the gravitational waves in the presence of holographic dark energy. The work can be a significant tool in studying different dark energy models comparatively using the features of the gravitational wave evolution.",
+    "authors": [
+      "Sayani Maity",
+      "Prabir Rudra"
+    ],
+    "published": "2024-11-25T07:57:23Z",
+    "updated": "2024-11-25T07:57:23Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2411.16780v1",
+    "arxivUrl": "http://arxiv.org/abs/2411.16780v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/0309694v1",
+    "title": "Wave effect in gravitational lensing by a cosmic string",
+    "summary": "The wave effect in the gravitational lensing phenomenon by a straight cosmic string is investigated. The interference pattern is expressed in terms of a simple formula. We demonstrate that modulations of the interfered wave amplitude can be a unique signature of the wave effect. We briefly mention a possible chance of detecting the wave effect in future gravitational wave observatories.",
+    "authors": [
+      "Kazuhiro Yamamoto",
+      "Keiji Tsunoda"
+    ],
+    "published": "2003-09-25T10:17:13Z",
+    "updated": "2003-09-25T10:17:13Z",
+    "categories": [
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/0309694v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/0309694v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2003.04104v1",
+    "title": "On the gravitational waves coupled with electromagnetic waves",
+    "summary": "A description is made of the process of excitation of coupled longitudinal-transverse gravitational waves during the propagation of a strong electromagnetic wave in a vacuum and when a standing electromagnetic wave exists in the Fabry-Perot resonator. It is shown that such waves lead to the appearance of transverse gravitational waves in empty space. It was established that two standing high-frequency electromagnetic waves in a Fabry-Perot resonator with close frequencies cause the appearance of a low-frequency transverse gravitational wave in empty space.",
+    "authors": [
+      "A. N. Morozov",
+      "V. I. Pustovoit",
+      "I. V. Fomin"
+    ],
+    "published": "2020-03-09T12:58:16Z",
+    "updated": "2020-03-09T12:58:16Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2003.04104v1",
+    "arxivUrl": "http://arxiv.org/abs/2003.04104v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0702118v1",
+    "title": "Is it possible to detect gravitational waves with atom interferometers?",
+    "summary": "We investigate the possibility to use atom interferometers to detect gravitational waves. We discuss the interaction of gravitational waves with an atom interferometer and analyze possible schemes.",
+    "authors": [
+      "G. M. Tino",
+      "F. Vetrano"
+    ],
+    "published": "2007-02-21T18:35:48Z",
+    "updated": "2007-02-21T18:35:48Z",
+    "categories": [
+      "gr-qc",
+      "physics.atom-ph",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0702118v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0702118v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1112.3092v1",
+    "title": "LCGT and the global network of gravitational wave detectors",
+    "summary": "Gravitational wave is a propagation of space-time distortion, which is predicted by Einstein in general relativity. Strong gravitational waves will come from some drastic astronomical objects, e.g. coalescence of neutron star binaries, black holes, supernovae, rotating pulsars and pulsar glitches. Detection of the gravitational waves from these objects will open a new door of \\textit{`gravitational wave astronomy'}. Gravitational wave will be a probe to study the physics and astrophysics. To search these gravitational waves, large-scale laser interferometers will compose a global network of detectors. Advanced LIGO and advanced Virgo are upgrading from currents detectors. One of LIGO detector is considering to move Australia Site. IndIGO or Einstein Telescope are future plans. LCGT (Large-scale Cryogenic Gravitational wave Telescope) is now constructing in Japan with distinctive characters: cryogenic cooling mirror and underground site. We will present a design and a construction status of LCGT, and brief status of current gravitational wave detectors in the world. Network of these gravitational wave detectors will start in late 2016 or 2017, and may discover the gravitational waves. For example, these detectors will reach its search range for coalescence of neutron star binary is over 200 Mpc, and several or more events per year will be expected. Since most of gravitational wave events are from high-energy phenomenon of the astronomical objects, these might have counterpart evidences in electromagnetic radiation (visible light, X/gamma ray), neutrino, high energy particles or others. Thus, the mutual follow-up observations will give us more information of these objects.",
+    "authors": [
+      "Nobuyuki Kanda",
+      "the LCGT collaboration"
+    ],
+    "published": "2011-12-14T01:34:05Z",
+    "updated": "2011-12-14T01:34:05Z",
+    "categories": [
+      "astro-ph.IM",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1112.3092v1",
+    "arxivUrl": "http://arxiv.org/abs/1112.3092v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1511.08909v1",
+    "title": "Gravitational waves carrying orbital angular momentum",
+    "summary": "Spinorial formalism is used to map every electromagnetic wave into the gravitational wave (within the linearized gravity). In this way we can obtain the gravitational counterparts of Bessel, Laguerre-Gauss, and other light beams carrying orbital angular momentum.",
+    "authors": [
+      "Iwo Bialynicki-Birula",
+      "Zofia Bialynicka-Birula"
+    ],
+    "published": "2015-11-28T16:30:08Z",
+    "updated": "2015-11-28T16:30:08Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1511.08909v1",
+    "arxivUrl": "http://arxiv.org/abs/1511.08909v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0809.1007v1",
+    "title": "Gravitational lensing by gravitational waves",
+    "summary": "Gravitational lensing by gravitational wave is considered. We notice that although final and initial direction of photons coincide, displacement between final and initial trajectories occurs. This displacement is calculated analytically for the plane gravitational wave pulse. Estimations for observations are discussed.",
+    "authors": [
+      "G. S. Bisnovatyi-Kogan",
+      "O. Yu. Tsupko"
+    ],
+    "published": "2008-09-05T11:20:14Z",
+    "updated": "2008-09-05T11:20:14Z",
+    "categories": [
+      "astro-ph",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0809.1007v1",
+    "arxivUrl": "http://arxiv.org/abs/0809.1007v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1908.08951v2",
+    "title": "Probing the theory of gravity with gravitational lensing of   gravitational waves and galaxy surveys",
+    "summary": "The cross-correlation of gravitational wave strain with upcoming galaxy surveys probe theories of gravity in a new way. This method enables testing the theory of gravity by combining the effects from both gravitational lensing of gravitational waves and the propagation of gravitational waves in spacetime. We find that within 10 years, the combination of the Advanced-LIGO and VIRGO detector networks with planned galaxy surveys should detect weak gravitational lensing of gravitational waves in the low redshift Universe ($z<0.5$). With the next generation gravitational wave experiments such as Voyager, LISA, Cosmic-Explorer and Einstein Telescope, we can extend this test of the theory of gravity to larger redshifts by exploiting the synergies between electromagnetic wave and gravitational wave probes.",
+    "authors": [
+      "Suvodip Mukherjee",
+      "Benjamin D. Wandelt",
+      "Joseph Silk"
+    ],
+    "published": "2019-08-23T18:00:03Z",
+    "updated": "2020-03-20T16:29:02Z",
+    "categories": [
+      "astro-ph.CO",
+      "astro-ph.GA",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1908.08951v2",
+    "arxivUrl": "http://arxiv.org/abs/1908.08951v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1612.06939v1",
+    "title": "Motion of photons in a background of gravitational wave",
+    "summary": "The photon motion in a Michelson interferometer is re-analyzed in both geometrical optics and wave optics. The classical paths of the photons in the background of gravitational wave are derived from Fermat principle, which is the same as the null geodesics in general relativity. The deformed Maxwell equations and the wave equations of electric fields in the background of gravitational wave are presented in flat-space approximation. Both methods show that the response of an interferometer depends on the frequency of a gravitational wave, however it is almost independent of the frequency of the mirror's vibrations. It implies that the vibrating mirror cannot mimic a gravitational wave very well.",
+    "authors": [
+      "Zhe Chang",
+      "Chao-Guang Huang",
+      "Zhi-Chao Zhao"
+    ],
+    "published": "2016-12-21T01:29:49Z",
+    "updated": "2016-12-21T01:29:49Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1612.06939v1",
+    "arxivUrl": "http://arxiv.org/abs/1612.06939v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2004.05081v1",
+    "title": "Bound gravitational waves in a dielectric medium and a constant magnetic   field",
+    "summary": "A description is made of the process of excitation of bound longitudinal-transverse gravitational waves during the propagation of electromagnetic waves in a dielectric medium. It is shown that the speed of such gravitational waves is less than the speed of light in a vacuum and coincides with the speed of an electromagnetic wave in matter. A description of the propagation of a bound gravitational waves in a dielectric in the presence of a constant magnetic field is suggested as well. It is claimed that these gravitational waves in a dielectric medium are forced ones and they cannot exist in a free state.",
+    "authors": [
+      "A. N. Morozov",
+      "V. I. Pustovoit",
+      "I. V. Fomin"
+    ],
+    "published": "2020-04-10T15:53:27Z",
+    "updated": "2020-04-10T15:53:27Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2004.05081v1",
+    "arxivUrl": "http://arxiv.org/abs/2004.05081v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2309.08407v2",
+    "title": "Gravitational waves from axion wave production",
+    "summary": "We consider a scenario with axions/axion-like particles Chern-Simons gravity coupling, such that gravitational waves can be produced directly from axion wave parametric resonance in the early universe after inflation. This axion gravity term is less constrained compared to the well-searched axion photon coupling and can provide a direct and efficient production channel for gravitational waves. Such stochastic gravitational waves can be detected by either space/ground-based gravitational wave detectors or pulsar timing arrays for a broad range of axion masses and decay constants.",
+    "authors": [
+      "Mingqiu Li",
+      "Sichun Sun",
+      "Qi-Shu Yan",
+      "Zhijie Zhao"
+    ],
+    "published": "2023-09-15T14:08:53Z",
+    "updated": "2024-04-07T08:12:40Z",
+    "categories": [
+      "hep-ph",
+      "astro-ph.CO",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2309.08407v2",
+    "arxivUrl": "http://arxiv.org/abs/2309.08407v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.00927v1",
+    "title": "Space gravitational wave detection: Progress and outlook",
+    "summary": "Space-based gravitational wave detection is based on the astrodynamical equations derived from gravitational theory to detect changes in distance between spacecraft/celestial bodies and/or their state changes caused by gravitational waves. The fundamental method involves using electromagnetic waves (including radio waves, microwaves, light waves, X-rays, gamma rays, etc.) for Doppler tracking and comparing to the stable frequency standards (sources) at both the transmitting and receiving ends. Examples include microwave Doppler tracking, optical clock gravitational wave detection, atom interferometry gravitational wave detection, and laser interferometry gravitational wave detection. If the frequency sources at both ends are not sufficiently stable, a generalized dual-path Michelson interferometer based on Doppler tracking combinations is needed. Currently, the main space-based gravitational wave detectors under construction or planning are laser interferometers, which cover medium frequency (0.1-10 Hz) and low-frequency (millihertz 0.1-100 mHz and microhertz 0.1-100 {\\mu}Hz) gravitational wave detection bands. This article reviews the current status and prospects of these gravitational wave detection methods.",
+    "authors": [
+      "Wei-Tou Ni"
+    ],
+    "published": "2024-09-02T03:47:50Z",
+    "updated": "2024-09-02T03:47:50Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.IM",
+      "physics.ins-det"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2409.00927v1",
+    "arxivUrl": "http://arxiv.org/abs/2409.00927v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/0512192v1",
+    "title": "Acceleration of low energy charged particles by gravitational waves",
+    "summary": "The acceleration of charged particles in the presence of a magnetic field and gravitational waves is under consideration. It is shown that the weak gravitational waves can cause the acceleration of low energy particles under appropriate conditions. Such conditions may be satisfied close to the source of the gravitational waves if the magnetized plasma is in a turbulent state.",
+    "authors": [
+      "G. Voyatzis",
+      "L. Vlahos",
+      "S. Ichtiaroglou",
+      "D. Papadopoulos"
+    ],
+    "published": "2005-12-07T15:51:45Z",
+    "updated": "2005-12-07T15:51:45Z",
+    "categories": [
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/0512192v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/0512192v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0812.3336v1",
+    "title": "The damping of gravitational waves in dust",
+    "summary": "We examine a simple model of interaction of gravitational waves with matter (primarily represented by dust). The aim is to investigate a possible damping effect on the intensity of gravitational wave when passing through media. This might be important for gravitational wave astronomy when the sources are obscured by dust or molecular clouds.",
+    "authors": [
+      "Otakar Svitek"
+    ],
+    "published": "2008-12-17T16:52:35Z",
+    "updated": "2008-12-17T16:52:35Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0812.3336v1",
+    "arxivUrl": "http://arxiv.org/abs/0812.3336v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1010.0848v1",
+    "title": "The use of squeezed states and balanced homodyne for detecting   gravitational waves",
+    "summary": "The possibility of using squeezed states and balanced homodyne detection of gravitational waves is discussed. It is shown that the quantum noise due to high laser intensities in Michelson interferometer for gravitational waves detection can be reduced by sending squeezed vacuum states to the 'dark' port of the interferometer. The present analysis describes photon statistics measurements effects related to quadrature balanced homodyne detection showing the advantage of using this scheme for detecting gravitational waves.",
+    "authors": [
+      "Y. Ben-Aryeh"
+    ],
+    "published": "2010-10-05T11:53:33Z",
+    "updated": "2010-10-05T11:53:33Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1010.0848v1",
+    "arxivUrl": "http://arxiv.org/abs/1010.0848v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1104.2968v1",
+    "title": "Gravitational wave astronomy - astronomy of the 21st century",
+    "summary": "An enigmatic prediction of Einstein's general theory of relativity is gravitational waves. With the observed decay in the orbit of the Hulse-Taylor binary pulsar agreeing within a fraction of a percent with the theoretically computed decay from Einstein's theory, the existence of gravitational waves was firmly established. Currently there is a worldwide effort to detect gravitational waves with interferometric gravitational wave observatories or detectors and several such detectors have been built or being built. The initial detectors have reached their design sensitivities and now the effort is on to construct advanced detectors which are expected to detect gravitational waves from astrophysical sources. The era of gravitational wave astronomy has arrived. This article describes the worldwide effort which includes the effort on the Indian front - the IndIGO project -, the principle underlying interferometric detectors both on ground and in space, the principal noise sources that plague such detectors, the astrophysical sources of gravitational waves that one expects to detect by these detectors and some glimpse of the data analysis methods involved in extracting the very weak gravitational wave signals from detector noise.",
+    "authors": [
+      "S. V. Dhurandhar"
+    ],
+    "published": "2011-04-15T06:51:21Z",
+    "updated": "2011-04-15T06:51:21Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1104.2968v1",
+    "arxivUrl": "http://arxiv.org/abs/1104.2968v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1207.6846v1",
+    "title": "Wave optics and image formation in gravitational lensing",
+    "summary": "We discuss image formation in gravitational lensing systems using wave optics. Applying the Fresnel-Kirchhoff diffraction formula to waves scattered by a gravitational potential of a lens object, we demonstrate how images of source objects are obtained directly from wave functions without using a lens equation for gravitational lensing.",
+    "authors": [
+      "Yasusada Nambu"
+    ],
+    "published": "2012-07-30T06:39:06Z",
+    "updated": "2012-07-30T06:39:06Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1207.6846v1",
+    "arxivUrl": "http://arxiv.org/abs/1207.6846v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2112.04650v1",
+    "title": "Detecting parity violation from axion inflation with third generation   detectors",
+    "summary": "A gravitational wave background is expected to emerge from the superposition of numerous gravitational wave sources of both astrophysical and cosmological origin. A number of cosmological models can have a parity violation, resulting in the generation of circularly polarised gravitational waves. We investigate the constraining power of third generation Einstein Telescope and Cosmic Explorer detectors, for a gravitational wave background generated by early universe axion inflation.",
+    "authors": [
+      "Charles Badger",
+      "Mairi Sakellariadou"
+    ],
+    "published": "2021-12-09T01:43:36Z",
+    "updated": "2021-12-09T01:43:36Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2112.04650v1",
+    "arxivUrl": "http://arxiv.org/abs/2112.04650v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1306.6752v1",
+    "title": "Interferometer responses to gravitational waves: Comparing FINESSE   simulations and analytical solutions",
+    "summary": "A comparison of analytic calculations and FINESSE simulations of interferometer responses to gravitational wave strain. The response to a gravitational wave is gradually built up from the effect of modulating a space by a gravitational wave to Sagnac and Michelson interferometers with and without arm cavities. This document details the steps necessary to perform such simulations in FINESSE and explicitly derives the interferometer response equations.",
+    "authors": [
+      "Charlotte Bond",
+      "Daniel Brown",
+      "Andreas Freise"
+    ],
+    "published": "2013-06-28T08:32:52Z",
+    "updated": "2013-06-28T08:32:52Z",
+    "categories": [
+      "physics.optics"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1306.6752v1",
+    "arxivUrl": "http://arxiv.org/abs/1306.6752v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2106.01641v3",
+    "title": "The Third Order Scalar Induced Gravitational Waves",
+    "summary": "Since the gravitational waves were detected by LIGO and Virgo, it has been promising that lots of information about the primordial Universe could be learned by further observations on stochastic gravitational waves background. The studies on gravitational waves induced by primordial curvature perturbations are of great interest. The aim of this paper is to investigate the third order induced gravitational waves. Based on the theory of cosmological perturbations, the first order scalar induces the second order scalar, vector and tensor perturbations. At the next iteration, the first order scalar, the second order scalar, vector and tensor perturbations all induce the third order tensor perturbations. We present the energy density spectrum of the third order gravitational waves for a monochromatic primordial power spectrum. The shape of the energy density spectrum of the third order gravitational waves is different from that of the second order scalar induced gravitational waves. And it is found that the third order gravitational waves sourced by the second order scalar perturbations dominate the energy density spectrum.",
+    "authors": [
+      "Jing-Zhi Zhou",
+      "Xukun Zhang",
+      "Qing-Hua Zhu",
+      "Zhe Chang"
+    ],
+    "published": "2021-06-03T07:22:37Z",
+    "updated": "2022-05-09T12:04:40Z",
+    "categories": [
+      "astro-ph.CO",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2106.01641v3",
+    "arxivUrl": "http://arxiv.org/abs/2106.01641v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2405.07235v2",
+    "title": "Does gravitational wave assist vacuum steering and Bell nonlocality?",
+    "summary": "We study quantum steering and Bell nonlocality harvested by the local interaction of two Unruh-DeWitt detectors with the vacuum massless scalar field, both in the presence of gravitational waves and in Minkowski spacetime. It is shown that quantum steerability under the influence of gravitational waves can be greater than or less than quantum steerability in Minkowski spacetime, which means that the gravitational waves can amplify or degrade the harvested steering. In particular, a resonance effect occurs when the energy gap of the detector is tuned to the frequency of the gravitational wave. We also find that the harvesting-achievable separation range of vacuum steering can be expanded or reduced by the presence of gravitational waves, which depends on the energy gap, the gravitational wave frequency, and the duration of the gravitational wave action. It is interesting to note that two detector systems that satisfy the Bell inequality in most parameter spaces, regardless of the existence of gravitational waves, indicating that steering harvesting cannot be considered to be nonlocal.",
+    "authors": [
+      "Shu-Min Wu",
+      "Rui-Di Wang",
+      "Xiao-Li Huang",
+      "Zejun Wang"
+    ],
+    "published": "2024-05-12T09:39:16Z",
+    "updated": "2024-07-18T15:44:54Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2405.07235v2",
+    "arxivUrl": "http://arxiv.org/abs/2405.07235v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2302.07532v1",
+    "title": "Lorentz transformation of three dimensional gravitational wave tensor",
+    "summary": "Recently there are more and more interest on the gravitational wave of moving sources. This introduces a Lorentz transformation problem of gravitational wave. Although Bondi-Metzner-Sachs (BMS) theory has in principle already included the Lorentz transformation of gravitational wave, the transformation of the three dimensional gravitational wave tensor has not been explicitly calculated before. Within four dimensional spacetime, gravitational wave have property of `boost weight zero' and `spin weight 2'. This fact makes the Lorentz transformation of gravitational wave difficult to understand. In the current paper we adopt the traditional three dimensional tensor description of gravitational wave. Such a transverse-traceless tensor describes the gravitational wave freedom directly. We derive the explicit Lorentz transformation of the gravitational wave tensor. The transformation is similar to the Lorentz transformation for electric field vector and magnetic field vector which are three dimensional vectors. Based on the deduced Lorentz transformation of the gravitational wave three dimensional tensor, we can construct the gravitational waveform of moving source with any speed if only the waveform of the corresponding rest waveform is given. As an example, we apply our method to the effect of kick velocity of binary black hole. The adjusted waveform by the kick velocity is presented.",
+    "authors": [
+      "Xiaokai He",
+      "Xiaolin Liu",
+      "Zhoujian Cao"
+    ],
+    "published": "2023-02-15T08:54:51Z",
+    "updated": "2023-02-15T08:54:51Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2302.07532v1",
+    "arxivUrl": "http://arxiv.org/abs/2302.07532v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/0309448v1",
+    "title": "Monopole gravitational waves from relativistic fireballs driving   gamma-ray bursts",
+    "summary": "Einstein's general relativity predicts that pressure, in general stresses, play a similar role to energy density in generating gravity. The source of gravitational field, the active gravitational mass density, sometimes referred to as Whittaker's mass density, is not conserved, hence its changes can propagate as monopole gravitational waves. Such waves can be generated only by astrophysical sources with varying gravitational mass. Here we show that relativistic fireballs, considered in modelling gamma-ray burst phenomena, are likely to radiate monopole gravitational waves from high-pressure plasma with varying Whittaker's mass. Also, ejection of a significant amount of initial mass-energy of the progenitor contributes to the monopole gravitational radiation. We identify monopole waves with h^11+h^22 waves of Eddington's classification which propagate (in the z-direction) together with the energy carried by massless fields. We show that the monopole waves satisfy Einstein's equations, with a common stress-energy tensor for massless fields. The polarization mode of monopole waves is Phi_22, i.e. these are perpendicular waves which induce changes of the radius of a circle of test particles only (breathing mode). The astrophysical importance of monopole gravitational waves is discussed.",
+    "authors": [
+      "M. Kutschera"
+    ],
+    "published": "2003-09-16T15:54:30Z",
+    "updated": "2003-09-16T15:54:30Z",
+    "categories": [
+      "astro-ph",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/0309448v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/0309448v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1003.0571v1",
+    "title": "On The Interaction of Gravitational Waves with Magnetic and Electric   Fields",
+    "summary": "The existence of large--scale magnetic fields in the universe has led to the observation that if gravitational waves propagating in a cosmological environment encounter even a small magnetic field then electromagnetic radiation is produced. To study this phenomenon in more detail we take it out of the cosmological context and at the same time simplify the gravitational radiation to impulsive waves. Specifically, to illustrate our findings, we describe the following three physical situations: (1) a cylindrical impulsive gravitational wave propagating into a universe with a magnetic field, (2) an axially symmetric impulsive gravitational wave propagating into a universe with an electric field and (3) a `spherical' impulsive gravitational wave propagating into a universe with a small magnetic field. In cases (1) and (3) electromagnetic radiation is produced behind the gravitational wave. In case (2) no electromagnetic radiation appears after the wave unless a current is established behind the wave breaking the Maxwell vacuum. In all three cases the presence of the magnetic or electric fields results in a modification of the amplitude of the incoming gravitational wave which is explicitly calculated using the Einstein--Maxwell vacuum field equations.",
+    "authors": [
+      "C. Barrabes",
+      "P. A. Hogan"
+    ],
+    "published": "2010-03-02T12:24:58Z",
+    "updated": "2010-03-02T12:24:58Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1003.0571v1",
+    "arxivUrl": "http://arxiv.org/abs/1003.0571v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0910.0345v1",
+    "title": "Energy Contents of Gravitational Waves in Teleparallel Gravity",
+    "summary": "The conserved quantities, that are, gravitational energy-momentum and its relevant quantities are investigated for cylindrical and spherical gravitational waves in the framework of teleparallel equivalent of General Relativity using the Hamiltonian approach. For both cylindrical and spherical gravitational waves, we obtain definite energy and constant momentum. The constant momentum shows consistency with the results available in General Relativity and teleparallel gravity. The angular momentum for cylindrical and spherical gravitational waves also turn out to be constant. Further, we evaluate their gravitational energy-momentum fluxes and gravitational pressure.",
+    "authors": [
+      "M. Sharif",
+      "Sumaira Taj"
+    ],
+    "published": "2009-10-02T08:23:22Z",
+    "updated": "2009-10-02T08:23:22Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0910.0345v1",
+    "arxivUrl": "http://arxiv.org/abs/0910.0345v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2408.12436v2",
+    "title": "Selective Amplification of a Gravitational Wave Signal Using an Atomic   Array",
+    "summary": "We present a novel principle for quantum sensing of gravitational waves by exploiting the collective emission rate of a one-dimensional array of initially uncorrelated atoms to selectively amplify a gravitational wave signal over flat spacetime contributions. In contrast to a single atom, we find that the collective emission rate of the array is sensitive to the gravitational wave at first order in its amplitude. We quantify the collective response of the array to an incident gravitational wave by introducing the notion of the effective number of atoms cooperating to sense the gravitational wave. We determine the optimal interatomic spacing such that the flat spacetime collective effects vanish, but the imprint of the gravitational wave in the emission rate of the array scales nearly quadratically with the number of atoms. The near-quadratic scaling counteracts the small amplitude of the gravitational wave. Furthermore, the coherent photon emission, which encodes the gravitational wave imprint, exhibits well-defined directionality and occurs at frequencies shifted by the wave's frequency. We analyze the setup's response to prototypical gravitational wave signals and show that, for coherent array sizes potentially realizable in the near-term, the two advancements - collective response at first order in the gravitational wave's amplitude, and near-quadratic scaling with the number of atoms - yield a photon emission rate large enough to be resolved by current technology in photon detectors.",
+    "authors": [
+      "Navdeep Arya",
+      "Magdalena Zych"
+    ],
+    "published": "2024-08-22T14:36:00Z",
+    "updated": "2024-09-19T14:50:17Z",
+    "categories": [
+      "quant-ph",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2408.12436v2",
+    "arxivUrl": "http://arxiv.org/abs/2408.12436v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/9708196v1",
+    "title": "Gravitational lensing on the Cosmic Microwave Background by gravity   waves",
+    "summary": "We study the effect of a stochastic background of gravitational waves on the gravitational lensing of the Cosmic Microwave Background (CMB) radiation. It has been shown that matter density inhomogeneities produce a smoothing of the acoustic peaks in the angular power spectrum of the CMB anisotropies. A gravitational wave background gives rise to an additional smoothing of the spectrum. For the most simple case of a gravitational wave background arising during a period of inflation, the effect results to be three to four orders of magnitude smaller than its scalar counterpart, and is thus undetectable. It could play a more relevant role in models where a larger background of gravitational waves is produced.",
+    "authors": [
+      "Silvia Mollerach"
+    ],
+    "published": "1997-08-21T08:58:28Z",
+    "updated": "1997-08-21T08:58:28Z",
+    "categories": [
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/9708196v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/9708196v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/physics/0509201v1",
+    "title": "Gravitational Waves: new observatories for new astronomy",
+    "summary": "This article reviews the current status of gravitational wave astronomy and explains why astronomers are excited about the new generation of gravitational wave detectors. As part of the review we compare and contrast gravitational radiation to the more familiar electromagnetic radiation. We discuss the current indirect experimental evidence for gravitational waves, and how current and future gravitational wave detectors will operate as our newest telescopes pointed at the skies.",
+    "authors": [
+      "Louis J. Rubbo",
+      "Shane L. Larson",
+      "Michelle B. Larson",
+      "Kristina D. Zaleski"
+    ],
+    "published": "2005-09-23T15:11:22Z",
+    "updated": "2005-09-23T15:11:22Z",
+    "categories": [
+      "physics.ed-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/physics/0509201v1",
+    "arxivUrl": "http://arxiv.org/abs/physics/0509201v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0908.0186v1",
+    "title": "A method to measure a relative transverse velocity of   source-lens-observer system using gravitational lensing of gravitational   waves",
+    "summary": "Gravitational waves propagate along null geodesics like light rays in the geometrical optics approximation, and they may have a chance to suffer from gravitational lensing by intervening objects, as is the case for electromagnetic waves. Long wavelength of gravitational waves and compactness of possible sources may enable us to extract information in the interference among the lensed images. We point out that the interference term contains information of relative transverse velocity of the source-lens-observer system, which may be obtained by possible future space-borne gravitational wave detectors such as BBO/DECIGO.",
+    "authors": [
+      "Yousuke Itoh",
+      "Toshifumi Futamase",
+      "Makoto Hattori"
+    ],
+    "published": "2009-08-03T04:31:48Z",
+    "updated": "2009-08-03T04:31:48Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0908.0186v1",
+    "arxivUrl": "http://arxiv.org/abs/0908.0186v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1005.4735v1",
+    "title": "Gravitational Waves, Sources, and Detectors",
+    "summary": "Notes of lectures for graduate students that were given at Lake Como in 1999, covering the theory of linearized gravitational waves, their sources, and the prospects at the time for detecting gravitational waves. The lectures remain of interest for pedagogical reasons, and in particular because they contain a treatment of current-quadrupole gravitational radiation (in connection with the r-modes of neutron stars) that is not readily available in other sources.",
+    "authors": [
+      "Bernard F Schutz",
+      "Franco Ricci"
+    ],
+    "published": "2010-05-26T05:37:57Z",
+    "updated": "2010-05-26T05:37:57Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1005.4735v1",
+    "arxivUrl": "http://arxiv.org/abs/1005.4735v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1111.1383v2",
+    "title": "Gravitational wave in Lorentz violating gravity",
+    "summary": "By making use of the weak gravitational field approximation, we obtain a linearized solution of the gravitational vacuum field equation in an anisotropic spacetime. The plane-wave solution and dispersion relation of gravitational wave is presented explicitly. There is possibility that the speed of gravitational wave is larger than the speed of light and the casuality still holds. We show that the energy-momentum of gravitational wave in the ansiotropic spacetime is still well defined and conserved.",
+    "authors": [
+      "Xin Li",
+      "Zhe Chang"
+    ],
+    "published": "2011-11-06T08:02:54Z",
+    "updated": "2012-04-01T09:53:40Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1111.1383v2",
+    "arxivUrl": "http://arxiv.org/abs/1111.1383v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1607.02773v1",
+    "title": "Gravitational Waves in Effective Quantum Gravity",
+    "summary": "In this short paper we investigate quantum gravitational effects on Einstein's equations using effective field theory techniques. We consider the leading order quantum gravitational correction to the wave equation. Besides the usual massless mode, we find a pair of modes with complex masses. These massive particles have a width and could thus lead to a damping of gravitational waves if excited in violent astrophysical processes producing gravitational waves such as e.g. black hole mergers. We discuss the consequences for gravitational wave events such as GW 150914 recently observed by the Advanced LIGO collaboration.",
+    "authors": [
+      "Xavier Calmet",
+      "Iberê Kuntz",
+      "Sonali Mohapatra"
+    ],
+    "published": "2016-07-10T19:01:17Z",
+    "updated": "2016-07-10T19:01:17Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1607.02773v1",
+    "arxivUrl": "http://arxiv.org/abs/1607.02773v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1608.04925v1",
+    "title": "Gravitational wave generation by interaction of high power lasers with   matter. Part II: Ablation and Piston models",
+    "summary": "We analyze theoretical models of gravitational waves generation in the interaction of high intensity laser with matter, namely ablation and piston models. We analyse the generated gravitational waves in linear approximation of gravitational theory. We derive the analytical formulas and estimates for the metric perturbations and the radiated power of generated gravitational waves. Furthermore we investigate the characteristics of polarization and the behaviour of test particles in the presence of gravitational wave which will be important for the detection.",
+    "authors": [
+      "Hedvika Kadlecová",
+      "Ondřej Klimo",
+      "Stefan Weber",
+      "Georg Korn"
+    ],
+    "published": "2016-08-17T11:15:15Z",
+    "updated": "2016-08-17T11:15:15Z",
+    "categories": [
+      "gr-qc",
+      "hep-th",
+      "physics.plasm-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1608.04925v1",
+    "arxivUrl": "http://arxiv.org/abs/1608.04925v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1706.00431v1",
+    "title": "Gravitational Wave -- Gauge Field Dynamics",
+    "summary": "The dynamics of a gravitational wave propagating through a cosmic gauge field are dramatically different than in vacuum. We show that a gravitational wave acquires an effective mass, is birefringent, and its normal modes are a linear combination of gravitational waves and gauge field excitations, leading to the phenomenon of gravitational wave -- gauge field oscillations. These surprising results provide insight into gravitational phenomena and may suggest new approaches to a theory of quantum gravity.",
+    "authors": [
+      "R. R. Caldwell",
+      "C. Devulder",
+      "N. A. Maksimova"
+    ],
+    "published": "2017-06-01T18:00:02Z",
+    "updated": "2017-06-01T18:00:02Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1706.00431v1",
+    "arxivUrl": "http://arxiv.org/abs/1706.00431v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1103.4897v1",
+    "title": "Gravitational-wave Detection With Matter-wave Interferometers Based On   Standing Light Waves",
+    "summary": "We study the possibility of detecting gravitational-waves with matter-wave interferometers, where atom beams are split, deflected and recombined totally by standing light waves. Our calculation shows that the phase shift is dominated by terms proportional to the time derivative of the gravitational wave amplitude. Taking into account future improvements on current technologies, it is promising to build a matter-wave interferometer detector with desired sensitivity.",
+    "authors": [
+      "Dongfeng Gao",
+      "Peng Ju",
+      "Baocheng Zhang",
+      "Mingsheng Zhan"
+    ],
+    "published": "2011-03-25T03:00:26Z",
+    "updated": "2011-03-25T03:00:26Z",
+    "categories": [
+      "gr-qc",
+      "physics.atom-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1103.4897v1",
+    "arxivUrl": "http://arxiv.org/abs/1103.4897v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0808.0389v1",
+    "title": "Gravitational Radiation from Neutron Stars and Black Holes",
+    "summary": "Gravitational Wave Astronomy is becoming a reality as Earth-based interferometric gravitational-wave detectors reach the design sensitivities and move towards advanced configurations that may lead to gravitational-wave detections in the immediate future. In this contribution, I briefly summarize the basic characteristics of this new area, the discovery prospects and the potential for fundamental physics. Then, I present results of some investigations of two different sources of gravitational waves that are potential targets for present and future planned observatories. First, I will discuss the generation of gravitational radiation by non-linear effects arising from the coupling between radial and non-radial oscillations of neutron stars, which may produce distinctive gravitational-wave signatures. The gravitational radiation emitted by these sources is in the frequency band of Earth-based detectors. And second, I will discuss the gravitational-wave emission during the inspiral of extreme-mass-ratio compact binaries. In this case, the gravitational waves have low frequencies, inside the frequency band of space observatories like LISA.",
+    "authors": [
+      "Carlos F. Sopuerta"
+    ],
+    "published": "2008-08-04T07:39:52Z",
+    "updated": "2008-08-04T07:39:52Z",
+    "categories": [
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0808.0389v1",
+    "arxivUrl": "http://arxiv.org/abs/0808.0389v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2111.02007v1",
+    "title": "Detection of extremely low frequency gravitational wave using   gravitational lens",
+    "summary": "The effect of gravitational wave of cosmological wavelength on the gravitational lensing is investigated. When the source, deflector, and observer are aligned in a highly symmetric configuration, an Einstein ring will be observed by the observer. There will be no time delays between different locations on the Einstein ring in the absence of gravitational wave. Otherwise, time delays between different locations on the Einstein ring will emerge if cosmological gravitational wave propagates through the system. Previous studies demonstrated that the time delay resulting from the aligned source-deflector-observer configuration in the presence of gravitational wave of cosmological wavelength could be equivalent to that of a similar lens with a nonaligned source-deflector-observer configuration in the absence of gravitational wave. Results in this work show that gravitational lens with the aligned source-deflector-observer configuration could serve as a potential gravitational wave detector when the whole Einstein ring observed by the observer is taken into account.",
+    "authors": [
+      "Wenshuai Liu"
+    ],
+    "published": "2021-11-03T03:57:31Z",
+    "updated": "2021-11-03T03:57:31Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2111.02007v1",
+    "arxivUrl": "http://arxiv.org/abs/2111.02007v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0405036v1",
+    "title": "Incorporating information from source simulations into searches for   gravitational-wave bursts",
+    "summary": "The detection of gravitational waves from astrophysical sources of gravitational waves is a realistic goal for the current generation of interferometric gravitational-wave detectors. Short duration bursts of gravitational waves from core-collapse supernovae or mergers of binary black holes may bring a wealth of astronomical and astrophysical information. The weakness of the waves and the rarity of the events urges the development of optimal methods to detect the waves. The waves from these sources are not generally known well enough to use matched filtering however; this drives the need to develop new ways to exploit source simulation information in both detections and information extraction. We present an algorithmic approach to using catalogs of gravitational-wave signals developed through numerical simulation, or otherwise, to enhance our ability to detect these waves. As more detailed simulations become available, it is straightforward to incorporate the new information into the search method. This approach may also be useful when trying to extract information from a gravitational-wave observation by allowing direct comparison between the observation and simulations.",
+    "authors": [
+      "Patrick R Brady",
+      "Saikat Ray-Majumder"
+    ],
+    "published": "2004-05-06T21:00:55Z",
+    "updated": "2004-05-06T21:00:55Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0405036v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0405036v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1905.00409v1",
+    "title": "Signals for Lorentz violation in gravitational waves",
+    "summary": "Lorentz violations in gravitational waves are investigated. Plane-wave solutions for arbitrary gauge-invariant violations in linearized gravity are constructed. Signatures of Lorentz violation include dispersion, birefringence, and anisotropies. Modifications to waves from coalescing compact binaries and to strain signals in gravitational-wave detectors are derived.",
+    "authors": [
+      "Matthew Mewes"
+    ],
+    "published": "2019-05-01T17:49:52Z",
+    "updated": "2019-05-01T17:49:52Z",
+    "categories": [
+      "gr-qc",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1905.00409v1",
+    "arxivUrl": "http://arxiv.org/abs/1905.00409v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/9307036v1",
+    "title": "Can the Gravitational Wave Background from Inflation be Detected   Locally?",
+    "summary": "The Cosmic Background Explorer (COBE) detection of microwave background anisotropies may contain a component due to gravitational waves generated by inflation. It is shown that the gravitational waves from inflation might be seen using `beam-in-space' detectors, but not the Laser Interferometer Gravity Wave Observatory (LIGO). The central conclusion, dependent only on weak assumptions regarding the physics of inflation, is a surprising one. The larger the component of the COBE signal due to gravitational waves, the {\\em smaller} the expected local gravitational wave signal.",
+    "authors": [
+      "Andrew R Liddle"
+    ],
+    "published": "1993-07-26T15:01:00Z",
+    "updated": "1993-07-26T15:01:00Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/9307036v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/9307036v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/0908.4006v1",
+    "title": "Current status of gravitational-wave observations",
+    "summary": "The first generation of gravitational wave interferometric detectors has taken data at, or close to, their design sensitivity. This data has been searched for a broad range of gravitational wave signatures. An overview of gravitational wave search methods and results are presented. Searches for gravitational waves from unmodelled burst sources, compact binary coalescences, continuous wave sources and stochastic backgrounds are discussed.",
+    "authors": [
+      "Stephen Fairhurst",
+      "Gianluca M Guidi",
+      "Patrice Hello",
+      "John T Whelan",
+      "Graham Woan"
+    ],
+    "published": "2009-08-27T13:07:31Z",
+    "updated": "2009-08-27T13:07:31Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/0908.4006v1",
+    "arxivUrl": "http://arxiv.org/abs/0908.4006v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1602.08904v4",
+    "title": "Gravitational wave generation by interaction of high power lasers with   matter using shock waves",
+    "summary": "Gravitational wave generation by a strong shock wave in the interaction of high power laser with matter is analyzed in linear approximation of gravitational theory. The analytical formulas and estimates are derived for the metric perturbations and the radiated power of the generated gravitational waves. Furthermore the characteristics of polarization and the behavior of test particles are investigated in the presence of gravitational wave which will be important for the detection.",
+    "authors": [
+      "Hedvika Kadlecová",
+      "Ondřej Klimo",
+      "Stefan Weber",
+      "Georg Korn"
+    ],
+    "published": "2016-02-29T10:55:44Z",
+    "updated": "2017-04-18T08:28:09Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1602.08904v4",
+    "arxivUrl": "http://arxiv.org/abs/1602.08904v4"
+  },
+  {
+    "id": "http://arxiv.org/abs/1705.00507v3",
+    "title": "Gravitational wave defocussing in quadratic gravity",
+    "summary": "We demonstrate that Huygens' principle for gravitational waves fails in quadratic gravity models that exhibit conformal symmetry at high energies. This results in the blurring of gravitational wave signals over finite timescales related to the energy scale of new physics $M_{\\star}$. Furthermore, on very small scales the gravitational wave Green's function reduces to that of the wave equation in two dimensions. In principle, $M_{\\star}$ could be constrained directly from gravitational wave observations.",
+    "authors": [
+      "Jack Gegenberg",
+      "Sanjeev S. Seahra"
+    ],
+    "published": "2017-05-01T13:21:40Z",
+    "updated": "2018-01-29T12:47:18Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1705.00507v3",
+    "arxivUrl": "http://arxiv.org/abs/1705.00507v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2210.09544v1",
+    "title": "Gravitational waves as waveguides",
+    "summary": "We show that gravitational waves can act as waveguides for electromagnetic radiation, that is if the latter is initially aligned with the gravitational waves, then the alignment will survive during the propagation. The analysis is performed using the Hamiltonian formalism and the Jacobi equation for null geodesics and conditions for certain cases of polarization of the waves are obtained. The effect of waveguiding by the gravitational waves can influence the interpretation of associated gravitational and electromagnetic wave events, since the latter cannot necessarily obey the inverse square decay law for intensity.",
+    "authors": [
+      "A. A. Kocharyan",
+      "M. Samsonyan",
+      "V. G. Gurzadyan"
+    ],
+    "published": "2022-10-18T02:44:10Z",
+    "updated": "2022-10-18T02:44:10Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.IM"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2210.09544v1",
+    "arxivUrl": "http://arxiv.org/abs/2210.09544v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2003.11748v2",
+    "title": "On arrival time difference between lensed gravitational waves and light",
+    "summary": "It is known that geometrical optics no longer applies to the gravitational lensing if the wavelength of a propagating wave becomes comparable to or larger than the Schwarzshild radius of a lensing object. We investigate the propagation of gravitational waves in wave optics, particularly focusing on the difference between their arrival time and the arrival time of light. We argue that, contrary to the observation in the previous work, gravitational waves never arrive at an observer earlier than light when both gravitational waves and light are emitted from a same source simultaneously.",
+    "authors": [
+      "Teruaki Suyama"
+    ],
+    "published": "2020-03-26T05:32:39Z",
+    "updated": "2020-07-22T10:16:01Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2003.11748v2",
+    "arxivUrl": "http://arxiv.org/abs/2003.11748v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2012.04243v2",
+    "title": "Observation of gravitational waves by light polarization",
+    "summary": "We provide analysis to determine the effects of gravitational waves on electromagnetic waves, using perturbation theory in general relativity. Our analysis is performed in a completely covariant manner without invoking any coordinates. For a given observer, in the geometrical-optics approximation, we work out the perturbations of the phase, amplitude, frequency and polarization properties--axes of ellipse and ellipticity of light, due to gravitational waves. With regard to the observation of gravitational waves, we discuss the measurement of Stokes parameters, through which the antenna patterns are presented to show the detectability of the gravitational wave signals.",
+    "authors": [
+      "Chan Park",
+      "Dong-Hoon Kim"
+    ],
+    "published": "2020-12-08T06:32:25Z",
+    "updated": "2021-01-31T03:20:20Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2012.04243v2",
+    "arxivUrl": "http://arxiv.org/abs/2012.04243v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2105.07629v1",
+    "title": "Implication of Pulsar Timing Array Experiments on Cosmological   Gravitational Wave Detection",
+    "summary": "Gravitational waves provide a new probe of the Universe which can reveal a number of cosmological and astrophysical phenomena that cannot be observed by electromagnetic waves. Different frequencies of gravitational waves are detected by different means. Among them, precision measurements of pulsar timing provides a natural detector for gravitational waves with light-year scale wavelengths. In this review, first a basic framework to detect a stochastic gravitational wave background using pulsar timing array is introduced, and then possible interpretations of the latest observational result of 12.5 year NANOGrav data are described.",
+    "authors": [
+      "Jun'ichi Yokoyama"
+    ],
+    "published": "2021-05-17T06:31:22Z",
+    "updated": "2021-05-17T06:31:22Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "astro-ph.HE",
+      "hep-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2105.07629v1",
+    "arxivUrl": "http://arxiv.org/abs/2105.07629v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2504.09815v1",
+    "title": "Harvesting entanglement from the cylindrical gravitational wave   spacetime",
+    "summary": "We investigate the entanglement harvesting protocol within the context of cylindrical gravitational waves given first by Einstein and Rosen, focusing on the interactions between non-relativistic quantum systems and linearized quantum gravity. We study how two spatially separated detectors can extract entanglement from the specific spacetime in the presence of gravitational waves, which provides a precise quantification of the entanglement that can be harvested using these detectors. In particular, we obtain the relation between harvested entanglement and the distance to wave sources that emits gravitational waves and analyze the detectability using quantum Fisher information. The enhanced detectability demonstrates the advantages of cylindrical symmetric gravitational waves.",
+    "authors": [
+      "Feifan He",
+      "Yongjie Pan",
+      "Baocheng Zhang"
+    ],
+    "published": "2025-04-14T02:32:14Z",
+    "updated": "2025-04-14T02:32:14Z",
+    "categories": [
+      "gr-qc",
+      "hep-th"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2504.09815v1",
+    "arxivUrl": "http://arxiv.org/abs/2504.09815v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1808.03716v3",
+    "title": "Gravitational-Wave Geodesy: A New Tool for Validating Detection of the   Stochastic Gravitational-Wave Background",
+    "summary": "A valuable target for advanced gravitational-wave detectors is the stochastic gravitational-wave background. The stochastic background imparts a weak correlated signal into networks of gravitational-wave detectors, and so standard searches for the gravitational-wave background rely on measuring cross-correlations between pairs of widely-separated detectors. Stochastic searches, however, can be affected by any other correlated effects which may also be present, including correlated frequency combs and magnetic Schumann resonances. As stochastic searches become sensitive to ever-weaker signals, it is increasingly important to develop methods to separate a true astrophysical signal from other spurious and/or terrestrial signals. Here, we describe a novel method to achieve this goal -- gravitational-wave geodesy. Just as radio geodesy allows for the localization of radio telescopes, so too can observations of the gravitational-wave background be used to infer the positions and orientations of gravitational-wave detectors. By demanding that a true observation of the gravitational-wave background yield constraints consistent with the baseline's known geometry, we demonstrate that we can successfully validate true observations of the gravitational-wave background while rejecting spurious signals due to correlated terrestrial effects.",
+    "authors": [
+      "Thomas Callister",
+      "Michael Coughlin",
+      "Jonah Kanner"
+    ],
+    "published": "2018-08-10T21:55:17Z",
+    "updated": "2018-10-18T18:31:35Z",
+    "categories": [
+      "astro-ph.HE",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1808.03716v3",
+    "arxivUrl": "http://arxiv.org/abs/1808.03716v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2302.02642v1",
+    "title": "Accurate calculation of gravitational wave memory",
+    "summary": "Gravitational wave memory is an important prediction of general relativity. The detection of the gravitational wave memory can be used to test general relativity and to deduce the property of the gravitational wave source. Quantitative model is important for such detection and signal interpretation. Previous works on gravitational wave memory always use the energy flux of gravitational wave to calculate memory. Such relation between gravitational wave energy and memory has only been validated for post-Newtonian approximation. The result of numerical relativity about gravitational wave memory is not confident yet. Accurately calculating memory is highly demanded. Here we propose a new method to calculate the gravitational wave memory. This method is based on Bondi-Metzner-Sachs theory. Consequently our method does not need slow motion and weak field conditions for gravitational wave source. Our new method can accurately calculate memory if the non-memory waveform is known. As an example, we combine our method with matured numerical relativity result about non-memory waveform for binary black hole coalescence. We calculate the waveform for memory which can be used to aid memory detection and gravitational wave source understanding. Our calculation result confirms preliminary numerical relativity result about memory. We find out the dependence of the memory amplitude to the mass ratio and the spins of the two spin aligned black holes.",
+    "authors": [
+      "Xiaolin Liu",
+      "Xiaokai He",
+      "Zhoujian Cao"
+    ],
+    "published": "2023-02-06T09:27:21Z",
+    "updated": "2023-02-06T09:27:21Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2302.02642v1",
+    "arxivUrl": "http://arxiv.org/abs/2302.02642v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2405.18868v2",
+    "title": "Quantum gravity signatures in gravitational wave detectors placed inside   a harmonic trap potential",
+    "summary": "In this work, we consider a general gravitational wave detector of gravitational wave interacting with an incoming gravitational wave carrying plus polarization only placed inside a harmonic trap. This model can be well acquainted with the description of a resonant detector of gravitational wave as well. The well known detector-gravitational wave interaction scenario uses the method of a semi classical approach where the detector is treated quantum mechanically but the gravitational wave is considered at a classical level. In our analysis, we use a discrete mode decomposition of the gravitational wave perturbation which results in a Hamiltonian involving the position and momentum operators corresponding to the gravitational wave and the harmonic oscillator. We have then calculated the transition probability for the harmonic oscillator-gravitational wave tensor product state for going from an initial state to some unknown final state. Using the energy flux relation of the gravitational waves, we observe that if we consider the total energy as a combination of the number of gravitons in the initial state of the detector then the transition probability for the resonant absorption case scenario takes the analytical form which is exactly similar to the semi-classical absorption case. In case of the emission scenario, we observe a spontaneous emission of a single graviton which was completely absent in the semi-classical analouge of this model. This therefore gives a direct signature of linearized quantum gravity.",
+    "authors": [
+      "Soham Sen",
+      "Sunandan Gangopadhyay",
+      "Sukanta Bhattacharyya"
+    ],
+    "published": "2024-05-29T08:29:40Z",
+    "updated": "2024-07-11T07:02:54Z",
+    "categories": [
+      "hep-th",
+      "gr-qc",
+      "quant-ph"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2405.18868v2",
+    "arxivUrl": "http://arxiv.org/abs/2405.18868v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1109.0330v1",
+    "title": "Noise Line Identification in LIGO S6 and Virgo VSR2",
+    "summary": "An important goal for LIGO (the Laser Interferometer Gravitational-Wave Observatory) and Virgo is to find periodic sources of gravitational waves. The LIGO and Virgo detectors are sensitive to a variety of noise of non-astrophysical origin, such as instrumental artifacts and environmental disturbances. These artifacts make it difficult to know when a signal is due to a gravitational wave or noise. A continuous wave search algorithm, Fscan, and the calculation of the coherence between the gravitational wave channels and auxiliary channels has been developed to identify the source of noise lines. The programs analyze data from the gravitational wave channels as well as environmental sensors, searching for significant lines that appear in coincidence (using various thresholds and frequency windows) in the gravitational wave channel as well the environmental monitors. By this method, the source of powerful signals at specific frequencies in the gravitational wave channel caused by noise can be determined. Examples from LIGO's sixth science run, S6, and Virgo' second scientific run, VSR2, are presented.",
+    "authors": [
+      " LIGO Scientific Collaboration",
+      " Virgo Collaboration",
+      "Michael W. Coughlin"
+    ],
+    "published": "2011-09-02T00:03:51Z",
+    "updated": "2011-09-02T00:03:51Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.IM"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1109.0330v1",
+    "arxivUrl": "http://arxiv.org/abs/1109.0330v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2305.07106v2",
+    "title": "Searches for continuous gravitational waves from neutron stars: A   twenty-year retrospective",
+    "summary": "Seven years after the first direct detection of gravitational waves, from the collision of two black holes, the field of gravitational wave astronomy is firmly established. A first detection of continuous gravitational waves from rapidly-spinning neutron stars could be the field's next big discovery. I review the last twenty years of efforts to detect continuous gravitational waves using the LIGO and Virgo gravitational wave detectors. I summarise the model of a continuous gravitational wave signal, the challenges to finding such signals in noisy data, and the data analysis algorithms that have been developed to address those challenges. I present a quantitative analysis of 297 continuous wave searches from 80 papers, published from 2003 to 2022, and compare their sensitivities and coverage of the signal model parameter space.",
+    "authors": [
+      "Karl Wette"
+    ],
+    "published": "2023-05-11T19:34:37Z",
+    "updated": "2023-07-18T01:01:53Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.IM"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2305.07106v2",
+    "arxivUrl": "http://arxiv.org/abs/2305.07106v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/1505.03157v2",
+    "title": "Geometrical vs wave optics under gravitational waves",
+    "summary": "We present some new derivations of the effect of a plane gravitational wave on a light ray. A simple interpretation of the results is that a gravitational wave causes a phase modulation of electromagnetic waves. We arrive at this picture from two contrasting directions, namely null geodesics and Maxwell's equations, or, geometric and wave optics. Under geometric optics, we express the geodesic equations in Hamiltonian form and solve perturbatively for the effect of gravitational waves. We find that the well-known time-delay formula for light generalizes trivially to massive particles. We also recover, by way of a Hamilton-Jacobi equation, the phase modulation obtained under wave optics. Turning then to wave optics - rather than solving Maxwell's equations directly for the fields, as in most previous approaches - we derive a perturbed wave equation (perturbed by the gravitational wave) for the electromagnetic four-potential. From this wave equation it follows that the four-potential and the electric and magnetic fields all experience the same phase modulation. Applying such a phase modulation to a superposition of plane waves corresponding to a Gaussian wave packet leads to time delays.",
+    "authors": [
+      "Raymond Angélil",
+      "Prasenjit Saha"
+    ],
+    "published": "2015-05-12T20:01:53Z",
+    "updated": "2015-05-20T14:28:01Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1505.03157v2",
+    "arxivUrl": "http://arxiv.org/abs/1505.03157v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2212.02221v6",
+    "title": "Gravitational Lens System as a Long Baseline Detector of Extremely Low   Frequency Primordial Gravitational Wave",
+    "summary": "The effect of extremely low frequency primordial gravitational wave with arbitrary direction of propagation on a non-aligned gravitational lens system is investigated. From the point of view of real astrophysical lens model, singular isothermal sphere lens model is adopted in the gravitational lens system. The results show that, under the perturbation from extremely low frequency primordial gravitational wave, time delay in the gravitational lens system could strongly deviate from that deduced from theoretical model. This means that the strongly deviate time delay could be the imprint of extremely low frequency primordial gravitational wave on gravitational lens system, indicating that gravitational lens system could be used as a long baseline detector to detect extremely low frequency primordial gravitational wave.",
+    "authors": [
+      "Wenshuai Liu"
+    ],
+    "published": "2022-12-05T12:55:23Z",
+    "updated": "2024-11-19T02:30:21Z",
+    "categories": [
+      "gr-qc",
+      "astro-ph.CO",
+      "astro-ph.HE"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/2212.02221v6",
+    "arxivUrl": "http://arxiv.org/abs/2212.02221v6"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0311070v1",
+    "title": "Gravitational Waves and the Sagnac Effect",
+    "summary": "We consider light waves propagating clockwise and other light waves propagating counterclockwise around a closed path in a plane (theoretically with the help of stationary mirrors). The time difference between the two light propagating path orientations constitutes the Sagnac effect. The general relativistic expression for the Sagnac effect is discussed. It is shown that a gravitational wave incident to the light beams at an arbitrary angle will not induce a Sagnac effect so long as the wave length of the weak gravitational wave is long on the length scale of the closed light beam paths. The gravitational wave induced Sagnac effect is thereby null.",
+    "authors": [
+      "S. Sivasubramanian",
+      "A. Widom",
+      "Y. N. Srivastava"
+    ],
+    "published": "2003-11-21T03:15:37Z",
+    "updated": "2003-11-21T03:15:37Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0311070v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0311070v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/1804.07290v2",
+    "title": "Screw-symmetric gravitational waves: a double copy of the vortex",
+    "summary": "Plane gravitational waves can admit a sixth `screw' isometry beyond the usual five. The same is true of plane electromagnetic waves. From the point of view of integrable systems, a sixth isometry would appear to over-constrain particle dynamics in such waves; we show here, though, that no effect of the sixth isometry is independent of those from the usual five. Many properties of particle dynamics in a screw-symmetric gravitational wave are also seen in a (non-plane-wave) electromagnetic vortex; we make this connection explicit, showing that the screw-symmetric gravitational wave is the classical double copy of the vortex.",
+    "authors": [
+      "A. Ilderton"
+    ],
+    "published": "2018-04-19T17:55:15Z",
+    "updated": "2018-05-06T15:46:39Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/1804.07290v2",
+    "arxivUrl": "http://arxiv.org/abs/1804.07290v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/0609075v1",
+    "title": "A comparison between matter wave and light wave interferometers for the   detection of gravitational waves",
+    "summary": "We calculate and compare the response of light wave interferometers and matter wave interferometers to gravitational waves. We find that metric matter wave interferometers will not challenge kilometric light wave interferometers such as Virgo or LIGO, but could be a good candidate for the detection of very low frequency gravitational waves.",
+    "authors": [
+      "Pacôme Delva",
+      "Marie-Christine Angonin",
+      "Philippe Tourrenc"
+    ],
+    "published": "2006-09-20T06:48:14Z",
+    "updated": "2006-09-20T06:48:14Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/0609075v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/0609075v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/9810137v1",
+    "title": "The gravitational waves are fictitious entities",
+    "summary": "The gravitational waves are non-physical sinuosities generated, in the last analysis, by undulating reference frames.",
+    "authors": [
+      "A. Loinger"
+    ],
+    "published": "1998-10-08T20:11:03Z",
+    "updated": "1998-10-08T20:11:03Z",
+    "categories": [
+      "astro-ph",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/9810137v1",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/9810137v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/astro-ph/0210481v3",
+    "title": "Listening to the Universe with Gravitational-Wave Astronomy",
+    "summary": "The LIGO (Laser Interferometer Gravitational-Wave Observatory) detectors have just completed their first science run, following many years of planning, research, and development. LIGO is a member of what will be a worldwide network of gravitational-wave observatories, with other members in Europe, Japan, and -- hopefully -- Australia. Plans are rapidly maturing for a low frequency, space-based gravitational-wave observatory: LISA, the Laser Interferometer Space Antenna, to be launched around 2011. The goal of these instruments is to inaugurate the field of {\\it gravitational-wave astronomy}: using gravitational-waves as a means of listening to highly relativistic dynamical processes in astrophysics. This review discusses the promise of this field, outlining why gravitational waves are worth pursuing, and what they are uniquely suited to teach us about astrophysical phenomena. We review the current state of the field, both theoretical and experimental, and then highlight some aspects of gravitational-wave science that are particularly exciting (at least to this author).",
+    "authors": [
+      "Scott A. Hughes"
+    ],
+    "published": "2002-10-22T18:28:28Z",
+    "updated": "2002-11-03T01:45:14Z",
+    "categories": [
+      "astro-ph",
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/astro-ph/0210481v3",
+    "arxivUrl": "http://arxiv.org/abs/astro-ph/0210481v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/gr-qc/9607075v1",
+    "title": "Gravitational Wave Detector Sites",
+    "summary": "Locations and orientations of current and proposed laser-interferometric gravitational wave detectors are given in tabular form.",
+    "authors": [
+      "Bruce Allen"
+    ],
+    "published": "1996-07-30T15:01:20Z",
+    "updated": "1996-07-30T15:01:20Z",
+    "categories": [
+      "gr-qc"
+    ],
+    "pdfUrl": "http://arxiv.org/pdf/gr-qc/9607075v1",
+    "arxivUrl": "http://arxiv.org/abs/gr-qc/9607075v1"
+  }
+]

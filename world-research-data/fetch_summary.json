@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-06-16T04:57:43.001Z",
+  "total_records": 2415,
+  "sources": [
+    {
+      "name": "cern",
+      "records": 0
+    },
+    {
+      "name": "inspire",
+      "records": 2400
+    },
+    {
+      "name": "educational",
+      "records": 15
+    }
+  ]
+}

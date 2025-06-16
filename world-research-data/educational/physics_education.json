@@ -1,0 +1,122 @@
+[
+  {
+    "title": "PhET: quantum tunneling",
+    "type": "Interactive Simulation",
+    "url": "https://phet.colorado.edu/sims/html/quantum-tunneling/latest/quantum-tunneling_en.html",
+    "description": "Interactive physics simulation: quantum-tunneling",
+    "source": "PhET/University of Colorado",
+    "category": "Educational"
+  },
+  {
+    "title": "PhET: wave interference",
+    "type": "Interactive Simulation",
+    "url": "https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html",
+    "description": "Interactive physics simulation: wave-interference",
+    "source": "PhET/University of Colorado",
+    "category": "Educational"
+  },
+  {
+    "title": "PhET: photoelectric effect",
+    "type": "Interactive Simulation",
+    "url": "https://phet.colorado.edu/sims/html/photoelectric-effect/latest/photoelectric-effect_en.html",
+    "description": "Interactive physics simulation: photoelectric-effect",
+    "source": "PhET/University of Colorado",
+    "category": "Educational"
+  },
+  {
+    "title": "PhET: rutherford scattering",
+    "type": "Interactive Simulation",
+    "url": "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_en.html",
+    "description": "Interactive physics simulation: rutherford-scattering",
+    "source": "PhET/University of Colorado",
+    "category": "Educational"
+  },
+  {
+    "title": "PhET: nuclear physics",
+    "type": "Interactive Simulation",
+    "url": "https://phet.colorado.edu/sims/html/nuclear-physics/latest/nuclear-physics_en.html",
+    "description": "Interactive physics simulation: nuclear-physics",
+    "source": "PhET/University of Colorado",
+    "category": "Educational"
+  },
+  {
+    "title": "PhET: lasers",
+    "type": "Interactive Simulation",
+    "url": "https://phet.colorado.edu/sims/html/lasers/latest/lasers_en.html",
+    "description": "Interactive physics simulation: lasers",
+    "source": "PhET/University of Colorado",
+    "category": "Educational"
+  },
+  {
+    "title": "PhET: blackbody spectrum",
+    "type": "Interactive Simulation",
+    "url": "https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html",
+    "description": "Interactive physics simulation: blackbody-spectrum",
+    "source": "PhET/University of Colorado",
+    "category": "Educational"
+  },
+  {
+    "title": "MIT 8.01sc: Classical Mechanics",
+    "type": "University Course",
+    "url": "https://ocw.mit.edu/courses/physics/8.01sc-physics-classical-mechanics/",
+    "description": "MIT OpenCourseWare: Classical Mechanics",
+    "source": "MIT OpenCourseWare",
+    "category": "Educational"
+  },
+  {
+    "title": "MIT 8.02: Electricity and Magnetism",
+    "type": "University Course",
+    "url": "https://ocw.mit.edu/courses/physics/8.02-physics-electricity-and-magnetism/",
+    "description": "MIT OpenCourseWare: Electricity and Magnetism",
+    "source": "MIT OpenCourseWare",
+    "category": "Educational"
+  },
+  {
+    "title": "MIT 8.03sc: Vibrations and Waves",
+    "type": "University Course",
+    "url": "https://ocw.mit.edu/courses/physics/8.03sc-physics-vibrations-and-waves/",
+    "description": "MIT OpenCourseWare: Vibrations and Waves",
+    "source": "MIT OpenCourseWare",
+    "category": "Educational"
+  },
+  {
+    "title": "MIT 8.04: Quantum Physics I",
+    "type": "University Course",
+    "url": "https://ocw.mit.edu/courses/physics/8.04-physics-quantum-physics-i/",
+    "description": "MIT OpenCourseWare: Quantum Physics I",
+    "source": "MIT OpenCourseWare",
+    "category": "Educational"
+  },
+  {
+    "title": "MIT 8.05: Quantum Physics II",
+    "type": "University Course",
+    "url": "https://ocw.mit.edu/courses/physics/8.05-physics-quantum-physics-ii/",
+    "description": "MIT OpenCourseWare: Quantum Physics II",
+    "source": "MIT OpenCourseWare",
+    "category": "Educational"
+  },
+  {
+    "title": "MIT 8.06: Quantum Physics III",
+    "type": "University Course",
+    "url": "https://ocw.mit.edu/courses/physics/8.06-physics-quantum-physics-iii/",
+    "description": "MIT OpenCourseWare: Quantum Physics III",
+    "source": "MIT OpenCourseWare",
+    "category": "Educational"
+  },
+  {
+    "title": "MIT 8.07: Electrodynamics",
+    "type": "University Course",
+    "url": "https://ocw.mit.edu/courses/physics/8.07-physics-electrodynamics/",
+    "description": "MIT OpenCourseWare: Electrodynamics",
+    "source": "MIT OpenCourseWare",
+    "category": "Educational"
+  },
+  {
+    "title": "MIT 8.08: Statistical Physics",
+    "type": "University Course",
+    "url": "https://ocw.mit.edu/courses/physics/8.08-physics-statistical-physics/",
+    "description": "MIT OpenCourseWare: Statistical Physics",
+    "source": "MIT OpenCourseWare",
+    "category": "Educational"
+  }
+]
